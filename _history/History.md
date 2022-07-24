@@ -43,3 +43,26 @@ glory of God.
 
 <img src="images/History/Picture%20of%20St%20Bakhita.jpg"  
      style="width:75%">
+		 
+**Universal Sister - St. Josephine Bakhita**
+
+Saint Josephine Bakhita (canonized in 2000) was born in
+Sudan in 1869. Bakhita, which in Arabic means “Lucky One”
+is the name given to her by her kidnappers. Sold and
+resold, she experienced the humiliation and suffering of
+slavery. According to the fashion of the time and place,
+she was tattooed with 114 elaborate designs incised with a
+razor, then kept open by being rubbed with salt.
+She was brought to Italy, ending this period of slavery,
+and joined the Canossian sisters. Throughout her life, St.
+Bakhita exhibited cheerfulness. She was known for her
+gentle voice and smile. When speaking of her enslavement,
+she often professed she would thank her kidnappers. For
+had she not been kidnapped, she might never have come
+to know Jesus Christ and enter His church.
+She thanked God for the good that had come from her
+suffering. “If I were to meet those who kidnapped me, and
+even those who tortured me,” she wrote, “I would kneel
+and kiss their hands. For if these things had not happened,
+I would not have been a Christian and a religious today.”
+Rather it was for the greater glory of God.
