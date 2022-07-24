@@ -12,7 +12,7 @@ The Canossian Education emulates the work and spirit of our foundress, St Magdal
 
 
 <img src="/images/History/Picture%20of%20St%20Magdalene.jpg"  
-     style="width:75%">
+     style="width:45%">
 
 
 **<center>OUR FOUNDRESS - ST MAGDALENE OF CANOSSA</center>**
@@ -42,7 +42,7 @@ glory of God.
 
 
 <img src="/images/History/Picture%20of%20St%20Bakhita.jpg"  
-     style="width:75%">
+     style="width:45%">
 		 
 **<center>UNIVERSAL SISTER- ST JOSEPHINE BAKHITA</center>**
 
@@ -67,8 +67,10 @@ and kiss their hands. For if these things had not happened,
 I would not have been a Christian and a religious today.”
 Rather it was for the greater glory of God.
 
-![](/images/History/Canossian%20Daughters%20of%20Charity.jpg)
 
+<img src="/images/History/Canossian%20Daughters%20of%20Charity.jpg"  
+     style="width:45%">
+		 
 <center>
 	
 [**CANOSSIAN DAUGHTERS OF CHARITY**](http://www.canossians-sg.org/)
