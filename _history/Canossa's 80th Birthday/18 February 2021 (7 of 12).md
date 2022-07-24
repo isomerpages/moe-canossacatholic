@@ -45,3 +45,5 @@ Having restored our 63-year-old bell in 2021, the tradition of ringing the bell 
 _Our Head Girl ringing the bell to quiet the school_
 
 </center>
+
+_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._
