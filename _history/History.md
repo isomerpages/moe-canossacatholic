@@ -41,7 +41,7 @@ glory of God.
 
 
 
-<img src="images/History/Picture%20of%20St%20Bakhita.jpg"  
+<img src="/images/History/Picture%20of%20St%20Bakhita.jpg"  
      style="width:75%">
 		 
 **<center>UNIVERSAL SISTER- ST JOSEPHINE BAKHITA</center>**
