@@ -11,5 +11,25 @@ Canossa Catholic Primary School (CCPS) is a co-educational Catholic school that 
 The Canossian Education emulates the work and spirit of our foundress, St Magdalene of Canossa, to serve the poor in spirit and needs. It is inclusive and embraces children of all faiths and races.
 
 ![](/images/History/Picture%20of%20St%20Magdalene.jpg)
+<img src="/images/History/Picture%20of%20St%20Magdalene.jpg"  
+     style="width:75%">
+
 
 **OUR FOUNDRESS - ST MAGDALENE OF CANOSSA**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="images/History/Picture%20of%20St%20Bakhita.jpg"  
+     style="width:75%">
