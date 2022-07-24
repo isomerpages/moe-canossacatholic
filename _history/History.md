@@ -71,11 +71,11 @@ Rather it was for the greater glory of God.
 <img src="/images/History/Canossian%20Daughters%20of%20Charity.jpg"  
      style="width:45%">
 		 
-<center>
+
 	
 [CANOSSIAN DAUGHTERS OF CHARITY](http://www.canossians-sg.org/)
 	
-</center>
+
 
 
 
