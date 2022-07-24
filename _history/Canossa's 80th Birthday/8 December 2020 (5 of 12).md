@@ -80,3 +80,21 @@ Saint Magdalene of Canossa!<br>
 Beacon of faith, hope and love to all humanity.
 	
 </center>
+
+
+**<font size=5>Photo Gallery</font>** 
+
+![](/images/History/8%20Dec%202020%201.jpg)
+
+<center>
+Foundress had a special love for Mary, <br>
+Mother of Sorrows, at the foot of the Cross 
+</center>
+
+![](/images/History/8%20Dec%202020%202.jpg)
+
+<center>Foundress serving the poor</center>
+
+![](/images/History/8%20Dec%202020%203.jpg)
+<center>
+Foundress showering her love to all</center>
