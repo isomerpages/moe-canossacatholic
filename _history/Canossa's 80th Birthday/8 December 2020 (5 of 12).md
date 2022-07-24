@@ -98,3 +98,5 @@ Mother of Sorrows, at the foot of the Cross
 ![](/images/History/8%20Dec%202020%203.jpg)
 <center>
 Foundress showering her love to all</center>
+
+_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._
