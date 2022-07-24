@@ -66,3 +66,11 @@ even those who tortured me,” she wrote, “I would kneel
 and kiss their hands. For if these things had not happened,
 I would not have been a Christian and a religious today.”
 Rather it was for the greater glory of God.
+
+![](/images/History/Canossian%20Daughters%20of%20Charity.jpg)
+
+<center>
+	
+[CANOSSIAN DAUGHTERS OF CHARITY](http://www.canossians-sg.org/)
+	
+</center>
