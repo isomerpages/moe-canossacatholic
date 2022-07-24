@@ -71,6 +71,6 @@ Rather it was for the greater glory of God.
 
 <center>
 	
-[CANOSSIAN DAUGHTERS OF CHARITY](http://www.canossians-sg.org/)
+[**CANOSSIAN DAUGHTERS OF CHARITY**](http://www.canossians-sg.org/)
 	
 </center>
