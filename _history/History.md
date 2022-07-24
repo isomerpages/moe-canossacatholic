@@ -44,7 +44,7 @@ glory of God.
 <img src="images/History/Picture%20of%20St%20Bakhita.jpg"  
      style="width:75%">
 		 
-**Universal Sister - St. Josephine Bakhita**
+**<center>Universal Sister - St. Josephine Bakhita</center>**
 
 Saint Josephine Bakhita (canonized in 2000) was born in
 Sudan in 1869. Bakhita, which in Arabic means “Lucky One”
