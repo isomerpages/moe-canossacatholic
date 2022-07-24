@@ -1,10 +1,29 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Our School
+    url: /our-school/history
+    sublinks:
+      - title: History
+        url: /our-school/history
+      - title: Mission | Vision | Values
+        url: /our-school/mission-vision-values
+      - title: Motto | Crest | Song
+        url: /motto-crest-song
+      - title: 10 Principles Of A Canossian
+        url: /our-school/10-principles-of-a-canossian
+      - title: Satellite Partnership
+        url: /our-school/satellite-partnership
+      - title: Canossian Village
+        url: /our-school/canossian-village
+      - title: Achievements | Awards
+        url: /our-school/achievements-awards
+      - title: Canossian Student Awards
+        url: /our-school/canossian-student-awards
+      - title: Financial Information
+        url: /our-school/financial-information
+      - title: School Rules
+        url: /our-school/school-rules
+      - title: Our Staff
+        url: /our-school/our-staff
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page
-  - title: History
-    collection: history
-  - title: Resources
-    resource_room: true
