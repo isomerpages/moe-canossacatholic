@@ -18,16 +18,26 @@ The Canossian Education emulates the work and spirit of our foundress, St Magdal
 **OUR FOUNDRESS - ST MAGDALENE OF CANOSSA**
 
 
-
-
-
-
-
-
-
-
-
-
+Saint Magdalene of Canossa (canonized in 1988) was born
+in Italy in 1774 at a time when education was the
+prerogative of the nobility and the middle class. There
+was no schooling for the masses and working class except
+for the initiatives of some religious congregations. But
+these congregations continued to follow aristocratic
+traditions. Magdalene insisted that her schools would be
+“charity schools” where service would be given free to
+the poorest of the poor, the most wretched and
+abandoned. She targeted girls and women as
+beneficiaries of her charity schools for the simple reason
+that an educated wife and mother, faithful to God, was
+the best way to build a wholesome family. Such families
+would lead to a morally strong society and this in turn
+would lead to God-loving nations. For Magdalene, the goal
+of education was to lead people to the awareness and
+experience of God’s love for them. This was for her, the
+greatest act of charity. The charity schools were not
+about philanthropy; rather they were for the greater
+glory of God.
 
 
 
