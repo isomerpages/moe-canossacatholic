@@ -15,7 +15,7 @@ The Canossian Education emulates the work and spirit of our foundress, St Magdal
      style="width:75%">
 
 
-**OUR FOUNDRESS - ST MAGDALENE OF CANOSSA**
+**<center>OUR FOUNDRESS - ST MAGDALENE OF CANOSSA</center>**
 
 
 Saint Magdalene of Canossa (canonized in 1988) was born
@@ -44,7 +44,7 @@ glory of God.
 <img src="images/History/Picture%20of%20St%20Bakhita.jpg"  
      style="width:75%">
 		 
-**<center>Universal Sister - St. Josephine Bakhita</center>**
+**<center>UNIVERSAL SISTER- ST JOSEPHINE BAKHITA</center>**
 
 Saint Josephine Bakhita (canonized in 2000) was born in
 Sudan in 1869. Bakhita, which in Arabic means “Lucky One”
