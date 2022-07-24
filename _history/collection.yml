@@ -2,6 +2,7 @@ collections:
   history:
     output: true
     order:
+      - History/.keep
       - History.md
       - Canossa's 80th Birthday/.keep
       - Canossa's 80th Birthday/Celebrating Canossa's 80th Birthday.md
