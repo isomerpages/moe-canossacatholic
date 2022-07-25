@@ -16,7 +16,7 @@ to God's plan.<br>
 Embracing the religious life,<br>
 the love of God radiates - <br>
 from their thought, word and deed.
-
+<br><br>
   
 
 Bible opened,<br>
@@ -26,7 +26,7 @@ and strengthens their resolve,<br>
 empowering them to serve God and do His Work.<br>
 They reach out willingly,<br>
 loving and caring the poor.
-
+<br><br>
   
 
 God's voice speaks and they listen,<br>
@@ -35,14 +35,14 @@ part of God's mission - <br>
 to pioneer Canossian education in Singapore.<br>
 They love the prospect and opportunity<br>
 to be a blessing to the children there.
-
+<br><br>
   
 
 Every step of the way, God is with them - <br>
 He leads, guides, protects them - <br>
 valued members of the community of Canossian Sisters.<br>
 Chosen by God to raise Canossian daughters and sons in Singapore. 
-
+<br><br>
   
 
 They welcome all children who enter the Convent - <br>
@@ -51,7 +51,7 @@ the orphaned child crying on the streets.<br>
 The Sisters love them all; they believe in them all.<br>
 And their love - God's love in them - <br>
 opens the children's doors to a better, brighter future.
-
+<br><br>
   
 
 Canossa Convent Primary School - <br>
