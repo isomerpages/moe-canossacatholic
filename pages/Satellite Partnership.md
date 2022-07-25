@@ -61,7 +61,7 @@ _“The inclusion programme is a beautiful partnership …It provides an opportu
 
   
 
-_“It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve.”_ 
+_“It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve.”_ <br>
 \- Shermaine Tan Li Ning, former CS student  
   
 <br><br><br><br><br><br>
