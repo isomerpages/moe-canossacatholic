@@ -29,3 +29,18 @@ description: ""
 **9  I know I still must grow.** <br>
 
 **10  I am keenly aware that I can make things better.**
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br>
+
+_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._
