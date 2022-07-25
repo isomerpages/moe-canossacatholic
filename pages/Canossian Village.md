@@ -17,9 +17,10 @@ The saying “It takes a village to raise a child” is truly embodied in the Ca
 
 <br><br><br><br><br><br><br>
 
-[Canossaville Children and Community Services](https://canossaville.org.sg/)Canossaville Children and Community Services is a social service agency that provides additional support to children and their families. Comprising a preschool, after-school care and a child development unit, Canossaville ensures that continuous support is given to the children beyond the classroom walls.[](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Canossian%20Education/Canossian%20Eduplex/EIPIC-Flyer-A5.pdf)
+[Canossaville Children and Community Services](https://canossaville.org.sg/)<br>
+Canossaville Children and Community Services is a social service agency that provides additional support to children and their families. Comprising a preschool, after-school care and a child development unit, Canossaville ensures that continuous support is given to the children beyond the classroom walls.[](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Canossian%20Education/Canossian%20Eduplex/EIPIC-Flyer-A5.pdf)
 
-> *   [Canossian Early Intervention for Children with Hearing Loss (EIPIC)](http://canossacatholicpri.moe.edu.sg/qql/slot/u276/Canossian%20Education/Canossian%20Eduplex/EIPIC-Flyer-A5.pdf)
+ *   [Canossian Early Intervention for Children with Hearing Loss (EIPIC)](http://canossacatholicpri.moe.edu.sg/qql/slot/u276/Canossian%20Education/Canossian%20Eduplex/EIPIC-Flyer-A5.pdf)
 
 
 
