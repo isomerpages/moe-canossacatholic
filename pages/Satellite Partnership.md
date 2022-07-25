@@ -51,17 +51,17 @@ Staff at CCPS attend professional development workshops conducted by the CS audi
 **<font size=5>Quotes from teachers and students</font>**  
 
   
-“_This is what our society needs – to be an inclusive Singapore. They will form the new generation of Singaporeans who are receptive to inclusion in our society._”  
+_“This is what our society needs – to be an inclusive Singapore. They will form the new generation of Singaporeans who are receptive to inclusion in our society.”_  
 \- Miss Joslyn, CCPS teacher  
 
   
 
-“_The inclusion programme is a beautiful partnership …It provides an opportunity for children with special needs to play and learn in a mainstream environment._”  
+_“The inclusion programme is a beautiful partnership …It provides an opportunity for children with special needs to play and learn in a mainstream environment.”_  
 \- Mdm Connie Chua, CS teacher  
 
   
 
-“_It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve._”  
+_“It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve.”_ 
 \- Shermaine Tan Li Ning, former CS student  
   
 <br><br><br><br><br><br>
