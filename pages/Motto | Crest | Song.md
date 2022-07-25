@@ -39,28 +39,23 @@ We live for others, ready to share, serve and sacrifice 
 The star is a symbol of lofty ideas stirring a person to great and noble deeds.<br>
 The star represents four basic social virtues – **Truth, Justice, Love and Freedom**
 
-### **Truth**
-
+**Truth**<br>
 Sincerity in words and deeds, simplicity, straightforwardness.
 
   
 
-### **Justice**
-
+**Justice**<br>
 Honesty, fairness, respect for the right of others.
 
   
 
-### **Love**
-
-We are the children of the same Father in heaven.
-
+**Love**<br>
+We are the children of the same Father in heaven.<br>
 Hence, readiness to help and share with others.
 
   
 
-### **Freedom**
-
+**Freedom**<br>
 Mutual tolerance and consideration for the principles of others.
 
   
@@ -68,10 +63,7 @@ Mutual tolerance and consideration for the principles of others.
 The Crown above the crest symbolises the Supremacy of God over all and All for the Glory of God.
 
   
-
-School Song
------------
-
+**<font size=6>School Song</font>**
   
 
 United in common endeavour  
@@ -106,9 +98,6 @@ For true virtue we strive
 
   
 
-#### 
 
-School Song	
-	
-	
+**School Song**	<br>
 	INSERT SCHOOL SONG AUDIO HERE
