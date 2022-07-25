@@ -7,7 +7,7 @@ description: ""
 
 <center>
 
-**<font size=5>School Mission</font>**
+<font size=5>**School Mission**</font>
 <br><br>
 
 **Nurturing each in her/his own way by forming hearts,**<br>
