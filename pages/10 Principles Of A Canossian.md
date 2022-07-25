@@ -10,22 +10,22 @@ description: ""
 
   
 
-**1  I am created in God's image and likeness and so is everyone else.**
+**1  I am created in God's image and likeness and so is everyone else.**<br>
 
-**2  I know and do what is good and just even when no one is watching.**
+**2  I know and do what is good and just even when no one is watching.**<br>
 
-**3  I will always be the best version of myself in everything I say and do.**
+**3  I will always be the best version of myself in everything I say and do.**<br>
 
-**4  I know my purpose in life.**
+**4  I know my purpose in life.**<br>
 
-**5  I belong here and I want others to feel belonged too.**
+**5  I belong here and I want others to feel belonged too.**<br>
 
-**6  I make wherever I am a loving place.**
+**6  I make wherever I am a loving place.**<br>
 
-**7  I advocate for all that is good and just.**
+**7  I advocate for all that is good and just.**<br>
 
-**8  I am a trusted friend.**
+**8  I am a trusted friend.**<br>
 
-**9  I know I still must grow.** 
+**9  I know I still must grow.** <br>
 
 **10  I am keenly aware that I can make things better.**
