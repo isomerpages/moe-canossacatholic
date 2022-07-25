@@ -8,7 +8,7 @@ third_nav_title: Canossa's 80th Birthday
 
 <center>
 	
-**<font size=6>Expansion in God's Grace</font>**
+<font size=6>Expansion in God's Grace</font>
 <br><br>
 God has been so good to us.  <br>
 He has expanded our territories.  <br>
