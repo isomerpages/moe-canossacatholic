@@ -9,7 +9,7 @@ third_nav_title: Canossa's 80th Birthday
 <center>
 	
 **<font size=6>Expansion in God's Grace</font>**
-<br>
+<br><br>
 God has been so good to us.  <br>
 He has expanded our territories.  <br>
 We have grown as a school -   <br>
@@ -34,8 +34,11 @@ A dynamic, vibrant school - growing and blossoming in God's amazing grace.
 
 <font size=5>Photo Gallery</font>
 
-![](/images/History/15%20Nov%2020%201.jpeg)
+<img src="/images/History/15%20Nov%2020%201.jpeg"  
+     style="width:75%">
 
-![](/images/History/15%20Nov%2020%202.jpeg)
-
-![](/images/History/15%20Nov%2020%203.jpeg)
+<img src="/images/History/15%20Nov%2020%202.jpeg"  
+     style="width:75%">
+		 
+<img src="/images/History/15%20Nov%2020%203.jpeg"  
+     style="width:75%">
