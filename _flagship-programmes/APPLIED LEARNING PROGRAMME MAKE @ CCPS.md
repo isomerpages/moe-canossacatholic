@@ -21,7 +21,10 @@ Our students participate in various collaborative team-based project work. Throu
 **The Environment and Me**<br>
 Our Primary 1 students are introduced to coding through KUBO Robotics, which provides a screen-free concrete experience in coding. Using tagtiles, they learn to programme the movements for KUBO, a little robot, and are introduced to the concept of direction and programme it to solve a real-world sustainability problem identified (e.g. land pollution).
 
-![](/images/Flagship%20Programmes/ALP%201.jpg)
+
+<img src="/images/Flagship%20Programmes/ALP%201.jpg"  
+     style="width:45%">
+
 
 **Saving the Environment**<br>
 At Primary 2, our students learn how to programme an avatar using SCRATCH Jr, creating characters to move, swirl, follow lines and speak through dialogue texts. They explore environmental issues such as air pollution and their impact on the environment. Through storyboarding, they communicate to their audience how they can play their part in saving Mother Earth e.g. changing lifestyles which are sustainable.
@@ -31,7 +34,9 @@ At Primary 2, our students learn how to programme an avatar using SCRATCH Jr, cr
 **Conservation of Environment I**<br>
 Our Primary 3 students learn how to use Lego Wedo 2.0 (an introductory invention kit) and Scratch (a block-based coding programme), and work together in groups to create a game related to the conservation of environment (e.g energy conservation). They also learn to break down problems, recognise patterns by looking for similarities in problems faced and working out the steps to solve their problems.
 
-![](/images/Flagship%20Programmes/ALP%202.jpeg)
+<img src="/images/Flagship%20Programmes/ALP%202.jpeg"  
+     style="width:45%">
+
 
 **Conservation of Environment II**<br>
 At Primary 4, our students apply their knowledge in Science, Mathematics and technology as they use Micro:bit to design a prototype of a water pump and lighting system to address identified problems related to the conservation of the environment (e.g. water and energy conservation). Through the collaborative project, our students learn to problem solve in a team. They also learn the importance of resilience as they innovate and seek improvement.
@@ -41,11 +46,14 @@ At Primary 4, our students apply their knowledge in Science, Mathematics and tec
 **Creating a Sustainable Environment**<br>
 Each Primary 5 class identifies and focuses on a strand of sustainability where the students apply the Design Thinking process and put themselves in the shoes of the people they are studying to understand the issues they are facing. Having identified a problem or a need related to this group of people, the students apply the appropriate programme (Micro:bit and/or Scratch) to develop a solution for the identified problem / need. Through this process, they realise that there is much value in learning how to use programming tools and applying them to create prototypes to make improvements to the lives of those around them.
 
-![](/images/Flagship%20Programmes/ALP%204.png)
+<img src="/images/Flagship%20Programmes/ALP%204.png"  
+     style="width:85%">
 
 ![](/images/Flagship%20Programmes/ALP%205.png)
 
-![](/images/Flagship%20Programmes/ALP%206.jpeg)
+<img src="/images/Flagship%20Programmes/ALP%206.jpeg"  
+     style="width:55%">
+
 
 
 On top of the above-mentioned mass programmes which were offered at the respective levels.  
