@@ -4,7 +4,7 @@ permalink: /our-school/history/celebrating-canossas-80th-birthday/15-september-2
 description: ""
 third_nav_title: Canossa's 80th Birthday
 ---
-**<Font size=6>15 September 2020 (2 of 12)</font>**
+**<font size=6>15 September 2020 (2 of 12)</font>**
 
 <center>
 	
