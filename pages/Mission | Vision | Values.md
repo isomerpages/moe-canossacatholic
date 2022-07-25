@@ -6,14 +6,9 @@ description: ""
 **<font size=6>Mission | Vision | Values</font>**
 
 
-<center>
-	
-**yeet**
-	
-</center>
 
 
-<center>
+
 
 <font size=5>**School Mission**</font>
 <br><br>
@@ -39,7 +34,7 @@ description: ""
 **Forgiveness**<br>
 **Faith**
 
-</center>  
+
 	
   <br><br><br><br><br><br><br><br>
 
