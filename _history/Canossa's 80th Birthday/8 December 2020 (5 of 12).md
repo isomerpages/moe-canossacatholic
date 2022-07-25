@@ -22,15 +22,15 @@ The beatification of Mother Foundress reminded the Sisters of the love, goodness
 <center>
 	
 	
-**Our Hearts Sing Praise**
+**Our Hearts Sing Praise** <br><br>
 
   
 
 Praise be to God for the gift of <br>
 Saint Magdalene of Canossa!<br>
-Beacon of faith, hope and love to all humanity. 
+Beacon of faith, hope and love to all humanity. <br>
 
-  
+  <br>
 
 Her personal struggles in life,<br>
 Her deep devotion to God and Mother Mary,<br>
@@ -39,7 +39,7 @@ to serve God and Man.<br>
 In detaching herself from a life of earthly riches,<br>
 She committed herself to serving the poor with purity of heart.
 
-  
+  <br><br>
 
 Foundress of the Canossian Sisters of Charity,<br>
 Mother of Daughters and Sons of Charity<br>
@@ -47,7 +47,7 @@ She inspired others with the same <br>
 unconditional love for the poor,<br>
 And the same hunger to live a life of <br>
 poverty and humble servitude.
-
+<br><br>
   
 
 A visionary, she recognised the sign of the times and courageously responded to them.<br>
@@ -58,21 +58,21 @@ The hungry, she blessed with bread;<br>
 The suffering sick, she cared and supported;<br>
 For abandoned children, she sought to<br>
 provide education.
-
+<br><br>
   
 
 Like a Mother, she generously showered her love on one and all - <br>
 In her mission to educate, evangelise and <br>
 provide pastoral care for the sick,<br>
 making Jesus known and loved.
-
+<br><br>
   
 
 Her love, she wore on her sleeve - <br>
 A badge of love, care and commitment to all.<br>
 When darkness covered the world,<br>
 Canossa's faithful light continued to shine!
-
+<br><br>
   
 
 Praise be to God for the gift of <br>
