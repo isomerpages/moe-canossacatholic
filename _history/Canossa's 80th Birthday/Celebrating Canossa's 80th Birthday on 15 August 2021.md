@@ -4,4 +4,22 @@ permalink: /our-school/history/celebrating-canossas-80th-birthday/celebration-15
 description: ""
 third_nav_title: Canossa's 80th Birthday
 ---
+**<font size=6>Celebrating Canossa's 80th Birthday on 15 August 2021</font>**
 
+**<font size=5>Happy 80th Birthday, Dear Canossa @ 1 Sallim Road!</font>**
+
+Generations have been blest because of God’s faithfulness and infinite love for you and through you ❤️
+
+![](/images/History/80th%20Birthday%20Photo%201.jpeg)
+
+![](/images/History/80th%20Birthday%20Photo%202.jpeg)
+
+![](/images/History/80th%20Birthday%20Photo%203.jpeg)
+
+![](/images/History/80th%20Birthday%20Photo%204.jpeg)
+
+![](/images/History/80th%20Birthday%20Photo%205.jpeg)
+
+![](/images/History/80th%20Birthday%20Photo%206.jpeg)
+
+![](/images/History/80th%20Birthday%20Photo%207.jpeg)
