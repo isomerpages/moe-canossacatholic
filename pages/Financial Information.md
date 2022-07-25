@@ -18,3 +18,7 @@ description: ""
 **<font size=5>2. Financial Information</font>**
 
 Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest information.
+
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
