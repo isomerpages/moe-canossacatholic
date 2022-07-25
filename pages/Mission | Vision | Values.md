@@ -10,35 +10,25 @@ description: ""
 **<font size=5>School Mission</font>**
 
 
-**Nurturing each in her/his own way by forming hearts,**
-
-**enlightening minds and empowering spirits to live in**
-
+**Nurturing each in her/his own way by forming hearts,**<br>
+**enlightening minds and empowering spirits to live in**<br>
 **The Way, The Truth and The Life**
 
 
   
 
   
-**<font size=5>School Vision</font>**
-
-
-**Leaders of Hope**
-
+**<font size=5>School Vision</font>**<br>
+**Leaders of Hope**<br>
 **Sowers of Change**
 
 
   
 
-  **<font size=5>Core Values</font>**
-
-
-**Charity**
-
-**Humility**
-
-**Forgiveness**
-
+  **<font size=5>Core Values</font>**<br>
+**Charity**<br>
+**Humility**<br>
+**Forgiveness**<br>
 **Faith**
 
 </center>  
