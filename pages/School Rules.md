@@ -93,8 +93,7 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
     * Be absent for a long period of time
 *   Valid reasons such as medically unfit for school must be given for any absence.
 
-**Integrity  
-**  
+**Integrity**  
 
 > *   Students must be honest. They must not be involved in stealing, plagiarism, cheating in an examination or assessment and forgery (including altering signature and school documents).
 
