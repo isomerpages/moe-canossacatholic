@@ -25,5 +25,15 @@ links:
         url: /our-school/school-rules
       - title: Our Staff
         url: /our-school/our-staff
+  - title: Flagship Programmes
+    collection: flagship-programmes
+  - title: Character Formation
+    collection: character-formation
+  - title: Departments
+    collection: departments
+  - title: Useful Information
+    collection: useful-information
+  - title: Gallery
+    collection: gallery
   - title: Contact Us
     url: /contact-us/
