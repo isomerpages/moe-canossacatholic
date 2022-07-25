@@ -27,105 +27,96 @@ Through P.A.C.E., all CCPS students will be nurtured into young people who are f
 
 ![](/images/Flagship%20Programmes/LLP%202.png)
 
-### PACE - Physically Fit
+**PACE - Physically Fit**
 
   
 CCPS uses a 3-tiered approach – broad base, talent identified and interest based – to ensure that all students are full beneficiaries of the programme. There are also provisions made for students who show an interest in the sports and / or outdoor games to develop their skills and competencies through the recreational wing of the Sports CCAs should they not be selected for the school team.  
   
 
-**Tier 1 - Broad Base**
------------------------
-
-> #### Sports Enrichment Programme (SEP)
-> 
-> The SEP aims to advocate the importance of sports education and encourage a love of sports. Our students are given opportunities to experience a variety of sports and acquire new sports-related skills during PE lessons. Throughout their 6 years in CCPS, students will be exposed to the following sports at the different levels:
+**<u>Tier 1 - Broad Base</u>**<br>
+**Sports Enrichment Programme (SEP)**
+ 
+The SEP aims to advocate the importance of sports education and encourage a love of sports. Our students are given opportunities to experience a variety of sports and acquire new sports-related skills during PE lessons. Throughout their 6 years in CCPS, students will be exposed to the following sports at the different levels:
 
   
 
-> *   Primary 1: Soccer
-> *   Primary 2: Inline Skate
-> *   Primary 3: Skipping
-> *   Primary 4: Tchoukball
-> *   Primary 5: i-Bounce
-> *   Primary 6: Bowling
+*   Primary 1: Soccer
+*   Primary 2: Inline Skate
+*   Primary 3: Skipping
+*   Primary 4: Tchoukball
+*   Primary 5: i-Bounce
+*   Primary 6: Bowling
 
   
 
-#### House System and Sports Day
-
-> The House System aims to foster a sense of loyalty and pride towards the school, the House our students belong to, as well as to promote team spirit and instil a sense of identity. Every student finds their identity with a House, which they will stay committed to till graduation.
-
-  
-
-> Students are allocated to one of the four houses:
-
-> *   Anthony House
-> *   Bakhita House
-> *   Josephine House
-> *   Magdalene House
+**House System and Sports Day**<br>
+The House System aims to foster a sense of loyalty and pride towards the school, the House our students belong to, as well as to promote team spirit and instil a sense of identity. Every student finds their identity with a House, which they will stay committed to till graduation.
 
   
 
-> Opportunities to work together to compete in their assigned Houses come during several events organised by our school. We conduct inter-house sports events throughout the year for students to showcase the skills they have learnt during PE and develop within them the values of teamwork and sportsmanship. These events include:
+Students are allocated to one of the four houses:
+
+*   Anthony House
+*   Bakhita House
+*   Josephine House
+*   Magdalene House
 
   
 
-> *   Lower Primary Games Day (Primary 1 and 2)
-> *   Sports Day (Primary 3 - 6)
+Opportunities to work together to compete in their assigned Houses come during several events organised by our school. We conduct inter-house sports events throughout the year for students to showcase the skills they have learnt during PE and develop within them the values of teamwork and sportsmanship. These events include:
 
   
 
-#### Recess play
-
-> Recess play is conducted during recesses daily to encourage our students to participate in physical activity regularly. A variety of sports equipment is made readily available during recess for them to explore and use. It serves as the main platform for students to practise self-organisation through outdoor games.
-
-  
-
-> Through the relaxed and casual setting of recess play, students learn to manage their emotions organically. Being sensitive towards others and caring for each other also means that students learn about safety and responsibility during their time of fun and games.
+*   Lower Primary Games Day (Primary 1 and 2)
+*   Sports Day (Primary 3 - 6)
 
   
 
-> Tier 2 - Talent Identified and Interest based
-> ---------------------------------------------
+**Recess play**
+
+Recess play is conducted during recesses daily to encourage our students to participate in physical activity regularly. A variety of sports equipment is made readily available during recess for them to explore and use. It serves as the main platform for students to practise self-organisation through outdoor games.
 
   
 
-> #### **Talent Identified**
-> 
-> Students who show aptitude in a sport are talent-identified for the school team in the following CCAs:  
-> 
-> *   Track & Field
-> *   Taekwondo
+Through the relaxed and casual setting of recess play, students learn to manage their emotions organically. Being sensitive towards others and caring for each other also means that students learn about safety and responsibility during their time of fun and games.
 
   
 
-> Identified students in these CCAs are given additional focused training so that they are well-equipped to represent the school at the National Level.
+**<u>Tier 2 - Talent Identified and Interest based</u>**
+
 
   
 
-#### **Interest based**
+**<u>Talent Identified</u>**<br>
+Students who show aptitude in a sport are talent-identified for the school team in the following CCAs:  
+*   Track & Field
+*   Taekwondo
+
+Identified students in these CCAs are given additional focused training so that they are well-equipped to represent the school at the National Level.
 
   
 
-> #### Recreational CCAs (Primary 3 - 6)
-> 
-> Students who enjoy sports and outdoor games but may not be selected to represent the school at competitions can join Sports CCAs at the recreational level. These sports CCAs include Track and Field, Taekwondo and Modular CCA (Sport).
+**<u>Interest based</u>**
 
   
 
-#### Modular CCAs at Lower Primary (Primary 1 and 2)
-
-> CCPS has developed a Modular CCAs Programme for our lower primary students. This programme encourages them to participate in a variety of CCAs during different terms; over the course of 5 sessions. Students are given a list of Modular CCAs options to choose from based on their interests before making an informed decision as to which they would like to pursue as their official CCA from Primary 3 onwards.
+**Recreational CCAs (Primary 3 - 6)**<br>
+Students who enjoy sports and outdoor games but may not be selected to represent the school at competitions can join Sports CCAs at the recreational level. These sports CCAs include Track and Field, Taekwondo and Modular CCA (Sport).
 
   
 
-> The Modular CCAs offered by our school are as follows:
+**Modular CCAs at Lower Primary (Primary 1 and 2)**<br>
+CCPS has developed a Modular CCAs Programme for our lower primary students. This programme encourages them to participate in a variety of CCAs during different terms; over the course of 5 sessions. Students are given a list of Modular CCAs options to choose from based on their interests before making an informed decision as to which they would like to pursue as their official CCA from Primary 3 onwards.
 
-> *   Kids Yoga
-> *   Lifeskills (Baking)
-> *   Taekwondo
-> *   Track and Field
-> *   Visual Arts
+  
+
+The Modular CCAs offered by our school are as follows:
+
+*   Kids Yoga
+*   Lifeskills (Baking)
+*   Taekwondo
+*   Track and Field
+*   Visual Arts
 
   
 
@@ -168,4 +159,3 @@ CCPS uses a 3-tiered approach – broad base, talent identified and interest bas
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
-
