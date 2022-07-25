@@ -67,19 +67,20 @@ of our Canossian Sisters' hands and hearts.
 <img src="/images/History/15%20Sep%2020%201.jpg"  
      style="width:65%">
 
-
+<center>
 The pioneers of the Canossa Convent community.
-
+</center>
 <img src="/images/History/15%20Sep%2020%202.jpg"  
      style="width:55%">
 
-
+<center>
 Two happy Sisters among the pioneers who formed the first community at Canossa Convent in 1950s.
-
+</center>
 <img src="/images/History/15%20Sep%2020%203.jpg"  
      style="width:75%">
 
 
-Sisters at prayer, reciting the Rosary with devotion and praying for the needs of the world. "Prayer can do everything." - St. Magdalene of Canossa.
+<center>Sisters at prayer, reciting the Rosary with devotion and praying for the needs of the world. "Prayer can do everything." - St. Magdalene of Canossa.
+</center>
 
 _Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._
