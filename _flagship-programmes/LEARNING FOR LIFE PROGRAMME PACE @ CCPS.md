@@ -23,6 +23,7 @@ Through P.A.C.E., all CCPS students will be nurtured into young people who are f
 
 *   Learn to make decisions and take responsible risks as part of their character formation.
 
+
 ![](/images/Flagship%20Programmes/LLP%201.jpg)
 
 ![](/images/Flagship%20Programmes/LLP%202.png)
