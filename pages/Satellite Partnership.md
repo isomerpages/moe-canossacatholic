@@ -48,8 +48,7 @@ Staff at CCPS attend professional development workshops conducted by the CS audi
 
 
   
-**<font size=5>Quotes from teachers and students
-</font>**  
+**<font size=5>Quotes from teachers and students</font>**  
 
   
 “_This is what our society needs – to be an inclusive Singapore. They will form the new generation of Singaporeans who are receptive to inclusion in our society._”  
