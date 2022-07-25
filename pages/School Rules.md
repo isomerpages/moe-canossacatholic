@@ -133,3 +133,7 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 *   Students must take care of the environment. They must not litter and vandalise any school property.
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which used or intended to be used to cause harm to others.
 *   Students must not be involved in trading of items, arson, assault, fighting, gambling, gangsterism, pornography, smoking, substance abuse and hacking into school system.
+
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
