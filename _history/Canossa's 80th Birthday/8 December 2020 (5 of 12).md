@@ -21,8 +21,8 @@ The beatification of Mother Foundress reminded the Sisters of the love, goodness
 
 <center>
 	
-	
-**Our Hearts Sing Praise**
+
+<font size=6>Our Hearts Sing Praise</font>
 	<br><br>
 
   
