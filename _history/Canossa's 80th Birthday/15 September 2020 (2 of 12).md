@@ -8,7 +8,7 @@ third_nav_title: Canossa's 80th Birthday
 
 <center>
 	
-**<font size=5>Devotion</font><br>**
+**<font size=6>Devotion</font><br>**
 Rosary in hand,<br>
 Bible verses recited and lived out daily;<br>
 their willing hearts for God open<br>
