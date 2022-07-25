@@ -8,33 +8,33 @@ description: ""
 
 
 
+<center>
 
-
-<font size=5>**School Mission**</font>
+<font size=5>School Mission</font>
 <br><br>
 
-**Nurturing each in her/his own way by forming hearts,**<br>
-**enlightening minds and empowering spirits to live in**<br>
-**The Way, The Truth and The Life**<br><br>
+Nurturing each in her/his own way by forming hearts,<br>
+enlightening minds and empowering spirits to live in<br>
+The Way, The Truth and The Life<br><br>
 
 
   
 
   
-**<font size=5>School Vision</font>**<br>
-**Leaders of Hope**<br>
-**Sowers of Change**
+<font size=5>School Vision</font><br>
+Leaders of Hope<br>
+Sowers of Change
 <br><br>
 
   
 
-**<font size=5>Core Values</font>**<br>
-**Charity**<br>
-**Humility**<br>
-**Forgiveness**<br>
-**Faith**
+<font size=5>Core Values</font><br>
+Charity<br>
+Humility<br>
+Forgiveness<br>
+Faith
 
-
+</center>  
 	
   <br><br><br><br><br><br><br><br>
 
