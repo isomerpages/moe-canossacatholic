@@ -25,7 +25,7 @@ Canossaville Children and Community Services is a social service agency that pr
 
 
 <img src="/images/Our%20School/Village%202.jpg"
-		 style="width:35%" align = "left"> <br><br><br><br><br><br><br><br><br>
+		 style="width:35%" align = "left"> <br><br><br><br><br><br>
 
 
 **[Canossian School](http://www.canossian.edu.sg/)**<br>
