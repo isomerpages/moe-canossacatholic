@@ -86,7 +86,7 @@ Beacon of faith, hope and love to all humanity.
 **<font size=5>Photo Gallery</font>** 
 
 <img src="/images/History/8%20Dec%202020%201.jpg"  
-     style="width:65%">
+     style="width:55%">
 
 
 <center>
@@ -100,7 +100,7 @@ Mother of Sorrows, at the foot of the Cross
 <center>Foundress serving the poor</center>
 
 <img src="/images/History/8%20Dec%202020%203.jpg"  
-     style="width:65%">
+     style="width:55%">
 
 <center>
 Foundress showering her love to all</center>
