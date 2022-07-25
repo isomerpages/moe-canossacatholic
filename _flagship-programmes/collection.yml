@@ -2,4 +2,5 @@ collections:
   flagship-programmes:
     output: true
     order:
+      - LEARNING FOR LIFE PROGRAMME PACE @ CCPS.md
       - APPLIED LEARNING PROGRAMME MAKE @ CCPS.md
