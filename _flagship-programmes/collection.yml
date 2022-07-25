@@ -2,10 +2,10 @@ collections:
   flagship-programmes:
     output: true
     order:
-      - Interest Week.md
-      - heART & SOUL.md
-      - Support Stretch Programme/Support Stretch Programme.md
-      - Support Stretch Programme/.keep
-      - LIFESKILLS PROGRAMME READY FOR LIFE.md
-      - LEARNING FOR LIFE PROGRAMME PACE @ CCPS.md
       - APPLIED LEARNING PROGRAMME MAKE @ CCPS.md
+      - LEARNING FOR LIFE PROGRAMME PACE @ CCPS.md
+      - LIFESKILLS PROGRAMME READY FOR LIFE.md
+      - Support Stretch Programme/.keep
+      - Support Stretch Programme/Support Stretch Programme.md
+      - heART & SOUL.md
+      - Interest Week.md
