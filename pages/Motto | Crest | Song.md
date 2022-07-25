@@ -7,44 +7,36 @@ description: ""
 
 
 <center>
-	
-School Motto
 
-### VIA VERITAS VITA
+**<font size=6>School Motto</font>**
 
-####   
+**<font size=5>VIA VERITAS VITA</font>**
 
-#### VIA - The Way
 
+**VIA - The Way**<br>
 We walk confidently and joyfully in the path of life, overcoming all difficulties with fortitude and prayer
 
   
 
-#### VERITAS - The Truth
-
+**VERITAS - The Truth**<br>
 We are sincere in word, thought and deed. We are open to truth and knowledge
 
   
 
-#### VITA - The Life
-
+**VITA - The Life**<br>
 We live for others, ready to share, serve and sacrifice 
 
-School Crest
-------------
+**<font size=6>School Crest</font>**
+
+<img src="/images/Our%20School/School%20Crest.jpg"  
+     style="width:35%">
+
 	
-![](/images/Our%20School/School%20Crest.jpg)
-	
-**Our school badge is meant for all Canossian Schools.**
+**Our school badge is meant for all Canossian Schools.**<br>
+**On a dark-blue background there shines a four-pointed star with rays cast**<br>
+**on to a book symbolizing the Star of wisdom radiating on Knowledge.**
 
-**On a dark-blue background there shines a four-pointed star with rays cast**
-
-**on to a book symbolizing the Star of wisdom radiating on Knowledge.  
-  
-**
-
-The star is a symbol of lofty ideas stirring a person to great and noble deeds.
-
+The star is a symbol of lofty ideas stirring a person to great and noble deeds.<br>
 The star represents four basic social virtues – **Truth, Justice, Love and Freedom**
 
 ### **Truth**
@@ -120,4 +112,3 @@ School Song
 	
 	
 	INSERT SCHOOL SONG AUDIO HERE
-	
