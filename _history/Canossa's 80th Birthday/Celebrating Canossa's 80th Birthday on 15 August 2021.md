@@ -23,3 +23,6 @@ Generations have been blest because of God’s faithfulness and infinite love fo
 ![](/images/History/80th%20Birthday%20Photo%206.jpeg)
 
 ![](/images/History/80th%20Birthday%20Photo%207.jpeg)
+
+
+_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._
