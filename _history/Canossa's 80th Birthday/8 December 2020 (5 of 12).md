@@ -84,18 +84,23 @@ Beacon of faith, hope and love to all humanity.
 
 **<font size=5>Photo Gallery</font>** 
 
-![](/images/History/8%20Dec%202020%201.jpg)
+<img src="/images/History/8%20Dec%202020%201.jpg"  
+     style="width:65%">
+
 
 <center>
 Foundress had a special love for Mary, <br>
 Mother of Sorrows, at the foot of the Cross 
 </center>
 
-![](/images/History/8%20Dec%202020%202.jpg)
+<img src="/images/History/8%20Dec%202020%202.jpg"  
+     style="width:65%">
 
 <center>Foundress serving the poor</center>
 
-![](/images/History/8%20Dec%202020%203.jpg)
+<img src="/images/History/8%20Dec%202020%203.jpg"  
+     style="width:65%">
+
 <center>
 Foundress showering her love to all</center>
 
