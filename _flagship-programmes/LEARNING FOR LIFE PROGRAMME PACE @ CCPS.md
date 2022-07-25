@@ -27,7 +27,7 @@ Through P.A.C.E., all CCPS students will be nurtured into young people who are f
 
 ![](/images/Flagship%20Programmes/LLP%202.png)
 
-**PACE - Physically Fit**
+**<u>P</u>ACE - Physically Fit**
 
   
 CCPS uses a 3-tiered approach – broad base, talent identified and interest based – to ensure that all students are full beneficiaries of the programme. There are also provisions made for students who show an interest in the sports and / or outdoor games to develop their skills and competencies through the recreational wing of the Sports CCAs should they not be selected for the school team.  
@@ -120,40 +120,36 @@ The Modular CCAs offered by our school are as follows:
 
   
 
-### PACE - Adventure & (building) Courage
+**P<u>AC</u>E - Adventure & (building) Courage**
+  
+
+**Broad Base**<br>
+All Primary 3 students would have their first taste of an overnight mini adventure camp in school, where the focus is not just on the outdoors, but also on building resilience through selected physical activities. This might be the first opportunity for most students to spend a night away from their families and learn to take their first steps in developing an appropriate level of independence. Outdoor locations such as the Botanic Gardens are featured in mini adventure activities for the students, giving them opportunities to build resilience in the process.  
+   
+To further develop that spirit of adventure amongst our students, and to build courage and perseverance, all Primary 4 students participate in the MOE-run 2-day Outdoor Adventure Camp. Through obstacles, rope courses, as well as team-building games, the confidence level to go beyond their comfort zone to climb new heights and achieve new goals would be fostered.
 
   
 
-> #### Broad Base
-
-> All Primary 3 students would have their first taste of an overnight mini adventure camp in school, where the focus is not just on the outdoors, but also on building resilience through selected physical activities. This might be the first opportunity for most students to spend a night away from their families and learn to take their first steps in developing an appropriate level of independence. Outdoor locations such as the Botanic Gardens are featured in mini adventure activities for the students, giving them opportunities to build resilience in the process.  
->   
-> To further develop that spirit of adventure amongst our students, and to build courage and perseverance, all Primary 4 students participate in the MOE-run 2-day Outdoor Adventure Camp. Through obstacles, rope courses, as well as team-building games, the confidence level to go beyond their comfort zone to climb new heights and achieve new goals would be fostered.
+**PAC<u>E</u> - Empowering the Life**
 
   
 
-### PACE \- Empowering the Life
+**<u>Health & Diet</u>**
 
   
 
-> Health & Diet
-> -------------
+**Broad Base**<br>
+In helping our children to be empowered in life, P.A.C.E. aims to inculcate good habits and decision-making skills in ensuring not only an active lifestyle, but also a healthy and balanced diet.  
+  
+The school runs school-wide programmes to create awareness on health-related topics such as personal hygiene, nutrition, mental well-being, and the importance of having an active and healthy lifestyle. These include health talks conducted by the following health organisations:
 
   
 
-> #### Broad Base
-
-> In helping our children to be empowered in life, P.A.C.E. aims to inculcate good habits and decision-making skills in ensuring not only an active lifestyle, but also a healthy and balanced diet.  
->   
-> The school runs school-wide programmes to create awareness on health-related topics such as personal hygiene, nutrition, mental well-being, and the importance of having an active and healthy lifestyle. These include health talks conducted by the following health organisations:
-
-  
-
-> *   Health Talk by National Kidney Foundation
-> *   “I Love ME” Roving Exhibition by Health Promotion Board
-> *   Blood Pressure Initiative @ Schools by Singapore Heart Foundation
-> *   Preventive Drug Education Sharing session by Central Narcotics Bureau
-> 
+*   Health Talk by National Kidney Foundation
+*   “I Love ME” Roving Exhibition by Health Promotion Board
+*   Blood Pressure Initiative @ Schools by Singapore Heart Foundation
+*   Preventive Drug Education Sharing session by Central Narcotics Bureau
+ 
 
 
 
