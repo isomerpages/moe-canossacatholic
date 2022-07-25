@@ -25,7 +25,7 @@ description: ""
 
   
 
-  **<font size=5>Core Values</font>**<br>
+**<font size=5>Core Values</font>**<br>
 **Charity**<br>
 **Humility**<br>
 **Forgiveness**<br>
