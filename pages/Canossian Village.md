@@ -11,7 +11,6 @@ description: ""
 The saying “It takes a village to raise a child” is truly embodied in the Canossian Village located at 1 Sallim Road. This single compound houses within its walls not just Canossa Catholic Primary School, but also Canossian School and Canossaville Children and Community Services. Each of the three play its unique role in catering to the specific needs of the children that come through the village gates.
 
 
-![](/images/Our%20School/Village%201.png)
 
 <img src="/images/Our%20School/Village%201.png" style="width:380px;height:170px;margin-left:15px;" align = "left">
 
