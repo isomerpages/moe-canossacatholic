@@ -70,29 +70,28 @@ Students are only allowed to wear small and simple watches with dark solid-colou
 
 Fingernails are to be kept short and clean. Painting of nails using nail polish or henna are not allowed.
 
-**Punctuality**
+**<font size=5>Punctuality</font>**
 
   
 
-> *   Students must be in assembly area before 7.25am. Lessons will start at 7.30am.
-> *   Students must be punctual for all lessons, CCA sessions and other school programmes.
+*   Students must be in assembly area before 7.25am. Lessons will start at 7.30am.
+*   Students must be punctual for all lessons, CCA sessions and other school programmes.
 
   
 
   
+**<font size=5>Attendance</font>**
 
-**Attendance**
+ 
 
->   
-> 
-> *   Students must be present in school for all lessons. They must remain in school grounds once they have reported to school.
-> *   Students are not to do the following without permission
-> 
-> *   Leave school ground
-> *   Skip class / CCAs / any other enrichment classes
-> *   Be absent for a long period of time
-> 
-> *   Valid reasons such as medically unfit for school must be given for any absence.
+*   Students must be present in school for all lessons. They must remain in school grounds once they have reported to school.
+
+*   Students are not to do the following without permission
+ 
+    * Leave school ground
+    * Skip class / CCAs / any other enrichment classes
+    * Be absent for a long period of time
+*   Valid reasons such as medically unfit for school must be given for any absence.
 
 **Integrity  
 **  
