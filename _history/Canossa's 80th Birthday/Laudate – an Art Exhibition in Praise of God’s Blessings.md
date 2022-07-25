@@ -21,21 +21,17 @@ We do hope to see you and your family there!
 Visual Art Centre located at Dhoby Ghaut Green can be accessed in the following ways:  
   
 
-**By MRT**
-
+**By MRT**<br>
 Dhoby Ghaut Station Exit A & B towards Dhoby Ghaut Green  
   
 
-**By bus (Penang Road Bus Stop 08031)**
-
+**By bus (Penang Road Bus Stop 08031)**<br>
 7, 14, 16, 36, 65, 77, 106, 111, 124, 128, 162, 167, 171, 174, 175, 190, 700, 972  
   
 
-**By bus (Orchard Road Plaza Singapura Bus Stop 08057)**
-
+**By bus (Orchard Road Plaza Singapura Bus Stop 08057)**<br>
 7, 14, 16, 36, 77, 106, 111, 124, 162, 167, 171, 174, 175, 190, 700, 972  
   
 
-**Nearest parking**
-
+**Nearest parking**<br>
 Plaza Singapura, Atrium at Orchard or The Cathay
