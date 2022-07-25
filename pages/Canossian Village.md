@@ -12,7 +12,8 @@ The saying “It takes a village to raise a child” is truly embodied in the Ca
 
 
 
-<img src="/images/Our%20School/Village%201.png" style="width:380px;height:170px;margin-left:15px;" align = "left">
+<img src="/images/Our%20School/Village%201.png"
+		 style="width:55%" align = "left"> <br><br><br><br><br>
 
 
 
