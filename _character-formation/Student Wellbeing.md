@@ -80,4 +80,4 @@ The Rainbow Programme is a support programme for P1 to P4 students who experienc
 
   
 
-> *   Click [**here**](https://canossacatholicpri.moe.edu.sg/character-formation/student-leadership) to read more on Student Leadership
+> *   Click [**here**](https://staging.d2nutevx25vdua.amplifyapp.com/character-formation/student-leadership) to read more on Student Leadership
