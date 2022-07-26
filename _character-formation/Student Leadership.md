@@ -48,3 +48,40 @@ Every student is called to be a Canossian Leader of Life who strives towards dev
 
   
 The Prefectorial Board is the pinnacle of our Student Leadership system. Students who personify our school’s core values of Charity, Humility, Forgiveness and Faith and show strong self-leadership qualities are nominated and interviewed for selection. Those who are selected to be prefects get to hone their leadership skills through various opportunities and programmes detailed below.
+
+INSERT SLIDE SHOW HERE
+
+
+
+
+
+
+
+**Day-to-Day Duties**<BR>
+Being a prefect requires responsibility, dedication and above all, a heart to serve the school. Prefects are assigned daily duties to serve their teachers and peers and lead the student population through their role-modelling. Daily duties include serving at the St Magdalene’s Kitchen for breakfast, flag raising and recess duties.
+
+  
+
+**Prefect Meetings**<BR>
+Prefect meetings are held monthly. The meetings serve as a platform for our prefects to work collaboratively to initiate, plan and execute events and projects. The projects undertaken by our prefects aim to serve their fellow schoolmates and meet specific areas of need in the school.
+
+  
+
+**Canossian Saints Week**<BR>
+Canossian Saints Week is a week-long celebration of the lives led by our school’s foundress, St Magdalene, as well as St Bakhita. The prefects hold recess activities to educate the student population on the lives and legacy of our Saints. In the process, the prefects deepen their knowledge and love for the Canossian Saints.
+
+  
+
+**Prefects’ Investiture**<br>
+The Prefects’ Investiture is a milestone event for our prefects. It is a prestigious ceremony that formally introduces the prefects, who are appointed on a yearly basis, to the student population. During the ceremony, the executive committee is also installed and the prefects’ pledge is taken as a renewal of the prefects’ commitment and the call to serve.
+
+  
+
+**Student Leadership Training**<br>
+A student leadership training is held during the March holidays to equip our student leaders with the necessary skills to lead. During this training, both CCA leaders and prefects come together to learn skills like effective communication, proactivity and peer support through seminars and group activities led by the teachers.    
+
+**Design Thinking Project**<br>
+Our prefects go through the design thinking process to kickstart projects that will meet the needs of the student population. During prefect meetings, our prefects are guided to find solutions to their selected problems.  
+
+**Teachers’ Day Celebration**<br>
+Every year, our prefects take charge of the Teachers’ Day celebration. Over the course of Term 3, our prefects spend time preparing gifts for the teachers and working together to plan the celebration that is held at the end of the term.
