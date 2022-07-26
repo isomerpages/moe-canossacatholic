@@ -13,70 +13,55 @@ The CCPS Science departmental programmes are developed so as to ignite and nurtu
 We recognise that children are naturally curious and have a sense of wonderment about the things around them and we leverage on this by designing learning journeys both within and outside school.  
   
 
-### Department Key Programmes
-
+**<font size=6>Department Key Programmes</font>**
   
 
-> #### P3 to 5 Excellence 2000 (E2K) Science Programme
+**P3 to 5 Excellence 2000 (E2K) Science Programme** <br>
+The E2K Science Programme Singapore is a Science enrichment programme for primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.  
 
-> The E2K Science Programme Singapore is a Science enrichment programme for primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.  
->   
-> Students learn Science by going through the same process that scientists use to generate knowledge in Science. Just as scientists make mistakes in the real world, students are allowed to make mistakes in E2K and teachers help students to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
+Students learn Science by going through the same process that scientists use to generate knowledge in Science. Just as scientists make mistakes in the real world, students are allowed to make mistakes in E2K and teachers help students to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
 
 ![](/images/Departments/Science%201.png)
 
-#### P4 Vertical Garden Programme
-
+**P4 Vertical Garden Programme**<br>
 Students at the P4 level will be introduced to the concept of a vertical garden which is a solution to address a lack of land for plants. This solution requires students to understand concepts such as the conditions necessary for plants to thrive. Learning is now more meaningful the teaching of concepts is interwoven with process skills. The vertical garden setup demonstrates how solutions are achieved through a deeper understanding of scientific concepts.
 
 ![](/images/Departments/Science%202.jpg)
 
 
-#### Abbott Young Scientist Award for P4
-
+**Abbott Young Scientist Award for P4** <br>
 In an attempt to inspire innovators of tomorrow, CCPS supports the Abbot Young Scientist award to recognise students who demonstrate a keen interest in the pursuit of science. Selected students will have the chance to participate in a structured programme at the Science Centre where they will receive mentoring and have the opportunity to present their work.
 
 ![](/images/Departments/Science%203.png)
 
-> #### CCPS tech-Garden Trail
-> 
->   
-> 
-> This trail aims to enthuse and excite students in the garden of wonderment where they will learn more about the variety of plants and organisms in the community through QR codes that provide merged reality experiences for students.  
->   
-> Strategically placed QR codes in the garden enable students to take greater ownership of their learning as they access knowledge on-the-go. This puts the student at the heart of the learning.  
->   
-> Students will be aware of how tapping on technology can address challenges such as the lack of space for plant growth. An appreciation of the time and effort invested in farming is derived as values and attitudes related to farming will be discussed with students who more often than not, do not have the opportunity to experience farming, while living in an urban landscape.  
->   
+**CCPS tech-Garden Trail**
 
->   
-> 
-> #### **Practices of Science (POS) Learning Packages for P3-P6**
-> 
->   
-> Practices of Science (POS) serves to highlight that Science is more than the acquisition of a body of knowledge; it is also a way of thinking and doing. The POS represents the set of established procedures and practices associated with scientific inquiry, how scientific knowledge is generated and established, as well as how Science could be applied in society.  
->   
-> In particular, it is important to appreciate that the three components representing the cognitive, epistemic and social aspects of POS are intricately related. In the learning of Science, students will need to use concepts and integrate skills and processes to inquire about the world around them. Our learning packages cater to different learning styles and help students hone their skills.  
+This trail aims to enthuse and excite students in the garden of wonderment where they will learn more about the variety of plants and organisms in the community through QR codes that provide merged reality experiences for students.  
+
+Strategically placed QR codes in the garden enable students to take greater ownership of their learning as they access knowledge on-the-go. This puts the student at the heart of the learning.  
+
+Students will be aware of how tapping on technology can address challenges such as the lack of space for plant growth. An appreciation of the time and effort invested in farming is derived as values and attitudes related to farming will be discussed with students who more often than not, do not have the opportunity to experience farming, while living in an urban landscape.  
+
+
+**Practices of Science (POS) Learning Packages for P3-P6**
+
+Practices of Science (POS) serves to highlight that Science is more than the acquisition of a body of knowledge; it is also a way of thinking and doing. The POS represents the set of established procedures and practices associated with scientific inquiry, how scientific knowledge is generated and established, as well as how Science could be applied in society.  
+
+In particular, it is important to appreciate that the three components representing the cognitive, epistemic and social aspects of POS are intricately related. In the learning of Science, students will need to use concepts and integrate skills and processes to inquire about the world around them. Our learning packages cater to different learning styles and help students hone their skills.  
 
   
 
   
 
-### Department Strategies
+**<font size=5>Department Strategies</font>**
 
-  
+**Inquiry Based Learning using the BSCS 5E instructional model**
 
-> #### Inquiry Based Learning using the BSCS 5E instructional model
-> 
->   
-
-> > **TCA (for MCQ)**
-> 
-> > *   **T**opic – Which topic is this question from?
-> > *   **C**oncept – Which scientific concept is this question testing me?
-> > *   **A**pply – Eliminate distractors which are definitely incorrect.
-> > 
-> >   
+   **<u>TCA (for MCQ)</u>**
+ *   **<u>T</u>** opic – Which topic is this question from?
+ *   **<u>C</u>** oncept – Which scientific concept is this question testing me?
+ *   **<u>A</u>** pply – Eliminate distractors which are definitely incorrect.
+   
 
 > > **OCE (for open-ended questions)**
 
@@ -132,4 +117,3 @@ In an attempt to inspire innovators of tomorrow, CCPS supports the Abbot Young S
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
-
