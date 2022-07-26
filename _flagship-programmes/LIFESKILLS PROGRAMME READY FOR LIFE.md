@@ -46,3 +46,19 @@ Focused on food preparation, basic cooking skills and dining etiquette, the modu
 ![](/images/Flagship%20Programmes/Lifeskill%203.png)
 
 ![](/images/Flagship%20Programmes/Lifeskill%204.png)
+
+
+**<font size=5>Be An Advocate – Stand Up Speak Up</font>**
+
+In this module, the students will be empowered to be an advocate for that which is good and just, and live life having
+
+  
+
+*   Charity to love others as God loves them
+*   Humility to admit to their mistakes
+*   Forgiveness to stop blaming or being angry with others for something that they have done; and seek forgiveness for hurting others
+*   Faith in God and becoming trustworthy persons so that others can have faith in them.
+
+  
+
+As Leaders of Hope and Sowers of Change, they have the power within them to choose and stand up for that which is good and just for themselves and others, and play their part to make a difference, bring positive change and bring hope to themselves and others.
