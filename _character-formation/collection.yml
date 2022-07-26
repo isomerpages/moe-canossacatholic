@@ -2,9 +2,9 @@ collections:
   character-formation:
     output: true
     order:
-      - Environment Education.md
-      - Service Innovation.md
-      - Student Leadership.md
-      - Character and Citizenship Education.md
-      - Student Wellbeing.md
       - Faith Formation.md
+      - Student Wellbeing.md
+      - Character and Citizenship Education.md
+      - Student Leadership.md
+      - Service Innovation.md
+      - Environment Education.md
