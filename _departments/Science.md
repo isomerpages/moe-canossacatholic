@@ -26,7 +26,9 @@ Students learn Science by going through the same process that scientists use to 
 **P4 Vertical Garden Programme**<br>
 Students at the P4 level will be introduced to the concept of a vertical garden which is a solution to address a lack of land for plants. This solution requires students to understand concepts such as the conditions necessary for plants to thrive. Learning is now more meaningful the teaching of concepts is interwoven with process skills. The vertical garden setup demonstrates how solutions are achieved through a deeper understanding of scientific concepts.
 
-![](/images/Departments/Science%202.jpg)
+
+<img src="/images/Departments/Science%202.jpg"  
+     style="width:45%">
 
 
 **Abbott Young Scientist Award for P4** <br>
