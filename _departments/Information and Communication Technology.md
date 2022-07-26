@@ -64,26 +64,21 @@ P6 : Navigating the internet / Scams & Spam
 
 ![](/images/Departments/ICT%204.jpg)
 
-
-E-Learning Exercise  
+**<font size=5>E-Learning Exercise </font>**
   
 CCPS conducts e-learning days for students, usually concurrently with Parents-Child-Teachers Conference (PCTC) / Meet the Parents (MTP) days. Teachers will design e-learning lessons on Student Learning Space (SLS) for students to attempt independently, The objectives of the exercise are to encourage students to take ownership for their own learning and to familiarise them with learning environment that is necessary in the event of school closure due to a national emergency.  
   
 For device or broadband support, parents can refer to [IMDA NEU PC Plus](https://www.imda.gov.sg/programme-listing/neu-pc-plus) programme, or contact the school for advice.  
   
   
-
-### Code For Fun Programme
-
+**<font size=5> Code For Fun Programme</font>**
   
 The Code for Fun Enrichment Programme is a collaboration between MOE and Infocomm Media Development Authority (IMDA), targeted at upper primary students. The programme includes learning of computational thinking concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers, to create an engaging coding experience for the students. This programme helps to expose students to the skills needed to embrace new opportunities in the digital economy.  
   
 Students learnt about computational thinking concepts, how these concepts could be applied to aspects of daily life, and basic programming concepts such as debugging. They also developed logical thinking and problem-solving skills by breaking down problems into bite-sizes through mini-challenges.  
   
   
-
-### Class ICT Representatives Training
-
+**<font size=5>Class ICT Representatives Training</font>**
   
 The ICT department conducts yearly training for students who are elected as ICT representatives for their classes.  
   
@@ -92,22 +87,20 @@ The objectives of the training are to support the representatives to develop tec
 The students are taught how to manage the Audio-Visual set-up in their classrooms, using Zoom conferencing, and the basics of managing iPads use in classrooms.  
   
   
-
-### ICT Infrastructure
-
+**<font size=5>ICT Infrastructure</font>**
   
 To cater to the teaching and learning needs of our students, CCPS is equipped ICT infrastructure such as  
   
 
-> *   Wide coverage of wireless networks
-> *   Apple TV equipped classrooms  
->     
-> *   Computer Rooms
-> *   Information Technology Resource Room
-> *   Computers Carts
-> *   iPads Carts
-> *   Teaching and Learning Lab
-> *   Recording Room with Green Screen Technology
+*   Wide coverage of wireless networks
+ *   Apple TV equipped classrooms  
+     
+*   Computer Rooms
+ *   Information Technology Resource Room
+ *   Computers Carts
+ *   iPads Carts
+ *   Teaching and Learning Lab
+ *   Recording Room with Green Screen Technology
 
 
 
