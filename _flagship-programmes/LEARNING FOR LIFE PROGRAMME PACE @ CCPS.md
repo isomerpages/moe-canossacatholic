@@ -10,10 +10,10 @@ P.A.C.E.@CCPS leverages on PE, Sports & Outdoor Education to cultivate a deep lo
   
 We believe that every student in CCPS will be:  
 
-*   <u>**P**</u>hysically Fit,
-*   <u>**A**</u>dventurous,
-*   <u>**C**</u>ourageous and
-*   <u>**E**</u>mpowered Leaders through Sports
+*   **<u>P</u>** hysically Fit,
+*   **<u>A</u>** dventurous,
+*   **<u>C</u>** ourageous and
+*   **<u>E</u>** mpowered Leaders through Sports
 
   
 Through P.A.C.E., all CCPS students will be nurtured into young people who are future-ready, fit, healthy and strong both in body and mind. They will  
