@@ -5,20 +5,21 @@ description: ""
 ---
 **<font size=6>Physical Education</font>**
 
-### Physical Education (PHE) in CCPS aims to provide the students with an array of learning opportunities to:
+
+**<font size=5>Physical Education (PHE) in CCPS aims to provide the students with an array of learning opportunities to:</font>**
+
 
   
 
-> *   Acquire a range of movement skills to participate in a variety of physical activities.
-> *   Understand and apply movement concepts, principles and strategies in a range of physical activities.
-> *   Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
-> *   Display positive personal and social behaviour across different experiences.
-> *   Acquire and maintain health-enhancing fitness through regular participation in physical activities.
-> *   Enjoy and value the benefits of living a physically active and healthy life.
+ *   Acquire a range of movement skills to participate in a variety of physical activities.
+*   Understand and apply movement concepts, principles and strategies in a range of physical activities.
+ *   Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
+ *   Display positive personal and social behaviour across different experiences.
+ *   Acquire and maintain health-enhancing fitness through regular participation in physical activities.
+ *   Enjoy and value the benefits of living a physically active and healthy life.
 
   
-
-### Learning for Life programme - PACE@CCPS
+**<font size=5>Learning for Life programme - PACE@CCPS</font>**
 
   
 Leveraging a sound and strong PE Curriculum, together with a wide array of Sports and Outdoor Education opportunities, PACE is designed to cultivate a deep love for sports and the outdoors, promote a lifelong healthy living attitude and nurture character.  
@@ -26,11 +27,11 @@ Leveraging a sound and strong PE Curriculum, together with a wide array of Sport
 We envision our students in CCPS to be  
   
 
-> *   **P**hysically Fit,
-> *   **A**dventurous,
-> *   **C**ourageous and
-> *   **E**mpowered Leaders
-> *   through Sports
+ *   **<u>P</u>** hysically Fit,
+ *   **<u>A</u>** dventurous,
+ *   **<u>C</u>** ourageous and
+ *   **<u>E</u>** mpowered Leaders
+ *   through Sports
 
   
 Through PACE, all CCPS students would be nurtured into young people who are future ready, fit and healthy in body and strong in mind. They will  
