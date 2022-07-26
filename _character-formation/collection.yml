@@ -2,6 +2,7 @@ collections:
   character-formation:
     output: true
     order:
+      - Service Innovation.md
       - Student Leadership.md
       - Character and Citizenship Education.md
       - Student Wellbeing.md
