@@ -114,9 +114,9 @@ Students are taught how to identify the SVO during letter writing:
  The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
 soaked in the festive atmosphere through the performances.
 
+<img src="/images/Departments/MT%201.jpg"  
+     style="width:65%">
 
-
-![](/images/Departments/MT%201.jpg)
 
 
 *   <u>MTL Fortnight Activities</u><br>
