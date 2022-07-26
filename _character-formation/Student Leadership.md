@@ -85,3 +85,7 @@ Our prefects go through the design thinking process to kickstart projects that w
 
 **Teachers’ Day Celebration**<br>
 Every year, our prefects take charge of the Teachers’ Day celebration. Over the course of Term 3, our prefects spend time preparing gifts for the teachers and working together to plan the celebration that is held at the end of the term.
+
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
