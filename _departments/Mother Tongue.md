@@ -196,55 +196,31 @@ P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kre
 We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.  
   
 
-### Tamil Language Key Programme:
 
-  
+**<font size=4>Tamil Language Key Programme:</font>**<br>
 
-> #### Tamil Reading Programme (P1-P6)
-> 
-> Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
->   
-> Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.  
->   
->   
-> 
-> #### Show & Tell (P1&P2)
-> 
-> Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
->   
->   
-> 
-> #### Vaandu Portal (P1-P6)
-> 
-> The six-year curriculum uses Vaandu as a supporting portal for students to revise their work at their own pace encouraging them to be self-directed learners. Students enjoy the game based learning and are motivated to complete the learning packages.  
->   
->   
-> 
-> #### iMTL Portal Programme (P4-P6)
-> 
-> iMTL portal is used as an interactive tool to enhance students' learning. Students are taught to use this portal to share their answers for questions posted by the teachers. This platform gives students a chance to practice their touch typing skills as they post their answers as a mind map or on the collaborative board.  
->   
->   
-> 
-> #### Enrichment Class (P5-P6)
-> 
-> Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
->   
->   
-> 
-> #### Tamil Department Key Activities:
-> 
->   
-> 
-> *   Deepavali Celebration
-> 
-> Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.  
->   
->   
-> 
-> *   MTL Fortnight Activities
-> 
-> MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
+**Tamil Reading Programme (P1-P6)**<br>
+Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
+
+Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.  
+
+**Show & Tell (P1&P2)** <br>
+Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
+
+**Vaandu Portal (P1-P6)**<br>
+The six-year curriculum uses Vaandu as a supporting portal for students to revise their work at their own pace encouraging them to be self-directed learners. Students enjoy the game based learning and are motivated to complete the learning packages.  
+
+**iMTL Portal Programme (P4-P6)**<br>
+iMTL portal is used as an interactive tool to enhance students' learning. Students are taught to use this portal to share their answers for questions posted by the teachers. This platform gives students a chance to practice their touch typing skills as they post their answers as a mind map or on the collaborative board.  
+
+**Enrichment Class (P5-P6)**<br>
+Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
+
+**Tamil Department Key Activities:**
+*   <u>Deepavali Celebration</u><br>
+ Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.  
+ *   <u>MTL Fortnight Activities</u><br>
+MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
 
 
 ![](/images/Departments/MT%205.png)
