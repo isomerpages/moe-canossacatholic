@@ -3,3 +3,320 @@ title: Mother Tongue
 permalink: /departments/mother-tongue
 description: ""
 ---
+**<font size=6>Mother Tongue</font>**
+
+Chinese Language Department
+---------------------------
+
+The six-year Chinese curriculum aims to enhance students’ oral, listening and writing skills. The department aims to inculcate in students a love and interest in the learning of Chinese Language through the use of Information Technology and differentiated learning in class. We also aim to nurture learners who are exemplary in character and devoted to the life-long learning of the Chinese Language and its culture.  
+  
+
+### Chinese Language Key Programme:
+
+  
+
+#### P2-P6 Modular Approach in Teaching and Learning
+
+> *   Parallel classes are formed for each level to better cater to the needs of the different learners. Teachers are able to customize their teaching to meet the different learning needs of the students.
+> *   All Primary 3 and 4 Chinese Language Higher and Middle Progressing classes will use Higher Chinese Textbook from 2022 onwards to stretch students in their learning of Chinese language.
+> *   MOE ABLE programme to support students who require additional support in the learning of Chinese Language for Primary 3 and 4 learners.
+
+  
+  
+
+#### P1 to P6 Chinese Reading Programme and E-Zhishi Portal
+
+> *   As part of the department’s efforts to promote reading among students, students from the lower, middle and upper primary levels subscribe to selected Chinese newspapers.
+> *   The department also promotes reading through our Chinese department class library programme where teachers lead students in the reading of stories and news articles.
+> 
+>   
+>   
+> 
+> #### P1 to P6 School based Oracy programme
+> 
+>   
+
+> > Reading:
+
+> > *   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
+
+>   
+> 
+> > Conversation:
+
+> > *   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
+
+>   
+> 
+> > Lower Primary: FAR Strategy
+
+> > *   Question 1: Feeling + Action + Reason (FAR strategy)
+
+>   
+> 
+> > Middle Primary: FAR + PEEL Strategy
+
+> > *   Question 1: Feeling + Action + Reason (FAR strategy)
+> > *   Question 2: (Point + Explain + Example + Link (PEEL strategy)
+
+>   
+> 
+> > Upper Primary: FAR + PEEL + 1234 Strategy
+
+> > *   Question 1: Feeling + Action + Reason (FAR strategy)
+> > *   Question 2: (Point + Explain + Example + Link (PEEL strategy)
+> > *   Question 3: 1234 (What can we do? + How can we do? Why? Outcome?)
+
+  
+  
+
+#### P1 to P6 Writing Programme
+
+> The department's six years writing programme aims to develop students to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
+
+  
+
+> > Lower Primary:
+> 
+> > *   Primary 1: 3W Strategy
+> > 
+> > *   Who + Where + What
+
+>   
+
+> > *   Primary 2: 3W+1F Strategy
+> > 
+> > *   Who + Where + What + Feeling
+> > 
+> >   
+
+> > Middle Primary:
+> 
+> > *   Primary 3:
+> > 
+> > *   Step 1: Circle
+> > *   Step 2: Match the Keyword
+> > *   Step 3: **3W+1F Strategy**
+
+  
+
+> > *   Primary 4:
+> > 
+> > *   Step 1: Circle
+> > *   Step 2: Match the Keyword
+> > *   Step 3: **3W+1F Strategy**
+> > *   Step 4: Predict the outcome
+
+> >   
+> > Upper Primary:  
+> > 
+> > *   Primary 5 and 6:
+> > 
+> > *   Step 1: Circle
+> > *   Step 2: Match the Keyword
+> > *   Step 3: **3W+1F Strategy**
+> > *   Step 4: Predict the outcome
+> > *   Step 5: Feeling Meter (Descriptive Phrases)
+
+  
+  
+
+> #### P4 to P6 ChineseGO Junior Mobile Application
+
+> Chinese GO! is an educational mobile app developed to build students’ interest in acquiring key vocabulary and content to improve their communication proficiency in Chinese Language. The app is conceptualized and designed by Chinese teachers from Canossa Catholic Primary School and Saint Anthony Canossian Primary School, it aims to help students in learning Chinese Language through a fun and targeted way.
+
+  
+  
+
+#### P4 to P6 Letter Writing Programme
+
+> Students are taught how to identify the SVO during letter writing:  
+
+> > *   **S**ubject – who they are writing to
+> > *   **V**ariable – when and where (e.g the date, time and place, etc)
+> > *   **O**bjective – why the letter is written
+
+  
+  
+
+> #### Chinese Language Key Activities
+
+  
+
+> *   Lunar New Year Celebration
+> 
+> The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
+> soaked in the festive atmosphere through the performances.
+
+
+
+![](/images/Departments/MT%201.jpg)
+
+
+*   MTL Fortnight Activities
+
+The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.
+
+![](/images/Departments/MT%202.png)
+
+
+*   P1 to P6 Internal Competition
+
+The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
+
+  
+
+*   External Competition
+
+Students in schools are given the opportunity to participate in various external competitions such as calligraphy, story-telling and writing competitions.
+
+  
+
+*   Mid-Autumn Festival Celebration
+
+All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
+
+
+![](/images/Departments/MT%203.jpg)
+
+
+
+Malay Language Department
+-------------------------
+
+The Malay Language department aims to build the joy of learning the Malay Language so that our students develop the love and passion for the language and culture. The six-year Malay curriculum hones our students’ oral, listening and writing skills through ICT and differentiated learning which taps on various resources to help students read, write and communicate effectively. We also aim to inculcate knowledge and values so that our learners will be responsible citizens who are proud of their Malay heritage and culture.  
+  
+
+### Malay Language Key Programme:
+
+  
+
+> #### P1 to P6 Malay Reading Programme
+> 
+> The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.  
+>   
+> 
+> #### P1 to P6 School based Oracy programme
+
+> >   
+> > Reading:
+> 
+> > *   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
+> 
+> >   
+> > Conversation:
+> 
+> > *   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
+> > 
+> >   
+> 
+> > Lower and Middle Primary: 4P Strategy
+> 
+> > *   Primary 1: 1P (What is in the picture?)
+> > *   Primary 2: 2P (What is in the picture? + Feelings)
+> > *   Primary 3: 3P (What is in the picture? + Feelings + Personal Experience)
+> > *   Primary 4: 4P (What is in the picture? + Feelings + Personal Experience + Reason)
+> 
+> >   
+> 
+> > Upper Primary: 4PAS Strategy
+> 
+> > *   Primary 5: 4P + Impact
+> > *   Primary 6: 4P + Impact + Suggestions
+
+>   
+> 
+> #### Malay Department Key Activities:
+> 
+>   
+> 
+> *   Hari Raya Celebration
+> 
+> The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.  
+>   
+> 
+> *   MTL Fortnight Activities
+> 
+> The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
+
+
+![](/images/Departments/MT%204.png)
+
+
+*   P1 to P6 Internal Competition
+
+The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.  
+  
+
+*   External Competition
+
+P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.
+
+
+Tamil Language Department
+-------------------------
+
+We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.  
+  
+
+### Tamil Language Key Programme:
+
+  
+
+> #### Tamil Reading Programme (P1-P6)
+> 
+> Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
+>   
+> Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.  
+>   
+>   
+> 
+> #### Show & Tell (P1&P2)
+> 
+> Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
+>   
+>   
+> 
+> #### Vaandu Portal (P1-P6)
+> 
+> The six-year curriculum uses Vaandu as a supporting portal for students to revise their work at their own pace encouraging them to be self-directed learners. Students enjoy the game based learning and are motivated to complete the learning packages.  
+>   
+>   
+> 
+> #### iMTL Portal Programme (P4-P6)
+> 
+> iMTL portal is used as an interactive tool to enhance students' learning. Students are taught to use this portal to share their answers for questions posted by the teachers. This platform gives students a chance to practice their touch typing skills as they post their answers as a mind map or on the collaborative board.  
+>   
+>   
+> 
+> #### Enrichment Class (P5-P6)
+> 
+> Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
+>   
+>   
+> 
+> #### Tamil Department Key Activities:
+> 
+>   
+> 
+> *   Deepavali Celebration
+> 
+> Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.  
+>   
+>   
+> 
+> *   MTL Fortnight Activities
+> 
+> MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
+
+
+![](/images/Departments/MT%205.png)
+
+
+*   P1 to P6 Internal Competition
+
+The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
+
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
