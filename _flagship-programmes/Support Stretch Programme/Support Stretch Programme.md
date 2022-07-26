@@ -17,7 +17,7 @@ Recognising that growth does not occur in a linear fashion, with some students s
 <img src="/images/Flagship%20Programmes/English%20Language.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/english-language">
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/science">
 <img src="/images/Flagship%20Programmes/Science.png" style="width:260px;height:290px;margin-left:15px;" align = "right">
 </a></p>
 
@@ -31,11 +31,11 @@ Recognising that growth does not occur in a linear fashion, with some students s
      style="width:55%">
 		 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/english-language">
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mathematics">
 <img src="/images/Flagship%20Programmes/Mathematics.png" style="width:250px;height:245px;margin-right:15px;" align = "left">
 </a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/english-language">
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mother-tongue-languages">
 <img src="/images/Flagship%20Programmes/Mother%20Tongue%20Languages.png" style="width:250px;height:255px;margin-left:15px;" align = "right">
 </a></p>
