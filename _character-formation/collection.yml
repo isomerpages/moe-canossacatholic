@@ -2,4 +2,5 @@ collections:
   character-formation:
     output: true
     order:
+      - Student Wellbeing.md
       - Faith Formation.md
