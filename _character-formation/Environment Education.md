@@ -37,3 +37,6 @@ Various exciting programmes are planned for the year where we honour what St Fra
  *   Assembly talks and recess activities on special environment commemorative days such as World Water Day and Earth Day to educate and empower Canossians in the area of environment.
  *   SLS packages for empowering each and every Canossian to lead their families in sustaining Mother Earth.
  *   Community outreach to our partners to include them in our journey.
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
