@@ -9,16 +9,16 @@ third_nav_title: Support Stretch Programme
 The CCPS English Language Stretch Programme aims to develop students into creative and critical thinkers who develop a deep appreciation of the arts.
 
   
+**<font size=5>Exploring Genres</font>**
 
-### Exploring Genres
 
 Students are exposed to different genres where they learn about the form and function of different types of poetry or styles of creative writing. From there, 
 
 students engage in in-depth discussions of how form expresses and enhances the meaning of the message communicated, thus developing their critical thinking and opening their eyes to a wide range of creative expression.   
 
   
+**<font size=5>Reading Circles</font>**
 
-### Reading Circles
 
 Reading Circles comprises a community of readers whose discussions centre on a particular novel. Through the reader response approach, 
 
