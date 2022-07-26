@@ -59,36 +59,27 @@ This programme aims to help students expand and extend students’ reading beyon
 
 **<font size=5>Effective Communication:</font>**
 
-Show & Tell
- 
+**Show & Tell**<br>
 Show & Tell is part and parcel of the Primary 1 & Primary 2 EL curriculum. It provides opportunities for students to build up their confidence level, self-esteem, social and listening skills. This helps them to become confident communicators.  
 
-Retelling
- 
+**Retelling**<br>
 Retelling activity has been rolled out for Primary 3 & Primary 4 students as part of their EL learning in the classroom. Retelling promotes thinking and metacognition along with Think Aloud, KWL and generating questions. It also provides opportunities for students to improve their verbal and comprehension skills as students begin to understand sequence, plot, and characterization as they build vocabulary and comprehension skills.  
 
-1-Minute Talk:
-
+**1-Minute Talk:**<br>
 This activity is aimed at Primary 5 & Primary 6 students to help students build up their oracy skills as well as to make them think on their feet. Students need to express their opinions and views on a given topic within a minute using appropriate vocabulary.     
 
-Writing:
+**<font size=5>Writing</font>**
 
-Canossian Writing Programme
- 
+**Canossian Writing Programme**<br>
 Our Canossian Writing Programme recognises our students as writers who seek to hone their craft. Carefully-crafted mini-lessons allow for the discussion and unpacking of authentic mentor texts for students to develop different writing techniques and styles. Teachers model the process by working on their own writing and conduct conferences with individual students. The students’ written work is then published for their peers to read so that students grow comfortable seeing themselves as part of a writing community, become more willing to take more risks and dive deeper into the process. In addition, they can get ideas from their peers’ writing.  
 
-Creative Writing
-
+**Creative Writing**<br>
 Creative Writing has been introduced in Primary 1 & Primary 2 to encourage students to exercise their creativity and use their imagination. At the same time, students are provided with opportunities to develop their ‘voice’ and communicate their thoughts and ideas freely. An annual Creative Writing Competition is also conducted for our students.  
 
-Journaling
-
+**Journaling** <br>
 Students are encouraged to read widely and respond to what they read. Journaling aims to develop students’ personal response and critical thinking skills.  
    
-
-I Love Literature:
-
-  
+**<font size=5>I Love Literature:</font>**  
 
 In line with the latest English Language Syllabus, "_I Love Literature_" gives every student a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our students participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
 
