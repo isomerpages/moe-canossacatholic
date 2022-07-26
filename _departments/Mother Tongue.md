@@ -50,33 +50,23 @@ The six-year Chinese curriculum aims to enhance students’ oral, listening and 
   
   
 
-#### P1 to P6 Writing Programme
-
-> The department's six years writing programme aims to develop students to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
+**P1 to P6 Writing Programme**<br>
+The department's six years writing programme aims to develop students to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
 
   
 
-> > Lower Primary:
-> 
-> > *   Primary 1: 3W Strategy
-> > 
-> > *   Who + Where + What
+<u>Lower Primary:</u>
+ *   Primary 1: 3W Strategy <br> 
+      * Who + Where + What
 
->   
+ *   Primary 2: 3W+1F Strategy <br>
+     * Who + Where + What + Feeling
 
-> > *   Primary 2: 3W+1F Strategy
-> > 
-> > *   Who + Where + What + Feeling
-> > 
-> >   
-
-> > Middle Primary:
-> 
-> > *   Primary 3:
-> > 
-> > *   Step 1: Circle
-> > *   Step 2: Match the Keyword
-> > *   Step 3: **3W+1F Strategy**
+<u>Middle Primary:</u>
+ *   Primary 3: <br>
+     *   Step 1: Circle <br>
+     *   Step 2: Match the Keyword <br>
+     *   Step 3: **3W+1F Strategy**
 
   
 
