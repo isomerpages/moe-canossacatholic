@@ -16,6 +16,7 @@ Recognising that growth does not occur in a linear fashion, with some students s
 
 <img src="/images/Flagship%20Programmes/Science.png" style="width:260px;height:290px;margin-left:15px;" align = "right">
 
+<br><br><br><br>
 
 <img src="/images/Flagship%20Programmes/Stretch%20Programme%20-%20Copy.jpg"  
      style="width:55%">
