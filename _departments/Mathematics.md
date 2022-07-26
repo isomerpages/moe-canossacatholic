@@ -30,8 +30,8 @@ Our Mathematics package aims to explicitly teach various skills. To better meet 
 **P1 to P6 ICT Mathematics** <br>
  Integrated lessons with the use of virtual manipulatives or other related websites will be conducted at least once a term. ICT tools can help students to understand mathematical concepts through visualization, exploration and experimentation while developing the students’ 21st century competencies such as self-directed learning and collaboration.
 
-
-![](/images/Departments/Math%201.jpg)
+<img src="/images/Departments/Math%201.jpg"  
+     style="width:75%">
 
 
 **<font size=5>Department Strategies</font>**
