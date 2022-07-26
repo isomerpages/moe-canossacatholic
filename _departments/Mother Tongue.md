@@ -70,12 +70,12 @@ The department's six years writing programme aims to develop students to become 
 
   
 
-> > *   Primary 4:
-> > 
-> > *   Step 1: Circle
-> > *   Step 2: Match the Keyword
-> > *   Step 3: **3W+1F Strategy**
-> > *   Step 4: Predict the outcome
+*   Primary 4:
+ 
+    *   Step 1: Circle <br>
+    *   Step 2: Match the Keyword <br>
+    *   Step 3: **3W+1F Strategy** <br>
+    *   Step 4: Predict the outcome
 
 > >   
 > > Upper Primary:  
