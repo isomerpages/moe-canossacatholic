@@ -28,15 +28,16 @@ The weeklong Canossian Saints’ week celebration culminated in a Eucharistic Ce
 Recognising that the family plays a central role in a child’s faith formation, the school structures activities and events that draw together and involve the whole family. A Family Lenten retreat was held to make our students aware of the Love of Jesus as their Good Shepherd and believe and trust in Him through His teachings in the Word. We also aim to reach out and support our Canossian families through the parent and parent-child bonding session, and to promote community growth and development in faith.
 
 
-![](/images/Character%20Formation/Faith%202.jpeg)
+<img src="/images/Character%20Formation/Faith%202.jpeg"  
+     style="width:65%">
 
 
 During the season of Lent, students also participated actively in the Gift of Love project where they saved part of their daily allowances in intricately designed money boxes which they had created out of recycled materials.
 
 
-![](/images/Character%20Formation/Faith%203.jpg)
 
-
+<img src="/images/Character%20Formation/Faith%203.jpg"  
+     style="width:85%">
 
 
   
