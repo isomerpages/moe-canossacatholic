@@ -16,12 +16,13 @@ The programme permeates at both staff and students level where, every Canossian:
 
 *   Is **<u>Aware</u>** of Man’s interaction with the environment and how it can have both positive and negative impact
 *   **<u>Appreciates</u>** the importance and necessity of preserving the environment
-*   <u>**Applies**</u> different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
+*   **<u>Applies</u>** different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
 
-![](/images/Character%20Formation/Environment%20Edu.png)
+<img src="/images/Character%20Formation/Environment%20Edu.png" 
+     style="width:75%">
 
 
-### Key Programmes:
+**<font size=5>Key Programmes:</font>**
 
   
 We empower our students as advocators of sustaining Mother Earth. Student leaders such as Green Leaders and Green Ambassadors are provided training so that they can take the lead in the school’s movement for environmental sustainability.
