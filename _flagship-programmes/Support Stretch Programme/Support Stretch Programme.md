@@ -29,7 +29,7 @@ Recognising that growth does not occur in a linear fashion, with some students s
 
 
 <img src="/images/Flagship%20Programmes/Stretch%20Programme%20-%20Copy.jpg"  
-     style="width:55%">
+     style="width:45%">
 		 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mathematics">
