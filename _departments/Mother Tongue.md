@@ -106,13 +106,12 @@ Students are taught how to identify the SVO during letter writing:
   
   
 
-> #### Chinese Language Key Activities
+**Chinese Language Key Activities** <br>
 
   
 
-> *   Lunar New Year Celebration
-> 
-> The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
+*   <u>Lunar New Year Celebration</u><br>
+ The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
 > soaked in the festive atmosphere through the performances.
 
 
