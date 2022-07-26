@@ -25,8 +25,8 @@ The 5-day programme was broken down into 3 segments - Experience, Encounter and 
 Recognising that every child is different and has varied interest and passion, our children were given the opportunity to explore and discover their interests in 12 different modules - Animation, Cajon, Cartooning, Culinary, Design, Drama, Entrepreneurship, Inline Skate, Jazz Dance, Media, Soccer and Urban Farming.
 
   
+**<font size=5>Animation - The Magic of Stop Motion</font>**
 
-### Animation - The Magic of Stop Motion
 
 Students learned to use everyday items to create a unique film using the frame-by-frame animation technique and the simplified steps to make a film - storyboarding, creating sets, visual and sound editing.
 
@@ -39,26 +39,27 @@ Students developed their sense of rhythm, strengthen their body’s muscular coo
 
 ![](/images/Flagship%20Programmes/Interest%20Week%203.jpg)
 
-### Cartooning - Stimulating Our Creativity
+
+**<font size=5>Cartooning - Stimulating Our Creativity</font>**
+
 
 Students were introduced to cartooning techniques of imaginative drawing and hands-on drawing and worked in small groups to explore visual elements, collaborative doodling and storytelling through cartoons. Students were given the platform to showcase and share their work pieces with their fellow participants at the end of the module.
 
 ![](/images/Flagship%20Programmes/Interest%20Week%204.jpg)
 
-### Culinary - Baking Made Easy
+**<font size=5>Culinary - Baking Made Easy</font>**
 
 Students experienced the joy in baking as they learned the basic baking skills and explored different flavours and textures through baking. Students brought back what they baked throughout the module.
 
 ![](/images/Flagship%20Programmes/Interest%20Week%205.jpeg)
 
-### Design - Designing a Living Space
+**<font size=5>Design - Designing a Living Space</font>**
 
 Students were introduced to the design thinking process which guided them to design in response to the user’s needs. They were encouraged to be creative with ways to reuse and recycle common materials from their daily lives for their creations.
 
 ![](/images/Flagship%20Programmes/Interest%20Week%206.jpg)
 
-
-### Drama - Rising Stars
+**<font size=5>Drama - Rising Stars</font>**
 
 Students developed communication skills through the exploration of various drama techniques (such as tableaux and thought tracking) and worked collaboratively with others to create a simple performance at the end of the module.
 
@@ -66,44 +67,42 @@ Students developed communication skills through the exploration of various drama
 
   
 
-  
+  **<font size=5>Entrepreneurship - Kids Biz</font>**
 
-### Entrepreneurship - Kids Biz
 
 Students were taught the fundamentals in starting and operating a business and they applied these fundamentals in setting up a stall to sell their products at the end of the module. They managed to raise funds through their sale for the elderly in Villa Francis.
 
 
 ![](/images/Flagship%20Programmes/Interest%20Week%207.jpeg)
 
-
-### Inline Skate - Building Confidence Through Skating
+  **<font size=5>Inline Skate - Building Confidence Through Skating</font>**
 
 Students developed their muscle endurance and strength, and achieved better balance and coordination through inline skating. Students became more confident in themselves as they continued to hone their inline-skating skills.
 
   
-
-  
-
-### Jazz Dance - Kids Jazz
+ **<font size=5>Jazz Dance - Kids Jazz</font>**
 
 Students explored the versatile, dynamic and expressive dance form of Jazz as they learnt the basic techniques and styles that included turns, kicks, jumps and skips. The sessions were conducted in a fun and lively manner where students were actively engaged as they developed their confidence, strength and coordination. They even performed a short dance routine to an upbeat song at the end of the module for their peers and teachers!
 
 ![](/images/Flagship%20Programmes/Interest%20Week%208.jpg)
 
-### Media - A Taste of News Reporting
+ **<font size=5>Media - A Taste of News Reporting</font>**
+
 
 Students experienced being a digital content creator. They learned journalism skills such as information gathering, conducting interviews, and writing and filming broadcasting news.
 
 
 ![](/images/Flagship%20Programmes/Interest%20Week%209.jpg)
 
-### Soccer - Shoot and Strike
+ **<font size=5>Soccer - Shoot and Strike</font>**
+
 
 Students learned offensive and defensive skills and strategies and applied basic skills (e.g. passing, dribbling, kicking), rules and etiquette in playing soccer.
 
 ![](/images/Flagship%20Programmes/Interest%20Week%2010.jpg)
 
-### Urban Farming - Growing Our Own Food!
+ **<font size=5>Urban Farming - Growing Our Own Food!</font>**
+
 
 Students explored the various methods in propagating plants such as vegetables and herbs and deepen their understanding of sustainable farming. At the end of each session, different seeds and crops were made available for students to take home to start their own mini urban farms.
 
@@ -111,4 +110,3 @@ Students explored the various methods in propagating plants such as vegetables a
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
-
