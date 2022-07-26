@@ -52,9 +52,9 @@ In addition to termly Faith Formation and weekly prayer sessions, Catholic staff
 In 2019, the Catholic Students’ Club was formed as part of the Catholic faith formation of the school. The objectives of the Catholic Students’ Club are to :  
   
 
-1.  Deepen our students’ love for God and the Catholic faith
-2.  Nurture our students in their faith formation and service for others
-3.  Build a community among the students for support in their faith journey
+    1.  Deepen our students’ love for God and the Catholic faith
+    2.  Nurture our students in their faith formation and service for others
+    3.  Build a community among the students for support in their faith journey
 
   
 The sessions are conducted once a month on a Wednesday and it is optional for P3 to P6 students in the VE Catechism Programme to participate in the club.  
