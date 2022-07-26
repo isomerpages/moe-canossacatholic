@@ -30,3 +30,16 @@ In CCPS, digital technologies are meaningfully and purposefully integrated in th
 Students are also exposed to different learning experiences with technology. The main learning platform is MOE Singapore Student Learning Space (SLS), which provides a safe and secure space for students to access a wide repertoire of learning materials created by MOE teachers.  
   
 Students are also exposed to different learning technologies such as G Suite (Google), Nearpod, Classkick, Padlet, Kahoot, and even Augmented Reality platforms. Our teachers select appropriate technological tools based on pedagogical affordance to enhance learning processes, allowing students to acquire knowledge, collaborate with each other, discuss and inquire ideas, practice learning, and even produce and create with technology.
+
+
+### Cyber Wellness@CCPS
+
+  
+**“_Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions._” ~ Mark Richardson**
+
+  
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. It is important for students to tap on the potential of the Internet as well as to be aware of the dangers involved in their interaction with the cyber world. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating the positive use of technology for the good of the community.  
+  
+In CCPS, our cyber wellness curriculum anchors strongly on developing the right values to navigate the cyber landscape.  
+  
+Based on MOE Cyber Wellness framework (Figure 1), the school has designed suitable cyber wellness lessons and programmes, anchoring on our school values of Charity, Humility, Forgiveness and Faith, as well as on the guiding pillars of Carlo Acutis, Patron Saint of the Internet (Figure 2).
