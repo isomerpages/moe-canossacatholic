@@ -18,27 +18,22 @@ Besides imparting the knowledge, skills and attitude in Art-making and Art-discu
 Even if they are not involved in art-related, creative fields in future, the capability to generate new ideas and draw insights will give the students a good stead to handle the challenges in the 21st century. And through their personal art expressions, the students are able to find their individual voice and inspire many hearts and souls.  
   
   
-
-### Our Curriculum
-
+**<font size=5>Our Curriculum</font>**
   
 Our Tier 1 6-years art curriculum is offered to all students as a foundation in art-making and art discussion. It promotes an inclusive culture and the holistic development of every student. Through art, students will learn about themselves and the world around them. The art modules are planned based on the “Seeing, Expressing, Appreciating (SEA)” approach.
 
 ![](/images/Flagship%20Programmes/HNS%201.jpeg)
 
 
-
-### Our Environment as a Living Art Gallery
-
+**<font size=5>Our Environment as a Living Art Gallery</font>**
   
 The walls in our common spaces are transformed into a living art gallery, donned with murals and artworks. They generate artistic dialogues and serve to provoke and inspire students to take risks, share their experiences, and unlock their creative capacities. The artworks, which centre on God, play an integral part in nurturing and growing the faith of the students. Many of these artworks also serve as teaching and learning resources that complement the art curriculum.
 
 
 ![](/images/Flagship%20Programmes/HNS%202.jpg)
 
-### Our Partnership
+**<font size=5>Our Partnership</font>**
 
-  
 Our school works closely with Canossaville Children & Community Services to provide opportunities for students attending Student Care to collaborate and create Art after school.
 
 <br><br><br><br><br><br>
