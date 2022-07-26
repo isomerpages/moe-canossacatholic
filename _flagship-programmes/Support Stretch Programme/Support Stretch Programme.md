@@ -17,12 +17,13 @@ Recognising that growth does not occur in a linear fashion, with some students s
 <img src="/images/Flagship%20Programmes/English%20Language.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
 </a></p>
 
+
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/science">
 <img src="/images/Flagship%20Programmes/Science.png" style="width:260px;height:290px;margin-left:15px;" align = "right">
 </a></p>
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
