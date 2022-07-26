@@ -43,3 +43,79 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 In CCPS, our cyber wellness curriculum anchors strongly on developing the right values to navigate the cyber landscape.  
   
 Based on MOE Cyber Wellness framework (Figure 1), the school has designed suitable cyber wellness lessons and programmes, anchoring on our school values of Charity, Humility, Forgiveness and Faith, as well as on the guiding pillars of Carlo Acutis, Patron Saint of the Internet (Figure 2).
+
+![](/images/Departments/ICT%202.jpg)
+
+<center>Figure 1 MOE Cyber Wellness Framework</center>
+
+
+![](/images/Departments/ICT%203.jpg)
+
+<center>Figure 2 Guiding Pillars of Carlo Acutis, Patron Saint of the Internet</center>
+
+Our Cyber Wellness education also includes lessons during FTGP (Form Teacher Guidance Period), recess programmes, and assembly talks on Cyber Safety and other cyber wellness related issues, which include cyberbullying, online scams, cyber security and differentiating between real and fake news.  
+  
+Below are the Cyber Wellness topics that are explicitly taught during FTGP across the levels.  
+  
+
+> #### FTGP Cyber Wellness Curriculum
+> 
+> P1 : Surf Safe  
+> P2 : Basic Netiquette  
+> P3 : Making Decisions (Do I Know you) / Stay Safe in the Cyberworld / Be a Cyberworld Safety Ambassador  
+> P4 : Too Much Too Little / Exploring the Internet  
+> P5 : Cut & Paste / When words hurt  
+> P6 : Navigating the internet / Scams & Spam
+
+
+![](/images/Departments/ICT%204.jpg)
+
+
+E-Learning Exercise  
+  
+CCPS conducts e-learning days for students, usually concurrently with Parents-Child-Teachers Conference (PCTC) / Meet the Parents (MTP) days. Teachers will design e-learning lessons on Student Learning Space (SLS) for students to attempt independently, The objectives of the exercise are to encourage students to take ownership for their own learning and to familiarise them with learning environment that is necessary in the event of school closure due to a national emergency.  
+  
+For device or broadband support, parents can refer to [IMDA NEU PC Plus](https://www.imda.gov.sg/programme-listing/neu-pc-plus) programme, or contact the school for advice.  
+  
+  
+
+### Code For Fun Programme
+
+  
+The Code for Fun Enrichment Programme is a collaboration between MOE and Infocomm Media Development Authority (IMDA), targeted at upper primary students. The programme includes learning of computational thinking concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers, to create an engaging coding experience for the students. This programme helps to expose students to the skills needed to embrace new opportunities in the digital economy.  
+  
+Students learnt about computational thinking concepts, how these concepts could be applied to aspects of daily life, and basic programming concepts such as debugging. They also developed logical thinking and problem-solving skills by breaking down problems into bite-sizes through mini-challenges.  
+  
+  
+
+### Class ICT Representatives Training
+
+  
+The ICT department conducts yearly training for students who are elected as ICT representatives for their classes.  
+  
+The objectives of the training are to support the representatives to develop technical interest and competencies, and to equip them with the necessary skills to support their teachers and classmates in the ICT needs of the class.  
+  
+The students are taught how to manage the Audio-Visual set-up in their classrooms, using Zoom conferencing, and the basics of managing iPads use in classrooms.  
+  
+  
+
+### ICT Infrastructure
+
+  
+To cater to the teaching and learning needs of our students, CCPS is equipped ICT infrastructure such as  
+  
+
+> *   Wide coverage of wireless networks
+> *   Apple TV equipped classrooms  
+>     
+> *   Computer Rooms
+> *   Information Technology Resource Room
+> *   Computers Carts
+> *   iPads Carts
+> *   Teaching and Learning Lab
+> *   Recording Room with Green Screen Technology
+
+
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
