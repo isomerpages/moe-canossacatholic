@@ -44,25 +44,24 @@ Through PACE, all CCPS students would be nurtured into young people who are futu
 Click **[here](https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps)** for details on **Learning for Life Programme P.A.C.E @ CCPS**.  
   
   
+**<font size=5>PE Curriculum</font>**
 
-### PE Curriculum
 
   
 The PE Curriculum focuses on the student’s development of different fundamental motor skills such as locomotor, non-locomotor and manipulative skills safely through a variety of physical settings and different mediums progressively across the levels. The students learning experiences are organised according to the following learning areas:  
   
 
-> *   Athletics (from Primary 3)
-> *   Dance
-> *   Games and Sports
-> *   Gymnastics
-> *   Outdoor Education
-> *   Physical Health and Fitness
-> *   Swimming (at Primary 2)
+*   Athletics (from Primary 3)
+ *   Dance
+ *   Games and Sports
+ *   Gymnastics
+ *   Outdoor Education
+ *   Physical Health and Fitness
+ *   Swimming (at Primary 2)
 
   
   
-
-### SwimSafer™ 2.0 Programme
+**<font size=5>SwimSafer™ 2.0 Programme</font>**
 
   
 SwimSafer™ 2.0 Programme by ActiveSG is offered to all our Primary 2 students. It aims to equip our students with basic swimming and water survival skills in a fun and engaging way.
