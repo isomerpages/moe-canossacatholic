@@ -81,8 +81,10 @@ Students are encouraged to read widely and respond to what they read. Journaling
 
 In line with the latest English Language Syllabus, "_I Love Literature_" gives every student a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our students participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
 
+<img src="/images/Departments/English%201.jpg"  
+     style="width:55%">
 
-![](/images/Departments/English%201.jpg)
+
 
 **<font size=5>Department Strategies</font>**  
 
