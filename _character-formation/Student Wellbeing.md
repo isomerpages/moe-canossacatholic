@@ -42,8 +42,9 @@ Our school counsellor organises programmes to proactively educate our students o
   
 Our counselling referral system is as shown:
 
+<img src="/images/Character%20Formation/Student%20Wellbeing%201.png" 
+     style="width:45%">
 
-![](/images/Character%20Formation/Student%20Wellbeing%201.png)
 
 
 Parental consent is required when a student is referred to the School Counsellor for counselling. This system aims to provide timely intervention and support to address students’ social-emotional needs and help them cope and meet their academic and non-academic needs.  
@@ -64,8 +65,10 @@ The following systems have been implemented:
 *   Class Peer Support Leaders
 
 
-![](/images/Character%20Formation/Student%20Wellbeing%202.jpg)
 
+<img src="/images/Character%20Formation/Student%20Wellbeing%202.jpg" 
+     style="width:65%">
+		 
 **Rainbow Programme**
 
   
