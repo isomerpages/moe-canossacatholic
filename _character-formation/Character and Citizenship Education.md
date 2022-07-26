@@ -22,8 +22,9 @@ As part of Canossian Character Formation, the Character & Citizenship Education 
   
 CCE lesson is one of the components in Character and Citizenship Education, focusing on the teaching of values, knowledge and skills for CCE in the Mother Tongue Languages (MTL). For students who offer the non-Tamil Indian Languages (NTIL), namely Bengali, Punjabi and Urdu as their Mother Tongue and for those who are exempted from taking MTL, CCE will be taught in English. Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:
 
+<img src="/images/Character%20Formation/CCE%201.png"  
+     style="width:75%">
 
-![](/images/Character%20Formation/CCE%201.png)
 
 
 **Form Teacher Guidance Period (FTGP) for Primary 1 to P6**
@@ -42,7 +43,9 @@ FTGP is one of the components in Character and Citizenship Education, focusing o
  *   Facilitate holistic development of students in the five domains, that is, moral, cognitive, physical, social and aesthetics
  *   Provide varied avenues for students to develop social and emotional competencies (self-management, self-awareness, social awareness, relationship management and responsible decision making)
 
-![](/images/Character%20Formation/CCE%202.png)
+<img src="/images/Character%20Formation/CCE%202.png"  
+     style="width:45%">
+
 
 **Sexuality Education (SEd) for Primary 5 and Primary 6**
 
@@ -90,8 +93,9 @@ While National Education has been infused in the various subjects, SS Learning j
 *   Racial Harmony Day
 *   National Day
 
+<img src="/images/Character%20Formation/CCE%203.jpg"  
+     style="width:70%">
 
-![](/images/Character%20Formation/CCE%203.jpg)
 
 **Festive Celebrations:**
 
@@ -100,8 +104,8 @@ While National Education has been infused in the various subjects, SS Learning j
 *   Hari Raya Puasa
 *   Deepavali
 
-![](/images/Character%20Formation/CCE%205.jpg)
-
+<img src="/images/Character%20Formation/CCE%205.jpg"  
+     style="width:80%">
 
 
 **<font size=5>Student Recognition and Awards</font>**
