@@ -77,34 +77,31 @@ The department's six years writing programme aims to develop students to become 
     *   Step 3: **3W+1F Strategy** <br>
     *   Step 4: Predict the outcome
 
-> >   
-> > Upper Primary:  
-> > 
-> > *   Primary 5 and 6:
-> > 
-> > *   Step 1: Circle
-> > *   Step 2: Match the Keyword
-> > *   Step 3: **3W+1F Strategy**
-> > *   Step 4: Predict the outcome
-> > *   Step 5: Feeling Meter (Descriptive Phrases)
+   
+ <u>Upper Primary:</u>  
+ 
+ *   Primary 5 and 6:
+     *   Step 1: Circle <br>
+     *   Step 2: Match the Keyword <br>
+     *   Step 3: **3W+1F Strategy** <br>
+     *   Step 4: Predict the outcome <br>
+     *   Step 5: Feeling Meter (Descriptive Phrases)
 
   
   
 
-> #### P4 to P6 ChineseGO Junior Mobile Application
-
-> Chinese GO! is an educational mobile app developed to build students’ interest in acquiring key vocabulary and content to improve their communication proficiency in Chinese Language. The app is conceptualized and designed by Chinese teachers from Canossa Catholic Primary School and Saint Anthony Canossian Primary School, it aims to help students in learning Chinese Language through a fun and targeted way.
+**P4 to P6 ChineseGO Junior Mobile Application**<br>
+Chinese GO! is an educational mobile app developed to build students’ interest in acquiring key vocabulary and content to improve their communication proficiency in Chinese Language. The app is conceptualized and designed by Chinese teachers from Canossa Catholic Primary School and Saint Anthony Canossian Primary School, it aims to help students in learning Chinese Language through a fun and targeted way.
 
   
   
 
-#### P4 to P6 Letter Writing Programme
+**P4 to P6 Letter Writing Programme** <br>
+Students are taught how to identify the SVO during letter writing:  
 
-> Students are taught how to identify the SVO during letter writing:  
-
-> > *   **S**ubject – who they are writing to
-> > *   **V**ariable – when and where (e.g the date, time and place, etc)
-> > *   **O**bjective – why the letter is written
+*   **<u>S</u>** ubject – who they are writing to
+*   **<u>V</u>** ariable – when and where (e.g the date, time and place, etc)
+*   **<u>O</u>** bjective – why the letter is written
 
   
   
