@@ -8,7 +8,7 @@ description: ""
 **<font size=5>Chinese Language Department</font>**<br>
 The six-year Chinese curriculum aims to enhance students’ oral, listening and writing skills. The department aims to inculcate in students a love and interest in the learning of Chinese Language through the use of Information Technology and differentiated learning in class. We also aim to nurture learners who are exemplary in character and devoted to the life-long learning of the Chinese Language and its culture.  
   
-**<font size=4>Chinese Language Key Programme:</font>**<br>
+**<font size=5>Chinese Language Key Programme:</font>**<br>
 
 **P2-P6 Modular Approach in Teaching and Learning**<br>
  *   Parallel classes are formed for each level to better cater to the needs of the different learners. Teachers are able to customize their teaching to meet the different learning needs of the students.
@@ -148,7 +148,7 @@ The Malay Language department aims to build the joy of learning the Malay Langua
 
 
 
-**<font size=4>Malay Language Key Programme:</font>**<br>
+**<font size=5>Malay Language Key Programme:</font>**<br>
 
 
 **P1 to P6 Malay Reading Programme**<br>
@@ -197,7 +197,7 @@ We cultivate love for the language by using various hands-on language games and 
   
 
 
-**<font size=4>Tamil Language Key Programme:</font>**<br>
+**<font size=5>Tamil Language Key Programme:</font>**<br>
 
 **Tamil Reading Programme (P1-P6)**<br>
 Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
