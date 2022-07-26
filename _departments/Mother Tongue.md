@@ -142,64 +142,42 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 ![](/images/Departments/MT%203.jpg)
 
 
-
-Malay Language Department
--------------------------
-
+**<font size=5>Malay Language Department</font>**<br>
 The Malay Language department aims to build the joy of learning the Malay Language so that our students develop the love and passion for the language and culture. The six-year Malay curriculum hones our students’ oral, listening and writing skills through ICT and differentiated learning which taps on various resources to help students read, write and communicate effectively. We also aim to inculcate knowledge and values so that our learners will be responsible citizens who are proud of their Malay heritage and culture.  
   
 
-### Malay Language Key Programme:
 
-  
 
-> #### P1 to P6 Malay Reading Programme
-> 
-> The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.  
->   
-> 
-> #### P1 to P6 School based Oracy programme
+**<font size=4>Malay Language Key Programme:</font>**<br>
 
-> >   
-> > Reading:
-> 
-> > *   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
-> 
-> >   
-> > Conversation:
-> 
-> > *   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
-> > 
-> >   
-> 
-> > Lower and Middle Primary: 4P Strategy
-> 
-> > *   Primary 1: 1P (What is in the picture?)
-> > *   Primary 2: 2P (What is in the picture? + Feelings)
-> > *   Primary 3: 3P (What is in the picture? + Feelings + Personal Experience)
-> > *   Primary 4: 4P (What is in the picture? + Feelings + Personal Experience + Reason)
-> 
-> >   
-> 
-> > Upper Primary: 4PAS Strategy
-> 
-> > *   Primary 5: 4P + Impact
-> > *   Primary 6: 4P + Impact + Suggestions
 
->   
-> 
-> #### Malay Department Key Activities:
-> 
->   
-> 
-> *   Hari Raya Celebration
-> 
-> The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.  
->   
-> 
-> *   MTL Fortnight Activities
-> 
-> The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
+**P1 to P6 Malay Reading Programme**<br>
+The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.  
+
+**P1 to P6 School based Oracy programme**
+
+<u>Reading:</u>
+*   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
+
+<u>Conversation: </u>
+*   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
+
+<u>Lower and Middle Primary: 4P Strategy</u>
+ *   Primary 1: 1P (What is in the picture?)
+ *   Primary 2: 2P (What is in the picture? + Feelings)
+ *   Primary 3: 3P (What is in the picture? + Feelings + Personal Experience)
+ *   Primary 4: 4P (What is in the picture? + Feelings + Personal Experience + Reason)
+
+<u>Upper Primary: 4PAS Strategy</u><br>
+ *   Primary 5: 4P + Impact
+ *   Primary 6: 4P + Impact + Suggestions
+
+**Malay Department Key Activities:**
+ *   <u>Hari Raya Celebration</u><br>
+The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.  
+
+*   <u>MTL Fortnight Activities</u><br>
+The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
 
 
 ![](/images/Departments/MT%204.png)
