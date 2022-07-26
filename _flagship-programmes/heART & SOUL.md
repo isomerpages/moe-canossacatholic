@@ -22,15 +22,18 @@ Even if they are not involved in art-related, creative fields in future, the cap
   
 Our Tier 1 6-years art curriculum is offered to all students as a foundation in art-making and art discussion. It promotes an inclusive culture and the holistic development of every student. Through art, students will learn about themselves and the world around them. The art modules are planned based on the “Seeing, Expressing, Appreciating (SEA)” approach.
 
-![](/images/Flagship%20Programmes/HNS%201.jpeg)
+<img src="/images/Flagship%20Programmes/HNS%201.jpeg"  
+     style="width:55%">
+
 
 
 **<font size=5>Our Environment as a Living Art Gallery</font>**
   
 The walls in our common spaces are transformed into a living art gallery, donned with murals and artworks. They generate artistic dialogues and serve to provoke and inspire students to take risks, share their experiences, and unlock their creative capacities. The artworks, which centre on God, play an integral part in nurturing and growing the faith of the students. Many of these artworks also serve as teaching and learning resources that complement the art curriculum.
 
+<img src="/images/Flagship%20Programmes/HNS%202.jpg"  
+     style="width:85%">
 
-![](/images/Flagship%20Programmes/HNS%202.jpg)
 
 **<font size=5>Our Partnership</font>**
 
