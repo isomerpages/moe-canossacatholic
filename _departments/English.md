@@ -7,16 +7,16 @@ description: ""
 
 The six-year English Language (EL) curriculum aims to develop students to be confident and effective communicators of the English Language. It is aligned with the National Syllabus and STELLAR curriculum. Language is a means of communication, guided by purpose, audience, context and culture; hence language learning is a meaningful and an engaging experience for our students in CCPS.  
   
+**<font size=5>The EL Programme aims to:</font>**
 
-### The EL Programme aims to:
 
   
 
-> *   Instil a love for lifelong reading
-> *   Develop critical thinking through extensive reading and responding to texts
-> *   Develop in students a good level of language proficiency to enable effective speaking, reading and writing.
-> *   Help students interact effectively by making the correct linguistic choices to suit purpose, audience, context and culture.
-> *   Emphasise differentiation of instruction to meet the special needs, abilities and interests of our students
+ *   Instil a love for lifelong reading
+ *   Develop critical thinking through extensive reading and responding to texts
+ *   Develop in students a good level of language proficiency to enable effective speaking, reading and writing.
+ *   Help students interact effectively by making the correct linguistic choices to suit purpose, audience, context and culture.
+ *   Emphasise differentiation of instruction to meet the special needs, abilities and interests of our students
 
   
 
