@@ -61,8 +61,9 @@ P4 : Too Much Too Little / Exploring the Internet
 P5 : Cut & Paste / When words hurt  
 P6 : Navigating the internet / Scams & Spam
 
+<img src="/images/Departments/ICT%204.jpg"  
+     style="width:75%">
 
-![](/images/Departments/ICT%204.jpg)
 
 **<font size=5>E-Learning Exercise </font>**
   
