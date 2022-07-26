@@ -32,9 +32,7 @@ The six-year English Language (EL) curriculum aims to develop students to be con
  *   Extensive opportunities for engagement in sustained, authentic & creative writing
 
   
-  **<font size=5>Reading Intervention:</font>**
-
-
+  **<font size=5>Reading Intervention:</font>**<br>
 The Reading Intervention Programmes include the following:  
 
    
