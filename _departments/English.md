@@ -18,52 +18,44 @@ The six-year English Language (EL) curriculum aims to develop students to be con
  *   Help students interact effectively by making the correct linguistic choices to suit purpose, audience, context and culture.
  *   Emphasise differentiation of instruction to meet the special needs, abilities and interests of our students
 
-  
+  **<font size=5>The foundation of EL learning will be strengthened through:</font>**
 
-### The foundation of EL learning will be strengthened through:
-
-  
-
-> *   A greater focus on oral communication – listening & speaking
-> *   Enjoyment in the learning of English through fun-filled activities
-> *   The explicit teaching of grammar in context (focus on word, phrase & sentence level grammar)
-> *   Phonemic awareness, phonics & early literacy skills – lay foundation for acquiring reading fluency, comprehension & viewing skills and strategies progressively
-> *   Word study skills and extensive reading & viewing – building & use of vocabulary progressively
-> *   Development of writing skills & learner strategies
-> *   Extensive opportunities for engagement in sustained, authentic & creative writing
 
   
 
-### Reading Intervention:
+*   A greater focus on oral communication – listening & speaking
+*   Enjoyment in the learning of English through fun-filled activities
+*   The explicit teaching of grammar in context (focus on word, phrase & sentence level grammar)
+ *   Phonemic awareness, phonics & early literacy skills – lay foundation for acquiring reading fluency, comprehension & viewing skills and strategies progressively
+ *   Word study skills and extensive reading & viewing – building & use of vocabulary progressively
+ *   Development of writing skills & learner strategies
+ *   Extensive opportunities for engagement in sustained, authentic & creative writing
+
+  
+  **<font size=5>Reading Intervention:</font>**
+
 
 The Reading Intervention Programmes include the following:  
 
->   
-> 
-> #### Language Support Programme (LSP)
-> 
-> This is an MOE’s early intervention programme for Primary 1 and Primary 2 students who have not attained developmentally appropriate language and literacy skills in English Language. Students who enter Primary 1 and struggle with oral and reading skills will be taught basic oral language, reading and spelling skills so that they can learn and follow in their regular classes. These students will continue with the programme in Primary 2 if they have not attained developmentally appropriate language and literacy skills in English.  
->   
-> 
-> #### Remedial Reading Programme (RRP)
-> 
-> RRP is another of MOE’s additional literacy support programmes and is implemented at Primary 3 and Primary 4 for students who still have weak literacy skills despite having completed the Learning Support Programme in Primary 1 and Primary 2. The programme teaches students a range of strategies for reading and reading comprehension which will enable them to better manage their learning in their regular classrooms.  
->   
-> 
-> #### School-based Dyslexia Remediation (SDR)
-> 
-> SDR is a 2-year intervention programme to support identified students with dyslexia in Primary 3 and Primary 4. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. In Primary 3, students are taught reading and spelling skills to help them learn better in their regular classes. In Primary 4, students are also taught comprehension skills, in addition to reading and spelling skills.  
->   
-> 
-> #### Structured Reading Programme
-> 
-> This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words.  
->   
-> 
-> #### Extensive Reading Programme
-> 
-> This programme aims to help students expand and extend students’ reading beyond the curriculum.  
->   
+   
+
+**Language Support Programme (LSP)**<br>
+This is an MOE’s early intervention programme for Primary 1 and Primary 2 students who have not attained developmentally appropriate language and literacy skills in English Language. Students who enter Primary 1 and struggle with oral and reading skills will be taught basic oral language, reading and spelling skills so that they can learn and follow in their regular classes. These students will continue with the programme in Primary 2 if they have not attained developmentally appropriate language and literacy skills in English.  
+ 
+
+**Remedial Reading Programme (RRP)**<br>
+RRP is another of MOE’s additional literacy support programmes and is implemented at Primary 3 and Primary 4 for students who still have weak literacy skills despite having completed the Learning Support Programme in Primary 1 and Primary 2. The programme teaches students a range of strategies for reading and reading comprehension which will enable them to better manage their learning in their regular classrooms.  
+ 
+ 
+**School-based Dyslexia Remediation (SDR)**<br>
+SDR is a 2-year intervention programme to support identified students with dyslexia in Primary 3 and Primary 4. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. In Primary 3, students are taught reading and spelling skills to help them learn better in their regular classes. In Primary 4, students are also taught comprehension skills, in addition to reading and spelling skills.  
+
+**Structured Reading Programme** <br>
+This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words.     
+
+**Extensive Reading Programme**<br>
+This programme aims to help students expand and extend students’ reading beyond the curriculum.  
+
 
 ### Effective Communication:
 
