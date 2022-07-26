@@ -44,7 +44,7 @@ FTGP is one of the components in Character and Citizenship Education, focusing o
  *   Provide varied avenues for students to develop social and emotional competencies (self-management, self-awareness, social awareness, relationship management and responsible decision making)
 
 <img src="/images/Character%20Formation/CCE%202.png"  
-     style="width:35%">
+     style="width:45%">
 
 
 **Sexuality Education (SEd) for Primary 5 and Primary 6**
