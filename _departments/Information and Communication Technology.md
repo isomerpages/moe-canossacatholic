@@ -17,11 +17,7 @@ The ICT Department in CCPS aims to nurture a community of future-ready Canossian
 *   Efficient and robust ICT infrastructure and support for staff and students
 
   
-
-### ICT in Teaching and Learning - Total Curriculum Integration
-
-
-
+**<font size=5>ICT in Teaching and Learning - Total Curriculum Integration</font>**
 
 <img src="/images/Departments/ICT%201.jpg" style="width:183px;height:240px;margin-right:10px;" align = "left">
 
@@ -31,8 +27,7 @@ Students are also exposed to different learning experiences with technology. The
   
 Students are also exposed to different learning technologies such as G Suite (Google), Nearpod, Classkick, Padlet, Kahoot, and even Augmented Reality platforms. Our teachers select appropriate technological tools based on pedagogical affordance to enhance learning processes, allowing students to acquire knowledge, collaborate with each other, discuss and inquire ideas, practice learning, and even produce and create with technology.
 
-
-### Cyber Wellness@CCPS
+**<font size=5>Cyber Wellness@CCPS</font>**
 
   
 **“_Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions._” ~ Mark Richardson**
@@ -58,14 +53,13 @@ Our Cyber Wellness education also includes lessons during FTGP (Form Teacher Gui
 Below are the Cyber Wellness topics that are explicitly taught during FTGP across the levels.  
   
 
-> #### FTGP Cyber Wellness Curriculum
-> 
-> P1 : Surf Safe  
-> P2 : Basic Netiquette  
-> P3 : Making Decisions (Do I Know you) / Stay Safe in the Cyberworld / Be a Cyberworld Safety Ambassador  
-> P4 : Too Much Too Little / Exploring the Internet  
-> P5 : Cut & Paste / When words hurt  
-> P6 : Navigating the internet / Scams & Spam
+**FTGP Cyber Wellness Curriculum**<br>
+P1 : Surf Safe  
+P2 : Basic Netiquette  
+P3 : Making Decisions (Do I Know you) / Stay Safe in the Cyberworld /Be a Cyberworld Safety Ambassador  
+P4 : Too Much Too Little / Exploring the Internet  
+P5 : Cut & Paste / When words hurt  
+P6 : Navigating the internet / Scams & Spam
 
 
 ![](/images/Departments/ICT%204.jpg)
