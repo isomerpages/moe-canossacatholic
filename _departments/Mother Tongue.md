@@ -112,34 +112,30 @@ Students are taught how to identify the SVO during letter writing:
 
 *   <u>Lunar New Year Celebration</u><br>
  The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
-> soaked in the festive atmosphere through the performances.
+soaked in the festive atmosphere through the performances.
 
 
 
 ![](/images/Departments/MT%201.jpg)
 
 
-*   MTL Fortnight Activities
-
+*   <u>MTL Fortnight Activities</u><br>
 The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.
 
 ![](/images/Departments/MT%202.png)
 
 
-*   P1 to P6 Internal Competition
-
+*   <u>P1 to P6 Internal Competition</u><br>
 The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
 
   
 
-*   External Competition
-
+*   <u>External Competition</u><br>
 Students in schools are given the opportunity to participate in various external competitions such as calligraphy, story-telling and writing competitions.
 
   
 
-*   Mid-Autumn Festival Celebration
-
+*   <u>Mid-Autumn Festival Celebration</u> <br>
 All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
 
 
