@@ -183,19 +183,16 @@ The Malay Language Department has organized Mother Tongue Language Fortnight Act
 ![](/images/Departments/MT%204.png)
 
 
-*   P1 to P6 Internal Competition
+*   <u>P1 to P6 Internal Competition</u>
 
 The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.  
   
 
-*   External Competition
+*   <u>External Competition</u>
 
 P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.
 
-
-Tamil Language Department
--------------------------
-
+**<font size=5>Tamil Language Department</font>**<br>
 We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.  
   
 
