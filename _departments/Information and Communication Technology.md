@@ -5,4 +5,4 @@ description: ""
 ---
 **<font size=6>Information and Communication Technology</font>**
 
-**<font size=5>Chinese Language Department</font>**<br>
+**"_We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world._" ~ David Warlick**
