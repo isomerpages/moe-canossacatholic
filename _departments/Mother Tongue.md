@@ -226,7 +226,7 @@ MTL Fortnight week is one of the most anticipated weeks of learning for the stud
 ![](/images/Departments/MT%205.png)
 
 
-*   P1 to P6 Internal Competition
+*   <u>P1 to P6 Internal Competition</u>
 
 The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
 
