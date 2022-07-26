@@ -5,67 +5,47 @@ description: ""
 ---
 **<font size=6>Mother Tongue</font>**
 
-Chinese Language Department
----------------------------
-
+**<font size=5>Chinese Language Department</font>**<br>
 The six-year Chinese curriculum aims to enhance students’ oral, listening and writing skills. The department aims to inculcate in students a love and interest in the learning of Chinese Language through the use of Information Technology and differentiated learning in class. We also aim to nurture learners who are exemplary in character and devoted to the life-long learning of the Chinese Language and its culture.  
   
+**<font size=4>Chinese Language Key Programme:</font>**<br>
 
-### Chinese Language Key Programme:
-
-  
-
-#### P2-P6 Modular Approach in Teaching and Learning
-
-> *   Parallel classes are formed for each level to better cater to the needs of the different learners. Teachers are able to customize their teaching to meet the different learning needs of the students.
-> *   All Primary 3 and 4 Chinese Language Higher and Middle Progressing classes will use Higher Chinese Textbook from 2022 onwards to stretch students in their learning of Chinese language.
-> *   MOE ABLE programme to support students who require additional support in the learning of Chinese Language for Primary 3 and 4 learners.
+**P2-P6 Modular Approach in Teaching and Learning**<br>
+ *   Parallel classes are formed for each level to better cater to the needs of the different learners. Teachers are able to customize their teaching to meet the different learning needs of the students.
+ *   All Primary 3 and 4 Chinese Language Higher and Middle Progressing classes will use Higher Chinese Textbook from 2022 onwards to stretch students in their learning of Chinese language.
+ *   MOE ABLE programme to support students who require additional support in the learning of Chinese Language for Primary 3 and 4 learners.
 
   
   
 
-#### P1 to P6 Chinese Reading Programme and E-Zhishi Portal
+**P1 to P6 Chinese Reading Programme and E-Zhishi Portal** <br>
+ *   As part of the department’s efforts to promote reading among students, students from the lower, middle and upper primary levels subscribe to selected Chinese newspapers.
+ *   The department also promotes reading through our Chinese department class library programme where teachers lead students in the reading of stories and news articles.
+ 
+   
+   
 
-> *   As part of the department’s efforts to promote reading among students, students from the lower, middle and upper primary levels subscribe to selected Chinese newspapers.
-> *   The department also promotes reading through our Chinese department class library programme where teachers lead students in the reading of stories and news articles.
-> 
->   
->   
-> 
-> #### P1 to P6 School based Oracy programme
-> 
->   
+**P1 to P6 School based Oracy programme**
 
-> > Reading:
 
-> > *   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
 
->   
-> 
-> > Conversation:
+<u>Reading:</u><br>
+*   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
 
-> > *   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
+<u>Conversation:</u> <br>
+*   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
 
->   
-> 
-> > Lower Primary: FAR Strategy
+<u>Lower Primary: FAR Strategy</u> <br>
+*   Question 1: Feeling + Action + Reason (FAR strategy)
 
-> > *   Question 1: Feeling + Action + Reason (FAR strategy)
+<u>Middle Primary: FAR + PEEL Strategy</u> <br>
+*   Question 1: Feeling + Action + Reason (FAR strategy)
+*   Question 2: (Point + Explain + Example + Link (PEEL strategy)
 
->   
-> 
-> > Middle Primary: FAR + PEEL Strategy
-
-> > *   Question 1: Feeling + Action + Reason (FAR strategy)
-> > *   Question 2: (Point + Explain + Example + Link (PEEL strategy)
-
->   
-> 
-> > Upper Primary: FAR + PEEL + 1234 Strategy
-
-> > *   Question 1: Feeling + Action + Reason (FAR strategy)
-> > *   Question 2: (Point + Explain + Example + Link (PEEL strategy)
-> > *   Question 3: 1234 (What can we do? + How can we do? Why? Outcome?)
+<u>Upper Primary: FAR + PEEL + 1234 Strategy</u> <br>
+*   Question 1: Feeling + Action + Reason (FAR strategy)
+*   Question 2: (Point + Explain + Example + Link (PEEL strategy)
+*   Question 3: 1234 (What can we do? + How can we do? Why? Outcome?)
 
   
   
