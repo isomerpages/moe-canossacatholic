@@ -9,9 +9,8 @@ description: ""
 **heART & Soul,** which is part of our [**HeARTs programme**](https://canossacatholicpri.moe.edu.sg/departments/aesthetics), is our school’s distinctive art programme, designed to have a transformative impact on the students.  
   
 
-> _Your soul is the part of you that consists of your mind, character, thoughts, and feelings. You can refer to someone's heart when you are talking about their deep feelings and beliefs.  
-> \- Definition heart and soul (taken from Collins Dictionary)  
-> _
+_Your soul is the part of you that consists of your mind, character, thoughts, and feelings. You can refer to someone's heart when you are talking about their deep feelings and beliefs._  
+  _-Definition heart and soul (taken from Collins Dictionary)_  
 
   
 Besides imparting the knowledge, skills and attitude in Art-making and Art-discussion, heART & Soul shapes and engages the students’ heart and soul in what they do through their Art experience in the curriculum and environment. These art experiences allow the students to think out of the box and use uncommon materials to create Art. Students learn to see possibilities in everyday materials and creatively combine ideas to form new ideas.  
