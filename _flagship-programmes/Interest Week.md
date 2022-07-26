@@ -7,11 +7,11 @@ description: ""
 
 **<font size=5>Interest Week: Discovering the Unique Me!</font>**
 
-<center>
+
 	
 **_“…I am fearfully and wonderfully made…” - Psalm 139:14_**
 	
-</center>
+
 
 Discovering the Unique Me! aims to inspire our children to aspire by providing platforms for them to explore their values, interests, personalities and skills, raise their awareness of different types of education and career pathways and equip themselves with the values, skills and dispositions of lifelong learning to make informed choices regarding their education.
 
