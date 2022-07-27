@@ -50,7 +50,9 @@ Recognising the increasing popularity of digital media in the aesthetics, the us
 The quality of our Arts Education and that of our performing Arts groups has been recognized through a number of awards, in particular the National Arts Education Award (NAEA) - Silver (2009-2012), the Glow Award (2013-2016) and the SYF Certificates of Accomplishment (2014, 2016 and 2018) in Choir and Modern Dance.
 
 
-![](/images/Departments/Aesthetics%203.jpg)
+
+<img src="/images/Departments/Aesthetics%203.jpg"  
+     style="width:75%">
 
 
 <br><br><br><br><br><br>
