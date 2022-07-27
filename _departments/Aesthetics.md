@@ -22,7 +22,10 @@ The art curriculum in our school provides a foundation for all our students to u
 *   Students are exposed to different local and global artists and a wide variety of art forms such as 2D, 3D, Design and Digital Media.
 *   Cooperative learning structures and thinking routines are infused into the different art modules
 
-![](/images/Departments/Aesthetics%201.png)
+
+<img src="/images/Departments/Aesthetics%201.png"  
+     style="width:75%">
+
 
 **<font size=5>Music Curriculum @ CCPS</font>**
 
