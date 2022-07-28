@@ -2,4 +2,5 @@ collections:
   gallery:
     output: true
     order:
+      - School Events & Progs 2022/School Events & Programmes 2022.md
       - School Events & Progs 2022/.keep
