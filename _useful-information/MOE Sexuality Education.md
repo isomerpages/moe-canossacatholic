@@ -53,7 +53,7 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 7. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.   
   
   
-**<font size=5>At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:**
+**<font size=5>At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:</font>**
 
 
 **<center>Primary 5</center>**
