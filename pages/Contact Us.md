@@ -21,7 +21,7 @@ Singapore 387621
 
 **Fax     :** +65 6844 1417
 
-**Email :** ccps@moe.edu.sg 
+**Email :** <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a>
 
   
 
