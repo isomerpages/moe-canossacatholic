@@ -123,7 +123,7 @@ Here are some PARENTing Tips to guide your child in this digital age.
 
 **Safe & Smart Online Parents Guide**
 
-*    [Safe and Smart Online Parent Guide](https://canossacatholicpri-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Useful%20Information/Cyber%20Wellness%20Tips/4.2%20Useful%20Information%20-%20Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
+*    [Safe and Smart Online Parent Guide](/files/Useful%20Information%20-%20Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
 
   
 
