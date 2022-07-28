@@ -43,14 +43,14 @@ During school operating hours, students should contact the School-based Helpline
 
   
 
-#### Non-School Operating Hours
+ **Non-School Operating Hours**
 
   
 Outside the school operating hours, students should contact the SLS Helpdesk for support.  
   
 **SLS Helpdesk:** 67026513  
   
-**Operating Hours:**  
+**<u>Operating Hours:</u>**  
 **Mondays - Thursdays:** 4:00 pm to 9:00 pm  
 **Fridays:** 3:30 pm to 9:00 pm  
 **Saturdays:** 9:00 am to 3:00 pm  
@@ -62,3 +62,7 @@ You can also email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@s
 When contacting the SLS Helpdesk, please include your **child’s full name, name of school and form class**.  
   
 For device or broadband support, parents can refer to **[IMDA NEU PC Plus programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)**, or contact the school for advice.
+
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
