@@ -20,5 +20,4 @@ CCPS will be rolling out Student iCON progressively.
 Use a web browser (e.g. Chrome) on your computer or mobile devices when accessing MOE iCON account.  
   
   
-
-#### G Suite Applications Available for Primary 1 to 3 (Email is disabled)
+**<font size=5>G Suite Applications Available for Primary 1 to 3 (Email is disabled)</font>**
