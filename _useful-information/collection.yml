@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - Service Providers Contact Numbers.md
       - School Gate Opening Hours.md
       - Publications.md
       - MOE Sexuality Education.md
