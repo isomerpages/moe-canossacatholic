@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - MOE Sexuality Education.md
       - My SkillsFuture.md
       - Cyber Wellness.md
       - Students iCon Account.md
