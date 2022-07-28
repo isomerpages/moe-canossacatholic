@@ -7,7 +7,7 @@ description: ""
 
 Parents Gateway is mobile application developed by the Ministry of Education and GovTech to enable schools to interact with parents more conveniently on administrative matters. It is available for both iOS and Andriod.  
   
-You will need a SingPass to log into Parents Gateway. Refer to the&nbsp;[instructional guide](http://canossacatholicpri.moe.edu.sg/qql/slot/u276/Useful%20Information/Parents%20Gateway/2.1%20Useful%20Information%20-%20Instructions%20for%20onboarding%20Parents%20Gateway.pdf)&nbsp;on the onboarding process to Parents Gateway.  
+You will need a SingPass to log into Parents Gateway. Refer to the&nbsp;[instructional guide](/files/Useful%20Information%20-%20Instructions%20for%20onboarding%20Parents%20Gateway.pdf)&nbsp;on the onboarding process to Parents Gateway.  
   
 Click on the link below to download the Parents Gateway application from Apple App Store or Google Play Store.  
   
