@@ -16,44 +16,43 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 **<font size="5">CCPS CARLO Guiding Pillars</font>**
 
 
-###   
 
-> *   Choose to do good with the internet
-> *   Accountable for my words and deeds
-> *   Respect myself and others
-> *   Lead and inspire others
-> *   Opportunity to be the voice of optimism
 
-###   
+*   Choose to do good with the internet
+*   Accountable for my words and deeds
+*   Respect myself and others
+*   Lead and inspire others
+*   Opportunity to be the voice of optimism
 
-### Useful Parenting Tips
 
-  
+  **<font size="5">Useful Parenting Tips</font>**
+
 To complement the cyber wellness curriculum in school, it is important for parents to set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.  
   
 Here are some PARENTing Tips to guide your child in this digital age.  
   
+ 
 
-#### Provide Opportunities for Offline Activities
+**Provide Opportunities for Offline Activities**
 
-> *   Spend time bonding as a family through activities such as sports and crafts so that your child has a healthy and balanced lifestyle
+*   Spend time bonding as a family through activities such as sports and crafts so that your child has a healthy and balanced lifestyle
+
+  
+
+
+**Activate Parental Controls and Filters in Devices**
+
+*   Help to regulate your child’s usage of devices by setting parental controls and filters. Check out “[Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)”
+
+*   _[https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)_
 
   
   
 
-#### Activate Parental Controls and Filters in Devices
+**Role Model Good Digital Habits**
 
-> *   Help to regulate your child’s usage of devices by setting parental controls and filters. Check out “[Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)”
-> 
-> *   _[https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)_
-
-  
-  
-
-#### Role Model Good Digital Habits
-
-> *   Demonstrate safe, responsible and respectful behaviour when sharing, collaborating and creating online and avoid excessive use of technology
-> *   Check out “[Helping Children with Appropriate Online Expression](http://canossacatholicpri.moe.edu.sg/qql/slot/u276/Useful%20Information/Cyber%20Wellness%20Tips/4.1%20Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)”
+*   Demonstrate safe, responsible and respectful behaviour when sharing, collaborating and creating online and avoid excessive use of technology
+*   Check out “[Helping Children with Appropriate Online Expression](/files/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)”
 
   
   
@@ -115,6 +114,7 @@ Here are some PARENTing Tips to guide your child in this digital age.
 
   
   
+  **<font size="5">Useful Parenting Tips</font>**
 
 ### Useful Articles on Cyber Wellness
 
