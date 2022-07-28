@@ -2,6 +2,7 @@ collections:
   useful-information:
     output: true
     order:
+      - My Skillsfuture.md
       - Cyber Wellness.md
       - Students iCon Account.md
       - Parents Gateway.md
