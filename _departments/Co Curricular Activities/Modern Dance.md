@@ -11,7 +11,7 @@ CCPS Modern Dance Club offers a strong dance programme that aims to nurture and 
 Our Modern Dance programme focuses on developing the fundamental skills and dance techniques of our young dancers and providing them with opportunities and platforms to perform in school and external events. To further hone their skills, our dancers are also exposed to different dance genres such as ballet, jazz dance, contemporary dance and musical theatre.
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSa8CWklfWojmNAlNl3ozinNSJbOFdcuwkWSeAzx7XiSJs727JJLA7hedm3u4tWvfln3aAT8gs5xt1P/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIhupvzjJNcQ43O8FqsC3vgB_VIXoc7imb7-Y8LrnxFlJRZEZtzbxUIOX78v2aK6fB0t2L_O1wIDsW/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 <br><br><br><br><br><br>
