@@ -141,7 +141,7 @@ Here are some PARENTing Tips to guide your child in this digital age.
 
 **Helping Children with Appropriate Online Expression**
 
-*    [Helping Children with Appropriate Online Expression](https://canossacatholicpri-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Useful%20Information/Cyber%20Wellness%20Tips/4.1%20Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)
+*    [Helping Children with Appropriate Online Expression](/files/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)
 
   
 
