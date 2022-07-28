@@ -2,13 +2,13 @@ collections:
   useful-information:
     output: true
     order:
-      - Service Providers Contact Numbers.md
-      - School Gate Opening Hours.md
-      - Publications.md
-      - MOE Sexuality Education.md
-      - My SkillsFuture.md
-      - Cyber Wellness.md
-      - Students iCon Account.md
-      - Parents Gateway.md
-      - Singapore Student Learning Space (SLS.md
       - P1 Registration.md
+      - Singapore Student Learning Space (SLS.md
+      - Parents Gateway.md
+      - Students iCon Account.md
+      - Cyber Wellness.md
+      - My SkillsFuture.md
+      - MOE Sexuality Education.md
+      - Publications.md
+      - School Gate Opening Hours.md
+      - Service Providers Contact Numbers.md
