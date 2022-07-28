@@ -13,7 +13,7 @@ CCPS Guitar Ensemble is comprised of a group of students who know how to play gu
 Introduced in 2021, the students will be exposed to a variety of skills – learning guitar chords, reading musical notes, honing the strumming technique and playing a myriad of songs. During CCA practices on Tuesdays and Thursdays, the students also learn the importance of playing together in harmony. Currently in its early stages, students are perfecting recognizing of chords and learning to play simple songs.
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmQhYmKnSrB_gRqEvqYCUeBCOoyd5WHny9J-9VSzsL5o7I5-tJ3kf8JB58u_W_G-gnWz8jyMDMhVuN/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRvbWfwlU6TCF9nyewUbPyAk7CGy4p0-4vWxgxjuFqEwc0DB_skd044VJ7Af-ANy8uhwhJ9_6xIU8i/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 
 <br><br><br><br><br><br>
