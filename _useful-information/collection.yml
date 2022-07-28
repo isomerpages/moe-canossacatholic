@@ -2,5 +2,6 @@ collections:
   useful-information:
     output: true
     order:
+      - Parents Gateway.md
       - Singapore Student Learning Space (SLS.md
       - P1 Registration.md
