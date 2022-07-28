@@ -5,15 +5,16 @@ description: ""
 ---
 **<font size="6">Cyber Wellness</font>**
 
-### Cyber Wellness Tips
+**<font size="5">Cyber Wellness Tips</font>**
 
-  
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace.
 
 ![](/images/Useful%20Information/Cyber%20Wellness%201.png)
 
-### CCPS CARLO Guiding Pillars
+
+**<font size="5">CCPS CARLO Guiding Pillars</font>**
+
 
 ###   
 
