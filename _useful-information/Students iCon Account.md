@@ -21,3 +21,23 @@ Use a web browser (e.g. Chrome) on your computer or mobile devices when accessin
   
   
 **<font size=5>G Suite Applications Available for Primary 1 to 3 (Email is disabled)</font>**
+
+![](/images/Useful%20Information/Icon%201.png)
+
+
+**<font size=5>G Suite Applications Available for Primary 4 to 6 (Email is enabled with limitations * )</font>**
+
+![](/images/Useful%20Information/Icon%202.png)
+
+_\* Students can only send to and receive emails from official MOE email addresses (@students.edu.sg; @moe.gov.sg; @moe.edu.sg; @schools.gov.sg)_  
+  
+For technical assistance, you may  
+  
+
+*   Approach your teachers
+*   Contact Ms Rin via the school-based helpline at 68441418
+
+  
+Please assist to provide your child’s full name, form class, and BC number  
+  
+For device or broadband support, parents can refer to **[IMDA NEU PC Plus programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)**, or contact the school for advice.
