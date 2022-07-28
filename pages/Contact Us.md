@@ -9,24 +9,19 @@ description: ""
 INSERT GOOGLE MAPS HERE
 
 
-**Canossa Catholic Primary School** 
-
-1 Sallim Road
-
+**Canossa Catholic Primary School** <br>
+1 Sallim Road<br>
 Singapore 387621
 
   
 
-**Tel      :** +65 6844 1418
-
-**Fax     :** +65 6844 1417
-
+**Tel      :** +65 6844 1418<br>
+**Fax     :** +65 6844 1417<br>
 **Email :** <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a>
 
   
 
-**Directions:**
-
+**Directions:**<br>
 1\. Nearest MRT station: Mattar Station (7-minute walk) 
 
   
