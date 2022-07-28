@@ -83,7 +83,7 @@ description: ""
 
   
 
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Useful%20Information/MOE%20Growing%20Years/Annex%20A%20Opt%20Out%20Form.pdf)**. The completed opt-out form is to be submitted by 25/02/2022.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Annex%20A%20Opt%20Out%20Form.pdf)**. The completed opt-out form is to be submitted by 25/02/2022.
 
   
 
