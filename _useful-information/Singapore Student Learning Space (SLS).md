@@ -5,7 +5,7 @@ description: ""
 ---
 **<font size=6>Singapore Student Learning Space (SLS)</font>**
 
-Singapore Student Learning Space (SLS)  
+**<font size=5>Singapore Student Learning Space (SLS)</font>**
 
   
 The Singapore Student Learning Space (SLS) is an online learning platform with tools and curriculum-aligned resources.  
@@ -17,25 +17,24 @@ Do refer to your child’s Student Planner for their username and a one time pas
 For technical assistance, you may  
   
 
-> *   Call School-Based Helpdesk at 68441418
-> *   Call SLS Helpdesk at 67026513
-> *   Email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
+*   Call School-Based Helpdesk at 68441418
+*   Call SLS Helpdesk at 67026513
+*   Email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
   
+  **<font size=5>SLS Support for Home-Based Learning or e-Learning Exercise</font>**
+
+
   
 
-### SLS Support for Home-Based Learning or e-Learning Exercise
-
-  
-
-#### School Operating Hours
+**School Operating Hours**
 
   
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.  
   
 **School-based Helpline:** 68441418  
   
-**Operating Hours:**  
+**<u>Operating Hours:</u>**  
 **Mondays - Thursdays:** 8:00 am to 4:00 pm  
 **Fridays:** 8:00 am to 3:30 pm  
   
