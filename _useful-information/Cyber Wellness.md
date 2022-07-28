@@ -57,35 +57,34 @@ Here are some PARENTing Tips to guide your child in this digital age.
   
   
 
-#### Establish Ground Rules for Devices Use
+**Establish Ground Rules for Devices Use**
 
-> *   Discuss and set ground rules for devices use as a family.
-> *   Some basic rules could include the following:
-
-  
-
-> *   **Do's:**
-> 
-> *   Seek permission before using devices
-> *   Have a time limit for the use of devices
-> *   Practice netiquette on the Internet
-> *   Respect intellectual property rights
-
->   
-
-> *   **Dont's:**
-> 
-> *   Access websites that have age restrictions (e.g. many social media sites have age limit for setting up accounts to comply with international regulations on children accessing social media).
-> *   Share personal information online
-> *   Share password with others
-> *   Spread rumours and say mean things online
-> *   Meet strangers face to face without parents’ knowledge
+ *   Discuss and set ground rules for devices use as a family.
+ *   Some basic rules could include the following:
 
   
 
-> *   Consider to create a “[Family Media Plan](https://www.healthychildren.org/English/media/Pages/default.aspx#home)”
-> 
-> *   _[https://www.healthychildren.org/English/media/Pages/default.aspx#home](https://www.healthychildren.org/English/media/Pages/default.aspx#home)_
+     *   **Do's:**
+
+     *   Seek permission before using devices
+     *   Have a time limit for the use of devices
+     *   Practice netiquette on the Internet
+     *   Respect intellectual property rights
+
+
+
+      *   **Dont's:**
+ 
+      *   Access websites that have age restrictions (e.g. many social media sites have age limit for setting up accounts to comply with international regulations on children accessing social media).
+     *   Share personal information online
+     *   Share password with others
+     *   Spread rumours and say mean things online
+     *   Meet strangers face to face without parents’ knowledge
+
+  
+
+     *   Consider to create a “[Family Media Plan](https://www.healthychildren.org/English/media/Pages/default.aspx#home)”
+          *   _[https://www.healthychildren.org/English/media/Pages/default.aspx#home](https://www.healthychildren.org/English/media/Pages/default.aspx#home)_
 
   
   
