@@ -89,105 +89,99 @@ Here are some PARENTing Tips to guide your child in this digital age.
   
   
 
-#### Navigate the Internet with your Child
+**Navigate the Internet with your Child**
 
-> *   Surf the Internet with your child so that you know what she/he does online and whether she/he is involved in age-appropriate activities.
-> *   Highlight to your child not to respond to anyone who says something inappropriate and she/he should immediately report to adults and leave any site if she/he feel uncomfortable
-
-  
-  
-
-#### Talk about Internet Use
-
-> *   Communicate regularly with you child and get her/him to share with you
-> 
-> *   Her/his favourite online websites,
-> *   Things she/he do online
-> *   Her/his online experiences etc
-> 
->   
-> 
-> *   Let your child know that it is alright to ask you questions or talk to you if she/he run into unpleasant situations online.
-> 
-> *   _Adapted from [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)_
+*   Surf the Internet with your child so that you know what she/he does online and whether she/he is involved in age-appropriate activities.
+*   Highlight to your child not to respond to anyone who says something inappropriate and she/he should immediately report to adults and leave any site if she/he feel uncomfortable
 
   
   
-  **<font size="5">Useful Parenting Tips</font>**
 
-### Useful Articles on Cyber Wellness
+**Talk about Internet Use**
+
+*   Communicate regularly with you child and get her/him to share with you
+
+     *   Her/his favourite online websites,
+     *   Things she/he do online
+     *   Her/his online experiences etc
+ 
+   
+
+*   Let your child know that it is alright to ask you questions or talk to you if she/he run into unpleasant situations online. 
+    *   _Adapted from [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)_
+
+  
+  
+  **<font size="5">Useful Articles on Cyber Wellness</font>**
+	
+
+**Parents, the guardians of Internet**
+
+*   [https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety](https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety)
 
   
 
-#### Parents, the guardians of Internet
+**Safe & Smart Online Parents Guide**
 
-> *   [https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety](https://www.schoolbag.sg/story/parents-the-guardians-of-internet-safety)
-
-  
-
-#### Safe & Smart Online Parents Guide
-
-> *    [Safe and Smart Online Parent Guide](https://canossacatholicpri-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Useful%20Information/Cyber%20Wellness%20Tips/4.2%20Useful%20Information%20-%20Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
+*    [Safe and Smart Online Parent Guide](https://canossacatholicpri-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Useful%20Information/Cyber%20Wellness%20Tips/4.2%20Useful%20Information%20-%20Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
 
   
 
-#### Help! How Do I Limit Screen Time for My Children?
+**Help! How Do I Limit Screen Time for My Children?**
 
-> *   [https://www.healthhub.sg/live-healthy/1964/my-child-is-glued-to-the-screen](https://www.healthhub.sg/live-healthy/1964/my-child-is-glued-to-the-screen)
-
-  
-
-#### Guide for parents on setting parental controls
-
-> *   [https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls)
+*   [https://www.healthhub.sg/live-healthy/1964/my-child-is-glued-to-the-screen](https://www.healthhub.sg/live-healthy/1964/my-child-is-glued-to-the-screen)
 
   
 
-#### Helping Children with Appropriate Online Expression
+**Guide for parents on setting parental controls**
 
-> *    [Helping Children with Appropriate Online Expression](https://canossacatholicpri-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Useful%20Information/Cyber%20Wellness%20Tips/4.1%20Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)
-
-  
-
-#### Understanding cyber wellness
-
-> *   [https://www.schoolbag.sg/story/understanding-cyber-wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness)
+*   [https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls)
 
   
 
-#### Navigating the cyber world safely
+**Helping Children with Appropriate Online Expression**
 
-> *   [https://www.schoolbag.sg/story/navigating-the-cyber-world-safely](https://www.schoolbag.sg/story/navigating-the-cyber-world-safely)
-
-  
-
-#### Play safe – avoid online gaming addiction
-
-> *   [https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction)
+*    [Helping Children with Appropriate Online Expression](https://canossacatholicpri-moe-edu-sg-admin.cwp.sg/qql/slot/u276/Useful%20Information/Cyber%20Wellness%20Tips/4.1%20Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)
 
   
 
-#### Safeguarding your child online
+**Understanding cyber wellness**
 
-> *   [https://www.schoolbag.sg/story/safeguarding-your-child-online](https://www.schoolbag.sg/story/safeguarding-your-child-online)
-
-  
-
-#### Exploring online, safely and confidently
-
-> *   [https://www.schoolbag.sg/story/exploring-online-safely-and-confidently](https://www.schoolbag.sg/story/exploring-online-safely-and-confidently)
+*   [https://www.schoolbag.sg/story/understanding-cyber-wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness)
 
   
 
-#### Cyber Wellness - Useful Resources
+**Navigating the cyber world safely**
 
-> *   [https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
+*   [https://www.schoolbag.sg/story/navigating-the-cyber-world-safely](https://www.schoolbag.sg/story/navigating-the-cyber-world-safely)
 
   
 
-#### Healthy Video Gaming for Children and Teenagers
+**Play safe – avoid online gaming addiction**
 
-> *   [https://familiesforlife.sg/Young\_Children\_Healthy\_Video\_Gaming.aspx](https://familiesforlife.sg/parenting/Young-Children/Pages/YoungChildrenPlay_and_Learning/Screen_Time/Young_Children_Healthy_Video_Gaming.aspx)
+*   [https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction)
+
+  
+**Safeguarding your child online**
+
+*   [https://www.schoolbag.sg/story/safeguarding-your-child-online](https://www.schoolbag.sg/story/safeguarding-your-child-online)
+
+  
+
+**Exploring online, safely and confidently**
+
+*   [https://www.schoolbag.sg/story/exploring-online-safely-and-confidently](https://www.schoolbag.sg/story/exploring-online-safely-and-confidently)
+
+  
+
+**Cyber Wellness - Useful Resources**
+
+*   [https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
+
+  
+**Healthy Video Gaming for Children and Teenagers**
+
+*   [https://familiesforlife.sg/Young\_Children\_Healthy\_Video\_Gaming.aspx](https://familiesforlife.sg/parenting/Young-Children/Pages/YoungChildrenPlay_and_Learning/Screen_Time/Young_Children_Healthy_Video_Gaming.aspx)
 
 
 
