@@ -15,7 +15,7 @@ Canossa Catholic Primary is pleased to present [**Laudate – an** **Art Exhib
 
 Dear Parents
 
-Please find attached a **[Parenting Tip Sheet](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Announcements/Parenting%20during%20COVID-19%20(English).pdf)** for your reference. To read in other languages, please click here: [Chinese](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Announcements/Parenting%20during%20COVID-19%20(Chinese).pdf), [Tamil](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Announcements/Parenting%20during%20COVID-19%20(Tamil).pdf) and [Malay](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Announcements/Parenting%20during%20COVID-19%20(Malay).pdf). We hope that you will read it and will be able to find some tips helpful to you.
+Please find attached a **[Parenting Tip Sheet](/files/Announcements/Parenting%20during%20COVID-19%20(English).pdf)** for your reference. To read in other languages, please click here: [Chinese](/files/Announcements/Parenting%20during%20COVID-19%20(Chinese).pdf), [Tamil](/files/Announcements/Parenting%20during%20COVID-19%20(Tamil).pdf) and [Malay](/files/Announcements/Parenting%20during%20COVID-19%20(Malay).pdf). We hope that you will read it and will be able to find some tips helpful to you.
 
 
 -------------
@@ -35,4 +35,3 @@ Interested to register your child for **[Primary 1 Registration](https://stagin
 Join us for a Chit Chat Session on 13 May 2022 (Friday). Contact us at 6844 1418 to register.
 
 ----------
-
