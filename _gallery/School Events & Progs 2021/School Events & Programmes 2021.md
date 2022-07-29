@@ -35,7 +35,7 @@ third_nav_title: School Events & Progs 2021
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Interest-Week">
 <img src="/images/Gallery/Interest%20Week.png"
-		 style="width:100px;height:105px;margin-right:5px;" 
+		 style="width:100px;height:108px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
