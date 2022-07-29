@@ -2,7 +2,7 @@ collections:
   gallery:
     output: true
     order:
-      - School Events & Progs 2021/School Events & Programmes 2021.md
-      - School Events & Progs 2021/.keep
-      - School Events & Progs 2022/School Events & Programmes 2022.md
       - School Events & Progs 2022/.keep
+      - School Events & Progs 2022/School Events & Programmes 2022.md
+      - School Events & Progs 2021/.keep
+      - School Events & Progs 2021/School Events & Programmes 2021.md
