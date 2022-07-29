@@ -6,7 +6,7 @@ description: ""
 **<font size=6>heART & SOUL</font>**
 
 
-**heART & Soul,** which is part of our [**HeARTs programme**](https://canossacatholicpri.moe.edu.sg/departments/aesthetics), is our school’s distinctive art programme, designed to have a transformative impact on the students.  
+**heART & Soul,** which is part of our [**HeARTs programme**](https://staging.d2nutevx25vdua.amplifyapp.com/departments/aesthetics), is our school’s distinctive art programme, designed to have a transformative impact on the students.  
   
 
 _Your soul is the part of you that consists of your mind, character, thoughts, and feelings. You can refer to someone's heart when you are talking about their deep feelings and beliefs._  
