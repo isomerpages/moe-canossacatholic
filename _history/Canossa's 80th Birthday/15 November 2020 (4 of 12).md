@@ -32,7 +32,7 @@ A dynamic, vibrant school - growing and blossoming in God's amazing grace.
 	
 </center>
 
-<font size=5>Photo Gallery</font>
+**<font size=5>Photo Gallery</font>**
 
 <img src="/images/History/15%20Nov%2020%201.jpeg"  
      style="width:75%">
