@@ -10,6 +10,39 @@ third_nav_title: School Events & Progs 2022
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/P1-Orientation">
 <img src="/images/Gallery/P1%20Orientation.png"
-		 style="width:20%"
+		 style="width:100px;height:105px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Opening-School-Mass">
+<img src="/images/Gallery/Opening%20School%20Mass.png"
+		 style="width:100px;height:105px;margin-right:5px;"
+		 align="left">
+</a></p>
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/CNY-Celebration">
+<img src="/images/Gallery/Chinese%20New%20Year%20Celebration.png"
+		 style="width:100px;height:120px;margin-right:5px;"
+		 align="left">
+</a></p>
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/P6-Sri-Warisan-Wayang-Kulit-n-Gamelan-Exp">
+<img src="/images/Gallery/P6%20Sri%20Warisan%20Wayang%20Kulit%20and%20Gamelan%20Experience.png"
+		 style="width:100px;height:135px;margin-right:5px;"
+		 align="left">
+</a></p>
+
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Total-Defence-Day">
+<img src="/images/Gallery/Total%20Defence%20Day.png"
+		 style="width:105px;height:100px;margin-right:7px;"
+		 align="left">
+</a></p>
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Canossian-Saints-Week">
+<img src="/images/Gallery/Canossian%20Saints%20Week.png"
+		 style="width:97px;height:120px;margin-right:5px;"
 		 align="left">
 </a></p>
