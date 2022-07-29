@@ -2,14 +2,14 @@ collections:
   gallery:
     output: true
     order:
-      - School Events & Progs 2022/Canossian Saints Week.md
-      - School Events & Progs 2022/Total Defence Day.md
-      - School Events & Progs 2022/P6 Sri Warisan Wayang Kulit and Gamelan
-        Experience.md
-      - School Events & Progs 2022/Chinese New Year Celebration.md
-      - School Events & Progs 2022/Opening School Mass.md
-      - School Events & Progs 2022/P1 Orientation.md
       - School Events & Progs 2022/.keep
       - School Events & Progs 2022/School Events & Programmes 2022.md
+      - School Events & Progs 2022/P1 Orientation.md
+      - School Events & Progs 2022/Opening School Mass.md
+      - School Events & Progs 2022/Chinese New Year Celebration.md
+      - School Events & Progs 2022/P6 Sri Warisan Wayang Kulit and Gamelan
+        Experience.md
+      - School Events & Progs 2022/Total Defence Day.md
+      - School Events & Progs 2022/Canossian Saints Week.md
       - School Events & Progs 2021/.keep
       - School Events & Progs 2021/School Events & Programmes 2021.md
