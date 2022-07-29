@@ -37,13 +37,13 @@ third_nav_title: School Events & Progs 2022
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Total-Defence-Day">
 <img src="/images/Gallery/Total%20Defence%20Day.png"
-		 style="width:105px;height:100px;margin-right:7px;"
+		 style="width:105px;height:110px;margin-right:8px;"
 		 align="left">
 </a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Canossian-Saints-Week">
 <img src="/images/Gallery/Canossian%20Saints%20Week.png"
-		 style="width:97px;height:120px;margin-right:5px;"
+		 style="width:95px;height:130px;margin-right:5px;"
 		 align="left">
 </a></p>
 
