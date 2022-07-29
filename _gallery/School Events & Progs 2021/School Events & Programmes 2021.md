@@ -33,16 +33,11 @@ third_nav_title: School Events & Progs 2021
 		 align="left">
 </a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Interest-Week">
-<img src="/images/Gallery/Interest%20Week.png"
-		 style="width:100px;height:108px;margin-right:5px;" 
-		 align="left">
-</a></p>
 
 
 <br><br><br><br><br><br><br>
 
-TBC for the rest of the events (10 more)
+TBC for the rest of the events (11 more)
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
