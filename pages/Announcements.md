@@ -24,7 +24,7 @@ Please find attached a **[Parenting Tip Sheet](/files/Announcements/Parenting%2
 
 Dear Parents
 
-Please find attached the [**user guide**](https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Student%20GPA%20User%20Guide%20-%20Parent.pdf) for online submission of insurance claims.
+Please find attached the [**user guide**](/files/Announcements/Student%20GPA%20User%20Guide%20-%20Parent.pdf) for online submission of insurance claims.
 
 ------------
 
