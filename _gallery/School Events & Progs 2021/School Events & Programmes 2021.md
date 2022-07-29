@@ -38,3 +38,11 @@ third_nav_title: School Events & Progs 2021
 		 style="width:100px;height:105px;margin-right:5px;" 
 		 align="left">
 </a></p>
+
+
+<br><br><br><br><br><br><br>
+
+TBC for the rest of the events (10 more)
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
