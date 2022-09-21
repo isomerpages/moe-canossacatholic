@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - History/History.md
       - History/.keep
       - Mission | Vision | Values.md
       - Canossa's 80th Birthday/.keep
