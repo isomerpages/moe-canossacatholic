@@ -1,9 +1,9 @@
 ---
 title: APPLIED LEARNING PROGRAMME MAKE @ CCPS
-permalink: /flagship-programmes/applied-learning-programme-m-a-k-e-at-ccps
+permalink: /flagship-programmes/applied-learning-programme-m-a-k-e-at-ccps/
 description: ""
 ---
-**<font size=6>APPLIED LEARNING PROGRAMME - M.A.K.E@CCPS</font>**
+**<font size=6>Applied Learning Programme - M.A.K.E@CCPS</font>**
 
   
   
