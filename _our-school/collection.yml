@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Canossa/.keep
       - History/Celebrating Canossa's 80th Birthday.md
       - History/.keep
       - History/History.md
