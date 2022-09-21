@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Canossian Village.md
       - Satellite Partnership.md
       - 10 Principles Of A Canossian.md
       - Motto | Crest | Song.md
