@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - History.md
-      - History/Celebrating Canossa's 80th Birthday.md
-      - History/.keep
+      - Celebrating Canossa's 80th/Celebrating Canossa's 80th Birthday.md
+      - Celebrating Canossa's 80th/.keep
       - Mission | Vision | Values/.keep
       - Mission | Vision | Values/Mission | Vision | Values.md
       - Canossa's 80th Birthday/.keep
