@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Mission | Vision | Values.md
       - History.md
       - Celebrating Canossa's 80th/Laudate – an Art Exhibition in Praise of
         God’s Blessings.md
