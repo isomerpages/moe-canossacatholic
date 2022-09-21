@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Financial Information.md
       - Canossian Student Awards.md
       - Achievements | Awards.md
       - Canossian Village.md
