@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Test.md
       - Our School.md
       - Canossa's 80th Birthday/.keep
       - Canossa's 80th Birthday/Celebrating Canossa's 80th Birthday.md
