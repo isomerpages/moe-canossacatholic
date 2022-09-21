@@ -1,5 +1,5 @@
 collections:
-  history:
+  our-school:
     output: true
     order:
       - Our School.md
