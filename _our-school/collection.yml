@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Mission | Vision | Values/Mission | Vision | Values.md
       - Mission | Vision | Values/.keep
       - History/History.md
       - History/.keep
