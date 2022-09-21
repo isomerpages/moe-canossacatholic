@@ -2,15 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Staff.md
-      - School Rules.md
-      - Financial Information.md
-      - Canossian Student Awards.md
-      - Achievements | Awards.md
-      - Canossian Village.md
-      - Satellite Partnership.md
-      - 10 Principles Of A Canossian.md
-      - Motto | Crest | Song.md
       - History.md
       - Celebrating Canossa's 80th/.keep
       - Celebrating Canossa's 80th/Laudate – an Art Exhibition in Praise of
@@ -30,3 +21,12 @@ collections:
       - Celebrating Canossa's 80th/22 June 2021 (11 of 12).md
       - Celebrating Canossa's 80th/2 August 2021 (12 of 12).md
       - Mission | Vision | Values.md
+      - Motto | Crest | Song.md
+      - 10 Principles Of A Canossian.md
+      - Satellite Partnership.md
+      - Canossian Village.md
+      - Achievements | Awards.md
+      - Canossian Student Awards.md
+      - Financial Information.md
+      - School Rules.md
+      - Our Staff.md
