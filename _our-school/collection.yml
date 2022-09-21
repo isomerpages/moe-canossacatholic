@@ -2,11 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - Mission | Vision | Values.md
       - History.md
+      - Celebrating Canossa's 80th/.keep
       - Celebrating Canossa's 80th/Laudate – an Art Exhibition in Praise of
         God’s Blessings.md
-      - Celebrating Canossa's 80th/.keep
       - Celebrating Canossa's 80th/Celebrating Canossa's 80th Birthday on 15
         August 2021.md
       - Celebrating Canossa's 80th/15 August 2020 (1 of 12).md
@@ -21,3 +20,4 @@ collections:
       - Celebrating Canossa's 80th/21 May 2021 (10 of 12).md
       - Celebrating Canossa's 80th/22 June 2021 (11 of 12).md
       - Celebrating Canossa's 80th/2 August 2021 (12 of 12).md
+      - Mission | Vision | Values.md
