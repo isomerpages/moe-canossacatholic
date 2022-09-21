@@ -4,12 +4,18 @@ permalink: /our-school/history/celebrating-canossas-80th-birthday/laudate-exhibi
 description: ""
 third_nav_title: Celebrating Canossa's 80th
 ---
-
-
-
-
 **<font size=6>Laudate – an Art Exhibition in Praise of God’s Blessings
 </font>**
+
+_Laudate_, our Art Exhibition in Praise of God’s Blessings, is starting this weekend. You and your family are warmly invited to join us.
+
+The art exhibition will be open for public viewing from Saturday, 30 July 2022, through to Tuesday, 2 August 2022, at Visual Art Center, Dhoby Ghaut Green.
+
+Come join us to celebrate our amazing children and their art works! There will also be art pieces from various inter-religious communities, CCPS alumnae and our sister schools – the St Anthony’s Canossian Primary and Secondary Schools – at the exhibition as well.
+
+Enjoy this 3 minute snapshot of the exhibition and we hope to see you and your family there!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rxq53XN_DNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/images/History/Laudate%201.png)
 
