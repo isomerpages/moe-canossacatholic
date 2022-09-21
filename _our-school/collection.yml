@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Staff.md
       - School Rules.md
       - Financial Information.md
       - Canossian Student Awards.md
