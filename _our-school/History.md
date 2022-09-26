@@ -263,4 +263,35 @@ Sister Theresa Seow, then Provincial Leader of the Canossian Daughters of Charit
 </td>
 </tr>
 
-<tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">2018</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Singapore &amp; Myanmar), together with Mrs Eugenie Tan, Principal of CCPS, announced the decision for the school to go co-educational in 2019.<br><br><img src="/images/History/Milestone%207.jpg" style="width:75%"></td></tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">2019</span><br><br></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Canossa Convent Primary School was renamed Canossa Catholic Primary School as it prepares to take in boys at the Primary 1 level as a co-educational school. </td></tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">2021</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCPS celebrates its <a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-school/history/celebrating-canossas-80th-birthday">80th anniversary</a>.</td></tr></tbody></table>
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">2018</span>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</td>
+
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Singapore &amp; Myanmar), together with Mrs Eugenie Tan, Principal of CCPS, announced the decision for the school to go co-educational in 2019.
+<br>
+<br>
+<img src="/images/History/Milestone%207.jpg" style="width:75%">
+	<br>
+</td>
+</tr>
+
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">2019</span>
+<br>
+<br>
+</td>
+
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Canossa Convent Primary School was renamed Canossa Catholic Primary School as it prepares to take in boys at the Primary 1 level as a co-educational school.
+</td>
+</tr>
+
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">2021</span>
+</td>
+
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCPS celebrates its <a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-school/history/celebrating-canossas-80th-birthday">80th anniversary</a>.</td></tr></tbody></table>
