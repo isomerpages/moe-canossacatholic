@@ -3,10 +3,6 @@ title: History
 permalink: /our-school/history/
 description: ""
 ---
-
-
-
-
 **<font size=6>History</font>**
 
   
@@ -75,14 +71,8 @@ Rather it was for the greater glory of God.
 <img src="/images/History/Canossian%20Daughters%20of%20Charity.jpg"  
      style="width:45%">
 		 
-
+**<center>[Canossian Daughters of Charity](http://www.canossians-sg.org/)</center>**
 	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CANOSSIAN DAUGHTERS OF CHARITY](http://www.canossians-sg.org/)
-	
-
-
-
-
 In its emphasis on the Formation of the Heart, children are encouraged and affirmed in their personal growth as a child of God. The school strives to cultivate a personal relationship with God in everyone and a community spirit of love and acceptance. Mother Foundress, St Magdalene of Canossa, spread her love of Jesus through works of great service and belief in **“the conduct of one’s whole life depends on education”**.
 
 Anchoring on that, Canossian educators recognise the need to develop the child’s attitudes, behaviours and respect, for the dignity of others. The school’s culture of love and care enables each Canossian daughter and son to become the best versions of themselves for God and others.
