@@ -15,7 +15,7 @@ Unfortunately, the next day, during the Feast of the Immaculate Conception on 8 
 The beatification of Mother Foundress reminded the Sisters of the love, goodness and faithfulness of our Lord Jesus Christ, giving them the strength to continue their work to serve God and humanity with faith, hope and love even in this time of darkness.
 
 <center>
-
+<br>
 <b><font size=4>Our Hearts Sing Praise</font></b>
 <br>
 <br>
