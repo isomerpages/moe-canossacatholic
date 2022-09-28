@@ -10,6 +10,7 @@ third_nav_title: Celebrating Canossa's 80th
 
 <img src="/images/History/18%20Feb%2021%201.jpg" style="width:55%">
 
+<br>
 
 **<font size=5 color="#7daadf">Inscription on the Bell:</font>**
 <em>
@@ -23,8 +24,7 @@ From Mr Wong Kah Loong<br>
 
 In 1958, Mr Wong Kah Loong presented the bell to Rev. Mother Maria Farina, Principal of Canossa Convent School from 1954 – 1960.
 
-<img src="/images/History/18%20Feb%2021%202.jpg"  
-     style="width:55%">
+<img src="/images/History/18%20Feb%2021%202.jpg" style="width:55%">
 
 
 Sister Theresa recalled the significance of the ringing of the bell: it was rung 15 times to signal that it was time to rise in the morning as only a few Sisters owned an alarm clock. It was rung 7 times to indicate that prayer was about to begin. 
