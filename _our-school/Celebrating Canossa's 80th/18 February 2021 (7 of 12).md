@@ -35,11 +35,13 @@ Today, the bell system still exists in some houses  in the form of an electrica
 
 Having restored our 63-year-old bell in 2021, the tradition of ringing the bell lives on in our school. Every morning, the bell is rung 7 times to quiet our students for the first prayer of the day.
 
+<center>
+
 <iframe width="687" height="386" src="https://www.youtube.com/embed/CT2Vx3iFAN8" title="Our Head Girl ringing the bell to quiet the school" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<figcaption> <strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our Head Girl ringing the bell to quiet the school </strong> </figcaption>
+<em>Our Head Girl ringing the bell to quiet the school</em>
 
-
+</center>
 
 
 _Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._
