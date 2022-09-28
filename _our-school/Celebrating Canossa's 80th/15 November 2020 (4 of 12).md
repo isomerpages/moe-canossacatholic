@@ -15,7 +15,6 @@ Rebuilt the school to cater to our needs<br>
 Moved with the times to<br>
 Embrace girls and boys in a co-ed setting.<br>
 <br>
-<br>
 Inspired by Mother Foundress,<br>
 Our Canossian Sisters' and educators' hearts have remained large and passionate -<br>
 Dreaming big dreams for our little ones,<br>
@@ -25,7 +24,6 @@ And sowers of change<br>
 So they can inspire others and<br>
 influence improvement for the<br>
 betterment of society and the world. <br>
-<br>
 <br>
 Canossa Catholic Primary School - <br>
 A dynamic, vibrant school - growing and blossoming in God's amazing grace.
