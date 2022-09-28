@@ -68,26 +68,22 @@ Beacon of faith, hope and love to all humanity.
 	
 </center>
 
-**<font size=5>Photo Gallery</font>** 
-
-<img src="/images/History/8%20Dec%202020%201.jpg"  
-     style="width:55%">
-
+**<font size=5 color="#7daadf">Photo Gallery</font>** 
 
 <center>
-Foundress had a special love for Mary, <br>
-Mother of Sorrows, at the foot of the Cross 
+
+<img src="/images/History/8%20Dec%202020%201.jpg" style="width:55%">
+<em>Foundress had a special love for Mary,
+<br>Mother of Sorrows, at the foot of the Cross</em>
+<br>
+<br>
+<img src="/images/History/8%20Dec%202020%202.jpg" style="width:65%">
+<em>Foundress serving the poor</em>
+<br>
+<br>
+<img src="/images/History/8%20Dec%202020%203.jpg" style="width:55%">
+<em>Foundress showering her love to all</em>
+
 </center>
-
-<img src="/images/History/8%20Dec%202020%202.jpg"  
-     style="width:65%">
-
-<center>Foundress serving the poor</center>
-
-<img src="/images/History/8%20Dec%202020%203.jpg"  
-     style="width:55%">
-
-<center>
-Foundress showering her love to all</center>
 
 _Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._
