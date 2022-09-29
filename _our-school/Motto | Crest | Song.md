@@ -58,17 +58,19 @@ Mutual tolerance and consideration for the principles of others.
 <br>
 <br>
 The Crown above the crest symbolises the Supremacy of God over all and All for the Glory of God.
-
-  
-**<font size=6>School Song</font>**
-  
-
+<br>
+<br>
+<br>
+<b><font size=5 color="#7daadf">School Song</font></b>
+<br>
+<br>
 United in common endeavour  
 At work, at play, life's lessons we learn  
 Our youthful hearts are filled with ardour  
 For truth and wisdom we yearn  
-  
-**Chorus:**  
+
+<b>Chorus:</b>
+<br>
 Courageously with heads held high  
 We march ever on through life  
 Schooled in your spirit, Canossa  
@@ -81,9 +83,8 @@ Prepare our spirits for duty's call
 Our country to serve with virtuous might  
 We stand for truth and for right
 
-  
-
-**Chorus:**  
+<b>Chorus:</b>
+<br>
 Courageously with heads held high  
 We march ever on through life  
 Schooled in your spirit, Canossa  
@@ -96,5 +97,5 @@ For true virtue we strive
   
 
 
-**School Song**	<br>
+**<font size=5 color="#7daadf">School Song**	<br>
 	INSERT SCHOOL SONG AUDIO HERE
