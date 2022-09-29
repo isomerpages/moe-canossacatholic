@@ -91,11 +91,9 @@ Schooled in your spirit, Canossa
 For virtue, true nobility, we strive  
 Schooled in your spirit, Canossa  
 For true virtue we strive  
-
-  
-
-  
-
-
-**<font size=5 color="#7daadf">School Song**	<br>
+<br>
+<br>
+<br>
+<b><font size=5 color="#7daadf">School Song</font></b>
+<br>
 	INSERT SCHOOL SONG AUDIO HERE
