@@ -44,24 +44,26 @@ The Satellite Partnership helps CCPS students to develop empathy and perspective
 
   
 Staff at CCPS attend professional development workshops conducted by the CS audiology department to learn about hearing loss, the challenges that students with hearing loss face in the classroom, and strategies that would mitigate these challenges. Staff are also taught to use the Roger FM transmitter, a wireless transmitter that transmits the speaker’s voice directly into the students’ hearing devices.  
+<br>
+<br>
 
-
-  
-**<font size=5>Quotes from teachers and students</font>**  
-
-  
-_“This is what our society needs – to be an inclusive Singapore. They will form the new generation of Singaporeans who are receptive to inclusion in our society.”_  
-\- Miss Joslyn, CCPS teacher  
+<b><font size=5 color="#7daadf">Quotes from teachers and students</font></b>  
 
   
+<em>“This is what our society needs – to be an inclusive Singapore. They will form the new generation of Singaporeans who are receptive to inclusion in our society.”</em> 
+<br><font size=3 color="#eeac0d">- Miss Joslyn, CCPS teacher</font>
 
-_“The inclusion programme is a beautiful partnership …It provides an opportunity for children with special needs to play and learn in a mainstream environment.”_  
-\- Mdm Connie Chua, CS teacher  
+<em>“The inclusion programme is a beautiful partnership …It provides an opportunity for children with special needs to play and learn in a mainstream environment.”</em>
+<br><font size=3 color="#eeac0d">- Mdm Connie Chua, CS teacher</font>
 
+<em>“It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve.”</em>
+<br><font size=3 color="#eeac0d">- Shermaine Tan Li Ning, former CS student</font>  
   
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-_“It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve.”_ <br>
-\- Shermaine Tan Li Ning, former CS student  
-  
-<br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
