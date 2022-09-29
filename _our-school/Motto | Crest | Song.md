@@ -39,27 +39,24 @@ on to a book symbolizing the Star of wisdom radiating on Knowledge.
 The star is a symbol of lofty ideas stirring a person to great and noble deeds.<br>
 	The star represents four basic social virtues –<b>Truth, Justice, Love and Freedom</b>
 
-**Truth**<br>
+<b><font size=4 color="#eeac0d">Truth</font></b>
+<br>
 Sincerity in words and deeds, simplicity, straightforwardness.
 
-  
-
-**Justice**<br>
+<b><font size=4 color="#eeac0d">Justice</font></b>
+<br>
 Honesty, fairness, respect for the right of others.
 
-  
-
-**Love**<br>
+<b><font size=4 color="#eeac0d">Love</font></b>
+<br>
 We are the children of the same Father in heaven.<br>
 Hence, readiness to help and share with others.
 
-  
-
-**Freedom**<br>
+<b><font size=4 color="#eeac0d">Freedom</font></b>
+<br>
 Mutual tolerance and consideration for the principles of others.
-
-  
-
+<br>
+<br>
 The Crown above the crest symbolises the Supremacy of God over all and All for the Glory of God.
 
   
