@@ -67,11 +67,11 @@ and kiss their hands. For if these things had not happened,
 I would not have been a Christian and a religious today.”
 Rather it was for the greater glory of God.
 
-
-<img src="/images/History/Canossian%20Daughters%20of%20Charity.jpg"  
-     style="width:45%">
-		 
-**<center>[Canossian Daughters of Charity](http://www.canossians-sg.org/)</center>**
+<center>
+<img src="/images/History/Canossian%20Daughters%20of%20Charity.jpg" style="width:45%">
+<b><a href="http://www.canossians-sg.org/">Canossian Daughters of Charity</a>
+</b>
+</center>
 	
 In its emphasis on the Formation of the Heart, children are encouraged and affirmed in their personal growth as a child of God. The school strives to cultivate a personal relationship with God in everyone and a community spirit of love and acceptance. Mother Foundress, St Magdalene of Canossa, spread her love of Jesus through works of great service and belief in **“the conduct of one’s whole life depends on education”**.
 
