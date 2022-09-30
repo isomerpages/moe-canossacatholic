@@ -5,18 +5,12 @@ description: ""
 ---
 **<font size=6>Canossian Village</font>**
 
-
 The saying <em>“It takes a village to raise a child”</em> is truly embodied in the Canossian Village located at 1 Sallim Road. This single compound houses within its walls not just Canossa Catholic Primary School, but also Canossian School and Canossaville Children and Community Services. Each of the three play its unique role in catering to the specific needs of the children that come through the village gates.
 
-
-
-<img src="/images/Our%20School/Village%201.png"
-		 style="width:45%" align = "left"> <br><br><br><br><br>
-
-
-
-**[Canossaville Children and Community Services](https://canossaville.org.sg/)**<br>
-Canossaville Children and Community Services is a social service agency that provides additional support to children and their families. Comprising a preschool, after-school care and a child development unit, Canossaville ensures that continuous support is given to the children beyond the classroom walls.
+| <img src="/images/Our%20School/Village%201.png" style="width:45%" align = "left"> |
+| --------- |
+| <b><a href="https://canossaville.org.sg/">Canossaville Children and Community Services</a></b>
+Canossaville Children and Community Services is a social service agency that provides additional support to children and their families. Comprising a preschool, after-school care and a child development unit, Canossaville ensures that continuous support is given to the children beyond the classroom walls. |
 
  *   [Canossian Early Intervention for Children with Hearing Loss (EIPIC)](/files/EIPIC-Flyer-A5-compressed.pdf)
 
