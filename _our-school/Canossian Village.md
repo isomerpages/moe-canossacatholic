@@ -11,8 +11,7 @@ The saying <em>“It takes a village to raise a child”</em> is truly embodied 
 | --------- |
 | <b><a href="https://canossaville.org.sg/">Canossaville Children and Community Services</a></b>
 Canossaville Children and Community Services is a social service agency that provides additional support to children and their families. Comprising a preschool, after-school care and a child development unit, Canossaville ensures that continuous support is given to the children beyond the classroom walls. |
-
- *   [Canossian Early Intervention for Children with Hearing Loss (EIPIC)](/files/EIPIC-Flyer-A5-compressed.pdf)
+* [Canossian Early Intervention for Children with Hearing Loss (EIPIC)](/files/EIPIC-Flyer-A5-compressed.pdf)
 
 
 
