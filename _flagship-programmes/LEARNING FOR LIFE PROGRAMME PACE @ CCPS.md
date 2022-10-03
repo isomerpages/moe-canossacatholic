@@ -1,6 +1,6 @@
 ---
 title: LEARNING FOR LIFE PROGRAMME PACE @ CCPS
-permalink: /flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps
+permalink: /flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps/
 description: ""
 ---
 **<font size=6>LEARNING FOR LIFE PROGRAMME - P.A.C.E. @ CCPS
@@ -10,10 +10,10 @@ P.A.C.E.@CCPS leverages on PE, Sports & Outdoor Education to cultivate a deep lo
   
 We believe that every student in CCPS will be:  
 
-*   **<u>P</u>** hysically Fit,
-*   **<u>A</u>** dventurous,
-*   **<u>C</u>** ourageous and
-*   **<u>E</u>** mpowered Leaders through Sports
+*   <b><u>P</u></b> hysically Fit,
+*   <b><u>A</u></b> dventurous,
+*   <b><u>C</u></b> ourageous and
+*   <b><u>E</u></b> mpowered Leaders through Sports
 
   
 Through P.A.C.E., all CCPS students will be nurtured into young people who are future-ready, fit, healthy and strong both in body and mind. They will  
@@ -23,34 +23,38 @@ Through P.A.C.E., all CCPS students will be nurtured into young people who are f
 
 *   Learn to make decisions and take responsible risks as part of their character formation.
 
-<img src="/images/Flagship%20Programmes/LLP%201.jpg"  
-     style="width:55%">
+<center>
+
+<img src="/images/Flagship%20Programmes/LLP%201.jpg" style="width:55%">
 
 ![](/images/Flagship%20Programmes/LLP%202.png)
 
-**<u>P</u>ACE - Physically Fit**
+</center>
+<br>
+<br>
 
-  
+<b><font size=4 color="#eeac0d"><u>P</u>ACE - Physically Fit</font></b>
+<br>
 CCPS uses a 3-tiered approach – broad base, talent identified and interest based – to ensure that all students are full beneficiaries of the programme. There are also provisions made for students who show an interest in the sports and / or outdoor games to develop their skills and competencies through the recreational wing of the Sports CCAs should they not be selected for the school team.  
   
-
-**<u>Tier 1 - Broad Base</u>**<br>
-**Sports Enrichment Programme (SEP)**
- 
+<p style="margin-left: 40px">
+<b><font size=4 color="#7daadf"><u>Tier 1 - Broad Base</u></font></b>
+<br>
+<b>Sports Enrichment Programme (SEP)</b>
+<br>
 The SEP aims to advocate the importance of sports education and encourage a love of sports. Our students are given opportunities to experience a variety of sports and acquire new sports-related skills during PE lessons. Throughout their 6 years in CCPS, students will be exposed to the following sports at the different levels:
+<p style="margin-left: 40px">
+<b>Primary 1:</b> Soccer<br>
+<b>Primary 2:</b> Inline Skate<br>
+<b>Primary 3:</b> Skipping<br>
+<b>Primary 4:</b> Tchoukball<br>
+<b>Primary 5:</b> i-Bounce<br>
+<b>Primary 6:</b> Bowling<br>
+</p>
 
-  
-
-*   Primary 1: Soccer
-*   Primary 2: Inline Skate
-*   Primary 3: Skipping
-*   Primary 4: Tchoukball
-*   Primary 5: i-Bounce
-*   Primary 6: Bowling
-
-  
-
-**House System and Sports Day**<br>
+<p style="margin-left: 40px">
+<b>House System and Sports Day</b>
+<br>
 The House System aims to foster a sense of loyalty and pride towards the school, the House our students belong to, as well as to promote team spirit and instil a sense of identity. Every student finds their identity with a House, which they will stay committed to till graduation.
 
   
