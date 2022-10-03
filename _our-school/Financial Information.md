@@ -159,8 +159,9 @@ All students
 <td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Patrons</span>
 <br>
-<br>
+<br><br>
 <span style="font-weight:bold">Trustees/Board Members</span>
+<br>
 <br>
 <br>
 <br>
@@ -188,6 +189,7 @@ All students
 </td>
 <td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 NA
+<br>
 <br>
 <br>Dr Gerard Ee Hock Kim (Chairman)
 <br>Sr Elizabeth Tham (Supervisor)
