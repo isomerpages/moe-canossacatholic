@@ -60,44 +60,38 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <br>-&emsp; Be absent for a long period of time
 
 * Valid reasons such as medically unfit for school must be given for any absence.
+<br>
+<br>
 
-**<font size=5>Integrity</font>**
-
-
+<b><font size=5 color="#7daadf">Integrity</font></b>
 *   Students must be honest. They must not be involved in stealing, plagiarism, cheating in an examination or assessment and forgery (including altering signature and school documents).
+<br>
+<br>
 
-  
-
-  
-**<font size=5>Behaviour</font>**
-
+<b><font size=5 color="#7daadf">Behaviour</font></b>
 *   Students must show respect to others. They must not be involved in disruptive behaviours, open defiance, showing disrespect to authorities and elders, using inappropriate language and bullying (including cyberbullying, extorting money, causing physical and mental harm). T**he school adopts a zero tolerance policy on bullying**.
+<br>
+<br>
 
-  
-
-  
-**<font size=5>Use of Handphones and Electronic Devices</font>**
-
-
+<b><font size=5 color="#7daadf">Use of Handphones and Electronic Devices</font></b>
 *   Students can only bring a handphone to school when permission is granted by the school. The Permission to Bring Handphone Form issed by the HOD Student Management is only valid for one year for students who need to travel on their own to and/or from school. The use of handphone is allowed at the security guard post for calling parents only.
 *   Students are not to turn on nor use their handphones while on the school premises and during Learning Journeys.
 *   Students are not allowed to bring any electronic devices (except prescribed calculators and e-dictionaries) to school. The school will bear no responsibility for the loss of these devices.
- 
-**<font size=5>National Anthem and Pledge</font>**
- 
+<br>
+<br>
+
+<b><font size=5 color="#7daadf">National Anthem and Pledge</font></b>
 *   All students must attend the morning assembly respectfully.
 *   Students who are Singapore Citizens must sing the National Anthem and take the Pledge. The Pledge must be taken with the right fist placed over the heart.
+<br>
+<br>
 
-  
+<b><font size=5 color="#7daadf">Daily Prayers</font></b>
+*   As Canossa Catholic Primary School is a Catholic mission-aided mission school, daily prayers are said at various times of the day to call to mind the presence of God in our lives.
+<br>
+<br>
 
- **<font size=5>Daily Prayers</font>**
-	
- *   As Canossa Catholic Primary School is a Catholic mission-aided mission school, daily prayers are said at various times of the day to call to mind the presence of God in our lives.
-
-  
-
-  
- **<font size=5>Others</font>**
+<b><font size=5 color="#7daadf">Others</font></b>
 *   Students must take care of the environment. They must not litter and vandalise any school property.
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which used or intended to be used to cause harm to others.
 *   Students must not be involved in trading of items, arson, assault, fighting, gambling, gangsterism, pornography, smoking, substance abuse and hacking into school system.
