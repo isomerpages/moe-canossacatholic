@@ -69,7 +69,7 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <br>
 
 <b><font size=5 color="#7daadf">Behaviour</font></b>
-*   Students must show respect to others. They must not be involved in disruptive behaviours, open defiance, showing disrespect to authorities and elders, using inappropriate language and bullying (including cyberbullying, extorting money, causing physical and mental harm). T**he school adopts a zero tolerance policy on bullying**.
+*   Students must show respect to others. They must not be involved in disruptive behaviours, open defiance, showing disrespect to authorities and elders, using inappropriate language and bullying (including cyberbullying, extorting money, causing physical and mental harm). **The school adopts a zero tolerance policy on bullying**.
 <br>
 <br>
 
