@@ -84,20 +84,20 @@ description: ""
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Objectives:</span>
-<br>
-<br>The mission of the Education Service is to mould the future of the nation, by moulding the people who will determine the future of the nation. This is achieved by providing children with a balanced and well-rounded education, develop them to their full potential, and nurture them into good citizens, conscious of their responsibilities to family, society and country.
+<b><font color="#eeac0d">Objectives:</font></b>
 <br>
 <br>
+The mission of the Education Service is to mould the future of the nation, by moulding the people who will determine the future of the nation. This is achieved by providing children with a balanced and well-rounded education, develop them to their full potential, and nurture them into good citizens, conscious of their responsibilities to family, society and country.
 <br>
 <br>
-<span style="font-weight:bold">Mission:</span>
+<br>
+<b><font color="#eeac0d">Mission:</font></b>
 <br>
 <br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life.
 <br>
 <br>
 <br>
-<span style="font-weight:bold">Vision:</span>
+	<b><font color="#eeac0d">Vision:</font></b>
 <br>
 <br>
 <span style="color:#454545">Leaders of Hope</span>
@@ -110,33 +110,29 @@ description: ""
 <br>
 </th>
 <th style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">No. of Beneficiaries:</span>
+<b><font color="#eeac0d">No. of Beneficiaries:</font></b>
+<br>
 All students
 <br>
 <br>
-<span style="font-weight:bold">Programmes/Activities</span>
+<b><font color="#eeac0d">Programmes/Activities</font></b>
+<br>
 <br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2021)</span>
 <br>
 <br>
-<span style="color:#000">1. Character Development Programme</span>
+<b>1.</b>&emsp; Character Development Programme
 <br>
-2. Integrated Programme
+<b>2.</b>&emsp; Integrated Programme
 <br>
-3. Flagship Programmes
+<b>3.</b>&emsp; Flagship Programmes
 <br>
-<span style="color:#000">- Sports - PACE@CCPS
-</span>
-<br>
-<span style="color:#000">- STEM - MAKE@CCPS</span>
-<br>
-<span style="color:#000">- Lifeskills - R.E.A.D.Y. For Life</span>
-<br>
-<span style="color:#000">- Art - heART &amp; Soul</span>
-<br>
-<span style="color:#000">- Interest Week - Discovering the Unique Me!</span><br>
-<br>
-<br>
+	&nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
+&nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
+	</ul>
+	
 <br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2022)</span>
 <br>
