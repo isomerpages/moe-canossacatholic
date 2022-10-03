@@ -716,14 +716,13 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Mr Chester Mark</span>
-<br>
+<span style="color:#454545;background-color:#FAFAFA">Ms Gloria Teo</span><br>
 </td>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545">3 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">mark_hong_wei_chester@moe.edu.sg</span>
+<span style="color:#454545;background-color:#FAFAFA">teo_may_shi_gloria@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -736,18 +735,6 @@ description: ""
 </td>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">huang_xue@moe.edu.sg</span>
-<br>
-</td>
-</tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Ms Gloria Teo</span><br>
-</td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545">3 Joy</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">teo_may_shi_gloria@moe.edu.sg</span>
 <br>
 </td>
 </tr>
