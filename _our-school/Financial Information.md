@@ -115,7 +115,7 @@ The mission of the Education Service is to mould the future of the nation, by mo
 All students
 <br>
 <br>
-<b><font color="#eeac0d">Programmes/Activities</font></b>
+<b><font color="#eeac0d">Programmes/Activities:</font></b>
 <br>
 <br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2021)</span>
