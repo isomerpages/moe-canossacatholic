@@ -10,7 +10,7 @@ description: ""
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-<td style="background-color:#F8F8F8;border-color:black;border-style:solid;border-width:0px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#F8F8F8;border-color:WHITE;border-style:solid;border-width:7px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <b><font color="#eeac0d">Name Of School:</font></b>
 <br>
 <span style="color:#454545">Canossa Catholic Primary School</span>
@@ -20,7 +20,7 @@ description: ""
 <br>
 <span style="color:#454545">1 Sallim Road Singapore 387621</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:0px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:7px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 	<b><font color="#eeac0d">Contact Information:</font></b>
 <br>
 <br>
@@ -48,7 +48,7 @@ description: ""
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <b><font color="#eeac0d">Charity Status</font></b>
 <br>
 <br>Canossa Catholic Primary School is an Exempt Charity.
@@ -61,7 +61,7 @@ description: ""
 <br>
 <br>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <b><font color="#eeac0d">IPC Status</font></b>                                                   <br>
 <br>
 <b><span style="color:#454545">Effective Date: &nbsp;</span></b> N.A
@@ -83,7 +83,7 @@ description: ""
 </colgroup>
 <thead>
 <tr>
-<th style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<th style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <b><font color="#eeac0d">Objectives:</font></b>
 <br>
 <br>
@@ -109,7 +109,7 @@ The mission of the Education Service is to mould the future of the nation, by mo
 <br>
 <br>
 </th>
-<th style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<th style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <b><font color="#eeac0d">No. of Beneficiaries:</font></b>
 <br>
 All students
@@ -156,7 +156,7 @@ All students
 </thead>
 <tbody>
 <tr>
-<td style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <b><font color="#eeac0d">Patrons</font>
 <br>
 <br>
@@ -186,7 +186,7 @@ All students
 <span style="font-weight:bold">Auditor</span>
 <br>
 </td>
-<td style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <br>
 <br>
 NA
