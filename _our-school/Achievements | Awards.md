@@ -14,7 +14,7 @@ description: ""
 <span style="color:#000">Academic Achievements and Awards </span>
 </th>
 <th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<span style="color:#000">Name of Awards Names of Students</span>
+<span style="color:#000">Name of Awards <br> Names of Students</span>
 </th>
 </tr>
 </thead>
@@ -335,7 +335,7 @@ description: ""
 <span style="color:#000">Academic Achievements and Awards</span>
 </th>
 <th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#000">Name of Awards Names of Students</span>
+<span style="color:#000">Name of Awards <br> Names of Students</span>
 </th>
 </tr>
 </thead>
@@ -481,7 +481,7 @@ description: ""
 <th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#000">Non-Academic Achievementsand Awards</span></th>
 <th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#000">Name of AwardsNames of Students  </span>
+<span style="color:#000">Name of Awards <br>Names of Students  </span>
 </th>
 </tr>
 </thead>
@@ -510,7 +510,7 @@ description: ""
 <span style="color:#000">Academic Achievements and Awards</span>
 </th>
 <th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<span style="color:#000">Name of Awards<Br>Names of Students </span></th>
+<span style="color:#000">Name of Awards <br> Names of Students </span></th>
 </tr>
 </thead>
 <tbody>
