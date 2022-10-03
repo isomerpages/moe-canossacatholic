@@ -298,14 +298,39 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 </tbody>
 </table>
 
-**<font size=5 color="#7daadf">The St Anthony Award</font>**
+<b><font size=5 color="#7daadf">The St Anthony Award</font></b>
 
 Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St Anthony Award recognises the most outstanding student in the area of Sports, Arts, a Club or a Uniform Group. The student’s contributions to the CCA must include representing the school in the area and a desire to always improve. The student must also be a positive role-model to others in the CCA and must be able to motivate peers to give of their best.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
-<thead><tr><th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2019</th><th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Cheah Jia Ying, Isabelle</span><br></th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2020</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Soliva Zara Marguerite Caga  </td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Miiko Lee Kexin</span></td></tr></tbody></table>
+<thead>
+<tr>
+<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2019
+</th>
+<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Cheah Jia Ying, Isabelle</span>
+<br>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2020
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Soliva Zara Marguerite Caga
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2021
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Miiko Lee Kexin</span>
+</td>
+</tr>
+</tbody>
+</table>
 
-**<font size=5>The St Francis Award</font>**
+<b><font size=5 color="#7daadf">The St Francis Award</font></b>
 
 Named after Mother Foundress’ favourite Saint, whom she took as the father and protector of the Canossian Institute, the St Francis Award goes to the student who has the courage to stand tall amongst peers as an advocate of what is good and just. The student has consistently manifested strong values in the periods of ease and adversity.
 
