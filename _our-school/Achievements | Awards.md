@@ -5,7 +5,7 @@ description: ""
 ---
 **<font size=6>Achievements | Awards</font>**
 
-<b><font size=5 color="#7daadf">2021</font></b>
+<b><font size=6 color="#7daadf">2021</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -326,7 +326,7 @@ description: ""
 </table>
 
 
-**<font size=5>2020</font>**
+<b><font size=6 color="#7daadf">2020</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -577,6 +577,7 @@ description: ""
 <span style="color:#454545;background-color:#FAFAFA">Primary 6</span></td>
 </tr>
 <tr>
+
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Zheng Wenxi</span></td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
@@ -668,7 +669,7 @@ description: ""
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr>
 <th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#000">Non-Academic Achievementsand Awards </span></th>
+<span style="color:#000">Non-Academic Achievement sand Awards </span></th>
 <th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#000">Name of Awards <br> Names of Students </span></th><th style="background-color:#B0B0B0;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 </th>
