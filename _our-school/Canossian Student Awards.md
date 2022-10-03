@@ -13,7 +13,7 @@ Named after Mother Foundress, the St Magdalene Award is given to a graduating st
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<span style="font-weight:bold;color:#252525">Canossa Convent Primary School</span>
+<b><font size=4 color="#eeac0d">Canossa Convent Primary School</font></b>
 </th>
 </tr>
 </thead>
@@ -105,7 +105,7 @@ Named after Mother Foundress, the St Magdalene Award is given to a graduating st
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<span style="font-weight:bold;color:#252525">Canossa Catholic Primary School</span>
+	<b><font size=4 color="#eeac0d">Canossa Catholic Primary School</font></b>
 </th>
 </tr>
 </thead>
@@ -147,7 +147,7 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<span style="font-weight:bold;color:#252525">Canossa Convent Primary School</span>
+<b><font size=4 color="#eeac0d">Canossa Convent Primary School</font></b>
 </th>
 </tr>
 </thead>
@@ -259,7 +259,7 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<span style="font-weight:bold;color:#252525">Canossa Catholic Primary School</span>
+<b><font size=4 color="#eeac0d">Canossa Catholic Primary School</font></b>
 </th></tr>
 </thead>
 <tbody>
@@ -297,7 +297,9 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 </tr>
 </tbody>
 </table>
-
+<br>
+<br>
+<br>
 <b><font size=5 color="#7daadf">The St Anthony Award</font></b>
 
 Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St Anthony Award recognises the most outstanding student in the area of Sports, Arts, a Club or a Uniform Group. The student’s contributions to the CCA must include representing the school in the area and a desire to always improve. The student must also be a positive role-model to others in the CCA and must be able to motivate peers to give of their best.
@@ -329,7 +331,9 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 </tr>
 </tbody>
 </table>
-
+<br>
+<br>
+<br>
 <b><font size=5 color="#7daadf">The St Francis Award</font></b>
 
 Named after Mother Foundress’ favourite Saint, whom she took as the father and protector of the Canossian Institute, the St Francis Award goes to the student who has the courage to stand tall amongst peers as an advocate of what is good and just. The student has consistently manifested strong values in the periods of ease and adversity.
@@ -367,7 +371,9 @@ Named after Mother Foundress’ favourite Saint, whom she took as the father and
 </tr>
 </tbody>
 </table>
-
+<br>
+<br>
+<br>
 <b><font size=5 color="#7daadf">Canossa Art Award</font></b>
 
 From 2021, the Canossa Art Award is an annual school-based award that recognises students who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
@@ -427,7 +433,9 @@ From 2021, the Canossa Art Award is an annual school-based award that recognises
 </tr>
 </tbody>
 </table>
-
+<br>
+<br>
+<br>
 <b><font size=5 color="#7daadf">Canossa Sports Award</font></b>
 
 From 2021, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
@@ -482,16 +490,16 @@ From 2021, the Canossa Sports Award is an annual school-based award that recogni
 </tr>
 </tbody>
 </table>
-
+<br>
+<br>
+<br>
 <b><font size=5 color="#7daadf">Star Pupil Award</font></b>
 
-  
 Star Pupil Award is a school-based award given at the end of each term to recognise and affirm individual students who exhibit our school value for the term.  
-  
-  
+<br>
+
 <b><font size=5 color="#7daadf">Angel Class Award</font></b>
 
-  
 Angel Class Award is a school-based award given at the end of each term to recognise and affirm classes that are exemplary in demonstrating our school values.
 
 
