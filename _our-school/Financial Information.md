@@ -49,20 +49,21 @@ description: ""
 <thead>
 <tr>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Charity Status</span>
+<b><font color="#eeac0d">Charity Status</font></b>
+<br>
 <br>Canossa Catholic Primary School is an Exempt Charity.
 <br><br>
-<span style="font-weight:bold">Date of Establishment:</span>
-<span style="color:#454545">1941</span>
+<b><span style="color:#454545">Date of Establishment:</span></b>
+<span style="color:#454545">&nbsp; 1941</span>
 <br><br>
-<span style="font-weight:bold">UEN No:</span>
-<span style="color:#454545">T18GS0005A</span>
+<b><span style="color:#454545">UEN No:</span></b>
+<span style="color:#454545">&nbsp; T18GS0005A</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">IPC Status</span>                                                   <br>
-<br>Effective Date : N.A
 <br>
+<b><span style="color:#454545">Effective Date: &nbsp;</span></b> N.A
 <br>
 <br>
 <span style="color:#454545">A member of the Education Central Fund.   </span>
