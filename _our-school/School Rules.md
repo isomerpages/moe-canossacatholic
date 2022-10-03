@@ -46,24 +46,15 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <br>
 <br>
 <br>
-**<font size=5>Punctuality</font>**
-
-  
-
+<b><font size=5 color="#7daadf">Punctuality</font></b>
 *   Students must be in assembly area before 7.25am. Lessons will start at 7.30am.
 *   Students must be punctual for all lessons, CCA sessions and other school programmes.
+<br>
+<br>
 
-  
-
-  
-**<font size=5>Attendance</font>**
-
- 
-
+<b><font size=5 color="#7daadf">Attendance</font></b>
 *   Students must be present in school for all lessons. They must remain in school grounds once they have reported to school.
-
 *   Students are not to do the following without permission
- 
     * Leave school ground
     * Skip class / CCAs / any other enrichment classes
     * Be absent for a long period of time
