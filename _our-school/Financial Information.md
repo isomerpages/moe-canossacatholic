@@ -11,34 +11,32 @@ description: ""
 <thead>
 <tr>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Name Of School:</span>
+<b><font color="#eeac0d">Name Of School:</font></b>
 <br>
 <span style="color:#454545">Canossa Catholic Primary School</span>
 <br>
 <br>
-<span style="font-weight:bold">Address:</span>
+<b><font color="#eeac0d">Address:</font></b>
 <br>
 <span style="color:#454545">1 Sallim Road Singapore 387621</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Contact Information:</span>
+	<b><font color="#eeac0d">Contact Information:</font></b>
 <br>
 <br>
-<span style="color:#454545">Name</span>
-of Contact Person: Mdm Nur Faezah<br>
-<span style="color:#454545">Telephone No:</span>
-68441418
+<b><span style="color:#454545">Name of Contact Person: &nbsp; &nbsp;</span></b>Mdm Nur Faezah
 <br>
+	<b><span style="color:#454545">Telephone No: &nbsp; &nbsp;</span></b>68441418
 <br>
-<span style="color:#454545">Fax No: 68441417</span>
+<b><span style="color:#454545">Fax No: &nbsp; &nbsp;</span></b>68441417
 <br>
+<b><span style="color:#454545">Email Address: &nbsp; &nbsp;</span></b>ccps@moe.edu.sg
 <br>
-<span style="color:#454545">Email Address: ccps@moe.edu.sg</span>
-<br>
-<br>
-<span style="color:#454545">Web-site Address:</span>
+<b><span style="color:#454545">Web-site Address: &nbsp; &nbsp;</span></b>
 <a href="https://staging.d2nutevx25vdua.amplifyapp.com/" target="_blank" rel="noopener noreferrer">
 <span style="text-decoration:underline;color:blue">Canossa Catholic Primary School</span>
+<br>
+<br>
 </a>
 </td>
 </tr>
@@ -53,12 +51,10 @@ of Contact Person: Mdm Nur Faezah<br>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Charity Status</span>
 <br>Canossa Catholic Primary School is an Exempt Charity.
-<br>
-<br>
-<br>
+<br><br>
 <span style="font-weight:bold">Date of Establishment:</span>
 <span style="color:#454545">1941</span>
-<br>
+<br><br>
 <span style="font-weight:bold">UEN No:</span>
 <span style="color:#454545">T18GS0005A</span>
 <br>
