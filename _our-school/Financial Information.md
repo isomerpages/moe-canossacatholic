@@ -62,7 +62,7 @@ description: ""
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">IPC Status</span>                                                   <br>
+<b><font color="#eeac0d">IPC Status</font></b>                                                   <br>
 <br>
 <b><span style="color:#454545">Effective Date: &nbsp;</span></b> N.A
 <br>
