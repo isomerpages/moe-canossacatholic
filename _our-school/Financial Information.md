@@ -157,9 +157,7 @@ All students
 <tbody>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<br>
-<br>
-<span style="font-weight:bold;color:black">Patrons</span>
+<b><font color="#eeac0d">Patrons</font>
 <br>
 <br>
 <span style="font-weight:bold">Trustees/Board Members</span>
