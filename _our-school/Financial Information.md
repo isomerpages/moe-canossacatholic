@@ -59,6 +59,7 @@ description: ""
 <b><span style="color:#454545">UEN No:</span></b>
 <span style="color:#454545">&nbsp; T18GS0005A</span>
 <br>
+<br>
 </td>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">IPC Status</span>                                                   <br>
