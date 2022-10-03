@@ -3,74 +3,49 @@ title: School Rules
 permalink: /our-school/school-rules/
 description: ""
 ---
+<b><font size=6>School Rules</font></b>
 
-**<font size=6>School Rules</font>**
+<b><font size=5 color="#7daadf">Grooming</font></b>
 
-**<font size=5>Grooming</font>**
-
- *   **<u>School Uniform</u>**
-
-  
-
- Students must wear the prescribed school uniform when they are in school and when they represent the school in external activities unless prescribed by the teacher-in-charge. Boys must sew their name tag on top of the pocket. Girls must sew their name tag below the school badge. **Modification to the uniform is not allowed**.
-
- *   **<u>P.E. Attire</u>**
-
-  
-
- Students must wear the prescribed attire for P.E. lessons, i.e. school T-shirt and blue shorts. **Modification to the uniform is not allowed**.
-
-
- 
+<b><li><u>School Uniform</u></li></b>
+Students must wear the prescribed school uniform when they are in school and when they represent the school in external activities unless prescribed by the teacher-in-charge. Boys must sew their name tag on top of the pocket. Girls must sew their name tag below the school badge. **Modification to the uniform is not allowed**.
+<br><br>
+<b><li><u>P.E. Attire</u></li></b>
+Students must wear the prescribed attire for P.E. lessons, i.e. school T-shirt and blue shorts. **Modification to the uniform is not allowed**.
+<br><br>
 Girls must put on their pinafores after their PE lessons. Girls are allowed to be in their PE T-shirts and pinafores after their PE lessons. Girls are allowed to be in their PE T-shirts and pinafores the whole day only on the days that they have PE lessons. Boys must put on their school uniform shorts after their PE lessons.
- 
-   
-
+<br><br> 
 Students are not allowed to leave the school in their PE T-shirt and shorts i.e. girls must wear the pinafore over the PE attire and boys must wear the school uniform shorts.
-
-  
-
- *   **<u>Shoes and socks</u>**
-
-   
-
+<br>
+<br>
+<b><li><u>Shoes and socks</u></li></b>
 Only white canvas shoes with plain white socks (without any logo) or socks with CCPS logo are allowed. The shoes must be kept clean for good hygiene. Only ankle-length socks are allowed (i.e. the socks must cover the ankles).
-
-*   **<u>Hair</u>**
-
-  
-
+<br>
+<br>
+<b><li><u>Hair</u></li></b> 
 Please ensure that your child's hair is kept simple, neat and tidy and of natural colour.
-
-  
-**For boys:**
-
+<br><br>
+<b><font color="#eeac0d">For boys:</font></b><br>
 Boys must not have touching the collar, ears, or eyebrows. Hair at the side and back must be sloped. No undercut hairstyle is allowed. Boys must be clean-shaven at all times.
 
-  
-
-**For girls:**
-
+<b><font color="#eeac0d">For girls:</font></b><br>
 No strands of hair should be hanging down the side of the front of the face. The fringe must be above the eyebrows, otherwise a hairband or hairclip is necessary. If hair touches the collar, it must be tied up neatly, braided or tied into a bun. Hair accessories must be plain and in white, black or blue colours.
-
-  
-
-*   **<u>Accessories</u>**
-
-  
-
+<br>
+<br>
+<b><li><u>Accessories</u></li></b>
 Students are to wear **one** small, simple ear-stud, either gold or silver, on **each** ear. Earrings are not allowed.  
-  
+<br>
 Students are allowed to wear religious items and jewellery such as rings, necklace, lockets, bracelets, friendship bands etc, sling pouches and lanyards to school.  
-  
+<br> 
 Students are only allowed to wear small and simple watches with dark solid-coloured straps (eg. black, blue, brown). No smart expensive electronic watches/devices are to be brought to school.
-
-*   **<u>Fingernails</u>**
-
-  
-
+<br>
+<br>
+<b><li><u>Fingernails</u></li></b>
 Fingernails are to be kept short and clean. Painting of nails using nail polish or henna are not allowed.
-
+<br>
+<br>
+<br>
+<br>
 **<font size=5>Punctuality</font>**
 
   
