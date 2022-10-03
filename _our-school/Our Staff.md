@@ -248,7 +248,7 @@ description: ""
 <tr>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name
 </th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 20px;text-align:center;vertical-align:top;word-break:normal">Form Class
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Form Class
 </th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Email
 </th>
