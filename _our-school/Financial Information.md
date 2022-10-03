@@ -10,7 +10,7 @@ description: ""
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#F8F8F8;border-color:black;border-style:solid;border-width:0px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <b><font color="#eeac0d">Name Of School:</font></b>
 <br>
 <span style="color:#454545">Canossa Catholic Primary School</span>
@@ -20,7 +20,7 @@ description: ""
 <br>
 <span style="color:#454545">1 Sallim Road Singapore 387621</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:0px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 	<b><font color="#eeac0d">Contact Information:</font></b>
 <br>
 <br>
