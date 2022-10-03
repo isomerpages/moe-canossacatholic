@@ -140,7 +140,90 @@ All students
 <br>
 <br>
 <br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2022)</span><br>1. Character Development Programme<br>2. Integrated Programme<br>3. Flagship Programmes <br>- Sports - PACE@CCPS    <br>- STEM - MAKE@CCPS<br>- Lifeskills - R.E.A.D.Y. For Life<br>- Art - heART &amp; Soul<br>- Interest Week - Discovering the Unique Me!<br><br></th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br><span style="font-weight:bold;color:black">Patrons                                  </span><br><br><span style="font-weight:bold">Trustees/Board Members        </span><br><br><br><br>   <br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Key Employees                          </span><br>   <br><br><br><br><br><span style="font-weight:bold">Auditor                                          </span><br></td><td style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br>NA<br><br>Dr Gerard Ee Hock Kim (Chairman)<br>Sr Elizabeth Tham (Supervisor)<br>Ms Martina Wong Yoke Lin (Treasurer)<br>Dr Wong Foong Lin, Angela (Member)<br>Ms Cheong May Aung Mamie (Member)<br>Mdm Yee May Kuen Peggy Sarah (Member)<br>Dr Janelene Leong Hoe Chng (Member)<br>Sr Yeo Sui Chin Christina (Member)<br>Sr Seow Lee Huang Theresa (Member)<br>Sr Wang Janet (Member)<br>Mr Yap Qi Rong, Timothy Charles (Member)<br>Mr Wilson Wong (Member)<br>Mr Fan Yue Soon Charles (Member)<br><br><br>Mr Eugenie Tan (Principal)<br>Mr Clement Lee (Vice-Principal)<br>Mr Lionel Mun (Vice-Principal) (Administration)<br><br><br><br>Assurance Partners LLP<br></td></tr></tbody></table>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2022)</span>
+<br>
+1. Character Development Programme
+<br>
+2. Integrated Programme
+<br>
+3. Flagship Programmes
+<br>
+- Sports - PACE@CCPS
+<br>- STEM - MAKE@CCPS
+<br>- Lifeskills - R.E.A.D.Y. For Life
+<br>- Art - heART &amp; Soul
+<br>- Interest Week - Discovering the Unique Me!
+<br>
+<br>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<br>
+<br>
+<span style="font-weight:bold;color:black">Patrons</span>
+<br>
+<br>
+<span style="font-weight:bold">Trustees/Board Members</span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<span style="font-weight:bold">Key Employees</span>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<span style="font-weight:bold">Auditor</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:#000000;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<br>
+<br>
+NA
+<br>
+<br>Dr Gerard Ee Hock Kim (Chairman)
+<br>Sr Elizabeth Tham (Supervisor)
+<br>Ms Martina Wong Yoke Lin (Treasurer)
+<br>Dr Wong Foong Lin, Angela (Member)
+<br>Ms Cheong May Aung Mamie (Member)
+<br>Mdm Yee May Kuen Peggy Sarah (Member)
+<br>Dr Janelene Leong Hoe Chng (Member)
+<br>Sr Yeo Sui Chin Christina (Member)
+<br>Sr Seow Lee Huang Theresa (Member)
+<br>Sr Wang Janet (Member)
+<br>Mr Yap Qi Rong, Timothy Charles (Member)
+<br>Mr Wilson Wong (Member)
+<br>Mr Fan Yue Soon Charles (Member)
+<br>
+<br>
+<br>Mr Eugenie Tan (Principal)
+<br>Mr Clement Lee (Vice-Principal)
+<br>Mr Lionel Mun (Vice-Principal) (Administration)
+<br>
+<br>
+<br>
+<br>Assurance Partners LLP
+<br>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
