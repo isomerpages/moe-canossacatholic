@@ -941,9 +941,31 @@ description: ""
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="3">Swimming
 </td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National School Games  (B Division)</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> </span></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Individual 50m Breaststroke (3rd Position) </span></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Isabelle Cheah</span></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> </span></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> </span></td></tr></tbody></table>
-
-
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National School Games  (B Division)
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA"></span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Individual 50m Breaststroke (3rd Position)</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Isabelle Cheah</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA"></span>
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA"></span>
+</td>
+</tr>
+</tbody>
+</table>
 
 <br><br><br><br><br><br>
+	
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
