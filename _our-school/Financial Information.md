@@ -227,7 +227,7 @@ NA
 
 
 
-**<font size=5>2. Financial Information</font>**
+<b><font size=5 color="#7daadf">2. Financial Information</font></b>
 
 Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest information.
 
