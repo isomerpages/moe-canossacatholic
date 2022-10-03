@@ -127,26 +127,28 @@ All students
 <br>
 <b>3.</b>&emsp; Flagship Programmes
 <br>
-	&nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
-&nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
-&nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
-	</ul>
-	
+<em>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
+</em>
 <br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2022)</span>
 <br>
-1. Character Development Programme
+<b>1.</b>&emsp; Character Development Programme
 <br>
-2. Integrated Programme
+<b>2.</b>&emsp; Integrated Programme
 <br>
-3. Flagship Programmes
+<b>3.</b>&emsp; Flagship Programmes
 <br>
-- Sports - PACE@CCPS
-<br>- STEM - MAKE@CCPS
-<br>- Lifeskills - R.E.A.D.Y. For Life
-<br>- Art - heART &amp; Soul
-<br>- Interest Week - Discovering the Unique Me!
+<em>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>STEM -</b> MAKE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!
+	</em>
 <br>
 <br>
 </th>
