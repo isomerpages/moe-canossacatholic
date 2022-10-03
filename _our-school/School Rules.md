@@ -55,10 +55,11 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <b><font size=5 color="#7daadf">Attendance</font></b>
 *   Students must be present in school for all lessons. They must remain in school grounds once they have reported to school.
 *   Students are not to do the following without permission
-    * Leave school ground
-    * Skip class / CCAs / any other enrichment classes
-    * Be absent for a long period of time
-*   Valid reasons such as medically unfit for school must be given for any absence.
+<br>-&emsp; Leave school ground
+<br>-&emsp; Skip class / CCAs / any other enrichment classes
+<br>-&emsp; Be absent for a long period of time
+
+* Valid reasons such as medically unfit for school must be given for any absence.
 
 **<font size=5>Integrity</font>**
 
