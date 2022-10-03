@@ -186,9 +186,7 @@ All students
 <span style="font-weight:bold">Auditor</span>
 <br>
 </td>
-<td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<br>
-<br>
+<td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 NA
 <br>
 <br>Dr Gerard Ee Hock Kim (Chairman)
@@ -206,6 +204,7 @@ NA
 <br>Mr Fan Yue Soon Charles (Member)
 <br>
 <br>
+<br>
 <br>Mr Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
 <br>Mr Lionel Mun (Vice-Principal) (Administration)
@@ -213,6 +212,7 @@ NA
 <br>
 <br>
 <br>Assurance Partners LLP
+<br>
 <br>
 </td>
 </tr>
