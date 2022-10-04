@@ -19,7 +19,7 @@ These life skills will empower the students to be  <br>
 **R** – Responsible in making sound decisions, especially when they are under pressure  
 **E** – Effective in dealing with basic day-to-day demands in life  
 **A** – Amicable in building relationships and handling challenges  
-**D** \- Determined in seeing through every commitment  
+**D** – Determined in seeing through every commitment  
 **Y** – Yielding to GRACE and TRUTH, not fear
 
   
@@ -34,14 +34,15 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 <thead>
 <tr>
 <th style="background-color:#BDD6EE;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+</th>
+<th style="background-color:#BDD6EE;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="font-weight:bold;color:#252525">Theme</span>
 </th>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<th style="background-color:#BDD6EE;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="font-weight:bold;color:#252525">Objectives</span>
 </th>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="font-weight:bold;color:#252525">Activities and Lessons</span></th>
-<th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<th style="background-color:#BDD6EE;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Activities and Lessons</span>
 </th>
 </tr>
 </thead>
