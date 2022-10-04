@@ -43,6 +43,7 @@ CCPS uses a 3-tiered approach – broad base, talent identified and interest bas
 <b>Sports Enrichment Programme (SEP)</b>
 <br>
 The SEP aims to advocate the importance of sports education and encourage a love of sports. Our students are given opportunities to experience a variety of sports and acquire new sports-related skills during PE lessons. Throughout their 6 years in CCPS, students will be exposed to the following sports at the different levels:
+	
 <p style="margin-left: 40px">
 <b>Primary 1:</b> Soccer<br>
 <b>Primary 2:</b> Inline Skate<br>
@@ -56,17 +57,14 @@ The SEP aims to advocate the importance of sports education and encourage a love
 <b>House System and Sports Day</b>
 <br>
 The House System aims to foster a sense of loyalty and pride towards the school, the House our students belong to, as well as to promote team spirit and instil a sense of identity. Every student finds their identity with a House, which they will stay committed to till graduation.
-
-  
-
-Students are allocated to one of the four houses:
-
-*   Anthony House
-*   Bakhita House
-*   Josephine House
-*   Magdalene House
-
-  
+</p>
+<p style="margin-left: 40px">
+Students are allocated to one of the four houses:<br>
+●&emsp; Anthony House <br>
+●&emsp; Bakhita House <br>
+●&emsp; osephine House <br>
+●&emsp; Magdalene House <br>
+</p>
 
 Opportunities to work together to compete in their assigned Houses come during several events organised by our school. We conduct inter-house sports events throughout the year for students to showcase the skills they have learnt during PE and develop within them the values of teamwork and sportsmanship. These events include:
 
