@@ -39,7 +39,7 @@ CCPS uses a 3-tiered approach – broad base, talent identified and interest bas
   
 <p style="margin-left: 40px">
 <b><font size=4 color="#7daadf"><u>Tier 1 - Broad Base</u></font></b>
-<br>
+<br><br>
 <b>Sports Enrichment Programme (SEP)</b>
 <br>
 The SEP aims to advocate the importance of sports education and encourage a love of sports. Our students are given opportunities to experience a variety of sports and acquire new sports-related skills during PE lessons. Throughout their 6 years in CCPS, students will be exposed to the following sports at the different levels:
@@ -82,43 +82,34 @@ Recess play is conducted during recesses daily to encourage our students to part
 <br><br>
 Through the relaxed and casual setting of recess play, students learn to manage their emotions organically. Being sensitive towards others and caring for each other also means that students learn about safety and responsibility during their time of fun and games.
 
-  
-
-**<u>Tier 2 - Talent Identified and Interest based</u>**
-
-
-  
-
-**<u>Talent Identified</u>**<br>
+<p style="margin-left: 40px">
+<b><font size=4 color="#7daadf"><u>Tier 2 - Talent Identified and Interest based</u></font></b>
+<br><br>
+<b>Talent Identified</b><br>
 Students who show aptitude in a sport are talent-identified for the school team in the following CCAs:  
-*   Track & Field
-*   Taekwondo
-
+<br><br>
+●&emsp; Track & Field<br>
+●&emsp; Taekwondo<br>
+<br>
 Identified students in these CCAs are given additional focused training so that they are well-equipped to represent the school at the National Level.
-
-  
-
-**<u>Interest based</u>**
-
-  
-
-**Recreational CCAs (Primary 3 - 6)**<br>
+<br><br>
+<b>Interest based</b>
+<br>
+<p style="margin-left: 40px">
+<b><u><em>Recreational CCAs (Primary 3 - 6)</em></u></b><br>
 Students who enjoy sports and outdoor games but may not be selected to represent the school at competitions can join Sports CCAs at the recreational level. These sports CCAs include Track and Field, Taekwondo and Modular CCA (Sport).
-
-  
-
-**Modular CCAs at Lower Primary (Primary 1 and 2)**<br>
+<br><br>
+<b><u><em>Modular CCAs at Lower Primary (Primary 1 and 2)</em></u></b><br>
 CCPS has developed a Modular CCAs Programme for our lower primary students. This programme encourages them to participate in a variety of CCAs during different terms; over the course of 5 sessions. Students are given a list of Modular CCAs options to choose from based on their interests before making an informed decision as to which they would like to pursue as their official CCA from Primary 3 onwards.
-
-  
-
+<br>
+<p style="margin-left: 40px">
 The Modular CCAs offered by our school are as follows:
-
-*   Kids Yoga
-*   Lifeskills (Baking)
-*   Taekwondo
-*   Track and Field
-*   Visual Arts
+<br>
+●&emsp; Kids Yoga<br>
+●&emsp; Lifeskills (Baking)<br>
+●&emsp; Taekwondo<br>
+●&emsp; Track and Field<br>
+●&emsp; Visual Arts<br>
 
   
 
