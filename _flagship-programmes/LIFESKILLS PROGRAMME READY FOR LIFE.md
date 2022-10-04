@@ -290,19 +290,21 @@ Healthy Food Pyramid<br>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 Students will learn
 <br>
-<br>- Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean
-<br>- How to prepare a simple western meal
-<br>- Food plating principles
-<br>- Dining etiquette
+<br>
+•  Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
+•  How to prepare a simple western meal<br>
+•  Food plating principles<br>
+•  Dining etiquette<br>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Art:</span>
+<br>
 Colours, Textures, Contrast
 <br>
 <br>
-<br>
 <span style="font-weight:bold">Health Education:</span>
+<br>
 Healthy Food Pyramid
 <br>
 – Balanced Diet, Nutrition Facts
