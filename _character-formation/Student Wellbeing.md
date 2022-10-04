@@ -34,14 +34,15 @@ Our disciplinary approach empowers students to be reflective and responsible by 
 <br>
 <br>
 Our school counselling programme comprises both psycho-education and counselling intervention. In the developmental primary school years, some students are at-risk of academic failure/underachievement, antisocial/delinquent behaviours and mental health problems. These students require additional support to develop positive social and emotional well-being.  
-  
+<br><br> 
 Our school counsellor organises programmes to proactively educate our students on topics addressing their developmental social-emotional needs. It aims to equip students with knowledge and skills to develop positive relationships, mental health and resilience.  
-  
+<br><br>  
 Our counselling referral system is as shown:
+<br><br>
 
-<img src="/images/Character%20Formation/Student%20Wellbeing%201.png" 
-     style="width:45%">
-
+<center>
+<img src="/images/Character%20Formation/Student%20Wellbeing%201.png" style="width:45%">
+</center>
 
 
 Parental consent is required when a student is referred to the School Counsellor for counselling. This system aims to provide timely intervention and support to address students’ social-emotional needs and help them cope and meet their academic and non-academic needs.  
