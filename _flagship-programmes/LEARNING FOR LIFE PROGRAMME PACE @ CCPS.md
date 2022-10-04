@@ -121,28 +121,24 @@ The Modular CCAs offered by our school are as follows:
 All Primary 3 students would have their first taste of an overnight mini adventure camp in school, where the focus is not just on the outdoors, but also on building resilience through selected physical activities. This might be the first opportunity for most students to spend a night away from their families and learn to take their first steps in developing an appropriate level of independence. Outdoor locations such as the Botanic Gardens are featured in mini adventure activities for the students, giving them opportunities to build resilience in the process.  
 <br><br>
 To further develop that spirit of adventure amongst our students, and to build courage and perseverance, all Primary 4 students participate in the MOE-run 2-day Outdoor Adventure Camp. Through obstacles, rope courses, as well as team-building games, the confidence level to go beyond their comfort zone to climb new heights and achieve new goals would be fostered.
-
-  
-
-**PAC<u>E</u> - Empowering the Life**
-
-  
-
-**<u>Health & Diet</u>**
-
-  
-
-**Broad Base**<br>
+</p>
+<br>
+<br> 
+<b><font size=4 color="#eeac0d">PAC<u>E</u> - Empowering the Life</font></b>
+<br>
+<p style="margin-left: 40px">
+<b><font size=4 color="#7daadf"><u>Health & Diet</u></font></b>
+<br><br> 
+<b>Broad Base</b>
+<br>
 In helping our children to be empowered in life, P.A.C.E. aims to inculcate good habits and decision-making skills in ensuring not only an active lifestyle, but also a healthy and balanced diet.  
-  
+<br><br>
 The school runs school-wide programmes to create awareness on health-related topics such as personal hygiene, nutrition, mental well-being, and the importance of having an active and healthy lifestyle. These include health talks conducted by the following health organisations:
-
-  
-
-*   Health Talk by National Kidney Foundation
-*   “I Love ME” Roving Exhibition by Health Promotion Board
-*   Blood Pressure Initiative @ Schools by Singapore Heart Foundation
-*   Preventive Drug Education Sharing session by Central Narcotics Bureau
+<br><br>
+●&emsp; Health Talk by National Kidney Foundation<br>
+●&emsp; “I Love ME” Roving Exhibition by Health Promotion Board<br>
+●&emsp; Blood Pressure Initiative @ Schools by Singapore Heart Foundation<br>
+●&emsp; Preventive Drug Education Sharing session by Central Narcotics Bureau<br>
  
 
 
