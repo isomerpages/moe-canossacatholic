@@ -237,12 +237,12 @@ Students will learn
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Math:</span>
+	<span style="color:#eeac0d"><b>Math:</b></span>
 <br>
 Fractions, Proportion, Time
 <br>
 <br>
-<span style="font-weight:bold">Science:</span>
+<span style="color:#eeac0d"><b>Science:</b></span>
 <br>
 Physical and Chemical Changes, Yeast
 <br>
