@@ -24,8 +24,10 @@ The 5-day programme was broken down into 3 segments - Experience, Encounter and 
 <br>
 Recognising that every child is different and has varied interest and passion, our children were given the opportunity to explore and discover their interests in 12 different modules - Animation, Cajon, Cartooning, Culinary, Design, Drama, Entrepreneurship, Inline Skate, Jazz Dance, Media, Soccer and Urban Farming.
 <br>
-<br>  
-**<font size=5>Animation - The Magic of Stop Motion</font>**<br>
+<br>
+
+<b><font size=5 color="#7daadf">Animation - The Magic of Stop Motion</font></b>
+<br>
 Students learned to use everyday items to create a unique film using the frame-by-frame animation technique and the simplified steps to make a film - storyboarding, creating sets, visual and sound editing.
 
 
