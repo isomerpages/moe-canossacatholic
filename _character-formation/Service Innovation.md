@@ -99,7 +99,8 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <span style="font-weight:bold">Key of Love</span>
 <br>
 - To reach out to the elderly in the community and bring hope to their lives</td></tr>
-</tbody></table>
+</tbody>
+</table>
 
 
 <br><br><br><br><br><br>
