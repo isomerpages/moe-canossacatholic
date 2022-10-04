@@ -52,7 +52,7 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <b>Can’t Help Falling In Love With School!</b>
 </span>
 <br>
-- To share their love for school with the preschoolers
+• To share their love for school with the preschoolers
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <b>Recipe of Love</b>
 </span>
 <br>
-- To show love and concern to the Canossian sisters from Singapore and in other countries
+• To show love and concern to the Canossian sisters from Singapore and in other countries
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <b>Pots of Love</b>
 </span>
 <br>
-- To reach out to the elderly and bring hope and cheer to their lives</td></tr><tr>
+• To reach out to the elderly and bring hope and cheer to their lives</td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Primary 4 </span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
@@ -91,12 +91,12 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <b>Love My Buddy!</b>
 </span>
 <br>
-- To improve the school experience of Primary 1 students
+• To improve the school experience of Primary 1 students
 <br>
 <br>
 <span style="font-weight:bold">Loving Hearts</span>
 <br>
-- To reach out to the elderly and bring hope and cheer to their lives
+• To reach out to the elderly and bring hope and cheer to their lives
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <b>Key of Love</b>
 </span>
 <br>
-- To reach out to the elderly in the community and bring hope to their lives</td></tr>
+• To reach out to the elderly in the community and bring hope to their lives</td></tr>
 </tbody>
 </table>
 
