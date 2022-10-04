@@ -1,9 +1,9 @@
 ---
 title: Environment Education
-permalink: /character-formation/environment-education
+permalink: /character-formation/environment-education/
 description: ""
 ---
-**<font size=6>Environment Education</font>**
+<b><font size=6>Environment Education</font></b>
 
 Taking cognizance from St Francis of Assisi, Father and Protector of the Canossian Schools and who is also patron saint for Ecology, he is known for his love for all of God’s creation and his love for Mother Earth. Hence, the Canossian Environment Education Programme aims to:  
 
@@ -14,9 +14,9 @@ Taking cognizance from St Francis of Assisi, Father and Protector of the Canossi
   
 The programme permeates at both staff and students level where, every Canossian:  
 
-*   Is **<u>Aware</u>** of Man’s interaction with the environment and how it can have both positive and negative impact
-*   **<u>Appreciates</u>** the importance and necessity of preserving the environment
-*   **<u>Applies</u>** different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
+*   Is <b><u>Aware</u></b> of Man’s interaction with the environment and how it can have both positive and negative impact
+*   <b><u>Appreciates</u></b> the importance and necessity of preserving the environment
+*   <b><u>Applies</u></b> different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
 
 <img src="/images/Character%20Formation/Environment%20Edu.png" 
      style="width:75%">
