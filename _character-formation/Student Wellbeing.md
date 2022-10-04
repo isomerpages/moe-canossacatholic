@@ -44,29 +44,29 @@ Our counselling referral system is as shown:
 <img src="/images/Character%20Formation/Student%20Wellbeing%201.png" style="width:45%">
 </center>
 
-
+<br>
 Parental consent is required when a student is referred to the School Counsellor for counselling. This system aims to provide timely intervention and support to address students’ social-emotional needs and help them cope and meet their academic and non-academic needs.  
-  
-  
 
-**Peer Support System**
+<br>
+<br>  
 
-  
+<b><u>Peer Support System</u></b>
+
+<br>
 In CCPS, we raise our students to be Canossians who ‘Believe, Belong and Become’. This means that no Canossian is left behind. We believe in the importance of a positive peer culture, where we deliberately choose peer support as an approach to build a caring and inclusive school environment and nurture a sense of belonging and well-being for all our students.  
-  
+<br><br>  
 The following systems have been implemented:  
-  
+<br><br> 
 
 *   P1 & P4 Buddy system
 *   P1 to P6 Class Buddy system
 *   Class Group Work system
 *   Class Peer Support Leaders
 
+<center>
+<img src="/images/Character%20Formation/Student%20Wellbeing%202.jpg" style="width:65%">
+</center>
 
-
-<img src="/images/Character%20Formation/Student%20Wellbeing%202.jpg" 
-     style="width:65%">
-		 
 **Rainbow Programme**
 
   
