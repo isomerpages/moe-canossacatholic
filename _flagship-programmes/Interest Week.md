@@ -106,6 +106,7 @@ Students were taught the fundamentals in starting and operating a business and t
 Students developed their muscle endurance and strength, and achieved better balance and coordination through inline skating. Students became more confident in themselves as they continued to hone their inline-skating skills.
 
 <br>
+<br>
 
 <b><font size=5 color="#7daadf">Jazz Dance - Kids Jazz</font></b>
 
