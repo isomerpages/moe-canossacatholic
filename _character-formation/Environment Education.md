@@ -18,22 +18,26 @@ The programme permeates at both staff and students level where, every Canossian:
 *   <b><u>Appreciates</u></b> the importance and necessity of preserving the environment
 *   <b><u>Applies</u></b> different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
 
-<img src="/images/Character%20Formation/Environment%20Edu.png" 
-     style="width:75%">
+<br>
+<center>
+<img src="/images/Character%20Formation/Environment%20Edu.png" style="width:75%">
+</center>
 
-
-**<font size=5>Key Programmes:</font>**
-
-  
+<br>
+<b><font size=5 color="#7daadf">Key Programmes:</font></b>
+<br><br>
 We empower our students as advocators of sustaining Mother Earth. Student leaders such as Green Leaders and Green Ambassadors are provided training so that they can take the lead in the school’s movement for environmental sustainability.
 
+<center>
 
 ![](/images/Character%20Formation/Environment%20Edu%202.png)
 
+</center>
 
+<br>
 Various exciting programmes are planned for the year where we honour what St Francis of Assisi has initiated. These programmes include:
 
-  
+<br>
 
  *   Assembly talks and recess activities on special environment commemorative days such as World Water Day and Earth Day to educate and empower Canossians in the area of environment.
  *   SLS packages for empowering each and every Canossian to lead their families in sustaining Mother Earth.
