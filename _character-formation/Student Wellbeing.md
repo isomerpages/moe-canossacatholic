@@ -68,16 +68,15 @@ The following systems have been implemented:
 </center>
 
 <br><br>
-**Rainbow Programme**
+<b><u>Rainbow Programme</b></u>
 
-  
+<br>
 The Rainbow Programme is a support programme for P1 to P4 students who experience a significant loss in their lives, either by death, divorce or separation of parents. Through the guidance of a trained adult facilitator and the support of peers, students sort through and understand their grief feelings and thoughts so as to come to a healthy acceptance of the painful changes in their families and be empowered to lead happy and meaningful lives.  
-  
-  
-
-**Student Leadership**
-
-  
+<br>
+<br>
+<br><br>
+<b><u>Student Leadership</b></u>
+<br>
 
 *   Click [**here**](https://staging.d2nutevx25vdua.amplifyapp.com/character-formation/student-leadership) to read more on Student Leadership
 
