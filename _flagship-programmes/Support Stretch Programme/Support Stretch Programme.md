@@ -1,6 +1,6 @@
 ---
 title: Support Stretch Programme
-permalink: /flagship-programmes/support-stretch-programme
+permalink: /flagship-programmes/support-stretch-programme/
 description: ""
 third_nav_title: Support Stretch Programme
 ---
@@ -13,30 +13,34 @@ The programmes offer students exposure to a broad range of topics and genres, of
 Recognising that growth does not occur in a linear fashion, with some students showing talent for specific subjects and at different timepoints as they mature, selection for our stretch programmes takes place on a yearly or semestral basis.
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/english-language">
+<p>
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/english-language">
 <img src="/images/Flagship%20Programmes/English%20Language.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
-</a></p>
+</a>
+</p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/science">
+<p>
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/science">
 <img src="/images/Flagship%20Programmes/Science.png" style="width:260px;height:290px;margin-left:15px;" align = "right">
-</a></p>
+</a>
+</p>
 
 
 <br><br><br><br><br><br><br><br>
 
-
-
-
-<img src="/images/Flagship%20Programmes/Stretch%20Programme%20-%20Copy.jpg"  
-     style="width:40%">
+<img src="/images/Flagship%20Programmes/Stretch%20Programme%20-%20Copy.jpg" style="width:40%">
 		 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mathematics">
+<p>
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mathematics">
 <img src="/images/Flagship%20Programmes/Mathematics.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
-</a></p>
+</a>
+</p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mother-tongue-languages">
+<p>
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mother-tongue-languages">
 <img src="/images/Flagship%20Programmes/Mother%20Tongue%20Languages.png" style="width:250px;height:255px;margin-left:15px;" align = "right">
-</a></p>
+</a>
+</p>
