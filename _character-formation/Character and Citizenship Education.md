@@ -1,65 +1,65 @@
 ---
 title: Character and Citizenship Education
-permalink: /character-formation/character-and-citizenship-education
+permalink: /character-formation/character-and-citizenship-education/
 description: ""
 ---
-**<font size=6>Character and Citizenship Education</font>**
+<b><font size=6>Character and Citizenship Education</font></b>
 
 As part of Canossian Character Formation, the Character & Citizenship Education (CCE) Department Programmes aim to develop students who demonstrate:  
-  
 
 *   The Canossian attributes, Commitment, Compassion and Cheerfulness, anchored on our school values, Charity, Humility, Forgiveness, Faith and;
 *   An affiliation for school and country
+<br>
+<br>
 
-  
+<b><font size=5 color="#7daadf">CCE: Formal and School-based Curriculum</font></b>
+<br><br>
+<b>Character and Citizenship Education (CCE) Lessons for Primary 1 to 6</b>
 
-**<font size=5>CCE: Formal and School-based Curriculum</font>**
-
-
-
-**Character and Citizenship Education (CCE) Lessons for Primary 1 to 6**
-
-  
+<br> 
 CCE lesson is one of the components in Character and Citizenship Education, focusing on the teaching of values, knowledge and skills for CCE in the Mother Tongue Languages (MTL). For students who offer the non-Tamil Indian Languages (NTIL), namely Bengali, Punjabi and Urdu as their Mother Tongue and for those who are exempted from taking MTL, CCE will be taught in English. Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:
+<br>
+<center>
+<img src="/images/Character%20Formation/CCE%201.png" style="width:65%">
+</center>
+<br>
 
-<img src="/images/Character%20Formation/CCE%201.png"  
-     style="width:65%">
+<b>Form Teacher Guidance Period (FTGP) for Primary 1 to P6</b>
 
-
-
-**Form Teacher Guidance Period (FTGP) for Primary 1 to P6**
-
-  
+<br> 
 FTGP is one of the components in Character and Citizenship Education, focusing on the teaching of social and emotional competencies and the building of teacher-student relationship. To provide quality interaction time between form teachers and their students, FTGP is a protected time for form teachers to engage in meaningful play with their students. Besides strengthening teacher-pupil relationships through bonding activities, delivery of Social Emotional learning (SEL) lessons during this protected time will also allow teachers to nurture SE competencies in their students. Lessons on Cyber Wellness (CW), Education and Career Guidance (ECG) and protection from abuse (Primary 1 to Primary 4) have been incorporated in FTGP lessons to address specific issues, reinforce the core values and social and emotional competencies to enable students to apply them to the specific contexts.  
-  
-  
-
-**Programme For Active Learning (PAL) for Primary 1 and Primary 2**
-
-  
+<br>   
+<br>
+<br> 
+<b>Programme For Active Learning (PAL) for Primary 1 and Primary 2</b>
+<br> 
+<br> 
 
  *   The Programme for Active Learning (PAL) is part of the curriculum and offered during time-tabled time for all Primary 1 and 2 students. It aims to
  *   Provide students with broad exposure and experiences through varied and fun learning experiences in four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts.
  *   Facilitate holistic development of students in the five domains, that is, moral, cognitive, physical, social and aesthetics
  *   Provide varied avenues for students to develop social and emotional competencies (self-management, self-awareness, social awareness, relationship management and responsible decision making)
 
-<img src="/images/Character%20Formation/CCE%202.png"  
-     style="width:45%">
-
-
-**Sexuality Education (SEd) for Primary 5 and Primary 6**
-
-  
+<center>
+<img src="/images/Character%20Formation/CCE%202.png" style="width:45%">
+</center>
+<br>
+<b>Sexuality Education (SEd) for Primary 5 and Primary 6</b>
+<br>
+<br>
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
-  
-
-**Social Studies for Primary 1 – 6**
-
-  
+<br>  
+<br>
+<br>
+<b>Social Studies for Primary 1 – 6</b>
+<br>
+<br>  
 At the heart of the Singapore Social Studies (SS) curriculum is the preparation of our students to be citizens of tomorrow by helping them to better understand the interconnectedness in Singapore and the world they live in, and appreciate the complexities of the human experience. It seeks to inculcate in students a deeper understanding of the values that define the Singaporean society and nurture dispositions to show concern for the world they live in and demonstrate empathy in their relationships with others. The curriculum therefore envisions the SS student as an informed, concerned and participative citizen who is competent in quality decision-making with an impassioned spirit to contribute responsibly in the world he/she lives in.  
-  
+<br>
+<br> 
 Inter-disciplinary performance tasks and field-based learning journeys are organised to allow students to contextualise their learning experience in an authentic real-world setting. They would learn to explore, construct new knowledge and make connections to the topic being studied through hands-on exploration and engagement in multi-sensory modes.
-
+<br>
+<br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#999;border-color:#999999;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#FFF;background-color:#999">LEVEL</span></th><th style="background-color:#999;border-color:#999999;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#FFF;background-color:#999">THEME</span></th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">P1</span><br></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Knowing Myself, Others and My Surroundings<br></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">P2</span><br></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Coming Together as a Nation<br></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> P3</span></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Understanding Singapore’s Environment and Challenges<span style="color:#454545;background-color:#FAFAFA"> </span></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> P4</span></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Understanding our Past<span style="color:#454545;background-color:#FAFAFA"> </span></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> P5</span></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Understanding Singapore’s Development as a Nation and Understanding Southeast Asia’s Diversity and Interconnectedness </td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> P6</span></td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Understanding Features and legacies of Civilisations<span style="color:#454545;background-color:#FAFAFA"> </span></td></tr></tbody></table>
 
 **<font size=5>CCE: School-based Curriculum</font>**
