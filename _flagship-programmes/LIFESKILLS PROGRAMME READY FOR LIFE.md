@@ -258,24 +258,25 @@ Physical and Chemical Changes, Yeast
 Students will learn
 <br>
 <br>
-<br>- Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean
-<br>- How to use a stove or induction cooker
-<br>- How to prepare a healthy fried rice
-<br>- Basic food plating principles
+• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
+• How to use a stove or induction cooker<br>
+• How to prepare a healthy fried rice<br>
+•  Basic food plating principles<br>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Science:</span>
+<br>
 Heat Energy
 <br>
 <br>
-<br>
 <span style="font-weight:bold">Math:</span>
+<br>
 Proportion, Estimation
 <br>
 <br>
-<br>
 <span style="font-weight:bold">Health Education:</span>
+<br>
 Healthy Food Pyramid<br>
 – Balanced Diet<br>
 </td>
