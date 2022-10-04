@@ -48,7 +48,6 @@ Our counselling referral system is as shown:
 Parental consent is required when a student is referred to the School Counsellor for counselling. This system aims to provide timely intervention and support to address students’ social-emotional needs and help them cope and meet their academic and non-academic needs.  
 
 <br>
-<br>  
 
 <b><u>Peer Support System</u></b>
 
@@ -66,15 +65,14 @@ The following systems have been implemented:
 <center>
 <img src="/images/Character%20Formation/Student%20Wellbeing%202.jpg" style="width:65%">
 </center>
-
-<br><br>
+<br>
 <b><u>Rainbow Programme</b></u>
-
+<br>
 <br>
 The Rainbow Programme is a support programme for P1 to P4 students who experience a significant loss in their lives, either by death, divorce or separation of parents. Through the guidance of a trained adult facilitator and the support of peers, students sort through and understand their grief feelings and thoughts so as to come to a healthy acceptance of the painful changes in their families and be empowered to lead happy and meaningful lives.  
 <br>
 <br>
-<br><br>
+<br>
 <b><u>Student Leadership</b></u>
 <br>
 
