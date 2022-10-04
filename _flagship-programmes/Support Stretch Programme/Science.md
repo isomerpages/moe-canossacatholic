@@ -1,14 +1,13 @@
 ---
 title: Science
-permalink: /flagship-programmes/support-stretch-programme/science
+permalink: /flagship-programmes/support-stretch-programme/science/
 description: ""
 third_nav_title: Support Stretch Programme
 ---
-**<font size=6>Science</font>**
+<b><font size=6>Science</font></b>
 
-**<font size=5>Excellence 2000 (E2K) Science Programme Singapore</font>**
-
-
+<b><font size=5 color="#7daadf">Excellence 2000 (E2K) Science Programme Singapore</font></b>
+<br>
   
 
 The E2K Science Programme Singapore is a Science enrichment programme for students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE).  
