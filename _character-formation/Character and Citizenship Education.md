@@ -127,51 +127,49 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 </table>
 <br>
 
-**<font size=5>CCE: School-based Curriculum</font>**
+<b><font size=5 color="#7daadf">CCE: School-based Curriculum</font></b>
 
+<b>Values Education (VE)</b>
+
+<br>
+Values Education (VE) is a school-based character development programme in CCPS, which aims to inculcate in our students the necessary values and mindset such that they demonstrate positive moral values and attitudes and see the importance of a values-based life. Its focus is on establishing our school values (Commitment, Compassion, Cheerfulness), while the Form Teachers’ Guidance Period (FTGP) curriculum focuses on equipping students with social and emotional competencies.
+<br><br>
+There are 2 curriculum packages for VE: one for Catholics and the other for non-Catholics. While both packages are centred on our school values, the package for Catholics uses stories from the bible and focusses on the biblical principles in character building. Through storytelling and explicit teaching, our students learn about our school values. They can then put these values into practice and reflect on their actions based on the values taught.  
   
+<b>National Education (NE)</b>
 
-**Values Education (VE)**
-
-  
-Values Education (VE) is a school-based character development programme in CCPS, which aims to inculcate in our students the necessary values and mindset such that they demonstrate positive moral values and attitudes and see the importance of a values-based life. Its focus is on establishing our school values (Commitment, Compassion, Cheerfulness), while the Form Teachers’ Guidance Period (FTGP) curriculum focuses on equipping students with social and emotional competencies. There are 2 curriculum packages for VE: one for Catholics and the other for non-Catholics. While both packages are centred on our school values, the package for Catholics uses stories from the bible and focusses on the biblical principles in character building. Through storytelling and explicit teaching, our students learn about our school values. They can then put these values into practice and reflect on their actions based on the values taught.  
-  
-
-**National Education (NE)**
-
-  
+<br>
 National Education is anchored on the following citizenship dispositions, which enable the students to realise their part in the flourishing of their community and nation:  
-  
+<br>
 
  *   A sense of belonging: To develop a deeper understanding of who we are, and a shared understanding of the values that are important to us as a nation.
  *   A sense of reality: To be aware of the contemporary realities — including Singapore’s constraints and vulnerabilities — which affect us as a nation amidst the backdrop of a less predictable world.
 *   A sense of hope: Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
 
-  
+<br>
 While National Education has been infused in the various subjects, SS Learning journeys, commemorative events and festive celebrations are the key school-based platforms for National Education.  
   
-
-**Commemorative Events**
+<b>Commemorative Events</b>
 
 *   Total Defence Day
 *   International Friendship Day
 *   Racial Harmony Day
 *   National Day
 
-<img src="/images/Character%20Formation/CCE%203.jpg"  
-     style="width:70%">
-
-
-**Festive Celebrations:**
+<center>
+<img src="/images/Character%20Formation/CCE%203.jpg" style="width:70%">
+</center>
+<br>
+<b>Festive Celebrations:</b>
 
 *   Chinese New Year
 *   Good Friday / Easter
 *   Hari Raya Puasa
 *   Deepavali
 
-<img src="/images/Character%20Formation/CCE%205.jpg"  
-     style="width:80%">
-
+<center>
+<img src="/images/Character%20Formation/CCE%205.jpg" style="width:80%">
+</center>
 
 **<font size=5>Student Recognition and Awards</font>**
 
