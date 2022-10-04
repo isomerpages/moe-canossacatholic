@@ -58,11 +58,12 @@ The SEP aims to advocate the importance of sports education and encourage a love
 <br>
 The House System aims to foster a sense of loyalty and pride towards the school, the House our students belong to, as well as to promote team spirit and instil a sense of identity. Every student finds their identity with a House, which they will stay committed to till graduation.
 </p>
+
 <p style="margin-left: 40px">
 Students are allocated to one of the four houses:<br>
 ●&emsp; Anthony House <br>
 ●&emsp; Bakhita House <br>
-●&emsp; osephine House <br>
+●&emsp; Josephine House <br>
 ●&emsp; Magdalene House <br>
 </p>
 
