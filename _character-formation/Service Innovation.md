@@ -29,49 +29,56 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-<th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#666;background-color:#DDD">Level</span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Level</span>
 </th>
-<th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#666;background-color:#DDD">Areas of Focus</span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Areas of Focus</span>
 </th>
-<th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#666;background-color:#DDD">Theme</span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Theme</span>
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Primary 1</span></td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Canossian Family</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Can’t Help Falling In Love With School!</span><br>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">
+<b>Can’t Help Falling In Love With School!</b>
+</span>
+<br>
 - To share their love for school with the preschoolers
 </td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Primary 2 </span></td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Canossian Family</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Recipe of Love</span>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">
+<b>Recipe of Love</b>
+</span>
 <br>
 - To show love and concern to the Canossian sisters from Singapore and in other countries
 </td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Primary 3 </span></td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Canossian Community</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Pots of Love</span>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">
+<b>Pots of Love</b>
+</span>
 <br>
 - To reach out to the elderly and bring hope and cheer to their lives</td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
