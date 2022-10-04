@@ -17,23 +17,22 @@ description: ""
 <br>
 <br>
 <b><u>Teacher-Student Interaction Time</u></b>
-
+<br>
 <br>
 Teacher-student interaction is a one-to-one quality time spent between form teacher and student. It is a weekly structured time implemented during FTGP to build quality teacher-student relationships where form teachers get to know each student and gain an in-depth knowledge of every student in their class. This approach allows teachers to identify their students’ needs and nurture their character traits. This is also an important platform for building the teacher-student relationship so that students will feel comfortable and safe to open up and seek help from their teachers.  
 <br>
 <br>
 <b><u>Discipline</u></b>
-
+<br>
 <br>
 Our school adopts a positive and proactive approach as well as a restorative management approach in discipline. Our Foundress St Magdalene believes in instilling discipline with firmness yet gentleness, ‘nurturing each in her/his own way’. The Canossian education emphasises on ‘forming hearts, enlightening minds, and empowering spirits’. In the teaching of values in the process of correction, not punishment, it aims to develop the ‘greater spiritual good’ in each student according to her/his uniqueness and character.  
-  
+<br><br>
 Our disciplinary approach empowers students to be reflective and responsible by helping them learn from their mistakes in a caring and supportive school environment. In the reflection process, we consciously teach our students the school’s core values of Charity, Humility, Forgiveness and Faith, and SEL competencies as they reflect on their mistakes and learn from them. They are empowered to restore relationships through restitution, resolution and reconciliation. Students are guided to experience the value of humility, forgiveness and self worthiness.  
-  
-  
-
-**Counselling**
-
-  
+<br>
+<br> 
+<b><u>Counselling</u></b>
+<br>
+<br>
 Our school counselling programme comprises both psycho-education and counselling intervention. In the developmental primary school years, some students are at-risk of academic failure/underachievement, antisocial/delinquent behaviours and mental health problems. These students require additional support to develop positive social and emotional well-being.  
   
 Our school counsellor organises programmes to proactively educate our students on topics addressing their developmental social-emotional needs. It aims to equip students with knowledge and skills to develop positive relationships, mental health and resilience.  
