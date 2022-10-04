@@ -60,28 +60,26 @@ The House System aims to foster a sense of loyalty and pride towards the school,
 </p>
 
 <p style="margin-left: 40px">
-Students are allocated to one of the four houses:<br>
+Students are allocated to one of the four houses:
+<br><br>
 ●&emsp; Anthony House <br>
 ●&emsp; Bakhita House <br>
 ●&emsp; Josephine House <br>
 ●&emsp; Magdalene House <br>
 </p>
 
+<p style="margin-left: 40px">
 Opportunities to work together to compete in their assigned Houses come during several events organised by our school. We conduct inter-house sports events throughout the year for students to showcase the skills they have learnt during PE and develop within them the values of teamwork and sportsmanship. These events include:
-
+<br><br>
+●&emsp; Lower Primary Games Day (Primary 1 and 2) <br>
+●&emsp; Sports Day (Primary 3 - 6) <br>
+</p>
   
-
-*   Lower Primary Games Day (Primary 1 and 2)
-*   Sports Day (Primary 3 - 6)
-
-  
-
-**Recess play**
-
+<p style="margin-left: 40px">
+<b>Recess play</b>
+<br>
 Recess play is conducted during recesses daily to encourage our students to participate in physical activity regularly. A variety of sports equipment is made readily available during recess for them to explore and use. It serves as the main platform for students to practise self-organisation through outdoor games.
-
-  
-
+<br><br>
 Through the relaxed and casual setting of recess play, students learn to manage their emotions organically. Being sensitive towards others and caring for each other also means that students learn about safety and responsibility during their time of fun and games.
 
   
