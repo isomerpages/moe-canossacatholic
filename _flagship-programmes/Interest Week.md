@@ -27,31 +27,48 @@ Recognising that every child is different and has varied interest and passion, o
 <br>
 
 <b><font size=5 color="#7daadf">Animation - The Magic of Stop Motion</font></b>
+
 <br>
 Students learned to use everyday items to create a unique film using the frame-by-frame animation technique and the simplified steps to make a film - storyboarding, creating sets, visual and sound editing.
 
+<center>
+<img src="/images/Flagship%20Programmes/Interest%20Week%202.jpeg" style="width:65%">
+</center>
 
-<img src="/images/Flagship%20Programmes/Interest%20Week%202.jpeg"  
-     style="width:65%">
+<br>
 
-**<font size=5>Cajon - Rhythmic Expressions</font>**<br>
+<b><font size=5 color="#7daadf">Cajon - Rhythmic Expressions</font></b>
+
+<br>
 Students developed their sense of rhythm, strengthen their body’s muscular coordination and learned to play the cajon individually and in a group. Students were given the platform to showcase and perform for their peers and teachers at the end of the module.
 
-<img src="/images/Flagship%20Programmes/Interest%20Week%203.jpg"  
-     style="width:75%">
+<center>
+<img src="/images/Flagship%20Programmes/Interest%20Week%203.jpg" style="width:75%">
+</center>
 
+<br>
 
-**<font size=5>Cartooning - Stimulating Our Creativity</font>**<br>
+<b><font size=5 color="#7daadf">Cartooning - Stimulating Our Creativity</font></b>
+
+<br>
 Students were introduced to cartooning techniques of imaginative drawing and hands-on drawing and worked in small groups to explore visual elements, collaborative doodling and storytelling through cartoons. Students were given the platform to showcase and share their work pieces with their fellow participants at the end of the module.
 
-<img src="/images/Flagship%20Programmes/Interest%20Week%204.jpg"  
-     style="width:45%">
+<center>
+<img src="/images/Flagship%20Programmes/Interest%20Week%204.jpg" style="width:45%">
+</center>
 
-**<font size=5>Culinary - Baking Made Easy</font>**<br>
+<br>
+
+<b><font size=5 color="#7daadf">Culinary - Baking Made Easy</font></b>
+	
+<br>
 Students experienced the joy in baking as they learned the basic baking skills and explored different flavours and textures through baking. Students brought back what they baked throughout the module.
 
-<img src="/images/Flagship%20Programmes/Interest%20Week%205.jpeg"  
-     style="width:65%">
+<center>
+<img src="/images/Flagship%20Programmes/Interest%20Week%205.jpeg" style="width:65%">
+</center>
+
+<br>
 
 **<font size=5>Design - Designing a Living Space</font>**<br>
 Students were introduced to the design thinking process which guided them to design in response to the user’s needs. They were encouraged to be creative with ways to reuse and recycle common materials from their daily lives for their creations.
