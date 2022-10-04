@@ -161,12 +161,12 @@ Students will learn
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">English:</span>
+	<span style="color:#eeac0d"><b>English:</b></span>
 <br>
 Understanding and writing a procedural text
 <br>
 <br>
-<span style="font-weight:bold">Science:</span>
+	<span style="color:#eeac0d"><b>Science:</b></span>
 <br>
 Boiling point of water
 </td>
@@ -186,12 +186,12 @@ Students will learn
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">English:</span>
+	<span style="color:#eeac0d"><b>English:</b></span>
 <br>
 Understanding and writing a recipe
 <br>
 <br>
-<span style="font-weight:bold">Math:</span>
+	<span style="color:#eeac0d"><b>Math:</b></span>
 <br>
 Proper fractions, Time
 </td>
@@ -213,11 +213,11 @@ Students will learn
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Science:</span>
+	<span style="color:#eeac0d"><b>Science:</b></span>
 <br>Heat Transfer, Chemical Changes
 <br>
 <br>
-<span style="font-weight:bold">Health Education:</span>
+	<span style="color:#eeac0d"><b>Health Education:</b></span>
 <br>
 Nutrition
 </td>
