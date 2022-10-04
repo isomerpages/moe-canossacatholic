@@ -266,7 +266,19 @@ Healthy Food Pyramid<br>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">Primary 6</span><br><span style="color:#454545;background-color:#FAFAFA">Kidz Fine Dining</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will learn<br><br>- Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>- How to prepare a simple western meal<br>- Food plating principles<br>- Dining etiquette<br></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Art:</span> Colours, Textures, Contrast<br><br><br><span style="font-weight:bold">Health Education:</span> Healthy Food Pyramid <br>– Balanced Diet, Nutrition Facts</td></tr></tbody></table>
+<span style="font-weight:bold">Primary 6</span>
+<br>
+<span style="color:#454545;background-color:#FAFAFA">Kidz Fine Dining</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will learn
+<br>
+<br>- Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean
+<br>- How to prepare a simple western meal
+<br>- Food plating principles
+<br>- Dining etiquette
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Art:</span> Colours, Textures, Contrast<br><br><br><span style="font-weight:bold">Health Education:</span> Healthy Food Pyramid <br>– Balanced Diet, Nutrition Facts</td></tr></tbody></table>
 
 ![](/images/Flagship%20Programmes/Lifeskill%203.png)
 
