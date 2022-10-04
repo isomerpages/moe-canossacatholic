@@ -79,15 +79,16 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will
 <br><br>
-- Establish their common goals (class goals)<br>
-- Learn to work together as a class<br>
-- Learn to manage conflict
+●&emsp; Establish their common goals (class goals)<br>
+●&emsp; Learn to work together as a class<br>
+●&emsp; Learn to manage conflict
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-- Teambuilding Activities<br>
-- Lessons on Conflict Management and Peer Support<br>
-- P1 Buddy Programme (for Primary 4)<br>- Ambassadorial Programme (for Primary 5)<br>
-- Year Head Talk
+●&emsp; Teambuilding Activities<br>
+●&emsp; Lessons on Conflict Management and Peer Support<br>
+●&emsp; P1 Buddy Programme (for Primary 4)<br>
+●&emsp; Ambassadorial Programme (for Primary 5)<br>
+●&emsp; Year Head Talk
 </td>
 </tr>
 <tr>
