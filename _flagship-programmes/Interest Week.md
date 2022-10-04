@@ -118,23 +118,36 @@ Students explored the versatile, dynamic and expressive dance form of Jazz as th
 
 <br>
 
- **<font size=5>Media - A Taste of News Reporting</font>**<br>
+<b><font size=5 color="#7daadf">Media - A Taste of News Reporting</font></b>
+
+<br>
 Students experienced being a digital content creator. They learned journalism skills such as information gathering, conducting interviews, and writing and filming broadcasting news.
 
-<img src="/images/Flagship%20Programmes/Interest%20Week%209.jpg"  
-     style="width:65%">
+<center>
+<img src="/images/Flagship%20Programmes/Interest%20Week%209.jpg" style="width:65%">
+</center>
 
- **<font size=5>Soccer - Shoot and Strike</font>**<br>
+<br>
+
+<b><font size=5 color="#7daadf">Soccer - Shoot and Strike</font></b>
+
+<br>
 Students learned offensive and defensive skills and strategies and applied basic skills (e.g. passing, dribbling, kicking), rules and etiquette in playing soccer.
 
-<img src="/images/Flagship%20Programmes/Interest%20Week%2010.jpg"  
-     style="width:65%">
+<center>
+<img src="/images/Flagship%20Programmes/Interest%20Week%2010.jpg" style="width:65%">
+</center>
 
- **<font size=5>Urban Farming - Growing Our Own Food!</font>**<br>
+<br>
+
+<b><font size=5 color="#7daadf">Urban Farming - Growing Our Own Food!</font></b>
+	
+<br>
 Students explored the various methods in propagating plants such as vegetables and herbs and deepen their understanding of sustainable farming. At the end of each session, different seeds and crops were made available for students to take home to start their own mini urban farms.
 
-<img src="/images/Flagship%20Programmes/Interest%20Week%2011.jpeg"  
-     style="width:65%">
+<center>
+<img src="/images/Flagship%20Programmes/Interest%20Week%2011.jpeg" style="width:65%">
+</center>
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
