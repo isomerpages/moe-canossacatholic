@@ -278,7 +278,20 @@ Healthy Food Pyramid<br>
 <br>- Dining etiquette
 <br>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Art:</span> Colours, Textures, Contrast<br><br><br><span style="font-weight:bold">Health Education:</span> Healthy Food Pyramid <br>– Balanced Diet, Nutrition Facts</td></tr></tbody></table>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Art:</span>
+Colours, Textures, Contrast
+<br>
+<br>
+<br>
+<span style="font-weight:bold">Health Education:</span>
+Healthy Food Pyramid
+<br>
+– Balanced Diet, Nutrition Facts
+</td>
+</tr>
+</tbody>
+</table>
 
 ![](/images/Flagship%20Programmes/Lifeskill%203.png)
 
