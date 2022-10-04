@@ -205,17 +205,21 @@ Proper fractions, Time
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 Students will learn
 <br>
-<br>- Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean
-<br>- How to make an egg sandwich
-<br>- Different ways to cook an egg e.g. boiled egg, scrambled egg and fried egg
+<br>
+• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
+• How to make an egg sandwich<br>
+• Different ways to cook an egg e.g. boiled egg, scrambled egg and fried egg
+<br>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Science:</span>
-Heat Transfer, Chemical
-<br>Changes<br>
+<br>Heat Transfer, Chemical Changes
 <br>
-<span style="font-weight:bold">Health Education:</span> Nutrition
+<br>
+<span style="font-weight:bold">Health Education:</span>
+<br>
+Nutrition
 </td>
 </tr>
 <tr>
