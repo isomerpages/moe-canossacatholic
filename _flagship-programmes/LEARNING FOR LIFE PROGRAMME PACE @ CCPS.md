@@ -3,7 +3,7 @@ title: LEARNING FOR LIFE PROGRAMME PACE @ CCPS
 permalink: /flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps/
 description: ""
 ---
-**<font size=6>LEARNING FOR LIFE PROGRAMME - P.A.C.E. @ CCPS
+**<font size=6>Learning for Life Programme - P.A.C.E. @ CCPS
 </font>**
 
 P.A.C.E.@CCPS leverages on PE, Sports & Outdoor Education to cultivate a deep love for sports, the outdoors and promote lifelong healthy-living attitudes, whilst nurturing values of perseverance and resilience.  
