@@ -114,11 +114,12 @@ The Modular CCAs offered by our school are as follows:
 <br>
 <br>
 <b><font size=4 color="#eeac0d">P<u>AC</u>E - Adventure & (building) Courage</font></b>
-  
-
-**Broad Base**<br>
+<br>
+<p style="margin-left: 40px"> 
+<b>Broad Base</b>
+<br>
 All Primary 3 students would have their first taste of an overnight mini adventure camp in school, where the focus is not just on the outdoors, but also on building resilience through selected physical activities. This might be the first opportunity for most students to spend a night away from their families and learn to take their first steps in developing an appropriate level of independence. Outdoor locations such as the Botanic Gardens are featured in mini adventure activities for the students, giving them opportunities to build resilience in the process.  
-   
+<br><br>
 To further develop that spirit of adventure amongst our students, and to build courage and perseverance, all Primary 4 students participate in the MOE-run 2-day Outdoor Adventure Camp. Through obstacles, rope courses, as well as team-building games, the confidence level to go beyond their comfort zone to climb new heights and achieve new goals would be fostered.
 
   
