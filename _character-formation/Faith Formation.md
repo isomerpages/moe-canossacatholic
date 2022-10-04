@@ -1,12 +1,14 @@
 ---
 title: Faith Formation
-permalink: /character-formation/faith-formation
+permalink: /character-formation/faith-formation/
 description: ""
 ---
-**<font size=6>Faith Formation</font>**
+<b><font size=6>Faith Formation</font></b>
 
-**_“Above all...let the Sisters bring the children to the knowledge of Jesus Christ as He is not loved because He is not known.”_**<br>
-**-St Magdalene of Canossa**
+<center>
+<b><font size=3 color="#eeac0d"><em>“Above all...let the Sisters bring the children to the knowledge of Jesus Christ as He is not loved because He is not known.”<br></em>
+- St Magdalene of Canossa</font></b>
+</center>
 
 In line with our Foundress’ vision of educating children to “make Jesus Christ known and loved”, the school’s Values Education-Catechism lessons are the cornerstone of Canossian education at CCPS. Values Education-Catechism lessons are held once a week and taught by Catholic teachers and Canossian Sisters.
 
