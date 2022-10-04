@@ -49,30 +49,25 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 
 <tbody>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Day 1 of School</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Who Am I?</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will
 <br>
-<br>
-<br>- Have a positive view of themselves and others
-<br>- Express themselves clearly and respectfully
-<br>- Learn how to make friends and keep friends
-<br>- Understand expectations and boundaries
-<br>- Learn about general safety and personal hygiene
-<br>
-<br>
-<br>
-<br>
-<br>
+ <br>
+●&emsp; Have a positive view of themselves and others <br>
+●&emsp; Express themselves clearly and respectfully <br>
+●&emsp; Learn how to make friends and keep friends <br>
+●&emsp; Understand expectations and boundaries <br>
+●&emsp; Learn about general safety and personal hygiene <br>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-- Ice Breaker &amp; Bonding Games<br>
-- Talks on School Rules and Class Expectations<br>
-- Lessons on General Safety and Personal Hygiene<br>
+●&emsp; Ice Breaker &amp; Bonding Games<br>
+●&emsp; Talks on School Rules and Class Expectations<br>
+●&emsp; Lessons on General Safety and Personal Hygiene<br>
 </td>
 </tr>
 <tr>
