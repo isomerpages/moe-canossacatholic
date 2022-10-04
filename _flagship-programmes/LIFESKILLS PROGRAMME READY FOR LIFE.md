@@ -125,20 +125,21 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 </center>
 <br>
 
-**<font size=5>The Little Chef in Me</font>**
-
+<b><font size=4 color="#eeac0d">The Little Chef in Me</font></b>
+<br>
+<br>
 Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our students to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, students will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="font-weight:bold;color:#252525">Level</span>
 </th>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="font-weight:bold;color:#252525">Objectives (revised from 2021)</span>
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+	<span style="font-weight:bold;color:#252525">Objectives<br>(<em>revised from 2021</em> )</span>
 </th>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="font-weight:bold;color:#252525">Curriculum Links</span>
 </th>
 </tr>
