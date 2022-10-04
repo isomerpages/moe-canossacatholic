@@ -231,20 +231,21 @@ Nutrition
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 Students will learn
 <br>
-<br>- Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean
-<br>- How to use an oven
-<br>- How to bake bread
+• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
+• How to use an oven<br>
+• How to bake bread<br>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Math:</span>
+<br>
 Fractions, Proportion, Time
 <br>
 <br>
-<br>
 <span style="font-weight:bold">Science:</span>
-Physical and Chemical Changes,
-<br>Yeast<br>
+<br>
+Physical and Chemical Changes, Yeast
+<br>
 </td>
 </tr>
 <tr>
