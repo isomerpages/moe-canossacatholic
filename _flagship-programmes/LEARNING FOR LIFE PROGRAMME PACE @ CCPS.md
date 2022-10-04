@@ -110,10 +110,10 @@ The Modular CCAs offered by our school are as follows:
 ●&emsp; Taekwondo<br>
 ●&emsp; Track and Field<br>
 ●&emsp; Visual Arts<br>
-
-  
-
-**P<u>AC</u>E - Adventure & (building) Courage**
+</p>
+<br>
+<br>
+<b><font size=4 color="#eeac0d">P<u>AC</u>E - Adventure & (building) Courage</font></b>
   
 
 **Broad Base**<br>
