@@ -4,7 +4,7 @@ permalink: /flagship-programmes/support-stretch-programme/english-language/
 description: ""
 third_nav_title: Support Stretch Programme
 ---
-**<font size=6>English Language</font>**
+<b><font size=6>English Language</font></b>
 
 The CCPS English Language Stretch Programme aims to develop students into creative and critical thinkers who develop a deep appreciation of the arts.
 
