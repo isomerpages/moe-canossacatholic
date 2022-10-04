@@ -179,17 +179,20 @@ Boiling point of water
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 Students will learn
 <br>
-<br>- Basic hygiene in handling food and keeping cutlery and utensils clean
-<br>- How to use a microwave
-<br>- How to make a cake in a cup
+<br>
+• Basic hygiene in handling food and keeping cutlery and utensils clean<br>
+• How to use a microwave<br>
+• How to make a cake in a cup<br>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">English:</span>
-Understanding and writing a
-<br>recipe<br>
+<br>
+Understanding and writing a recipe
+<br>
 <br>
 <span style="font-weight:bold">Math:</span>
+<br>
 Proper fractions, Time
 </td>
 </tr>
