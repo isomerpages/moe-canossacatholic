@@ -1,32 +1,30 @@
 ---
 title: Student Wellbeing
-permalink: /character-formation/student-wellbeing
+permalink: /character-formation/student-wellbeing/
 description: ""
 ---
-**<font size=6>Student Wellbeing</font>**
+<b><font size=6>Student Wellbeing</font></b>
 
-**<font size=5>The Canossian Character Formation Student Management Department aims to develop:</font>**
-
-  
+<b><font size=5 color="#7daadf">The Canossian Character Formation Student Management Department aims to develop:</font></b>
 
  *   Positive Canossian Teacher-Student-Relationship of respect and support where our students display growth mindset towards learning in a safe and motivational environment
  *   Support structures and programmes to provide timely and appropriate interventions in order to address students’ learning, social and emotional needs
  *   Canossian Leaders of Life (LOL) with self-leadership skills for effective self-management and self-regulation anchored on the school’s core values of Charity, Humility, Forgiveness and Faith, serving others with humility and compassion in the Canossian spirit of love as Leaders of Hope, Sowers of Change
 
-  
-**<font size=5>Systems and Support Programmes</font>**
+<br>
+<br>  
+<b><font size=5 color="#7daadf">Systems and Support Programmes</font></b>
+<br>
+<br>
+<b><u>Teacher-Student Interaction Time</u></b>
 
-  
-
-**Teacher-Student Interaction Time**
-
+<br>
 Teacher-student interaction is a one-to-one quality time spent between form teacher and student. It is a weekly structured time implemented during FTGP to build quality teacher-student relationships where form teachers get to know each student and gain an in-depth knowledge of every student in their class. This approach allows teachers to identify their students’ needs and nurture their character traits. This is also an important platform for building the teacher-student relationship so that students will feel comfortable and safe to open up and seek help from their teachers.  
-  
-  
+<br>
+<br>
+<b><u>Discipline</u></b>
 
-**Discipline**
-
-  
+<br>
 Our school adopts a positive and proactive approach as well as a restorative management approach in discipline. Our Foundress St Magdalene believes in instilling discipline with firmness yet gentleness, ‘nurturing each in her/his own way’. The Canossian education emphasises on ‘forming hearts, enlightening minds, and empowering spirits’. In the teaching of values in the process of correction, not punishment, it aims to develop the ‘greater spiritual good’ in each student according to her/his uniqueness and character.  
   
 Our disciplinary approach empowers students to be reflective and responsible by helping them learn from their mistakes in a caring and supportive school environment. In the reflection process, we consciously teach our students the school’s core values of Charity, Humility, Forgiveness and Faith, and SEL competencies as they reflect on their mistakes and learn from them. They are empowered to restore relationships through restitution, resolution and reconciliation. Students are guided to experience the value of humility, forgiveness and self worthiness.  
