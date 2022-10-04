@@ -10,8 +10,6 @@ description: ""
 <center>
 <b><font size=3 color="#eeac0d"><em>“…I am fearfully and wonderfully made…” - Psalm 139:14</em></font></b>
 </center>
-
-<br>
 Discovering the Unique Me! aims to inspire our children to aspire by providing platforms for them to explore their values, interests, personalities and skills, raise their awareness of different types of education and career pathways and equip themselves with the values, skills and dispositions of lifelong learning to make informed choices regarding their education.
 
 <center>
