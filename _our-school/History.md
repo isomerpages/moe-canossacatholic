@@ -229,16 +229,12 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 </td>
 </tr>
-
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2016</span>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">CCPS celebrated its 75th Anniversary and the official re-opening of the new campus after 2 years of rebuilding under the MOE PRIME programme, on 23 August 2016.</span><br>
-<span style="font-weight:bold">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">CCPS celebrated its 75th Anniversary and the official re-opening of the new campus after 2 years of rebuilding under the MOE PRIME programme, on 23 August 2016.</span><br>
 <br>
 Ms Low Yen Ling, then Parliamentary Secretary, Ministry of Education and Ministry of Trade and Industry, and Mayor of the South-West District, and the school’s alumna, attended as the Guest of Honour.
 </span>
@@ -248,17 +244,15 @@ Ms Low Yen Ling, then Parliamentary Secretary, Ministry of Education and Ministr
 <br>
 Sister Theresa Seow, then Provincial Leader of the Canossian Daughters of Charity (Singapore &amp; Myanmar), gave a welcome address during the celebration.
 <br>
-
+<br>
 </td>
 </tr>
-
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2018</span>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">
 Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Singapore &amp; Myanmar), together with Mrs Eugenie Tan, Principal of CCPS, announced the decision for the school to go co-educational in 2019.
 <br>
 <br>
