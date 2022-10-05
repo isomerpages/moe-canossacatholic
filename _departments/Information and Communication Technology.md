@@ -94,7 +94,7 @@ Students learnt about computational thinking concepts, how these concepts could 
 
 <br>
 
-<b><font size=5 color="#7daadf">CClass ICT Representatives Training</font></b>
+<b><font size=5 color="#7daadf">Class ICT Representatives Training</font></b>
   
 The ICT department conducts yearly training for students who are elected as ICT representatives for their classes.  
   
@@ -104,7 +104,7 @@ The students are taught how to manage the Audio-Visual set-up in their classroom
 
 <br>
 
-<b><font size=5 color="#7daadf">CICT Infrastructure</font></b>
+<b><font size=5 color="#7daadf">ICT Infrastructure</font></b>
   
 To cater to the teaching and learning needs of our students, CCPS is equipped ICT infrastructure such as  
   
