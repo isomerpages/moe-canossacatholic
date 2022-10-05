@@ -69,12 +69,17 @@ Retelling activity has been rolled out for Primary 3 & Primary 4 students as par
 <br>
 This activity is aimed at Primary 5 & Primary 6 students to help students build up their oracy skills as well as to make them think on their feet. Students need to express their opinions and views on a given topic within a minute using appropriate vocabulary.     
 
-**<font size=5>Writing</font>**
+<br>
 
-**Canossian Writing Programme**<br>
+<b><font size=4 color="#eeac0d">Writing</font></b>
+
+<p style="margin-left: 40px">
+<b>Canossian Writing Programme</b>
+<br>
 Our Canossian Writing Programme recognises our students as writers who seek to hone their craft. Carefully-crafted mini-lessons allow for the discussion and unpacking of authentic mentor texts for students to develop different writing techniques and styles. Teachers model the process by working on their own writing and conduct conferences with individual students. The students’ written work is then published for their peers to read so that students grow comfortable seeing themselves as part of a writing community, become more willing to take more risks and dive deeper into the process. In addition, they can get ideas from their peers’ writing.  
-
-**Creative Writing**<br>
+<br><br>
+<b>Creative Writing</b>
+<br>
 Creative Writing has been introduced in Primary 1 & Primary 2 to encourage students to exercise their creativity and use their imagination. At the same time, students are provided with opportunities to develop their ‘voice’ and communicate their thoughts and ideas freely. An annual Creative Writing Competition is also conducted for our students.  
 
 **Journaling** <br>
