@@ -103,47 +103,44 @@ The school building was officially launched on 15 August 1941. The school was su
 <br>
 </td>
 </tr>
-
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">1942</span>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">On 15 May 1942, the school started operation with 117 boys and girls.</span>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">On 15 May 1942, the school started operation with 117 boys and girls.</span>
 <span style="color:#454545;background-color:#FAFAFA"></span>
 <br>
 <br>
 <img src="/images/History/Milestone%202.jpg" style="width:65%">
 <br>
 Japanese was used as the medium of instruction. Part of the building was occupied by the Japanese during the war.
+<br>
+<br>
 </td>
 </tr>
-
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">1946</span>
 <br><br>
 </td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The war ended. The intended private Chinese school was established for those who had reached school age. </td>
-</tr>
-
-<tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">1951</span>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">The war ended. The intended private Chinese school was established for those who had reached school age.</span>
 </td>
-	
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="font-weight:bold">The school was converted into a single session Government-Aided English School. A kindergarten was also established at the site.</span>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">1951</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">The school was converted into a single session Government-Aided English School. A kindergarten was also established at the site.</span>
 <br>
 <br>
 <img src="/images/History/Milestone%203.jpg" style="width:65%">
 <br>
-<br>Classes were conducted by the Canossian Sisters.
-<span style="color:#454545;background-color:#FAFAFA"> </span>
+<span style="color:#454545;background-color:#FAFAFA">
+Classes were conducted by the Canossian Sisters.</span>
+<br>
 <br>
 </td>
 </tr>
