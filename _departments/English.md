@@ -81,8 +81,9 @@ Our Canossian Writing Programme recognises our students as writers who seek to h
 <b>Creative Writing</b>
 <br>
 Creative Writing has been introduced in Primary 1 & Primary 2 to encourage students to exercise their creativity and use their imagination. At the same time, students are provided with opportunities to develop their ‘voice’ and communicate their thoughts and ideas freely. An annual Creative Writing Competition is also conducted for our students.  
-
-**Journaling** <br>
+<br><br>
+<b>Journaling</b>
+<br>
 Students are encouraged to read widely and respond to what they read. Journaling aims to develop students’ personal response and critical thinking skills.  
    
 **<font size=5>I Love Literature:</font>**  
