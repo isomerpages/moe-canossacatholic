@@ -1,16 +1,13 @@
 ---
 title: English
-permalink: /departments/english
+permalink: /departments/english/
 description: ""
 ---
-**<font size=6>English</font>**
+<b><font size=6>English</font></b>
 
 The six-year English Language (EL) curriculum aims to develop students to be confident and effective communicators of the English Language. It is aligned with the National Syllabus and STELLAR curriculum. Language is a means of communication, guided by purpose, audience, context and culture; hence language learning is a meaningful and an engaging experience for our students in CCPS.  
   
-**<font size=5>The EL Programme aims to:</font>**
-
-
-  
+<b><font size=4 color="#eeac0d">The EL Programme aims to:</font></b>
 
  *   Instil a love for lifelong reading
  *   Develop critical thinking through extensive reading and responding to texts
@@ -18,10 +15,8 @@ The six-year English Language (EL) curriculum aims to develop students to be con
  *   Help students interact effectively by making the correct linguistic choices to suit purpose, audience, context and culture.
  *   Emphasise differentiation of instruction to meet the special needs, abilities and interests of our students
 
-  **<font size=5>The foundation of EL learning will be strengthened through:</font>**
-
-
-  
+<br>
+<b><font size=4 color="#eeac0d">The foundation of EL learning will be strengthened through:</font></b>
 
 *   A greater focus on oral communication – listening & speaking
 *   Enjoyment in the learning of English through fun-filled activities
@@ -31,17 +26,17 @@ The six-year English Language (EL) curriculum aims to develop students to be con
  *   Development of writing skills & learner strategies
  *   Extensive opportunities for engagement in sustained, authentic & creative writing
 
-  
-  **<font size=5>Reading Intervention:</font>**<br>
+<br>
+
+<b><font size=4 color="#eeac0d">Reading Intervention:</font></b>
+<br>
 The Reading Intervention Programmes include the following:  
 
-   
-
-**Language Support Programme (LSP)**<br>
+<p style="margin-left: 40px">
+<b>Language Support Programme (LSP)</b><br>
 This is an MOE’s early intervention programme for Primary 1 and Primary 2 students who have not attained developmentally appropriate language and literacy skills in English Language. Students who enter Primary 1 and struggle with oral and reading skills will be taught basic oral language, reading and spelling skills so that they can learn and follow in their regular classes. These students will continue with the programme in Primary 2 if they have not attained developmentally appropriate language and literacy skills in English.  
- 
-
-**Remedial Reading Programme (RRP)**<br>
+ <br>
+Rmedial Reading Programme (RRP)</b><br>
 RRP is another of MOE’s additional literacy support programmes and is implemented at Primary 3 and Primary 4 for students who still have weak literacy skills despite having completed the Learning Support Programme in Primary 1 and Primary 2. The programme teaches students a range of strategies for reading and reading comprehension which will enable them to better manage their learning in their regular classrooms.  
  
  
