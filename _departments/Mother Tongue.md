@@ -196,9 +196,11 @@ The department also aims to develop students to become effective communicators t
 <b>Primary 3:</b> 3P (What is in the picture? + Feelings + Personal Experience) <br>
 <b>Primary 4:</b> 4P (What is in the picture? + Feelings + Personal Experience + Reason) <br>
 </p>
-<u>Upper Primary: 4PAS Strategy</u><br>
- *   Primary 5: 4P + Impact
- *   Primary 6: 4P + Impact + Suggestions
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Upper Primary: 4PAS Strategy</font></u></b>
+<br>
+<b>Primary 5:</b> 4P + Impact <br>
+<b>Primary 6:</b> 4P + Impact + Suggestions <br>
 
 **Malay Department Key Activities:**
  *   <u>Hari Raya Celebration</u><br>
