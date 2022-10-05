@@ -37,11 +37,11 @@ Our Mathematics package aims to explicitly teach various skills. To better meet 
 <img src="/images/Departments/Math%201.jpg" style="width:75%">
 </center>
 
-**<font size=5>Department Strategies</font>**
+<br>
+<b><font size=5 color="#7daadf">Department Strategies</font></b>
 
-  
-
-**Concrete-Pictorial-Abstract (C-P-A) Approach**<br>
+<b>Concrete-Pictorial-Abstract (C-P-A) Approach</b>
+<br>
 Learning experiences in the classroom are designed based on the C-P-A approach. The C-P-A approach builds on children’s existing knowledge by introducing abstract concepts in a concrete and tangible way. It involves moving from concrete materials, to pictorial representations, to abstract symbols and problems.
 
 
