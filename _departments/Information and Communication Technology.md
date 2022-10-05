@@ -57,16 +57,18 @@ Figure 2 Guiding Pillars of Carlo Acutis, Patron Saint of the Internet
 
 Our Cyber Wellness education also includes lessons during FTGP (Form Teacher Guidance Period), recess programmes, and assembly talks on Cyber Safety and other cyber wellness related issues, which include cyberbullying, online scams, cyber security and differentiating between real and fake news.  
   
-Below are the Cyber Wellness topics that are explicitly taught during FTGP across the levels.  
-  
-
-**FTGP Cyber Wellness Curriculum**<br>
-P1 : Surf Safe  
-P2 : Basic Netiquette  
-P3 : Making Decisions (Do I Know you) / Stay Safe in the Cyberworld /Be a Cyberworld Safety Ambassador  
-P4 : Too Much Too Little / Exploring the Internet  
-P5 : Cut & Paste / When words hurt  
-P6 : Navigating the internet / Scams & Spam
+Below are the Cyber Wellness topics that are explicitly taught during FTGP across the levels. 
+<br>
+<br>
+<b>FTGP Cyber Wellness Curriculum</b>
+<br>
+<br>
+<b>P1 :</b> Surf Safe  
+<b>P2 :</b> Basic Netiquette  
+<b>P3 :</b> Making Decisions (Do I Know you) / Stay Safe in the Cyberworld /Be a Cyberworld Safety Ambassador  
+<b>P4 :</b> Too Much Too Little / Exploring the Internet  
+<b>P5 :</b> Cut & Paste / When words hurt  
+<b>P6 :</b> Navigating the internet / Scams & Spam
 
 <img src="/images/Departments/ICT%204.jpg"  
      style="width:75%">
