@@ -96,7 +96,7 @@ In line with the latest English Language Syllabus, "<em>I Love Literature</em>" 
 
 <br>
 
-<b><font size=4 color="#eeac0d">Department Strategies</font></b>
+<b><font size=5 color="#7daadf">Department Strategies</font></b>
 
 <b>Strategies for Effective Communication:</b>
 <br>
