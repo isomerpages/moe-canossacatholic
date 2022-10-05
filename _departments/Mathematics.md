@@ -114,9 +114,11 @@ In teaching problem solving, teachers demonstrate how to use Polya’s 4 steps p
 </colgroup>
 <thead>
 <tr>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Poly’s 4 steps approach
+<tr>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Polya’s 4 steps approach
 </th>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Details
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Details
 </th>
 </tr>
 </thead>
