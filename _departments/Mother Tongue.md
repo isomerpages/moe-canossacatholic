@@ -136,8 +136,11 @@ soaked in the festive atmosphere through the performances.
 <br>
 The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.
 
+<center>
+	
 ![](/images/Departments/MT%202.png)
-
+	
+</center>
 
 *   <u>P1 to P6 Internal Competition</u><br>
 The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
