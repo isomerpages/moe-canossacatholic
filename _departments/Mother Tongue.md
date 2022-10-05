@@ -55,43 +55,47 @@ The department also aims to develop students to become effective communicators t
 <br>
 <b>Question 3:</b> 1234 (What can we do? + How can we do? &nbsp; Why? &nbsp; Outcome?)
 
+<br>
+<br>
+	
 <b>P1 to P6 Writing Programme</b>
 <br>
 The department's six years writing programme aims to develop students to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
 
-  
-
-<u>Lower Primary:</u>
- *   Primary 1: 3W Strategy <br> 
-      * Who + Where + What
-
- *   Primary 2: 3W+1F Strategy <br>
-     * Who + Where + What + Feeling
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Lower Primary:</font></u></b>
+<br>
+<b>Primary 1:</b> 3W Strategy
+<br>
+• &emsp; Who + Where + What </li>
+<br><br>
+<b>Primary 2:</b> 3W+1F Strategy <br>
+• &emsp; Who + Where + What + Feeling
 
 <u>Middle Primary:</u>
  *   Primary 3: <br>
-     *   Step 1: Circle <br>
-     *   Step 2: Match the Keyword <br>
-     *   Step 3: **3W+1F Strategy**
+• &emsp; Step 1: Circle <br>
+• &emsp; Step 2: Match the Keyword <br>
+• &emsp; Step 3: **3W+1F Strategy**
 
   
 
 *   Primary 4:
  
-    *   Step 1: Circle <br>
-    *   Step 2: Match the Keyword <br>
-    *   Step 3: **3W+1F Strategy** <br>
-    *   Step 4: Predict the outcome
+• &emsp; Step 1: Circle <br>
+• &emsp; Step 2: Match the Keyword <br>
+• &emsp; Step 3: **3W+1F Strategy** <br>
+• &emsp; Step 4: Predict the outcome
 
    
  <u>Upper Primary:</u>  
  
  *   Primary 5 and 6:
-     *   Step 1: Circle <br>
-     *   Step 2: Match the Keyword <br>
-     *   Step 3: **3W+1F Strategy** <br>
-     *   Step 4: Predict the outcome <br>
-     *   Step 5: Feeling Meter (Descriptive Phrases)
+• &emsp; Step 1: Circle <br>
+• &emsp; Step 2: Match the Keyword <br>
+• &emsp; Step 3: **3W+1F Strategy** <br>
+• &emsp; Step 4: Predict the outcome <br>
+• &emsp; Step 5: Feeling Meter (Descriptive Phrases)
 
   
   
