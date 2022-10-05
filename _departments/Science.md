@@ -111,24 +111,25 @@ Spread over 2500 square metres, the public gallery consists of 15 zones with dif
 <br>
 Students will also experience a taster of how it is to be a Scientist visiting the Singapore Botanical Gardens, a UNESCO World Heritage Site inscribed in 2015. The Gardens is the first and only tropical botanic garden on the UNESCO’s World Heritage List. Today, the Gardens is an important botanical institute which have a wide diversity of life which students will get to experience.
 
-  
 
-  
-
-**Science Centre for Primary 4-5**<br>
+<p style="margin-left: 40px">
+<b><u>Science Centre for Primary 4-5</u></b>
+<br>
 Students will attend workshops such as the:
 
-
-
-*   <u>Heat and Temperature workshop</u><br>
+<p style="margin-left: 80px">
+<u>Heat and Temperature workshop</u>
+<br>
 The objective is for students to better appreciate the effects of heat from the hands-on demonstrations and understand how measures of heat are determined.
-
-   *   <u>Diversity of Cells workshop</u><br>
+<br>
+<br>
+<u>Diversity of Cells workshop</u>
+<br>
 The objective is for students to understand what cells are and know that there is a diversity of cells on earth. Through the hands-on use of the microscope, students will prepare sample slides using simple staining methods and learn how to view the microbes.
-
-  
-
- *   <u>Zoo / Sungei Buloh for Primary 6</u><br>
+<br>
+<br>
+<u>Zoo / Sungei Buloh for Primary 6</u>
+<br>
 From visiting the Singapore Zoo / Sungei Buloh, students will undertake an interdisciplinary trail in an authentic learning environment to apply concepts from subjects which they have learnt. This is to help them achieve a deeper understanding of these concepts.
 
 
