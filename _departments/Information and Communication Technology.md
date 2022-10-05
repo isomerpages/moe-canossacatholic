@@ -1,11 +1,13 @@
 ---
 title: Information and Communication Technology
-permalink: /departments/information-and-communication-technology
+permalink: /departments/information-and-communication-technology/
 description: ""
 ---
-**<font size=6>Information and Communication Technology</font>**
+<b><font size=6>Information and Communication Technology</font></b>
 
-**"_We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world._" ~ David Warlick**
+<center>
+<b><font size=3 color="#eeac0d"><em>“We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world."<br>⎯ David Warlick</em></font></b>
+</center>
 
 
 The ICT Department in CCPS aims to nurture a community of future-ready Canossians who have the competencies, in both aptitude and attitude, to navigate the increasingly technology-driven world, through  
