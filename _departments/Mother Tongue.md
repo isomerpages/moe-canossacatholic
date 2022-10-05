@@ -55,10 +55,8 @@ The department also aims to develop students to become effective communicators t
 <br>
 <b>Question 3:</b> 1234 (What can we do? + How can we do? &nbsp; Why? &nbsp; Outcome?)
 
-  
-  
-
-**P1 to P6 Writing Programme**<br>
+<b>P1 to P6 Writing Programme</b>
+<br>
 The department's six years writing programme aims to develop students to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
 
   
