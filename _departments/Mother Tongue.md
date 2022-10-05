@@ -97,7 +97,7 @@ The department's six years writing programme aims to develop students to become 
 <br>
 • &emsp; <b>Step 1:</b> Circle <br>
 • &emsp; <b>Step 2:</b> Match the Keyword <br>
-• &emsp; <b>Step 3:</b> **3W+1F Strategy** <br>
+• &emsp; <b>Step 3:</b><font size=3 color="#7daadf"> 3W+1F Strategy</font> <br>
 • &emsp; <b>Step 4:</b> Predict the outcome <br>
 • &emsp; <b>Step 5:</b> Feeling Meter (Descriptive Phrases)
 
