@@ -101,7 +101,7 @@ In line with the latest English Language Syllabus, "<em>I Love Literature</em>" 
 <b>Strategies for Effective Communication:</b>
 <br>
 These strategies help students become competent communicators who convey ideas and information successfully during a conversation.
-</p>
+
 <p style="margin-left: 40px">
 <b><u>P1-P4: the 3Rs Strategy</u></b>
 <br>
