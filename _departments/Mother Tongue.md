@@ -37,19 +37,23 @@ The department also aims to develop students to become effective communicators t
 <br>
 <b><u><font size=3 color="#eeac0d">Lower Primary: FAR Strategy</font></u></b>
 <br>
-Question 1: Feeling + Action + Reason (FAR strategy)
+<b>Question 1:</b> Feeling + Action + Reason (FAR strategy)
 <br>
 <br>
 <b><u><font size=3 color="#eeac0d">Middle Primary: FAR + PEEL Strategy</font></u></b>
 <br>
-Question 1: Feeling + Action + Reason (FAR strategy)
+<b>Question 1:</b> Feeling + Action + Reason (FAR strategy)
 <br>
-Question 2: (Point + Explain + Example + Link (PEEL strategy)
-
-<u>Upper Primary: FAR + PEEL + 1234 Strategy</u> <br>
-*   Question 1: Feeling + Action + Reason (FAR strategy)
-*   Question 2: (Point + Explain + Example + Link (PEEL strategy)
-*   Question 3: 1234 (What can we do? + How can we do? Why? Outcome?)
+<b>Question 2:</b> (Point + Explain + Example + Link (PEEL strategy)
+<br>
+<br>
+<b><u><font size=3 color="#eeac0d">Upper Primary: FAR + PEEL + 1234 Strategy</font></u></b>
+<br>
+<b>Question 1:</b> Feeling + Action + Reason (FAR strategy)
+<br>
+<b>Question 2:</b> (Point + Explain + Example + Link (PEEL strategy)
+<br>
+<b>Question 3:</b> 1234 (What can we do? + How can we do? &nbsp; Why? &nbsp; Outcome?)
 
   
   
