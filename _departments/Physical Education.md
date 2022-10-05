@@ -26,16 +26,14 @@ We envision our students in CCPS to be
 *   <b><u>A</u></b> dventurous,
 *   <b><u>C</u></b> ourageous and
 *   <b><u>E</u></b> mpowered Leaders through Sports
-
   
 Through PACE, all CCPS students would be nurtured into young people who are future ready, fit and healthy in body and strong in mind. They will  
   
-
- *   Build their emotional resilience and mental and physical perseverance so that they will have the energy and spirit to keep trying no matter how hard the odds may be; and
- *   Learn to make decisions and take responsible risks as part of character formation
+*   Build their emotional resilience and mental and physical perseverance so that they will have the energy and spirit to keep trying no matter how hard the odds may be; and
+*   Learn to make decisions and take responsible risks as part of character formation
 
   
-Click **[here](https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps)** for details on **Learning for Life Programme P.A.C.E @ CCPS**.  
+Click **[here](https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps)** for details on <b>Learning for Life Programme P.A.C.E @ CCPS</b>.  
   
   
 **<font size=5>PE Curriculum</font>**
