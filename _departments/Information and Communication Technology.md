@@ -107,7 +107,6 @@ The students are taught how to manage the Audio-Visual set-up in their classroom
 <b><font size=5 color="#7daadf">ICT Infrastructure</font></b>
   
 To cater to the teaching and learning needs of our students, CCPS is equipped ICT infrastructure such as  
-  
 
 *   Wide coverage of wireless networks
 *   Apple TV equipped classrooms  
