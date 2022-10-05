@@ -219,10 +219,11 @@ The Malay Language Department has organized Mother Tongue Language Fortnight Act
 <center>
 <img src="/images/Departments/MT%204.png" style="width:85%">
 </center>
-<br>
+
 <p style="margin-left: 40px">
 <b><u><font size=3 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
-<br>The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.  
+<br>
+The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.  
   
 
 *   <u>External Competition</u>
