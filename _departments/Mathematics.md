@@ -116,7 +116,7 @@ In teaching problem solving, teachers demonstrate how to use Polya’s 4 steps p
 <tr>
 <tr>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="font-weight:bold;color:#252525">Polya’s 4 steps approach
+<span style="font-weight:bold;color:#252525">Polya’s<br>4 Steps Approach
 </th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Details
 </th>
@@ -177,33 +177,35 @@ While explaining and understanding the problem, teachers also probe students’ 
 </colgroup>
 <thead>
 <tr>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">The 3 “I”
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">The 3 “I”
 </th>
-<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Details
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Details
 </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Identify</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Students are to underline, circle or highlight the given information in the problem.</span>
 </td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Interpret</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Students are to draw arrows or lines to show the relationship or linkages in the information</span></td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Infer</span>
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Students are to write down hidden or missing information</span>
 </td>
 </tr>
