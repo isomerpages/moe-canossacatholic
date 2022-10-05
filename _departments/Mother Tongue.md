@@ -126,13 +126,14 @@ Students are taught how to identify the SVO during letter writing:
 <br>
 The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
 soaked in the festive atmosphere through the performances.
-
+</p>
 <center>
 <img src="/images/Departments/MT%201.jpg" style="width:65%">
 </center>
-
-
-*   <u>MTL Fortnight Activities</u><br>
+<br>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">MTL Fortnight Activities</font></u></b>
+<br>
 The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.
 
 ![](/images/Departments/MT%202.png)
