@@ -89,16 +89,17 @@ The department's six years writing programme aims to develop students to become 
 • &emsp; <b>Step 3:</b><font size=3 color="#7daadf"> 3W+1F Strategy</font>
 <br>
 • &emsp; <b>Step 4:</b> Predict the outcome
-
-   
- <u>Upper Primary:</u>  
- 
- *   Primary 5 and 6:
-• &emsp; Step 1: Circle <br>
-• &emsp; Step 2: Match the Keyword <br>
-• &emsp; Step 3: **3W+1F Strategy** <br>
-• &emsp; Step 4: Predict the outcome <br>
-• &emsp; Step 5: Feeling Meter (Descriptive Phrases)
+<br>
+<br>
+<b><u><font size=3 color="#eeac0d">Upper Primary:</font></u></b>
+<br>
+<b>Primary 5 and 6:</b>
+<br>
+• &emsp; <b>Step 1:</b> Circle <br>
+• &emsp; <b>Step 2:</b> Match the Keyword <br>
+• &emsp; <b>Step 3:</b> **3W+1F Strategy** <br>
+• &emsp; <b>Step 4:</b> Predict the outcome <br>
+• &emsp; <b>Step 5:</b> Feeling Meter (Descriptive Phrases)
 
   
   
