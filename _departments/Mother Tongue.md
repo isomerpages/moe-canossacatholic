@@ -114,9 +114,9 @@ Chinese GO! is an educational mobile app developed to build students’ interest
 <br>
 Students are taught how to identify the SVO during letter writing:  
 
-*   **<u>S</u>** ubject – who they are writing to
-*   **<u>V</u>** ariable – when and where (e.g the date, time and place, etc)
-*   **<u>O</u>** bjective – why the letter is written
+*   <b><u>S</u></b> ubject – who they are writing to
+*   <b><u>V</u></b> ariable – when and where (e.g the date, time and place, etc)
+*   <b><u>O</u></b> bjective – why the letter is written
 
   
   
