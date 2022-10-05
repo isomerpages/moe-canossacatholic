@@ -43,14 +43,17 @@ In CCPS, our cyber wellness curriculum anchors strongly on developing the right 
   
 Based on MOE Cyber Wellness framework (Figure 1), the school has designed suitable cyber wellness lessons and programmes, anchoring on our school values of Charity, Humility, Forgiveness and Faith, as well as on the guiding pillars of Carlo Acutis, Patron Saint of the Internet (Figure 2).
 
+<center>
+	
 ![](/images/Departments/ICT%202.jpg)
 
-<center>Figure 1 MOE Cyber Wellness Framework</center>
-
+Figure 1 MOE Cyber Wellness Framework
 
 ![](/images/Departments/ICT%203.jpg)
 
-<center>Figure 2 Guiding Pillars of Carlo Acutis, Patron Saint of the Internet</center>
+Figure 2 Guiding Pillars of Carlo Acutis, Patron Saint of the Internet
+
+</center>
 
 Our Cyber Wellness education also includes lessons during FTGP (Form Teacher Guidance Period), recess programmes, and assembly talks on Cyber Safety and other cyber wellness related issues, which include cyberbullying, online scams, cyber security and differentiating between real and fake news.  
   
