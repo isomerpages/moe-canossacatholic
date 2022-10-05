@@ -84,13 +84,14 @@ In particular, it is important to appreciate that the three components represent
 <br>
 <b><u>A</u></b> pply – Eliminate distractors which are definitely incorrect.
 <br>
-   
-
- **<u>OCE (for open-ended questions)</u>**
-
-*   Observation – What are the clues in the question?
-*   Concept – Which scientific concept is this question testing me?
-*   Explain – Ensuring that the question is answered by linking concept to the question posed.
+<br>
+<b><u>OCE (for open-ended questions)</u></b>
+<br>
+<b>Observation</b> – What are the clues in the question?
+<br>
+<b>Concept</b> – Which scientific concept is this question testing me?
+<br>
+<b>Explain</b> – Ensuring that the question is answered by linking concept to the question posed.
 
   
 **<font size=4>Experiential Learning</font>**<br>
