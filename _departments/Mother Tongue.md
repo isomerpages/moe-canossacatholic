@@ -10,7 +10,8 @@ description: ""
 <br>
 The six-year Chinese curriculum aims to enhance students’ oral, listening and writing skills. The department aims to inculcate in students a love and interest in the learning of Chinese Language through the use of Information Technology and differentiated learning in class. We also aim to nurture learners who are exemplary in character and devoted to the life-long learning of the Chinese Language and its culture.  
   
-<b><font size=5 color="#7daadf">Chinese Language Key Programme:</font></b><br>
+<b><font size=5 color="#7daadf">Chinese Language Key Programme:</font></b>
+<br>
 
 <b>P2-P6 Modular Approach in Teaching and Learning</b>
 <br>
@@ -161,21 +162,24 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 <img src="/images/Departments/MT%203.jpg" style="width:85%">
 </center>
 
-
-
-**<font size=5>Malay Language Department</font>**<br>
+<br>
+	
+<b><font size=5 color="#7daadf">Malay Language Department</font></b>
+<br>
+<br>
 The Malay Language department aims to build the joy of learning the Malay Language so that our students develop the love and passion for the language and culture. The six-year Malay curriculum hones our students’ oral, listening and writing skills through ICT and differentiated learning which taps on various resources to help students read, write and communicate effectively. We also aim to inculcate knowledge and values so that our learners will be responsible citizens who are proud of their Malay heritage and culture.  
-  
 
-
-
-**<font size=5>Malay Language Key Programme:</font>**<br>
-
-
-**P1 to P6 Malay Reading Programme**<br>
+<br>
+	
+<b><font size=5 color="#7daadf">Malay Language Key Programme:</font></b>
+<br>
+<br>
+<b>P1 to P6 Malay Reading Programme</b>
+<br>
 The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.  
-
-**P1 to P6 School based Oracy programme**
+<br>
+<br>
+<b>P1 to P6 School based Oracy programme</b>
 
 <u>Reading:</u>
 *   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
