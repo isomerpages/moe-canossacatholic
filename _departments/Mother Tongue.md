@@ -210,8 +210,10 @@ The department also aims to develop students to become effective communicators t
 <b><u><font size=3 color="#eeac0d">Hari Raya Celebration</font></u></b>
 <br>
 The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.  
-
-*   <u>MTL Fortnight Activities</u><br>
+<br>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">MTL Fortnight Activities</font></u></b>
+<br>
 The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
 
 
