@@ -274,6 +274,7 @@ Upper primary students receive further guidance in the enrichment classes where 
 <b><u><font size=3 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
 MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
+</p>
 
 <center>
 
@@ -281,7 +282,10 @@ MTL Fortnight week is one of the most anticipated weeks of learning for the stud
 
 </center>
 
-*   <u>P1 to P6 Internal Competition</u><br>
+
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
+<br>
 The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
 
 
