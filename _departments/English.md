@@ -33,20 +33,23 @@ The six-year English Language (EL) curriculum aims to develop students to be con
 The Reading Intervention Programmes include the following:  
 
 <p style="margin-left: 40px">
-<b>Language Support Programme (LSP)</b><br>
+<b>Language Support Programme (LSP)</b>
+<br>
 This is an MOE’s early intervention programme for Primary 1 and Primary 2 students who have not attained developmentally appropriate language and literacy skills in English Language. Students who enter Primary 1 and struggle with oral and reading skills will be taught basic oral language, reading and spelling skills so that they can learn and follow in their regular classes. These students will continue with the programme in Primary 2 if they have not attained developmentally appropriate language and literacy skills in English.  
- <br>
-Rmedial Reading Programme (RRP)</b><br>
+<br><br>
+<b>Remedial Reading Programme (RRP)</b>
+<br>
 RRP is another of MOE’s additional literacy support programmes and is implemented at Primary 3 and Primary 4 for students who still have weak literacy skills despite having completed the Learning Support Programme in Primary 1 and Primary 2. The programme teaches students a range of strategies for reading and reading comprehension which will enable them to better manage their learning in their regular classrooms.  
- 
- 
-**School-based Dyslexia Remediation (SDR)**<br>
+<br><br>
+<b>School-based Dyslexia Remediation (SDR)</b>
+<br>
 SDR is a 2-year intervention programme to support identified students with dyslexia in Primary 3 and Primary 4. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. In Primary 3, students are taught reading and spelling skills to help them learn better in their regular classes. In Primary 4, students are also taught comprehension skills, in addition to reading and spelling skills.  
-
-**Structured Reading Programme** <br>
-This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words.     
-
-**Extensive Reading Programme**<br>
+<br><br>
+<b>Structured Reading Programme</b>
+<br>
+This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words. <br><br>
+<b>Extensive Reading Programme</b>
+<br>
 This programme aims to help students expand and extend students’ reading beyond the curriculum.  
 
 
