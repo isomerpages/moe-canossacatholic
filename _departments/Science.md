@@ -101,11 +101,14 @@ In particular, it is important to appreciate that the three components represent
 We believe that the learning of science should be meaningful to students. As such, opportunities are provided for students to visit places where they can learn about how science is applied in the world around them and get a glimpse into the minds of scientists.
 
 Our students will have a chance to participate in learning journeys to :  
+<br>
 
-
-**<u>Lee Kong Chian Natural History Museum and Singapore Botanical Garden for P3</u>** <br> 
+<p style="margin-left: 40px">
+<b><u>Lee Kong Chian Natural History Museum and Singapore Botanical Garden for P3</u></b>
+<br> 
 Spread over 2500 square metres, the public gallery consists of 15 zones with different sections devoted to the origin of life and all major branches of the Tree of Life. This allows students to appreciate the wide diversity of Singapore’s historical species, understand the history of life on earth and environmental issues and associated conservation attempts.
-
+<br>
+<br>
 Students will also experience a taster of how it is to be a Scientist visiting the Singapore Botanical Gardens, a UNESCO World Heritage Site inscribed in 2015. The Gardens is the first and only tropical botanic garden on the UNESCO’s World Heritage List. Today, the Gardens is an important botanical institute which have a wide diversity of life which students will get to experience.
 
   
