@@ -64,7 +64,7 @@ Our Cyber Wellness education also includes lessons during FTGP (Form Teacher Gui
 Below are the Cyber Wellness topics that are explicitly taught during FTGP across the levels. 
 <br>
 <br>
-<b>FTGP Cyber Wellness Curriculum</b>
+<b><font size=4 color="#eeac0d">FTGP Cyber Wellness Curriculum</font></b>
 <br>
 <br>
 <b>P1 :</b> Surf Safe  
