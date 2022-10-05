@@ -204,23 +204,21 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 </td>
 </tr>
-
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2011</span>
 </td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCPS celebrated its 70th anniversary.
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">CCPS celebrated its 70th anniversary.
 <br>
 </td>
 </tr>
-
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2012</span>
 </td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCPS started MOE PRIME (Programme for Improving Existing Schools) to become single-session. The school was relocated to a holding site.
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">CCPS started MOE PRIME (Programme for Improving Existing Schools) to become single-session. The school was relocated to a holding site.
 </td>
 </tr>
 
