@@ -47,11 +47,13 @@ Based on MOE Cyber Wellness framework (Figure 1), the school has designed suitab
 	
 ![](/images/Departments/ICT%202.jpg)
 
-Figure 1 MOE Cyber Wellness Framework
+<em>Figure 1 MOE Cyber Wellness Framework</em>
 
+<br>
+	
 ![](/images/Departments/ICT%203.jpg)
 
-Figure 2 Guiding Pillars of Carlo Acutis, Patron Saint of the Internet
+<em>Figure 2 Guiding Pillars of Carlo Acutis, Patron Saint of the Internet</em>
 
 </center>
 
