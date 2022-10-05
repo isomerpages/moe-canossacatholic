@@ -3,7 +3,6 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/lifeskills-programme-r-e-a-d-y-for-life/
 description: ""
 ---
-
 <b><font size=6>Lifeskills Programme - R.E.A.D.Y. FOR LIFE</font></b>
 
 <b><font size=5 color="#7daadf">R.E.A.D.Y. for Life</font></b>
@@ -42,7 +41,7 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="font-weight:bold;color:#252525">Objectives</span>
 </th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;font-family:;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;font-family:;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="font-weight:bold;color:#252525">Activities and Lessons</span>
 </th>
 </tr>
