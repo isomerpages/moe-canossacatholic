@@ -180,19 +180,22 @@ The Malay Language Department promotes the love of reading through our class lib
 <br>
 <b>P1 to P6 School based Oracy programme</b>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Reading:</font></u></b>
+<b><u><font size=3 color="#eeac0d">Reading</font></u></b>
 <br>
 The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
-
-<u>Conversation: </u>
-*   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
-
-<u>Lower and Middle Primary: 4P Strategy</u>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Conversation:</font></u></b>
+<br>
+The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
+</p>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Lower and Middle Primary: 4P Strategy</font></u></b>
+<br>
  *   Primary 1: 1P (What is in the picture?)
  *   Primary 2: 2P (What is in the picture? + Feelings)
  *   Primary 3: 3P (What is in the picture? + Feelings + Personal Experience)
  *   Primary 4: 4P (What is in the picture? + Feelings + Personal Experience + Reason)
-
+</p>
 <u>Upper Primary: 4PAS Strategy</u><br>
  *   Primary 5: 4P + Impact
  *   Primary 6: 4P + Impact + Suggestions
