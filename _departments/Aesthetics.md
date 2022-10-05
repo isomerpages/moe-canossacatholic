@@ -69,7 +69,8 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the schoolâ
 </tr>
 </tbody></table>
 
-**<font size=5>Art Curriculum @ CCPS</font>**
+<br>
+<b><font size=5 color="#7daadf">Art Curriculum @ CCPS</font></b>
   
 The art curriculum in our school provides a foundation for all our students to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt & Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
   
