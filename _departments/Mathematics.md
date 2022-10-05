@@ -44,6 +44,7 @@ Our Mathematics package aims to explicitly teach various skills. To better meet 
 <br>
 Learning experiences in the classroom are designed based on the C-P-A approach. The C-P-A approach builds on children’s existing knowledge by introducing abstract concepts in a concrete and tangible way. It involves moving from concrete materials, to pictorial representations, to abstract symbols and problems.
 
+<br>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 652px" class="tg">
 <colgroup>
