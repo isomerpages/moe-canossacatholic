@@ -8,10 +8,11 @@ description: ""
 The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Excursion, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence.
 <br>
 <br>
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 603px" class="tg">
-<colgroup><col style="width: 101px">
-<col style="width: 201px">
-<col style="width: 301px">
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 200px">
+<col style="width: 400px">
 </colgroup>
 <thead>
 <tr>
