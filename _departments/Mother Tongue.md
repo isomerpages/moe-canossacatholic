@@ -263,8 +263,11 @@ iMTL portal is used as an interactive tool to enhance students' learning. Studen
 <br>
 Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
 
-**Tamil Department Key Activities:**
-*   <u>Deepavali Celebration</u><br>
+<b>Tamil Department Key Activities:</b>
+<br>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Deepavali Celebration</font></u></b>
+<br>
  Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.  
  *   <u>MTL Fortnight Activities</u><br>
 MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
