@@ -21,5 +21,4 @@ Canossaville Children and Community Services is a social service agency that pr
 Canossian School specialises in the education of children with hearing loss. Equipped with an audiology department, specialised teachers and acoustically-treated classrooms, Canossian School enables and empowers children with hearing loss to realise their full potential. Through the [**satellite partnership**](https://staging.d2nutevx25vdua.amplifyapp.com/our-school/satellite-partnership)  with Canossa Catholic Primary School, students from both schools learn and play together in an inclusive environment.
 
 <br><br><br><br><br><br>
-
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
