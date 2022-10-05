@@ -18,25 +18,21 @@ The six-year Chinese curriculum aims to enhance students’ oral, listening and 
  *   All Primary 3 and 4 Chinese Language Higher and Middle Progressing classes will use Higher Chinese Textbook from 2022 onwards to stretch students in their learning of Chinese language.
  *   MOE ABLE programme to support students who require additional support in the learning of Chinese Language for Primary 3 and 4 learners.
 
-  
-  
-
-**P1 to P6 Chinese Reading Programme and E-Zhishi Portal** <br>
+<b>P1 to P6 Chinese Reading Programme and E-Zhishi Portal</b>
+<br>
  *   As part of the department’s efforts to promote reading among students, students from the lower, middle and upper primary levels subscribe to selected Chinese newspapers.
  *   The department also promotes reading through our Chinese department class library programme where teachers lead students in the reading of stories and news articles.
  
-   
-   
-
-**P1 to P6 School based Oracy programme**
-
-
-
-<u>Reading:</u><br>
-*   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
-
-<u>Conversation:</u> <br>
-*   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
+<b>P1 to P6 School based Oracy programme</b>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Reading:</font></u></b>
+<br>
+The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
+<br>
+<br>
+<b><u><font size=3 color="#eeac0d">Conversation:</font></u></b>
+<br>
+The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
 
 <u>Lower Primary: FAR Strategy</u> <br>
 *   Question 1: Feeling + Action + Reason (FAR strategy)
