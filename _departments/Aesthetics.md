@@ -7,7 +7,65 @@ description: ""
 
 The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Excursion, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence.
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 603px" class="tg"><colgroup><col style="width: 101px"><col style="width: 201px"><col style="width: 301px"></colgroup><thead><tr><th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Approach</span></th><th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Platform</span></th><th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Details</span></th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Exposure</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Assembly Programmes</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">To provide an arts programme for our students that develops their appreciation of the various art forms (theatre, dance, music, visual arts, literary arts, film and multimedia).</span></td></tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Experience</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Art and Music Curriculum, Talent development, Aesthetics CCAs and platform</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">To give our students opportunities to develop their talents through modular approaches in:</span><br><br><br>- The art and music curriculum<br>- Talent development programmes<br>- A progressive 4-year CCA experience and<br>- Various platforms to showcase their talents</td></tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Excursion</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Learning Journeys</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Each level goes on a learning journey to an arts venue to expose students to a variety of art forms as well as introduce iconic art venues to them.</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 603px" class="tg">
+<colgroup><col style="width: 101px">
+<col style="width: 201px">
+<col style="width: 301px">
+</colgroup>
+<thead>
+<tr>
+<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Approach</span>
+</th>
+<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Platform</span>
+</th>
+<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Details</span>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Exposure</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Assembly Programmes</span></td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">To provide an arts programme for our students that develops their appreciation of the various art forms (theatre, dance, music, visual arts, literary arts, film and multimedia).</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Experience</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Art and Music Curriculum, Talent development, Aesthetics CCAs and platform</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">To give our students opportunities to develop their talents through modular approaches in:</span>
+<br>
+<br>
+<br>
+- The art and music curriculum<br>
+- Talent development programmes<br>
+- A progressive 4-year CCA experience and<br>
+- Various platforms to showcase their talents
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Excursion</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Learning Journeys</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Each level goes on a learning journey to an arts venue to expose students to a variety of art forms as well as introduce iconic art venues to them.</span>
+</td>
+</tr>
+</tbody></table>
 
 **<font size=5>Art Curriculum @ CCPS</font>**
   
