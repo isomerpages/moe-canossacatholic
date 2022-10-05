@@ -257,21 +257,17 @@ Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Si
 <br>
 <br>
 <img src="/images/History/Milestone%207.jpg" style="width:75%">
-	<br>
+<br>
 </td>
 </tr>
-
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:middle;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2019</span>
-<br>
-<br>
 </td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Canossa Convent Primary School was renamed Canossa Catholic Primary School as it prepares to take in boys at the Primary 1 level as a co-educational school.
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Canossa Convent Primary School was renamed Canossa Catholic Primary School as it prepares to take in boys at the Primary 1 level as a co-educational school.
 </td>
 </tr>
-
 <tr>
 <td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2021</span>
