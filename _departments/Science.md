@@ -75,10 +75,15 @@ In particular, it is important to appreciate that the three components represent
 
 <b>Inquiry Based Learning using the BSCS 5E instructional model</b>
 
-   **<u>TCA (for MCQ)</u>**
- *   **<u>T</u>** opic – Which topic is this question from?
- *   **<u>C</u>** oncept – Which scientific concept is this question testing me?
- *   **<u>A</u>** pply – Eliminate distractors which are definitely incorrect.
+<p style="margin-left: 40px">
+<b><u>TCA (for MCQ)</u></b>
+<br>
+<b><u>T</u></b>opic – Which topic is this question from?
+<br>
+<b><u>C</u></b> oncept – Which scientific concept is this question testing me?
+<br>
+<b><u>A</u></b> pply – Eliminate distractors which are definitely incorrect.
+<br>
    
 
  **<u>OCE (for open-ended questions)</u>**
