@@ -69,13 +69,11 @@ Practices of Science (POS) serves to highlight that Science is more than the acq
 
 In particular, it is important to appreciate that the three components representing the cognitive, epistemic and social aspects of POS are intricately related. In the learning of Science, students will need to use concepts and integrate skills and processes to inquire about the world around them. Our learning packages cater to different learning styles and help students hone their skills.  
 
-  
+ <br>
 
-  
+<b><font size=5 color="#7daadf">Department Strategies</font></b>
 
-**<font size=5>Department Strategies</font>**
-
-**<font size=4>Inquiry Based Learning using the BSCS 5E instructional model</font>**
+<b>Inquiry Based Learning using the BSCS 5E instructional model</b>
 
    **<u>TCA (for MCQ)</u>**
  *   **<u>T</u>** opic – Which topic is this question from?
