@@ -74,7 +74,6 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the schoolâ
   
 The art curriculum in our school provides a foundation for all our students to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt & Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
   
-
 *   Our art modules are planned based on the Seeing, Expressing, Appreciating (SEA) approach.
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg">
