@@ -22,11 +22,10 @@ Leveraging a sound and strong PE Curriculum, together with a wide array of Sport
   
 We envision our students in CCPS to be  
   
- *   **<u>P</u>** hysically Fit,
- *   **<u>A</u>** dventurous,
- *   **<u>C</u>** ourageous and
- *   **<u>E</u>** mpowered Leaders
- *   through Sports
+*   <b><u>P</u></b> hysically Fit,
+*   <b><u>A</u></b> dventurous,
+*   <b><u>C</u></b> ourageous and
+*   <b><u>E</u></b> mpowered Leaders through Sports
 
   
 Through PACE, all CCPS students would be nurtured into young people who are future ready, fit and healthy in body and strong in mind. They will  
