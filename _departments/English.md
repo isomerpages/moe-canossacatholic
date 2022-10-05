@@ -85,17 +85,20 @@ Creative Writing has been introduced in Primary 1 & Primary 2 to encourage stude
 <b>Journaling</b>
 <br>
 Students are encouraged to read widely and respond to what they read. Journaling aims to develop students’ personal response and critical thinking skills.  
-   
-**<font size=5>I Love Literature:</font>**  
 
-In line with the latest English Language Syllabus, "_I Love Literature_" gives every student a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our students participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
+<br>
 
-<img src="/images/Departments/English%201.jpg"  
-     style="width:55%">
+<b><font size=4 color="#eeac0d">I Love Literature:</font></b>  
 
+In line with the latest English Language Syllabus, "<em>I Love Literature</em>" gives every student a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our students participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
 
+<center>
+<img src="/images/Departments/English%201.jpg" style="width:55%">
+</center>
 
-**<font size=5>Department Strategies</font>**  
+<br>
+
+<b><font size=4 color="#eeac0d">Department Strategies</font></b>
 
 
 **Strategies for Effective Communication:**<br>
