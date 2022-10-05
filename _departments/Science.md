@@ -92,6 +92,7 @@ In particular, it is important to appreciate that the three components represent
 <b>Concept</b> – Which scientific concept is this question testing me?
 <br>
 <b>Explain</b> – Ensuring that the question is answered by linking concept to the question posed.
+</p>
 
 <br>
 
