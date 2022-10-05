@@ -119,8 +119,7 @@ Students are taught how to identify the SVO during letter writing:
 *   <b><u>V</u></b> ariable – when and where (e.g the date, time and place, etc)
 *   <b><u>O</u></b> bjective – why the letter is written
 
-<br>
-	
+<br>	
 <b>Chinese Language Key Activities</b>
 <p style="margin-left: 40px">
 <b><u><font size=3 color="#eeac0d">Lunar New Year Celebration</font></u></b>
