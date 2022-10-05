@@ -57,6 +57,8 @@ Based on MOE Cyber Wellness framework (Figure 1), the school has designed suitab
 
 </center>
 
+<br>
+
 Our Cyber Wellness education also includes lessons during FTGP (Form Teacher Guidance Period), recess programmes, and assembly talks on Cyber Safety and other cyber wellness related issues, which include cyberbullying, online scams, cyber security and differentiating between real and fake news.  
   
 Below are the Cyber Wellness topics that are explicitly taught during FTGP across the levels. 
