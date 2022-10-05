@@ -33,9 +33,9 @@ Students are also exposed to different learning technologies such as G Suite (Go
 <br>
 
 <b><font size=5 color="#7daadf">Cyber Wellness@CCPS</font></b>
-
-  
-**“_Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions._” ~ Mark Richardson**
+<center>
+<b><font size=3 color="#eeac0d"><em>Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions._”<br>⎯ Mark Richardson</em></font></b>
+</center>
 
   
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. It is important for students to tap on the potential of the Internet as well as to be aware of the dangers involved in their interaction with the cyber world. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating the positive use of technology for the good of the community.  
