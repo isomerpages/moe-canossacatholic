@@ -141,18 +141,20 @@ The Chinese Language Department has organized Mother Tongue Language Fortnight A
 ![](/images/Departments/MT%202.png)
 	
 </center>
-
-*   <u>P1 to P6 Internal Competition</u><br>
+<br>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
+<br>
 The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
-
-  
-
-*   <u>External Competition</u><br>
+<br>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">External Competition</font></u></b>
+<br>
 Students in schools are given the opportunity to participate in various external competitions such as calligraphy, story-telling and writing competitions.
-
-  
-
-*   <u>Mid-Autumn Festival Celebration</u> <br>
+<br>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Mid-Autumn Festival Celebration</font></u></b>
+<br>
 All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
 
 <img src="/images/Departments/MT%203.jpg"  
