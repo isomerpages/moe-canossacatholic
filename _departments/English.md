@@ -52,16 +52,21 @@ This programme aims to provide targeted reading support for students in P1 and P
 <br>
 This programme aims to help students expand and extend students’ reading beyond the curriculum.  
 
+<br>
 
-**<font size=5>Effective Communication:</font>**
+<b><font size=4 color="#eeac0d">Effective Communication:</font></b>
 
-**Show & Tell**<br>
+<p style="margin-left: 40px">
+<b>Show & Tell</b>
+<br>
 Show & Tell is part and parcel of the Primary 1 & Primary 2 EL curriculum. It provides opportunities for students to build up their confidence level, self-esteem, social and listening skills. This helps them to become confident communicators.  
-
-**Retelling**<br>
+<br><br>
+<b>Retelling</b>
+<br>
 Retelling activity has been rolled out for Primary 3 & Primary 4 students as part of their EL learning in the classroom. Retelling promotes thinking and metacognition along with Think Aloud, KWL and generating questions. It also provides opportunities for students to improve their verbal and comprehension skills as students begin to understand sequence, plot, and characterization as they build vocabulary and comprehension skills.  
-
-**1-Minute Talk:**<br>
+<br><br>
+<b>1-Minute Talk:</b>
+<br>
 This activity is aimed at Primary 5 & Primary 6 students to help students build up their oracy skills as well as to make them think on their feet. Students need to express their opinions and views on a given topic within a minute using appropriate vocabulary.     
 
 **<font size=5>Writing</font>**
