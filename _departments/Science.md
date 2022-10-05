@@ -1,52 +1,70 @@
 ---
 title: Science
-permalink: /departments/science
+permalink: /departments/science/
 description: ""
 ---
-**<font size=6>Science</font>**
+<b><font size=6>Science</font></b>
 
-**“You learn at your best when you have something you care about and can get pleasure in being engaged in”**  <br>
-**– Howard Gardner –**
+<center>
+<b><font size=3 color="#eeac0d"><em>"You learn at your best when you have something you care about and can get pleasure in being engaged in”
+<br>
+- Howard Gardner</em></font></b>
+</center>
 
 The CCPS Science departmental programmes are developed so as to ignite and nurture our students’ passion for Science. Through inquiry-based learning, students are provided with myriad opportunities to acquire knowledge and concepts based on investigations, apply science process skills so as to inquire about the world, communicate findings and develop attitudes and values that are essential to the practice of science.  
   
 We recognise that children are naturally curious and have a sense of wonderment about the things around them and we leverage on this by designing learning journeys both within and outside school.  
   
-
-**<font size=6>Department Key Programmes</font>**
+<b><font size=5 color="#7daadf">Department Key Programmes</font></b>
   
-
-**P3 to 5 Excellence 2000 (E2K) Science Programme** <br>
+<b>P3 to 5 Excellence 2000 (E2K) Science Programme</b>
+<br>
 The E2K Science Programme Singapore is a Science enrichment programme for primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.  
 
 Students learn Science by going through the same process that scientists use to generate knowledge in Science. Just as scientists make mistakes in the real world, students are allowed to make mistakes in E2K and teachers help students to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
 
+<center>
+	
 ![](/images/Departments/Science%201.png)
 
-**P4 Vertical Garden Programme**<br>
+</center>
+
+<br>
+
+<b>P4 Vertical Garden Programme</b>
+<br>
 Students at the P4 level will be introduced to the concept of a vertical garden which is a solution to address a lack of land for plants. This solution requires students to understand concepts such as the conditions necessary for plants to thrive. Learning is now more meaningful the teaching of concepts is interwoven with process skills. The vertical garden setup demonstrates how solutions are achieved through a deeper understanding of scientific concepts.
 
+<center>
+<img src="/images/Departments/Science%202.jpg" style="width:45%">
+</center>
 
-<img src="/images/Departments/Science%202.jpg"  
-     style="width:45%">
+<br>
 
-
-**Abbott Young Scientist Award for P4** <br>
+<b>Abbott Young Scientist Award for P4</b>
+<br>
 In an attempt to inspire innovators of tomorrow, CCPS supports the Abbot Young Scientist award to recognise students who demonstrate a keen interest in the pursuit of science. Selected students will have the chance to participate in a structured programme at the Science Centre where they will receive mentoring and have the opportunity to present their work.
 
+<center>
+	
 ![](/images/Departments/Science%203.png)
 
-**CCPS tech-Garden Trail**
+</center>
 
+<br>
+	
+<b>CCPS tech-Garden Trail</b>
+<br>
 This trail aims to enthuse and excite students in the garden of wonderment where they will learn more about the variety of plants and organisms in the community through QR codes that provide merged reality experiences for students.  
 
 Strategically placed QR codes in the garden enable students to take greater ownership of their learning as they access knowledge on-the-go. This puts the student at the heart of the learning.  
 
 Students will be aware of how tapping on technology can address challenges such as the lack of space for plant growth. An appreciation of the time and effort invested in farming is derived as values and attitudes related to farming will be discussed with students who more often than not, do not have the opportunity to experience farming, while living in an urban landscape.  
 
+<br>
 
-**Practices of Science (POS) Learning Packages for P3-P6**
-
+<b>Practices of Science (POS) Learning Packages for P3-P6</b>
+<br>
 Practices of Science (POS) serves to highlight that Science is more than the acquisition of a body of knowledge; it is also a way of thinking and doing. The POS represents the set of established procedures and practices associated with scientific inquiry, how scientific knowledge is generated and established, as well as how Science could be applied in society.  
 
 In particular, it is important to appreciate that the three components representing the cognitive, epistemic and social aspects of POS are intricately related. In the learning of Science, students will need to use concepts and integrate skills and processes to inquire about the world around them. Our learning packages cater to different learning styles and help students hone their skills.  
