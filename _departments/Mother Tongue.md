@@ -101,16 +101,17 @@ The department's six years writing programme aims to develop students to become 
 • &emsp; <b>Step 4:</b> Predict the outcome <br>
 • &emsp; <b>Step 5:</b> Feeling Meter (Descriptive Phrases)
 
-  
-  
-
-**P4 to P6 ChineseGO Junior Mobile Application**<br>
+<br>
+<br>
+	
+<b>P4 to P6 ChineseGO Junior Mobile Application</b>
+<br>
 Chinese GO! is an educational mobile app developed to build students’ interest in acquiring key vocabulary and content to improve their communication proficiency in Chinese Language. The app is conceptualized and designed by Chinese teachers from Canossa Catholic Primary School and Saint Anthony Canossian Primary School, it aims to help students in learning Chinese Language through a fun and targeted way.
 
-  
-  
-
-**P4 to P6 Letter Writing Programme** <br>
+<br>
+	
+<b>P4 to P6 Letter Writing Programme</b>
+<br>
 Students are taught how to identify the SVO during letter writing:  
 
 *   **<u>S</u>** ubject – who they are writing to
