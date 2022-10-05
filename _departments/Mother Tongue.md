@@ -121,12 +121,10 @@ Students are taught how to identify the SVO during letter writing:
 <br>
 	
 <b>Chinese Language Key Activities</b>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Lunar New Year Celebration</font></u></b>
 <br>
-
-  
-
-*   <u>Lunar New Year Celebration</u><br>
- The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
+The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
 soaked in the festive atmosphere through the performances.
 
 <img src="/images/Departments/MT%201.jpg"  
