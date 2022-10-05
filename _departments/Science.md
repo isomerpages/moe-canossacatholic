@@ -93,8 +93,10 @@ In particular, it is important to appreciate that the three components represent
 <br>
 <b>Explain</b> – Ensuring that the question is answered by linking concept to the question posed.
 
-  
-**<font size=4>Experiential Learning</font>**<br>
+<br>
+
+<b>Experiential Learning</b>
+<br>
 We believe that the learning of science should be meaningful to students. As such, opportunities are provided for students to visit places where they can learn about how science is applied in the world around them and get a glimpse into the minds of scientists.
 
 Our students will have a chance to participate in learning journeys to :  
