@@ -216,10 +216,9 @@ The school celebrate Hari Raya Aidilfitri annually with a hearty performance exp
 <br>
 The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
 
-
-<img src="/images/Departments/MT%204.png"  
-     style="width:85%">
-
+<center>
+<img src="/images/Departments/MT%204.png" style="width:85%">
+	</center>
 
 *   <u>P1 to P6 Internal Competition</u>
 
