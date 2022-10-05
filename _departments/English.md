@@ -17,6 +17,7 @@ The six-year English Language (EL) curriculum aims to develop students to be con
 
 <br>
 <b><font size=4 color="#eeac0d">The foundation of EL learning will be strengthened through:</font></b>
+<br><br>
 
 *   A greater focus on oral communication – listening & speaking
 *   Enjoyment in the learning of English through fun-filled activities
