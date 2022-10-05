@@ -132,7 +132,47 @@ The art curriculum in our school provides a foundation for all our students to u
 All music lessons are carefully planned based on the **Experience-Concept-Application-Recap (E-C-A-R) approach**.
 
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg"><colgroup><col style="width: 201px"><col style="width: 401px"></colgroup><thead><tr><th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Experience</span></th><th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Students experience and perceive the new concept through singing and accompanying kinesthetic, aural and visual activities</span></th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Concept</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Teachers will help their students relate the activities in the Experience phase to formal learning</span></td></tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Application</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">The Application phase involves various forms of practice such as recognition, notation, reproduction, improvisation, creating, performing and listening</span></td></tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Recap</span></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Serves as a recall and summary of the music concepts learnt during the music lesson</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg">
+<colgroup>
+<col style="width: 201px"><col style="width: 401px">
+</colgroup>
+<thead>
+<tr>
+<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Experience</span>
+</th>
+<th style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Students experience and perceive the new concept through singing and accompanying kinesthetic, aural and visual activities</span>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Concept</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Teachers will help their students relate the activities in the Experience phase to formal learning</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Application</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">The Application phase involves various forms of practice such as recognition, notation, reproduction, improvisation, creating, performing and listening</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<span style="font-weight:bold;color:#252525">Recap</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Serves as a recall and summary of the music concepts learnt during the music lesson</span>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
