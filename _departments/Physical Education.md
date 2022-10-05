@@ -34,22 +34,21 @@ Through PACE, all CCPS students would be nurtured into young people who are futu
 
   
 Click **[here](https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps)** for details on <b>Learning for Life Programme P.A.C.E @ CCPS</b>.  
-  
-  
-**<font size=5>PE Curriculum</font>**
 
+<br>
 
+<b><font size=5 color="#7daadf">PE Curriculum</font></b>
   
 The PE Curriculum focuses on the student’s development of different fundamental motor skills such as locomotor, non-locomotor and manipulative skills safely through a variety of physical settings and different mediums progressively across the levels. The students learning experiences are organised according to the following learning areas:  
   
 
 *   Athletics (from Primary 3)
- *   Dance
- *   Games and Sports
- *   Gymnastics
- *   Outdoor Education
- *   Physical Health and Fitness
- *   Swimming (at Primary 2)
+*   Dance
+*   Games and Sports
+*   Gymnastics
+*   Outdoor Education
+*   Physical Health and Fitness
+*   Swimming (at Primary 2)
 
   
   
