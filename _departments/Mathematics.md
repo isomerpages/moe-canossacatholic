@@ -89,9 +89,13 @@ Learning experiences in the classroom are designed based on the C-P-A approach. 
 </tbody>
 </table>
 
+<br>
 
+<center>
+	
 ![](/images/Departments/Math%202.png)
 
+</center>
 
 **George Polya’s 4 stages of problem solving** <br>
 Mathematical problem solving is central to mathematics learning. Thinking skills and heuristics are essential for mathematical problem solving.  
