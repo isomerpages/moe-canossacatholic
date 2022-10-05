@@ -33,13 +33,18 @@ The department places emphasis on training students to read aloud effectively, w
 <b><u><font size=3 color="#eeac0d">Conversation:</font></u></b>
 <br>
 The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
-
-<u>Lower Primary: FAR Strategy</u> <br>
-*   Question 1: Feeling + Action + Reason (FAR strategy)
-
-<u>Middle Primary: FAR + PEEL Strategy</u> <br>
-*   Question 1: Feeling + Action + Reason (FAR strategy)
-*   Question 2: (Point + Explain + Example + Link (PEEL strategy)
+<br>
+<br>
+<b><u><font size=3 color="#eeac0d">Lower Primary: FAR Strategy</font></u></b>
+<br>
+Question 1: Feeling + Action + Reason (FAR strategy)
+<br>
+<br>
+<b><u><font size=3 color="#eeac0d">Middle Primary: FAR + PEEL Strategy</font></u></b>
+<br>
+Question 1: Feeling + Action + Reason (FAR strategy)
+<br>
+Question 2: (Point + Explain + Example + Link (PEEL strategy)
 
 <u>Upper Primary: FAR + PEEL + 1234 Strategy</u> <br>
 *   Question 1: Feeling + Action + Reason (FAR strategy)
