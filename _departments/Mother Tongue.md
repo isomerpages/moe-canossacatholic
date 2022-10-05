@@ -206,7 +206,9 @@ The department also aims to develop students to become effective communicators t
 <br>
 <b>Malay Department Key Activities:</b>
 <br>
- *   <u>Hari Raya Celebration</u><br>
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Hari Raya Celebration</font></u></b>
+<br>
 The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.  
 
 *   <u>MTL Fortnight Activities</u><br>
