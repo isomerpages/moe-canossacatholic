@@ -179,9 +179,10 @@ The Malay Language department aims to build the joy of learning the Malay Langua
 The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.  
 <br>
 <b>P1 to P6 School based Oracy programme</b>
-
-<u>Reading:</u>
-*   The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
+<p style="margin-left: 40px">
+<b><u><font size=3 color="#eeac0d">Reading:</font></u></b>
+<br>
+The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
 
 <u>Conversation: </u>
 *   The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
