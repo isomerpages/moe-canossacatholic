@@ -1,16 +1,19 @@
 ---
 title: Mother Tongue
-permalink: /departments/mother-tongue
+permalink: /departments/mother-tongue/
 description: ""
 ---
-**<font size=6>Mother Tongue</font>**
+<b><font size=6>Mother Tongue</font></b>
 
-**<font size=5>Chinese Language Department</font>**<br>
+<b><font size=5 color="#7daadf">Chinese Language Department</font></b>
+<br>
+<br>
 The six-year Chinese curriculum aims to enhance students’ oral, listening and writing skills. The department aims to inculcate in students a love and interest in the learning of Chinese Language through the use of Information Technology and differentiated learning in class. We also aim to nurture learners who are exemplary in character and devoted to the life-long learning of the Chinese Language and its culture.  
   
-**<font size=5>Chinese Language Key Programme:</font>**<br>
+<b><font size=5 color="#7daadf">Chinese Language Key Programme:</font></b><br>
 
-**P2-P6 Modular Approach in Teaching and Learning**<br>
+<b>P2-P6 Modular Approach in Teaching and Learning</b>
+<br>
  *   Parallel classes are formed for each level to better cater to the needs of the different learners. Teachers are able to customize their teaching to meet the different learning needs of the students.
  *   All Primary 3 and 4 Chinese Language Higher and Middle Progressing classes will use Higher Chinese Textbook from 2022 onwards to stretch students in their learning of Chinese language.
  *   MOE ABLE programme to support students who require additional support in the learning of Chinese Language for Primary 3 and 4 learners.
