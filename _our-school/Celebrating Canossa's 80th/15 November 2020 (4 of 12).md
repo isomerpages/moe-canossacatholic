@@ -40,3 +40,6 @@ A dynamic, vibrant school - growing and blossoming in God's amazing grace.
 <img src="/images/History/15%20Nov%2020%203.jpeg" style="width:75%">
 	
 </center>
+
+<br><br><br><br><br><br>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
