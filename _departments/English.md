@@ -100,18 +100,24 @@ In line with the latest English Language Syllabus, "<em>I Love Literature</em>" 
 
 <b><font size=4 color="#eeac0d">Department Strategies</font></b>
 
-
-**Strategies for Effective Communication:**<br>
+<p style="margin-left: 40px">
+<b>Strategies for Effective Communication:</b>
+<br>
 These strategies help students become competent communicators who convey ideas and information successfully during a conversation.  
-  
-
-- **<u>P1-P4: the 3Rs Strategy</u>**<br>
+<br>
+<br>
+<b><u>P1-P4: the 3Rs Strategy</u></b>
+<br>
 From P1 to P4, students adopt the 3Rs strategy – reply-reason-relate – to develop their responses.
-
-- **<u>P5-P6: The P-E-E-L strategy</u>**<br>
+<br>
+<br>
+<b><u>P5-P6: The P-E-E-L strategy</u></b>
+<br>
 From P5 to P6, the PEEL strategy – Point-Evidence-Explanation-Link – is taught.
-
-**Annotation**<br>
+<br>
+<br>
+<b>Annotation</b>
+<br>
 Students are taught effective annotation - how to actively interact with the text to enhance their comprehension of, recollection of and reaction to the text.  
 
 **C-U-B (Circle-Underline-Box)**<br>
