@@ -73,9 +73,8 @@ In particular, it is important to appreciate that the three components represent
 
 <b><font size=5 color="#7daadf">Department Strategies</font></b>
 
-<b>Inquiry Based Learning using the BSCS 5E instructional model</b>
+<b><font size=3 color="#eeac0d">Inquiry Based Learning using the BSCS 5E instructional model</font></b>
 
-<p style="margin-left: 40px">
 <b><u>TCA (for MCQ)</u></b>
 <br>
 <b><u>T</u></b>opic – Which topic is this question from?
@@ -92,18 +91,15 @@ In particular, it is important to appreciate that the three components represent
 <b>Concept</b> – Which scientific concept is this question testing me?
 <br>
 <b>Explain</b> – Ensuring that the question is answered by linking concept to the question posed.
-</p>
 
 <br>
 
-<b>Experiential Learning</b>
+<b><font size=3 color="#eeac0d">Experiential Learning</font></b>
 <br>
 We believe that the learning of science should be meaningful to students. As such, opportunities are provided for students to visit places where they can learn about how science is applied in the world around them and get a glimpse into the minds of scientists.
 
 Our students will have a chance to participate in learning journeys to :  
 <br>
-
-<p style="margin-left: 40px">
 <b><u>Lee Kong Chian Natural History Museum and Singapore Botanical Garden for P3</u></b>
 <br> 
 Spread over 2500 square metres, the public gallery consists of 15 zones with different sections devoted to the origin of life and all major branches of the Tree of Life. This allows students to appreciate the wide diversity of Singapore’s historical species, understand the history of life on earth and environmental issues and associated conservation attempts.
@@ -112,12 +108,11 @@ Spread over 2500 square metres, the public gallery consists of 15 zones with dif
 Students will also experience a taster of how it is to be a Scientist visiting the Singapore Botanical Gardens, a UNESCO World Heritage Site inscribed in 2015. The Gardens is the first and only tropical botanic garden on the UNESCO’s World Heritage List. Today, the Gardens is an important botanical institute which have a wide diversity of life which students will get to experience.
 
 
-<p style="margin-left: 40px">
 <b><u>Science Centre for Primary 4-5</u></b>
 <br>
 Students will attend workshops such as the:
 
-<p style="margin-left: 80px">
+<p style="margin-left: 40px">
 <u>Heat and Temperature workshop</u>
 <br>
 The objective is for students to better appreciate the effects of heat from the hands-on demonstrations and understand how measures of heat are determined.
