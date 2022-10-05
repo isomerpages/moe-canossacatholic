@@ -70,11 +70,15 @@ Below are the Cyber Wellness topics that are explicitly taught during FTGP acros
 <b>P5 :</b> Cut & Paste / When words hurt  
 <b>P6 :</b> Navigating the internet / Scams & Spam
 
-<img src="/images/Departments/ICT%204.jpg"  
-     style="width:75%">
+<center>
+	
+<img src="/images/Departments/ICT%204.jpg" style="width:75%">
 
+</center>
 
-**<font size=5>E-Learning Exercise </font>**
+<br>
+
+<b><font size=5 color="#7daadf">CE-Learning Exercise</font></b>
   
 CCPS conducts e-learning days for students, usually concurrently with Parents-Child-Teachers Conference (PCTC) / Meet the Parents (MTP) days. Teachers will design e-learning lessons on Student Learning Space (SLS) for students to attempt independently, The objectives of the exercise are to encourage students to take ownership for their own learning and to familiarise them with learning environment that is necessary in the event of school closure due to a national emergency.  
   
