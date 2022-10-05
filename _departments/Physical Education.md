@@ -50,10 +50,9 @@ The PE Curriculum focuses on the student’s development of different fundamenta
 *   Physical Health and Fitness
 *   Swimming (at Primary 2)
 
-  
-  
-**<font size=5>SwimSafer™ 2.0 Programme</font>**
+<br>
 
+<b><font size=5 color="#7daadf">SwimSafer™ 2.0 Programme</font></b>
   
 SwimSafer™ 2.0 Programme by ActiveSG is offered to all our Primary 2 students. It aims to equip our students with basic swimming and water survival skills in a fun and engaging way.
 
