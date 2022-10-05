@@ -76,7 +76,7 @@ In particular, it is important to appreciate that the three components represent
 <b>Inquiry Based Learning using the BSCS 5E instructional model</b>
 
 <p style="margin-left: 40px">
-<b><u>TCA (for MCQ)</u></b>
+<b><u><font size=3 color="#eeac0d">TCA (for MCQ)</font></u></b>
 <br>
 <b><u>T</u></b>opic – Which topic is this question from?
 <br>
@@ -85,7 +85,7 @@ In particular, it is important to appreciate that the three components represent
 <b><u>A</u></b> pply – Eliminate distractors which are definitely incorrect.
 <br>
 <br>
-<b><u>OCE (for open-ended questions)</u></b>
+<b><u><font size=3 color="#eeac0d">OCE (for open-ended questions)</font></u></b>
 <br>
 <b>Observation</b> – What are the clues in the question?
 <br>
@@ -101,10 +101,10 @@ In particular, it is important to appreciate that the three components represent
 We believe that the learning of science should be meaningful to students. As such, opportunities are provided for students to visit places where they can learn about how science is applied in the world around them and get a glimpse into the minds of scientists.
 
 Our students will have a chance to participate in learning journeys to :  
-<br>
+
 
 <p style="margin-left: 40px">
-<b><u>Lee Kong Chian Natural History Museum and Singapore Botanical Garden for P3</u></b>
+<b><u><font size=3 color="#eeac0d">Lee Kong Chian Natural History Museum and Singapore Botanical Garden for P3</font></u></b>
 <br> 
 Spread over 2500 square metres, the public gallery consists of 15 zones with different sections devoted to the origin of life and all major branches of the Tree of Life. This allows students to appreciate the wide diversity of Singapore’s historical species, understand the history of life on earth and environmental issues and associated conservation attempts.
 <br>
@@ -113,7 +113,7 @@ Students will also experience a taster of how it is to be a Scientist visiting t
 
 
 <p style="margin-left: 40px">
-<b><u>Science Centre for Primary 4-5</u></b>
+<b><u><font size=3 color="#eeac0d">Science Centre for Primary 4-5</font></u></b>
 <br>
 Students will attend workshops such as the:
 
