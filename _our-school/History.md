@@ -3,7 +3,7 @@ title: History
 permalink: /our-school/history/
 description: ""
 ---
-**<font size=6>History</font>**
+<b><font size=6>History</font></b>
 
   
 Canossa Catholic Primary School (CCPS) is a co-educational Catholic school that centres its entire curriculum on the Canossian Education, which emphasizes on the Formation of the Heart. Previously known as Canossa Convent Primary School, it was established in 1941 by the Canossian Daughters of Charity in Singapore.  
@@ -11,11 +11,10 @@ Canossa Catholic Primary School (CCPS) is a co-educational Catholic school that 
 The Canossian Education emulates the work and spirit of our foundress, St Magdalene of Canossa, to serve the poor in spirit and needs. It is inclusive and embraces children of all faiths and races.
 
 
-<img src="/images/History/Picture%20of%20St%20Magdalene.jpg"  
-     style="width:45%">
+<img src="/images/History/Picture%20of%20St%20Magdalene.jpg" style="width:45%">
 
 
-**<center>OUR FOUNDRESS - ST MAGDALENE OF CANOSSA</center>**
+<b><center>OUR FOUNDRESS - ST MAGDALENE OF CANOSSA</center></b>
 
 
 Saint Magdalene of Canossa (canonized in 1988) was born
@@ -38,13 +37,11 @@ experience of God’s love for them. This was for her, the
 greatest act of charity. The charity schools were not
 about philanthropy; rather they were for the greater
 glory of God.
+<br><br>
 
-
-
-<img src="/images/History/Picture%20of%20St%20Bakhita.jpg"  
-     style="width:45%">
+<img src="/images/History/Picture%20of%20St%20Bakhita.jpg" style="width:45%">
 		 
-**<center>UNIVERSAL SISTER- ST JOSEPHINE BAKHITA</center>**
+<b><center>UNIVERSAL SISTER- ST JOSEPHINE BAKHITA</center></b>
 
 Saint Josephine Bakhita (canonized in 2000) was born in
 Sudan in 1869. Bakhita, which in Arabic means “Lucky One”
@@ -66,6 +63,8 @@ even those who tortured me,” she wrote, “I would kneel
 and kiss their hands. For if these things had not happened,
 I would not have been a Christian and a religious today.”
 Rather it was for the greater glory of God.
+<br><br>
+
 
 <center>
 <img src="/images/History/Canossian%20Daughters%20of%20Charity.jpg" style="width:45%">
@@ -73,11 +72,11 @@ Rather it was for the greater glory of God.
 </b>
 </center>
 	
-In its emphasis on the Formation of the Heart, children are encouraged and affirmed in their personal growth as a child of God. The school strives to cultivate a personal relationship with God in everyone and a community spirit of love and acceptance. Mother Foundress, St Magdalene of Canossa, spread her love of Jesus through works of great service and belief in **“the conduct of one’s whole life depends on education”**.
+In its emphasis on the Formation of the Heart, children are encouraged and affirmed in their personal growth as a child of God. The school strives to cultivate a personal relationship with God in everyone and a community spirit of love and acceptance. Mother Foundress, St Magdalene of Canossa, spread her love of Jesus through works of great service and belief in <b>“the conduct of one’s whole life depends on education”</b>.
 
 Anchoring on that, Canossian educators recognise the need to develop the child’s attitudes, behaviours and respect, for the dignity of others. The school’s culture of love and care enables each Canossian daughter and son to become the best versions of themselves for God and others.
 
-**<font size=6>SCHOOL INFOGRAPH AND MILESTONE</font>**
+<b><font size=6>SCHOOL INFOGRAPH AND MILESTONE</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr>
