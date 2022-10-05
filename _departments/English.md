@@ -119,14 +119,20 @@ From P5 to P6, the PEEL strategy – Point-Evidence-Explanation-Link – is taug
 <b>Annotation</b>
 <br>
 Students are taught effective annotation - how to actively interact with the text to enhance their comprehension of, recollection of and reaction to the text.  
-
-**C-U-B (Circle-Underline-Box)**<br>
+<br>
+<br>
+<b>C-U-B (Circle-Underline-Box)</b>
+<br>
 Students are also taught to analyse comprehension questions so they know what each question requires and can respond appropriately.  
-
-**T-I-P-S Strategy (Tense-Information-Punctuation-Spelling)**<br>
+<br>
+<br>
+<b>T-I-P-S Strategy (Tense-Information-Punctuation-Spelling)</b>
+<br>
 This strategy is used when students check their answers. It is also used for Synthesis and Transformation questions.  
-
-**T-P-T-P Strategy (Tense-Pronoun-Time-Place)** <br>
+<br>
+<br>
+<b>T-P-T-P Strategy (Tense-Pronoun-Time-Place)</b>
+<br>
 This strategy is used to ensure accuracy when changing direct speech to reported speech and vice versa.
 
 
