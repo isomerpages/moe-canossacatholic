@@ -157,9 +157,9 @@ Students in schools are given the opportunity to participate in various external
 <br>
 All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
 
-<img src="/images/Departments/MT%203.jpg"  
-     style="width:85%">
-
+<center>
+<img src="/images/Departments/MT%203.jpg" style="width:85%">
+</center>
 
 
 
