@@ -32,22 +32,21 @@ The six-year English Language (EL) curriculum aims to develop students to be con
 <br>
 The Reading Intervention Programmes include the following:  
 
-<p style="margin-left: 40px">
 <b>Language Support Programme (LSP)</b>
 <br>
 This is an MOE’s early intervention programme for Primary 1 and Primary 2 students who have not attained developmentally appropriate language and literacy skills in English Language. Students who enter Primary 1 and struggle with oral and reading skills will be taught basic oral language, reading and spelling skills so that they can learn and follow in their regular classes. These students will continue with the programme in Primary 2 if they have not attained developmentally appropriate language and literacy skills in English.  
-<br><br>
+<br>
 <b>Remedial Reading Programme (RRP)</b>
 <br>
 RRP is another of MOE’s additional literacy support programmes and is implemented at Primary 3 and Primary 4 for students who still have weak literacy skills despite having completed the Learning Support Programme in Primary 1 and Primary 2. The programme teaches students a range of strategies for reading and reading comprehension which will enable them to better manage their learning in their regular classrooms.  
-<br><br>
+<br>
 <b>School-based Dyslexia Remediation (SDR)</b>
 <br>
 SDR is a 2-year intervention programme to support identified students with dyslexia in Primary 3 and Primary 4. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. In Primary 3, students are taught reading and spelling skills to help them learn better in their regular classes. In Primary 4, students are also taught comprehension skills, in addition to reading and spelling skills.  
-<br><br>
+<br>
 <b>Structured Reading Programme</b>
 <br>
-This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words. <br><br>
+This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words. <br>
 <b>Extensive Reading Programme</b>
 <br>
 This programme aims to help students expand and extend students’ reading beyond the curriculum.  
@@ -56,15 +55,14 @@ This programme aims to help students expand and extend students’ reading beyon
 
 <b><font size=4 color="#eeac0d">Effective Communication:</font></b>
 
-<p style="margin-left: 40px">
 <b>Show & Tell</b>
 <br>
 Show & Tell is part and parcel of the Primary 1 & Primary 2 EL curriculum. It provides opportunities for students to build up their confidence level, self-esteem, social and listening skills. This helps them to become confident communicators.  
-<br><br>
+<br>
 <b>Retelling</b>
 <br>
 Retelling activity has been rolled out for Primary 3 & Primary 4 students as part of their EL learning in the classroom. Retelling promotes thinking and metacognition along with Think Aloud, KWL and generating questions. It also provides opportunities for students to improve their verbal and comprehension skills as students begin to understand sequence, plot, and characterization as they build vocabulary and comprehension skills.  
-<br><br>
+<br>
 <b>1-Minute Talk:</b>
 <br>
 This activity is aimed at Primary 5 & Primary 6 students to help students build up their oracy skills as well as to make them think on their feet. Students need to express their opinions and views on a given topic within a minute using appropriate vocabulary.     
@@ -73,15 +71,14 @@ This activity is aimed at Primary 5 & Primary 6 students to help students build 
 
 <b><font size=4 color="#eeac0d">Writing</font></b>
 
-<p style="margin-left: 40px">
 <b>Canossian Writing Programme</b>
 <br>
 Our Canossian Writing Programme recognises our students as writers who seek to hone their craft. Carefully-crafted mini-lessons allow for the discussion and unpacking of authentic mentor texts for students to develop different writing techniques and styles. Teachers model the process by working on their own writing and conduct conferences with individual students. The students’ written work is then published for their peers to read so that students grow comfortable seeing themselves as part of a writing community, become more willing to take more risks and dive deeper into the process. In addition, they can get ideas from their peers’ writing.  
-<br><br>
+<br>
 <b>Creative Writing</b>
 <br>
 Creative Writing has been introduced in Primary 1 & Primary 2 to encourage students to exercise their creativity and use their imagination. At the same time, students are provided with opportunities to develop their ‘voice’ and communicate their thoughts and ideas freely. An annual Creative Writing Competition is also conducted for our students.  
-<br><br>
+<br>
 <b>Journaling</b>
 <br>
 Students are encouraged to read widely and respond to what they read. Journaling aims to develop students’ personal response and critical thinking skills.  
