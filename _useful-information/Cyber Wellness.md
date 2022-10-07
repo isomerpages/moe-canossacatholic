@@ -25,23 +25,18 @@ Cyber Wellness (CW) refers to the positive well-being of Internet users. It invo
 *   Lead and inspire others
 *   Opportunity to be the voice of optimism
 
-
-  **<font size="5">Useful Parenting Tips</font>**
+<br>
+<b><font size=5 color="#7daadf">Useful Parenting Tips</font></b>
 
 To complement the cyber wellness curriculum in school, it is important for parents to set a good example at home in the use of technology and play an active role in guiding our children to navigate in cyberspace.  
   
 Here are some PARENTing Tips to guide your child in this digital age.  
   
- 
-
-**Provide Opportunities for Offline Activities**
+<b>Provide Opportunities for Offline Activities</b>
 
 *   Spend time bonding as a family through activities such as sports and crafts so that your child has a healthy and balanced lifestyle
 
-  
-
-
-**Activate Parental Controls and Filters in Devices**
+<b>Activate Parental Controls and Filters in Devices</b>
 
 *   Help to regulate your child’s usage of devices by setting parental controls and filters. Check out “[Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)”
 
