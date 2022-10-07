@@ -21,8 +21,9 @@ For technical assistance, you may
 *   Call SLS Helpdesk at 67026513
 *   Email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 
-  
-  **<font size=5>SLS Support for Home-Based Learning or e-Learning Exercise</font>**
+<br>
+
+<b><font size=5 color="#7daadf">SLS Support for Home-Based Learning or e-Learning Exercise</font></b>
 
 
   
