@@ -27,10 +27,10 @@ description: ""
 <b><font size=5 color="#eeac0d">3</font></b> &nbsp; The key messages of Sexuality Education are:  
 
 <p style="margin-left: 40px">
- (i)           Love and respect yourself as you love and respect others;<br>
- (ii)          Build positive relationships based on love and respect (which are the foundation for strong families);<br>
-(iii)         Make responsible decisions for yourself, your family and society; and<br>
- (iv)         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<b>(i)</b>           Love and respect yourself as you love and respect others;<br>
+<b>(ii)</b>          Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+<b>(iii)</b>         Make responsible decisions for yourself, your family and society; and<br>
+<b>(iv)</b>         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
   
 
