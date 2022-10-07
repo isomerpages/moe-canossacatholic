@@ -1,11 +1,11 @@
 ---
 title: Students iCon Account
-permalink: /useful-information/students-icon-account
+permalink: /useful-information/students-icon-account/
 description: ""
 ---
-**<font size="6">STUDENTS iCON ACCOUNT</font>**
+<b><font size="6">STUDENTS iCON ACCOUNT</font></b>
 
-**<font size=5>Students’ iCON</font>**
+<b><font size=5 color="#7daadf">Students’ iCON</font></b>
 
   
 To facilitate collaboration, teaching and learning between teachers and students, students will be provided with a student MOE iCON (Google) account which will allow access to common G Suite Services, Zoom, and Microsoft Pro Plus (Word, Excel, Powerpoint, OneNote, Publisher). Students will be using the same account throughout their primary and secondary education.  
