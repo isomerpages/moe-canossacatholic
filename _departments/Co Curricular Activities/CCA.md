@@ -13,6 +13,7 @@ In addition, participation in CCA also encourages social interaction and integra
 
 <b><font size=5 color="#7daadf">The Co-Curricular Activities offered to the Primary 3 to 6 students are as follows:</font></b>
 
+<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr>
