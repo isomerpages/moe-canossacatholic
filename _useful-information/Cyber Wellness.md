@@ -1,11 +1,11 @@
 ---
 title: Cyber Wellness
-permalink: /useful-information/cyber-wellness
+permalink: /useful-information/cyber-wellness/
 description: ""
 ---
-**<font size="6">Cyber Wellness</font>**
+<b><font size="6">Cyber Wellness</font></b>
 
-**<font size="5">Cyber Wellness Tips</font>**
+<b><font size=5 color="#7daadf">Cyber Wellness Tips</font></b>
 
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace.
