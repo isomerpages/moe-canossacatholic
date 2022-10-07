@@ -36,53 +36,53 @@ In addition, participation in CCA also encourages social interaction and integra
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/choir">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/choir" title="Choir">
 <span style="text-decoration:none;color:#454545">Choir</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/modular-cca-sports">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/modular-cca-sports" title="Modular CCA Sports">
 <span style="text-decoration:none;color:#454545">Modular CCA Sports</span>
 </a>
 </td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/brownies">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/brownies" title="Brownies">
 <span style="text-decoration:none;color:#454545">Brownies</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/guitar-ensemble">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/guitar-ensemble" title="Guitar Ensemble">
 <span style="text-decoration:none;color:#454545">Guitar Ensemble</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/taekwondo">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/taekwondo" title="Taekwondo">
 <span style="text-decoration:none;color:#454545">Taekwondo</span>
 </a>
 </td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/cub-scouts">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/cub-scouts" title="Cub Scouts">
 <span style="text-decoration:none;color:#454545">Cub Scouts</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/modern-dance">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/modern-dance" title="Modern Dance">
 <span style="text-decoration:none;color:#454545">Modern Dance</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/track-and-field">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/track-and-field" title="Track and Field">
 <span style="text-decoration:none;color:#454545">Track and Field</span>
 </a>
 </td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/infocomm-club">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/infocomm-club" title="Infocomm Club">
 <span style="text-decoration:none;color:#454545">Infocomm Club</span>
 </a>
 </td>
