@@ -10,7 +10,7 @@ description: ""
 <b><font size=5 color="#eeac0d">1.</font></b> &nbsp; Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
   
   
-<b><font size=5 color="#eeac0d">2</font></b> &nbsp; The goals of Sexuality Education are:  
+<b><font size=5 color="#eeac0d">2.</font></b> &nbsp; The goals of Sexuality Education are:  
   
 <p style="margin-left: 40px">
 <b>(i)</b>    To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;  
@@ -24,7 +24,7 @@ description: ""
 <b>(iii)</b>    To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality. 
 </p>
   
-<b><font size=5 color="#eeac0d">3</font></b> &nbsp; The key messages of Sexuality Education are:  
+<b><font size=5 color="#eeac0d">3.</font></b> &nbsp; The key messages of Sexuality Education are:  
 
 <p style="margin-left: 40px">
 <b>(i)</b>           Love and respect yourself as you love and respect others;<br>
@@ -37,9 +37,7 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <br>
 <b><font size=5 color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2022</font></b>
 
-
-  
-4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.  
+<b><font size=5 color="#eeac0d">4.</font></b> &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.  
   
 5\. The subjects that incorporate topics on sexuality include:  <br>
  a.    Science  
