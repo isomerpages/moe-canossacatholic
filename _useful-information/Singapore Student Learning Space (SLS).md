@@ -28,37 +28,44 @@ For technical assistance, you may
 <b><font size=4 color="#eeac0d">School Operating Hours</font></b>
 
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.  
-  
-<b>School-based Helpline:</b> 68441418  
-  
-<b><u>Operating Hours:</u></b><br>
+
+<p style="margin-left: 40px">
+<b>School-based Helpline:</b> 68441418
+<br><br>
+<u>Operating Hours:</u><br>
 <b>Mondays - Thursdays:</b> 8:00 am to 4:00 pm<br>
 <b>Fridays:</b> 8:00 am to 3:30 pm<br>
+</p>
 
 <br>
  
  * * *
 
+<p style="margin-left: 40px">
 <b>Non-School Operating Hours</b>
+<br>
+Outside the school operating hours, students should contact the SLS Helpdesk for support. <br><br> 
+<b>SLS Helpdesk:</b> 67026513  
+<br><br>
+<u>Operating Hours:</u><br>
+<b>Mondays - Thursdays:</b> 4:00 pm to 9:00 pm<br>
+<b>Fridays:</b> 3:30 pm to 9:00 pm<br>
+<b>Saturdays:</b> 9:00 am to 3:00 pm<br>
+<em><font size=3 color="#eeac0d">* Closed on Sundays & Public Holidays</font></em>
+<br><br>
+	
+ * * *
+	
+<br>
 
-  
-Outside the school operating hours, students should contact the SLS Helpdesk for support.  
-  
-**SLS Helpdesk:** 67026513  
-  
-**<u>Operating Hours:</u>**  
-**Mondays - Thursdays:** 4:00 pm to 9:00 pm  
-**Fridays:** 3:30 pm to 9:00 pm  
-**Saturdays:** 9:00 am to 3:00 pm  
-  
-\*_Closed on Sundays & Public Holidays_  
-  
 You can also email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
   
 When contacting the SLS Helpdesk, please include your **child’s full name, name of school and form class**.  
   
 For device or broadband support, parents can refer to **[IMDA NEU PC Plus programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)**, or contact the school for advice.
 
+
+	
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
