@@ -66,7 +66,7 @@ Here are some PARENTing Tips to guide your child in this digital age.
 * Meet strangers face to face without parents’ knowledge
 
 <b><font size=3 color="#eeac0d">Consider to create a [Family Media Plan](https://www.healthychildren.org/English/media/Pages/default.aspx#home)</font></b>
-* https://www.healthychildren.org/English/media/Pages/default.aspx#home](https://www.healthychildren.org/English/media/Pages/default.aspx#home)_
+* <em>https://www.healthychildren.org/English/media/Pages/default.aspx#home](https://www.healthychildren.org/English/media/Pages/default.aspx#home)</em>
 
 <b><font size=3 color="#eeac0d">Navigate the Internet with your Child</font></b>
 
@@ -81,8 +81,6 @@ Here are some PARENTing Tips to guide your child in this digital age.
      *   Things she/he do online
      *   Her/his online experiences etc
  
-   
-
 *   Let your child know that it is alright to ask you questions or talk to you if she/he run into unpleasant situations online. 
     *   _Adapted from [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)_
 
