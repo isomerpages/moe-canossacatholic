@@ -123,9 +123,9 @@ Here are some PARENTing Tips to guide your child in this digital age.
 *   [https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
 
   
-<b>Play safe – avoid online gaming addiction</b> *(BROKEN LINK)*
+<b>Play safe – avoid online gaming addiction</b>
 
-*   [https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction](https://www.schoolbag.sg/story/play-safe-avoid-online-gaming-addiction)
+*   [https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
 
   
 <b>Safeguarding your child online</b> *(BROKEN LINK)*
