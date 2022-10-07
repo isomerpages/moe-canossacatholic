@@ -43,7 +43,7 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the schoolâ
 <span style="color:#454545;background-color:#FAFAFA">Experience</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Art and Music Curriculum, Talent development, Aesthetics CCAs and platform</span>
+<span style="color:#454545;background-color:#FAFAFA">Art and Music Curriculum,<br> Talent development,<br> Aesthetics CCAs<br>and platform</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">To give our students opportunities to develop their talents through modular approaches in:</span>
