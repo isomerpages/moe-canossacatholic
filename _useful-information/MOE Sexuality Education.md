@@ -34,8 +34,8 @@ description: ""
 
 You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-
-**<font size=5>Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2022</font>**
+<br>
+<b><font size=5 color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2022</font></b>
 
 
   
