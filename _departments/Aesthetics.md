@@ -179,7 +179,7 @@ All music lessons are carefully planned based on the **Experience-Concept-Appli
 
 Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
   
-Through learning journeys, such as a trip to the **Esplanade (P2)**, students will appreciate the different roles musicians play in society. Through the **Digital Music Programme (P3 and P4)**, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
+Through learning journeys, such as a trip to the <b>Esplanade (P2)</b>, students will appreciate the different roles musicians play in society. Through the <b>Digital Music Programme (P3 and P4)</b>, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
 
 
 ![](/images/Departments/Aesthetics%202.png)
