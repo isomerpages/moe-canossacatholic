@@ -58,15 +58,12 @@ Here are some PARENTing Tips to guide your child in this digital age.
 * Practice netiquette on the Internet
 * Respect intellectual property rights
 
-
-
-      *   **Dont's:**
- 
-          *   Access websites that have age restrictions (e.g. many social media sites have age limit for setting up accounts to comply with international regulations on children accessing social media).
-          *   Share personal information online
-          *   Share password with others
-          *   Spread rumours and say mean things online
-          *   Meet strangers face to face without parents’ knowledge
+<b><font size=3 color="#eeac0d">Dont's:</font></b>
+* Access websites that have age restrictions (e.g. many social media sites have age limit for setting up accounts to comply with international regulations on children accessing social media).
+* Share personal information online
+* Share password with others
+* Spread rumours and say mean things online
+* Meet strangers face to face without parents’ knowledge
 
   
 
