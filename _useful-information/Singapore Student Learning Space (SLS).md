@@ -25,26 +25,21 @@ For technical assistance, you may
 
 <b><font size=5 color="#7daadf">SLS Support for Home-Based Learning or e-Learning Exercise</font></b>
 
+<b><font size=4 color="#eeac0d">School Operating Hours</font></b>
 
-  
-
-**School Operating Hours**
-
-  
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.  
   
-**School-based Helpline:** 68441418  
+<b>School-based Helpline:</b> 68441418  
   
-**<u>Operating Hours:</u>**  
-**Mondays - Thursdays:** 8:00 am to 4:00 pm  
-**Fridays:** 8:00 am to 3:30 pm  
-  
+<b><u>Operating Hours:</u></b><br>
+<b>Mondays - Thursdays:</b> 8:00 am to 4:00 pm<br>
+<b>Fridays:</b> 8:00 am to 3:30 pm<br>
 
-* * *
+<br>
+ 
+ * * *
 
-  
-
- **Non-School Operating Hours**
+<b>Non-School Operating Hours</b>
 
   
 Outside the school operating hours, students should contact the SLS Helpdesk for support.  
