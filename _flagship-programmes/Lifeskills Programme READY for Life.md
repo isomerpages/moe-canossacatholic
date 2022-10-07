@@ -8,7 +8,7 @@ description: ""
 <b><font size=5 color="#7daadf">R.E.A.D.Y. for Life</font></b>
 
   
-**R.E.A.D.Y. for Life**  Programme is a school-based programme designed to help our students  
+<b>R.E.A.D.Y. for Life</b>  Programme is a school-based programme designed to help our students  
   
 
 *   Acquire life skills and competencies that are not explicitly taught in the formal curriculum or
@@ -16,14 +16,14 @@ description: ""
 
   
 These life skills will empower the students to be  <br>
-**R** – Responsible in making sound decisions, especially when they are under pressure  
-**E** – Effective in dealing with basic day-to-day demands in life  
-**A** – Amicable in building relationships and handling challenges  
-**D** – Determined in seeing through every commitment  
-**Y** – Yielding to GRACE and TRUTH, not fear
+<b>R</b> – Responsible in making sound decisions, especially when they are under pressure  
+<b>E</b> – Effective in dealing with basic day-to-day demands in life  
+<b>A</b> – Amicable in building relationships and handling challenges  
+<b>D</b> – Determined in seeing through every commitment  
+<b>Y</b> – Yielding to GRACE and TRUTH, not fear
 
   
-**R.E.A.D.Y. for Life** consists of a series of modules that are conducted in a year and across the levels in a progressive manner.  
+<b>R.E.A.D.Y. for Life</b> consists of a series of modules that are conducted in a year and across the levels in a progressive manner.  
  
  
 <b><font size=4 color="#eeac0d">Starting School Right</font></b>
