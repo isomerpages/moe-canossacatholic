@@ -58,24 +58,24 @@ In addition, participation in CCA also encourages social interaction and integra
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/art-club">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/taekwondo">
 <span style="text-decoration:none;color:#454545">Taekwondo</span>
 </a>
 </td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/art-club">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/cub-scouts">
 <span style="text-decoration:none;color:#454545">Cub Scouts</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/art-club">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/modern-dance">
 <span style="text-decoration:none;color:#454545">Modern Dance</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/art-club">
+<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/track-and-field">
 <span style="text-decoration:none;color:#454545">Track and Field</span>
 </a>
 </td>
