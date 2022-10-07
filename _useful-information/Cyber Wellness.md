@@ -133,9 +133,9 @@ Here are some PARENTing Tips to guide your child in this digital age.
 *   [https://www.schoolbag.edu.sg/story/safeguarding-your-child-online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
 
   
-<b>Exploring online, safely and confidently</b> *(BROKEN LINK)*
+<b>Exploring online, safely and confidently</b>
 
-*   [https://www.schoolbag.sg/story/exploring-online-safely-and-confidently](https://www.schoolbag.sg/story/exploring-online-safely-and-confidently)
+*   [https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
 
   
 <b>Cyber Wellness - Useful Resources</b>
