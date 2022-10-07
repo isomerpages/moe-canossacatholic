@@ -15,16 +15,16 @@ CCPS will be rolling out Student iCON progressively.
 <b>Email:</b> <Full\_Name>@students.edu.sg  
 <b>Password:</b> IAMS Password  
   
-**Note:**<br>
+<b>Note:</b><br>
 Use a web browser (e.g. Chrome) on your computer or mobile devices when accessing MOE iCON account.  
   
   
-**<font size=5>G Suite Applications Available for Primary 1 to 3 (Email is disabled)</font>**
+<b><font size=4 color="#eeac0d">G Suite Applications Available for Primary 1 to 3 (Email is disabled)</font></b>
 
 ![](/images/Useful%20Information/Icon%201.png)
 
 
-**<font size=5>G Suite Applications Available for Primary 4 to 6 (Email is enabled with limitations * )</font>**
+<b><font size=4 color="#eeac0d">G Suite Applications Available for Primary 4 to 6 (Email is enabled with limitations * )</font></b>
 
 ![](/images/Useful%20Information/Icon%202.png)
 
