@@ -5,7 +5,7 @@ description: ""
 ---
 <b><font size=6>Singapore Student Learning Space (SLS)</font></b>
 
-**<font size=5>Singapore Student Learning Space (SLS)</font>**
+<b><font size=5 color="#7daadf">Singapore Student Learning Space (SLS)</font></b>
 
   
 The Singapore Student Learning Space (SLS) is an online learning platform with tools and curriculum-aligned resources.  
