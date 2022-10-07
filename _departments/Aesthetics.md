@@ -186,17 +186,20 @@ Through learning journeys, such as a trip to the <b>Esplanade (P2)</b>, student
 ![](/images/Departments/Aesthetics%202.png)
 
 </center>
-	
+
+
 Recognising the increasing popularity of digital media in the aesthetics, the use of ICT has been woven into the arts curriculum. For example, our P2 students learn the use of MS Paint while our P5 students learn about Stop-Motion Animation. Our students’ talents are groomed through the Arts Instructional Programme, Arts CCAs and Arts Enrichment Programme. Their confidence in their own talents is enhanced through the provision of opportunities for external performances. In addition, since 2007, all members of Arts CCAs are given opportunities to attend concerts, performances and exhibitions to extend their understanding of the Arts.  
   
   
 The quality of our Arts Education and that of our performing Arts groups has been recognized through a number of awards, in particular the National Arts Education Award (NAEA) - Silver (2009-2012), the Glow Award (2013-2016) and the SYF Certificates of Accomplishment (2014, 2016 and 2018) in Choir and Modern Dance.
 
+<br>
 
+<center>
 
-<img src="/images/Departments/Aesthetics%203.jpg"  
-     style="width:75%">
+<img src="/images/Departments/Aesthetics%203.jpg" style="width:75%">
 
+</center>
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
