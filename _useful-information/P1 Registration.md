@@ -7,15 +7,11 @@ description: ""
 
 <center>
 <b>Watch "<em>A Day in the Life of a Canossian Student</em>" below.</b>
-</center>
-<br><br>
 
-<center>
+<br><br>
 
 <iframe width="600" height="335" src="https://www.youtube.com/embed/ewpPrYXZMBA" title="A Day in the Life of a Canossian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center>
-	
 ![](/images/Useful%20Information/P1%20Registration%201.png)
 
 ![](/images/Useful%20Information/P1%20Registration%202.png)
