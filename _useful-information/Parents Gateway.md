@@ -24,7 +24,7 @@ Click on the link below to download the Parents Gateway application from Apple A
 </p>
 
 
-<br> <br> <br>
+<br> <br>
   
   
 For frequently asked questions, please refer to&nbsp;[https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq)
