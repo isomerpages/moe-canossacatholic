@@ -1,11 +1,11 @@
 ---
 title: My SkillsFuture
-permalink: /useful-information/my-skillsfuture
+permalink: /useful-information/my-skillsfuture/
 description: ""
 ---
-**<font size="6">My SkillsFuture</font>**
+<b><font size="6">My SkillsFuture</font></b>
 
-**<font size="5">MySkillsFuture Portal</font>**
+<b><font size="5">MySkillsFuture Portal</font></b>
 
 MySkillsFuture is a one-stop portal for students to discover more about themselves, explore the different education and career options and start planning for their futures! Students can use the information and tools to find out more about what they want to do when they grow up, learn about the choices on hand and set goals to work towards their ambitions!  
   
