@@ -60,9 +60,9 @@ Outside the school operating hours, students should contact the SLS Helpdesk for
 
 You can also email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
   
-When contacting the SLS Helpdesk, please include your **child’s full name, name of school and form class**.  
+When contacting the SLS Helpdesk, please include your <b>child’s full name, name of school and form class</b>.  
   
-For device or broadband support, parents can refer to **[IMDA NEU PC Plus programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)**, or contact the school for advice.
+For device or broadband support, parents can refer to <b>[IMDA NEU PC Plus programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)</b>, or contact the school for advice.
 
 
 	
