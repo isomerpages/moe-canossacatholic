@@ -103,9 +103,9 @@ Here are some PARENTing Tips to guide your child in this digital age.
 *   [https://www.healthhub.sg/live-healthy/1964/my-child-is-glued-to-the-screen](https://www.healthhub.sg/live-healthy/1964/my-child-is-glued-to-the-screen)
 
   
-<b>Guide for parents on setting parental controls</b> *(BROKEN LINK)*
+<b>Guide for parents on setting parental controls</b>
 
-*   [https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.sg/story/guide-for-parents-on-setting-parental-controls)
+*   [https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
 
   
 <b>Helping Children with Appropriate Online Expression</b>
