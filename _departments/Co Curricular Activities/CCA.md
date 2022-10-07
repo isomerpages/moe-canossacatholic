@@ -87,12 +87,8 @@ In addition, participation in CCA also encourages social interaction and integra
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/art-club">
-<span style="text-decoration:none;color:#454545">
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/art-club">
-<span style="text-decoration:none;color:#454545">
 </td>
 </tr>
 </tbody>
