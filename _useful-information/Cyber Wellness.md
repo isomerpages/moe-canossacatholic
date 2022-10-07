@@ -32,40 +32,31 @@ To complement the cyber wellness curriculum in school, it is important for paren
   
 Here are some PARENTing Tips to guide your child in this digital age.  
   
-<b>Provide Opportunities for Offline Activities</b>
+<b><u>Provide Opportunities for Offline Activities</u></b>
 
 *   Spend time bonding as a family through activities such as sports and crafts so that your child has a healthy and balanced lifestyle
 
-<b>Activate Parental Controls and Filters in Devices</b>
+<b><u>Activate Parental Controls and Filters in Devices</u></b>
 
 *   Help to regulate your child’s usage of devices by setting parental controls and filters. Check out “[Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)”
 
-*   _[https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)_
-
+*   [https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
   
-  
-
-**Role Model Good Digital Habits**
+<b><u>Role Model Good Digital Habits</u></b>
 
 *   Demonstrate safe, responsible and respectful behaviour when sharing, collaborating and creating online and avoid excessive use of technology
 *   Check out “[Helping Children with Appropriate Online Expression](/files/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)”
 
-  
-  
-
-**Establish Ground Rules for Devices Use**
+<b><u>Establish Ground Rules for Devices Use</u></b>
 
  *   Discuss and set ground rules for devices use as a family.
  *   Some basic rules could include the following:
 
-  
-
-     *   **Do's:**
-
-         *   Seek permission before using devices
-         *   Have a time limit for the use of devices
-         *   Practice netiquette on the Internet
-         *   Respect intellectual property rights
+<b><font size=3 color="#eeac0d">Do's:</font></b>
+* Seek permission before using devices
+* Have a time limit for the use of devices
+* Practice netiquette on the Internet
+* Respect intellectual property rights
 
 
 
