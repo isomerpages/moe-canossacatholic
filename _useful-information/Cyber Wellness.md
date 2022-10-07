@@ -113,9 +113,9 @@ Here are some PARENTing Tips to guide your child in this digital age.
 *    [Helping Children with Appropriate Online Expression](/files/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)
 
   
-<b>Understanding cyber wellness</b> *(BROKEN LINK)*
+<b>Understanding cyber wellness</b>
 
-*   [https://www.schoolbag.sg/story/understanding-cyber-wellness](https://www.schoolbag.sg/story/understanding-cyber-wellness)
+*   [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)
 
   
 <b>Navigating the cyber world safely</b> *(BROKEN LINK)*
