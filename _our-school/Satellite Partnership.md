@@ -3,9 +3,9 @@ title: Satellite Partnership
 permalink: /our-school/satellite-partnership/
 description: ""
 ---
-**<font size=6>Satellite Partnership</font>**
+<b><font size=6>Satellite Partnership</font></b>
 
-**<font size=5 color="#7daadf">Overview</font>**
+<b><font size=5 color="#7daadf">Overview</font></b>
 
 The Satellite Partnership between Canossa Catholic Primary School (CCPS) and [Canossian School](http://www.canossian.edu.sg/) (CS) provides students from both schools with meaningful opportunities to interact and integrate. 
 
