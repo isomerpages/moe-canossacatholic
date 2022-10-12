@@ -31,13 +31,13 @@ Singapore 387621
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
 <thead>
 <tr>
-<th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<th style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Aljunied Road</span>
 (Same side as CCPS)
 <br>
 Bus Stop B70029
 </th>
-<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<th style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">62, 64, 100</span></th>
 </tr>
 </thead>
