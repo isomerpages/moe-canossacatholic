@@ -3,7 +3,7 @@ title: Canossian Village
 permalink: /our-school/canossian-village/
 description: ""
 ---
-**<font size=6>Canossian Village</font>**
+<b><font size=6>Canossian Village</font></b>
 
 The saying <em>“It takes a village to raise a child”</em> is truly embodied in the Canossian Village located at 1 Sallim Road. This single compound houses within its walls not just Canossa Catholic Primary School, but also Canossian School and Canossaville Children and Community Services. Each of the three play its unique role in catering to the specific needs of the children that come through the village gates.
 
