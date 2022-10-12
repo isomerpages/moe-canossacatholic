@@ -22,7 +22,8 @@ Singapore 387621
 
   
 
-**Directions:**<br>
+<b><font color="#eeac0d">Directions:</font></b>
+<br>
 1\. Nearest MRT station: Mattar Station (7-minute walk)&nbsp;
 
   
