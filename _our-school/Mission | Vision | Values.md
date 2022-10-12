@@ -3,7 +3,7 @@ title: Mission | Vision | Values
 permalink: /our-school/mission-vision-values/
 description: ""
 ---
-**<font size=6>Mission | Vision | Values</font>**
+<b><font size=6>Mission | Vision | Values</font></b>
 
 <center>
 
