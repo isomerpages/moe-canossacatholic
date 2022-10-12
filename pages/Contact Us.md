@@ -16,9 +16,9 @@ Singapore 387621
 
   
 
-<b><font color="#eeac0d">Tel&nbsp; &nbsp; &nbsp; :</font></b>&nbsp;&nbsp;&nbsp;+65 6844 1418<br>
-<b><font color="#eeac0d">Fax&nbsp; &nbsp; &nbsp;:</font></b>&nbsp;&nbsp;&nbsp; +65 6844 1417<br>
-<b><font color="#eeac0d">Email&nbsp;:</font></b>&nbsp;&nbsp;&nbsp; <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a>
+<b><font color="#7daadf">Tel&nbsp; &nbsp; &nbsp; :</font></b>&nbsp;&nbsp;&nbsp;+65 6844 1418<br>
+<b><font color="#7daadf">Fax&nbsp; &nbsp; &nbsp;:</font></b>&nbsp;&nbsp;&nbsp; +65 6844 1417<br>
+<b><font color="#7daadf">Email&nbsp;:</font></b>&nbsp;&nbsp;&nbsp; <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a>
 
   
 
