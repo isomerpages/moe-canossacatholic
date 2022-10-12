@@ -28,7 +28,69 @@ Singapore 387621
 <br>
 <b><font size="4" color="#7daadf">2.</font></b> &emsp; Buses to take:
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Aljunied Road</span> (Same side as CCPS)<br>Bus Stop B70029</th><th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> 62, 64, 100</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Aljunied Road</span> (Opposite CCPS)<br>Bus Stop B70021</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> 61, 62, 64, 65, 100, 135, 154, 155</span></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Merpati Road</span> (<span style="background-color:#FFF">After Jalan Anggerek)</span><br><span style="background-color:#FFF">Bus Stop B70151</span></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#FFF">40, 61, 63, 65, 135, 154, 155, 158</span><span style="color:#454545;background-color:#FAFAFA"> </span></td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Merpati Road</span> (Opp Mattar Station Exit A)<span style="background-color:#FFF">Bus Stop </span>B70161</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> 40, 61, 63, 65, 135, 154, 155, 158</span></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Mattar Road</span> (<span style="background-color:#FFF">After Grace Baptist Church)</span><br>Bus Stop B70241</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#FFF">40, 61, 63, 65, 135, 154, 155, 158</span><br></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">Opp Macpherson</span> (Station Exit A) <br>Bus Stop B70379</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> 61, 63, 65, 66, 135, 154, 158</span></td></tr></tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0">
+<thead>
+<tr>
+<th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Aljunied Road</span>
+(Same side as CCPS)
+<br>
+Bus Stop B70029
+</th>
+<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">62, 64, 100</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Aljunied Road</span>
+(Opposite CCPS)
+<br>
+Bus Stop B70021
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA"> 61, 62, 64, 65, 100, 135, 154, 155</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Merpati Road</span> (<span style="background-color:#FFF">After Jalan Anggerek)</span>
+<br>
+<span style="background-color:#FFF">Bus Stop B70151</span>
+</td>
+<td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="background-color:#FFF">40, 61, 63, 65, 135, 154, 155, 158</span><span style="color:#454545;background-color:#FAFAFA"> </span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Merpati Road</span> (Opp Mattar Station Exit A)
+<span style="background-color:#FFF">Bus Stop </span>
+B70161
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA"> 40, 61, 63, 65, 135, 154, 155, 158</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Mattar Road</span> (<span style="background-color:#FFF">After Grace Baptist Church)</span>
+<br>Bus Stop B70241
+</td>
+<td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="background-color:#FFF">40, 61, 63, 65, 135, 154, 155, 158</span><br>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Opp Macpherson</span> (Station Exit A) <br>Bus Stop B70379</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA"> 61, 63, 65, 66, 135, 154, 158</span>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <br><br><br><br><br><br>
