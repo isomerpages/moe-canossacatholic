@@ -3,21 +3,22 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-**<font size="6">Contact Us</font>**
+<b><font size="6">Contact Us</font></b>
 
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="1000" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.749421973244!2d103.8795856152799!3d1.3262914620188453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1788266d1321%3A0x73898133b2415512!2sCanossa%20Catholic%20Primary%20School!5e0!3m2!1sen!2ssg!4v1664181438865!5m2!1sen!2ssg"></iframe>
 
 
-**Canossa Catholic Primary School**&nbsp;<br>
+<b><font color="#eeac0d">Canossa Catholic Primary School</font></b>
+<br>
 1 Sallim Road<br>
 Singapore 387621
 
   
 
-**Tel&nbsp; &nbsp; &nbsp; :**&nbsp;+65 6844 1418<br>
-**Fax&nbsp; &nbsp; &nbsp;:**&nbsp;+65 6844 1417<br>
-**Email :** <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a>
+<b><font color="#eeac0d">Tel&nbsp; &nbsp; &nbsp; :</font></b>&nbsp;&nbsp;&nbsp;+65 6844 1418<br>
+<b><font color="#eeac0d">Fax&nbsp; &nbsp; &nbsp;:</font></b>&nbsp;&nbsp;&nbsp; +65 6844 1417<br>
+<b><font color="#eeac0d">Email&nbsp;:</font></b>&nbsp;&nbsp;&nbsp; <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a>
 
   
 
