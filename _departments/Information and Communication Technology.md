@@ -9,7 +9,8 @@ description: ""
 <b><font size=3 color="#eeac0d"><em>“We need technology in every classroom and in every student and teacher's hand, because it is the pen and paper of our time, and it is the lens through which we experience much of our world."<br>⎯ David Warlick</em></font></b>
 </center>
 
-The ICT Department in CCPS aims to nurture a community of future-ready Canossians who have the competencies, in both aptitude and attitude, to navigate the increasingly technology-driven world, through  
+
+<br>The ICT Department in CCPS aims to nurture a community of future-ready Canossians who have the competencies, in both aptitude and attitude, to navigate the increasingly technology-driven world, through  
   
 *   Meaningful and purposeful use of digital technologies to enrich teaching and learning in total school-wide curriculum
 *   Values-centric cyber wellness curriculum to develop discerning users who demonstrate respect and influence peers positively in the cybersphere, and use technology in a safe and responsible manner
