@@ -1,5 +1,5 @@
 collections:
-  gallery:
+  our-stories:
     output: true
     order:
       - School Events & Progs 2022/.keep
