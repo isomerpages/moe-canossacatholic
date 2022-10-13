@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 2022 Events/.keep
-      - 2022 Events/School Events & Programmes 2022.md
+      - 2022 Events/2022 Events.md
       - 2022 Events/P1 Orientation.md
       - 2022 Events/Opening School Mass.md
       - 2022 Events/Chinese New Year Celebration.md
