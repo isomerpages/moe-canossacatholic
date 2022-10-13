@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /useful-information/service-providers-contact-numbers/
 description: ""
 ---
-**<font size="6">Service Providers Contact Numbers</font>**
+<b><font size=6\>Service Providers Contact Numbers</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 703px" class="tg"><colgroup><col style="width: 201px"><col style="width: 301px"><col style="width: 201px"></colgroup><thead>
 	
