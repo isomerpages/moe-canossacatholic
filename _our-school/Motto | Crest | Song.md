@@ -68,7 +68,7 @@ United in common endeavour
 At work, at play, life's lessons we learn  
 Our youthful hearts are filled with ardour  
 For truth and wisdom we yearn  
-
+<br><br>
 <b>Chorus:</b>
 <br>
 Courageously with heads held high  
@@ -82,7 +82,7 @@ Our alma mater, our guardian, our guide
 Prepare our spirits for duty's call  
 Our country to serve with virtuous might  
 We stand for truth and for right
-
+<br><br>
 <b>Chorus:</b>
 <br>
 Courageously with heads held high  
