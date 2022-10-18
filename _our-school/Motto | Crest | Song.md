@@ -8,24 +8,24 @@ description: ""
 <center>
 
 <b><font size=5 color="#7daadf">School Motto</font></b>
-
+<br><br>
 <b><font size=4 color="#eeac0d">VIA VERITAS VITA</font></b>
 
 <b>VIA - The Way</b>
 <br>
 We walk confidently and joyfully in the path of life, overcoming all difficulties with fortitude and prayer
-
+<br><br>
 <b>VERITAS - The Truth</b>
 <br>
 We are sincere in word, thought and deed. We are open to truth and knowledge
-
+<br><br>
 <b>VITA - The Life</b>
 <br>
 We live for others, ready to share, serve and sacrifice 
 <br>
 <br>
 <br>
-**<font size=5 color="#7daadf">School Crest</font>**
+<b><font size=5 color="#7daadf">School Crest</font></b>
 
 <img src="/images/Our%20School/School%20Crest.jpg" style="width:35%">
 
