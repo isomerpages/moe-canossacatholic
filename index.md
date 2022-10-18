@@ -7,10 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CCPS Homepage GIF.gif
+      background: /images/School Values (1920x720).jpg
       key_highlights:
         - title: Announcements
           description: ""
           url: /announcements
 ---
-
