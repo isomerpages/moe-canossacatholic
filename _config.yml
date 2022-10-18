@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2nutevx25vdua.amplifyapp.com
 prod: https://master.d2nutevx25vdua.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Homepage/School Logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
