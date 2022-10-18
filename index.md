@@ -7,15 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/School Values (1920x602) V2 - No Blur Effect.jpg
+      background: /images/Homepage/Homepage Banner.gif
       key_highlights:
         - title: Announcements
           description: ""
           url: /announcements
         - title: Newsbites
-          description: ""
-          url: ""
-        - title: Canossa Connects
           description: ""
           url: ""
 ---
