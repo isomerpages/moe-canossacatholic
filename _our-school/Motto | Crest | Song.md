@@ -3,13 +3,13 @@ title: Motto | Crest | Song
 permalink: /our-school/motto-crest-song/
 description: ""
 ---
-**<font size=6>Motto | Crest | Song</font>**
+<b><font size=6>Motto | Crest | Song</font></b>
 
 <center>
 
-**<font size=5 color="#7daadf">School Motto</font>**
+<b><font size=5 color="#7daadf">School Motto</font></b>
 
-**<font size=4 color="#eeac0d">VIA VERITAS VITA</font>**
+<b><font size=4 color="#eeac0d">VIA VERITAS VITA</font></b>
 
 <b>VIA - The Way</b>
 <br>
