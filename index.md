@@ -15,4 +15,6 @@ sections:
         - title: Newsbites
           description: ""
           url: ""
+  - resources:
+      button: Resources Button Name
 ---
