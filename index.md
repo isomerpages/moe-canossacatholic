@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Leaders of Hope (1920x602) V2 - No Blur Effect.jpg
+      background: /images/Homepage/School Values (1920x602) V2 - No Blur Effect.jpg
       key_highlights:
         - title: Announcements
           description: ""
