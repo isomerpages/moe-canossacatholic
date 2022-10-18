@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School Values (1920x720).jpg
+      background: /images/Leaders of Hope (1920x720).jpg
       key_highlights:
         - title: Announcements
           description: ""
