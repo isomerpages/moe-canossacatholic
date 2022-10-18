@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Leaders of Hope (1920x720).jpg
+      background: /images/Sowers of Change (1920x602).jpg
       key_highlights:
         - title: Announcements
           description: ""
