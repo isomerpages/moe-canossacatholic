@@ -29,7 +29,7 @@ We live for others, ready to share, serve and sacrifice 
 
 <img src="/images/Our%20School/School%20Crest.jpg" style="width:35%">
 
-<b>
+<br>
 Our school badge is meant for all Canossian Schools.<br>
 On a dark-blue background there shines a four-pointed star with rays cast<br>
 on to a book symbolizing the Star of wisdom radiating on Knowledge.
@@ -37,7 +37,7 @@ on to a book symbolizing the Star of wisdom radiating on Knowledge.
 <br>
 <br>
 The star is a symbol of lofty ideas stirring a person to great and noble deeds.<br>
-	The star represents four basic social virtues –<b>Truth, Justice, Love and Freedom</b>
+The star represents four basic social virtues –<b>Truth, Justice, Love and Freedom</b>
 
 <b><font size=4 color="#eeac0d">Truth</font></b>
 <br>
