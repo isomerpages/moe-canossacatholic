@@ -2,7 +2,7 @@
 layout: homepage
 title: Canossa Catholic Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Homepage/School Logo.svg
 permalink: /
 notification: ""
 sections:
@@ -13,3 +13,4 @@ sections:
           description: ""
           url: /announcements
 ---
+
