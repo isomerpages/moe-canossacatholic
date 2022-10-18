@@ -16,8 +16,6 @@ The Way, The Truth and The Life<br>
 
 
   
-
-  
 <font size=5 color=#FFB936><b>School Vision</b></font>
 
 Leaders of Hope<br>
