@@ -7,12 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Homepage Banner.gif
+      background: /images/Homepage/Homepage Banner (1920×602).gif
       key_highlights:
         - title: Announcements
           description: ""
           url: /announcements
-        - title: Newsbites
-          description: ""
-          url: ""
 ---
