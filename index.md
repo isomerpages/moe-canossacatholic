@@ -12,4 +12,10 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
+        - title: Newsbites
+          description: November
+          url: ""
+        - title: Canossa Connects
+          description: Key Highlight description
+          url: ""
 ---
