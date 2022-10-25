@@ -20,7 +20,8 @@ sections:
           url: ""
   - infopic:
       title: Announcements
-      description: Infopic description
-      button: Button Text
+      description: Laudate – an Art Exhibition in Praise of God’s Blessings
+      button: Click here
       alt: Image alt text
+      url: /announcement
 ---
