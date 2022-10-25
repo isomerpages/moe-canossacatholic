@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/Homepage Banner (1920×602).gif
       key_highlights:
-        - title: Announcements
+        - title: ""
           description: ""
           url: /announcements
   - infopic:
