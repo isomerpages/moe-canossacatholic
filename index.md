@@ -18,4 +18,9 @@ sections:
         - title: Canossa Connects
           description: Our Quarterly Newsletter
           url: ""
+  - infopic:
+      title: Announcements
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
