@@ -16,6 +16,6 @@ sections:
           description: November
           url: ""
         - title: Canossa Connects
-          description: Key Highlight description
+          description: Our Quarterly Newsletter
           url: ""
 ---
