@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Homepage Banner (1920×602).gif
-      key_highlights:
-        - title: ""
-          description: ""
-          url: /announcements
   - infopic:
       title: Announcements
       description: Laudate – an Art Exhibition in Praise of God’s Blessings
