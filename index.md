@@ -24,4 +24,10 @@ sections:
       button: Click here
       alt: Image alt text
       url: /announcement
+  - infopic:
+      title: Newsbites
+      description: November 2022
+      button: Click here
+      url: /annoucements
+      alt: Image alt text
 ---
