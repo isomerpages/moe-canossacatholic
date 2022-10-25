@@ -12,12 +12,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
-        - title: Newsbites
-          description: November
-          url: ""
-        - title: Canossa Connects
-          description: Our Quarterly Newsletter
-          url: ""
   - infopic:
       title: Announcements
       description: Laudate – an Art Exhibition in Praise of God’s Blessings
