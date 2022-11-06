@@ -13,7 +13,7 @@ This special partnership gives students from both schools the opportunity to lea
 
 <center>
 
-![](/images/Our%20School/Satellite%201.png)
+<img src="/images/Our%20School/Satellite%201.png">
 
 </center>
 
