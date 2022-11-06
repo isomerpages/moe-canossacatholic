@@ -274,5 +274,3 @@ Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Si
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">CCPS celebrates its <a href="/our-school/history/celebrating-canossas-80th-birthday/celebration-15-august-2021/">80th anniversary.</a> 
-</tbody>
-</table>
