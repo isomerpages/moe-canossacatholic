@@ -26,8 +26,9 @@ Through P.A.C.E., all CCPS students will be nurtured into young people who are f
 <center>
 
 <img src="/images/Flagship%20Programmes/LLP%201.jpg" style="width:55%">
+<br>
+<img src="/images/Flagship%20Programmes/LLP%202.png" style="width:100%">	
 
-![](/images/Flagship%20Programmes/LLP%202.png)
 
 </center>
 <br>
