@@ -9,7 +9,7 @@ description: ""
 
 <b><font size=5 color="#7daadf">School Motto</font></b>
 <br><br>
-<b><font size=4 color="#eeac0d">VIA VERITAS VITA</font></b>
+<b><font size=4 color="#eeac0d">VIA VERITAS VITA</font></b> <br>
 
 <b>VIA - The Way</b>
 <br>
@@ -30,6 +30,7 @@ We live for others, ready to share, serve and sacrifice 
 <img src="/images/Our%20School/School%20Crest.jpg" style="width:35%">
 
 <br>
+<b>
 Our school badge is meant for all Canossian Schools.<br>
 On a dark-blue background there shines a four-pointed star with rays cast<br>
 on to a book symbolizing the Star of wisdom radiating on Knowledge.
@@ -39,19 +40,24 @@ on to a book symbolizing the Star of wisdom radiating on Knowledge.
 The star is a symbol of lofty ideas stirring a person to great and noble deeds.<br>
 The star represents four basic social virtues –<b>Truth, Justice, Love and Freedom</b>
 
+	
+<br>
 <b><font size=4 color="#eeac0d">Truth</font></b>
 <br>
 Sincerity in words and deeds, simplicity, straightforwardness.
 
+<br>
 <b><font size=4 color="#eeac0d">Justice</font></b>
 <br>
 Honesty, fairness, respect for the right of others.
 
+<br>	
 <b><font size=4 color="#eeac0d">Love</font></b>
 <br>
 We are the children of the same Father in heaven.<br>
 Hence, readiness to help and share with others.
 
+<br>	
 <b><font size=4 color="#eeac0d">Freedom</font></b>
 <br>
 Mutual tolerance and consideration for the principles of others.
