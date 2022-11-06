@@ -3,7 +3,6 @@ title: Applied Learning Programme MAKE @ CCPS
 permalink: /flagship-programmes/applied-learning-programme-m-a-k-e-at-ccps/
 description: ""
 ---
-
 **<font size=6>Applied Learning Programme - M.A.K.E@CCPS</font>**
 
   
@@ -43,8 +42,8 @@ Our Primary 3 students learn how to use Lego Wedo 2.0 (an introductory invention
 At Primary 4, our students apply their knowledge in Science, Mathematics and technology as they use Micro:bit to design a prototype of a water pump and lighting system to address identified problems related to the conservation of the environment (e.g. water and energy conservation). Through the collaborative project, our students learn to problem solve in a team. They also learn the importance of resilience as they innovate and seek improvement.
 
 <center>
-	
-![](/images/Flagship%20Programmes/ALP%203.png)
+
+<img src="/images/Flagship%20Programmes/ALP%203.png" style="width:100%">	
 	
 </center>
 <br><br>
@@ -53,10 +52,13 @@ At Primary 4, our students apply their knowledge in Science, Mathematics and tec
 Each Primary 5 class identifies and focuses on a strand of sustainability where the students apply the Design Thinking process and put themselves in the shoes of the people they are studying to understand the issues they are facing. Having identified a problem or a need related to this group of people, the students apply the appropriate programme (Micro:bit and/or Scratch) to develop a solution for the identified problem / need. Through this process, they realise that there is much value in learning how to use programming tools and applying them to create prototypes to make improvements to the lives of those around them.
 
 <center>
-<img src="/images/Flagship%20Programmes/ALP%204.png" style="width:85%">
+<img src="/images/Flagship%20Programmes/ALP%204.png" style="width:75%">
 
-![](/images/Flagship%20Programmes/ALP%205.png)
+<br>
 
+<img src="/images/Flagship%20Programmes/ALP%205.png" style="width:100%">		
+
+<br>
 <img src="/images/Flagship%20Programmes/ALP%206.jpeg" style="width:55%">
 
 </center>
