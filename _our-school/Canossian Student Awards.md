@@ -322,7 +322,6 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 <span style="color:#454545;background-color:#FAFAFA">Miiko Lee Kexin</span>
 </td>
 </tr>
-</tbody>
 </table>
 
 	
