@@ -292,7 +292,35 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 </table>
 <br>
 <br>
-<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ihm3{background-color:#FAFAFA;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-huu4{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-15z8{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ihm3">2019</th>
+    <th class="tg-huu4"><span style="color:#454545;background-color:#FAFAFA">Cheah Jia Ying, Isabelle</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ihm3">2020</td>
+    <td class="tg-15z8">Soliva Zara Marguerite Caga  </td>
+  </tr>
+  <tr>
+    <td class="tg-ihm3">2021</td>
+    <td class="tg-huu4"><span style="color:#454545;background-color:#FAFAFA">Miiko Lee Kexin</span></td>
+  </tr>
+</tbody>
+</table>
 
 <b><font size=5 color="#7daadf">The St Anthony Award</font></b>
 
