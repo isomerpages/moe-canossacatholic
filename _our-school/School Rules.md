@@ -7,7 +7,7 @@ description: ""
 
 <b><font size=5 color="#7daadf">Grooming</font></b>
 
-<b><li><u>School Uniform</u></li></b>
+<li><b><u>School Uniform</u></b></li>
 Students must wear the prescribed school uniform when they are in school and when they represent the school in external activities unless prescribed by the teacher-in-charge. Boys must sew their name tag on top of the pocket. Girls must sew their name tag below the school badge. **Modification to the uniform is not allowed**.
 <br><br>
 <b><li><u>P.E. Attire</u></li></b>
