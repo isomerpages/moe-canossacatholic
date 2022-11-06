@@ -164,8 +164,6 @@ Classes were conducted by the Canossian Sisters.</span>
 <span style="color:#454545;background-color:#FAFAFA">School Management Committee was formed.
 <br>
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:center;vertical-align:middle;word-break:normal">
@@ -174,8 +172,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">CCPS underwent the 1st Rebuilding of School. Meanwhile, CCPS operated from a nearby holding school along Aljunied Road.
 
-</td>
-</tr>
+
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:center;vertical-align:top;word-break:normal">
@@ -185,8 +182,6 @@ Classes were conducted by the Canossian Sisters.</span>
 <span style="color:#454545;background-color:#FAFAFA">CCPS relocated back to Sallim Road in a newly conceptualised Canossian Eduplex.
 <br>
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:middle;word-break:normal">
@@ -196,8 +191,6 @@ Classes were conducted by the Canossian Sisters.</span>
 <span style="color:#454545;background-color:#FAFAFA">The official opening of the Canossian Eduplex by Roman Catholic Archbishop Gregory Yong.
 <br>
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:middle;vertical-align:top;word-break:normal">
@@ -210,8 +203,6 @@ Classes were conducted by the Canossian Sisters.</span>
 <img src="/images/History/Milestone%205.jpg" style="width:65%">
 <br>
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
@@ -221,8 +212,6 @@ Classes were conducted by the Canossian Sisters.</span>
 <span style="color:#454545;background-color:#FAFAFA">CCPS celebrated its 70th anniversary.
 <br>
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:middle;word-break:normal">
@@ -231,8 +220,6 @@ Classes were conducted by the Canossian Sisters.</span>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">CCPS started MOE PRIME (Programme for Improving Existing Schools) to become single-session. The school was relocated to a holding site.
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:middle;word-break:normal">
@@ -242,15 +229,14 @@ Classes were conducted by the Canossian Sisters.</span>
 <span style="color:#454545;background-color:#FAFAFA">The school shifted back to its rebuilt campus on Sallim Road in December.
 <br>
 
-</td>
-</tr>
+
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2016</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">CCPS celebrated its 75th Anniversary and the official re-opening of the new campus after 2 years of rebuilding under the MOE PRIME programme, on 23 August 2016.</span><br>
+<span style="color:#454545;background-color:#FAFAFA">CCPS celebrated its 75th Anniversary and the official re-opening of the new campus after 2 years of rebuilding under the MOE PRIME programme, on 23 August 2016.<br>
 <br>
 Ms Low Yen Ling, then Parliamentary Secretary, Ministry of Education and Ministry of Trade and Industry, and Mayor of the South-West District, and the school’s alumna, attended as the Guest of Honour.
 </span>
@@ -261,8 +247,7 @@ Ms Low Yen Ling, then Parliamentary Secretary, Ministry of Education and Ministr
 Sister Theresa Seow, then Provincial Leader of the Canossian Daughters of Charity (Singapore &amp; Myanmar), gave a welcome address during the celebration.
 <br>
 <br>
-</td>
-</tr>
+
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2018</span>
@@ -275,9 +260,6 @@ Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Si
 <img src="/images/History/Milestone%207.jpg" style="width:75%">
 <br>
 
-</td>
-</tr>
-
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:middle;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2019</span>
@@ -285,8 +267,6 @@ Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Si
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Canossa Convent Primary School was renamed Canossa Catholic Primary School as it prepares to take in boys at the Primary 1 level as a co-educational school.
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
@@ -294,11 +274,5 @@ Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Si
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">CCPS celebrates its <a href="/our-school/history/celebrating-canossas-80th-birthday/celebration-15-august-2021/">80th anniversary.</a> 
-
-</td>
-	
-</tr>
-
 </tbody>
-
 </table>
