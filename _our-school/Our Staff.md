@@ -89,6 +89,7 @@ description: ""
 <span style="color:#454545">Head of Department Year Head (Primary 2 and 3)</span>
 </td>
 </tr>
+<tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545">Ms Katherine Tan Wei Wei</span>
 </td>
@@ -96,6 +97,7 @@ description: ""
 <span style="color:#454545">Head of Department Year Head (Primary 4 and 5)</span>
 </td>
 </tr>
+<tr>	
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545">Mrs Josephine Chua</span>
 </td>
