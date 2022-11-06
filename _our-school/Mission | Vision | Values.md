@@ -7,7 +7,7 @@ description: ""
 
 <center>
 
-<font size=5 color="#FFB936">School Mission</font>
+<font size=5 color="#FFB936"><b>School Mission</b></font>
 
 <br>
 Nurturing each in her/his own way by forming hearts,<br>
