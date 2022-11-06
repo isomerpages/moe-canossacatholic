@@ -8,7 +8,7 @@ description: ""
 <br>
 **<font size=5 color="#7daadf">10 Principles as a Canossian Leader I abide by:</font>**
 
-<font size=5 color="#eeac0d"><b>1</b></font>&emsp; I am created in God's image and likeness and so is everyone else.
+<font size=5 color="#eeac0d"><b>1</b></font> I am created in God's image and likeness and so is everyone else.
 
 
 <font size=5 color="#eeac0d"><b>2</b></font>&emsp; I know and do what is good and just even when no one is watching.
