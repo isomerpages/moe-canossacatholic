@@ -367,7 +367,6 @@ Named after Mother Foundress’ favourite Saint, whom she took as the father and
 
 
 <b><font size=5 color="#7daadf">Canossa Art Award
-
 </font></b>
 
 From 2021, the Canossa Art Award is an annual school-based award that recognises students who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
@@ -440,8 +439,6 @@ From 2021, the Canossa Art Award is an annual school-based award that recognises
 
 
 <b><font size=5 color="#7daadf">Canossa Sports Award
-
-
 </font></b>
 
 From 2021, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
@@ -505,7 +502,18 @@ From 2021, the Canossa Sports Award is an annual school-based award that recogni
 </table>
 
 
+<b><font size=5 color="#7daadf">Star Pupil Award</font></b>
 
+
+  
+Star Pupil Award is a school-based award given at the end of each term to recognise and affirm individual students who exhibit our school value for the term.  
+  
+  
+  
+<b><font size=5 color="#7daadf">Angel Class Award</font></b>
+
+  
+Angel Class Award is a school-based award given at the end of each term to recognise and affirm classes that are exemplary in demonstrating our school values.
 
 
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
