@@ -324,10 +324,12 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 </tr>
 </tbody>
 </table>
+
 <br>
 <br>
 <br>
-<b><font size=5 color="#7daadf">The St Francis Award</font></b>
+
+<b><font size=5 color="#7daadf">The St Francis Award</font></b><br>
 
 Named after Mother Foundress’ favourite Saint, whom she took as the father and protector of the Canossian Institute, the St Francis Award goes to the student who has the courage to stand tall amongst peers as an advocate of what is good and just. The student has consistently manifested strong values in the periods of ease and adversity.
 
@@ -364,10 +366,11 @@ Named after Mother Foundress’ favourite Saint, whom she took as the father and
 </tr>
 </tbody>
 </table>
+
 <br>
 <br>
 <br>
-<b><font size=5 color="#7daadf">Canossa Art Award</font></b>
+<b><font size=5 color="#7daadf">Canossa Art Award</font></b><br>
 
 From 2021, the Canossa Art Award is an annual school-based award that recognises students who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
 
@@ -426,10 +429,11 @@ From 2021, the Canossa Art Award is an annual school-based award that recognises
 </tr>
 </tbody>
 </table>
+
 <br>
 <br>
 <br>
-<b><font size=5 color="#7daadf">Canossa Sports Award</font></b>
+<b><font size=5 color="#7daadf">Canossa Sports Award</font></b><br>
 
 From 2021, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
 
@@ -486,15 +490,16 @@ From 2021, the Canossa Sports Award is an annual school-based award that recogni
 <br>
 <br>
 <br>
-<b><font size=5 color="#7daadf">Star Pupil Award</font></b>
+<b><font size=5 color="#7daadf">Star Pupil Award</font></b><br>
 
 Star Pupil Award is a school-based award given at the end of each term to recognise and affirm individual students who exhibit our school value for the term.  
 <br>
 
-<b><font size=5 color="#7daadf">Angel Class Award</font></b>
+<b><font size=5 color="#7daadf">Angel Class Award</font></b><br>
 
 Angel Class Award is a school-based award given at the end of each term to recognise and affirm classes that are exemplary in demonstrating our school values.
 
 
 <br><br><br><br><br><br>
+
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
