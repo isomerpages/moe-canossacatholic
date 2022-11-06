@@ -293,6 +293,7 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 <br>
 <br>
 <br>
+
 <b><font size=5 color="#7daadf">The St Anthony Award</font></b>
 
 Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St Anthony Award recognises the most outstanding student in the area of Sports, Arts, a Club or a Uniform Group. The student’s contributions to the CCA must include representing the school in the area and a desire to always improve. The student must also be a positive role-model to others in the CCA and must be able to motivate peers to give of their best.
@@ -301,14 +302,12 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 <thead>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019
-</th>
+</td>	
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Cheah Jia Ying, Isabelle</span>
-<br>
+</td>	
 </th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2020
 </td>
@@ -317,7 +316,7 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021
-</td>
+</td>	
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Miiko Lee Kexin</span>
 </td>
