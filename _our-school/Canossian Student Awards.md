@@ -290,15 +290,9 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 </tr>
 </tbody>
 </table>
+
 <br>
 <br>
-
-
-
-
-
-
-
 
 
 <b><font size=5 color="#7daadf">The St Anthony Award</font></b>
