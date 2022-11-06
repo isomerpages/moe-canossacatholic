@@ -324,7 +324,6 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 <span style="color:#454545;background-color:#FAFAFA">Soliva Zara Marguerite Caga</span>
 </td>
 </tr>
-
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021
 </td>
@@ -334,6 +333,7 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 </tr>
 </tbody>
 </table>
+	
 <br>
 <br>
 
