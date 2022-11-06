@@ -115,7 +115,7 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 </tbody>
 </table>
 
-<center>
+
 
 
 <img src="/images/Flagship%20Programmes/Lifeskill%201.png"  
@@ -124,7 +124,7 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 <img src="/images/Flagship%20Programmes/Lifeskill%202.jpeg"  
      style="width:45%">
 
-</center>
+
 <br>
 
 <b><font size=4 color="#eeac0d">The Little Chef in Me</font></b>
@@ -315,7 +315,7 @@ Healthy Food Pyramid
 </tbody>
 </table>
 
-<center>
+
 	
 <img src="/images/Flagship%20Programmes/Lifeskill%203.png">
 
@@ -323,7 +323,6 @@ Healthy Food Pyramid
 <img src="/images/Flagship%20Programmes/Lifeskill%204.png">	
 
 
-</center>
 <br>
 <br>
 <b><font size=4 color="#eeac0d">Be An Advocate – Stand Up Speak Up</font></b>
