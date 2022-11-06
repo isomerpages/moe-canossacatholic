@@ -305,33 +305,35 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 
 Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St Anthony Award recognises the most outstanding student in the area of Sports, Arts, a Club or a Uniform Group. The student’s contributions to the CCA must include representing the school in the area and a desire to always improve. The student must also be a positive role-model to others in the CCA and must be able to motivate peers to give of their best.
 
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
+<tbody>
+<tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019
-</td>	
-<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Cheah Jia Ying, Isabelle</span>
-</td>	
-</th>
+</td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2020
 </td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Soliva Zara Marguerite Caga
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Soliva Zara Marguerite Caga</span>
 </td>
 </tr>
+
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021
-</td>	
+</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Miiko Lee Kexin</span>
+<span style="color:#454545;background-color:#FAFAFA">	Miiko Lee Kexin</span>
 </td>
 </tr>
 </tbody>
 </table>
-
-<br>
 <br>
 <br>
 
