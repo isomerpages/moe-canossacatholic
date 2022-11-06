@@ -317,9 +317,11 @@ Healthy Food Pyramid
 
 <center>
 	
-![](/images/Flagship%20Programmes/Lifeskill%203.png)
+<img src="/images/Flagship%20Programmes/Lifeskill%203.png">
 
-![](/images/Flagship%20Programmes/Lifeskill%204.png)
+<br>
+<img src="/images/Flagship%20Programmes/Lifeskill%204.png">	
+
 
 </center>
 <br>
