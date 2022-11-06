@@ -9,6 +9,7 @@ description: ""
 
 <font size=5 color=#FFB936>School Mission</font>
 
+<br>
 Nurturing each in her/his own way by forming hearts,<br>
 enlightening minds and empowering spirits to live in<br>
 The Way, The Truth and The Life<br>
