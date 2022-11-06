@@ -330,7 +330,7 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 
 <b><font size=5 color="#7daadf">The St Francis Award</font></b><br>
 
-Named after Mother Foundress’ favourite Saint, whom she took as the father and protector of the Canossian Institute, the St Francis Award goes to the student who has the courage to stand tall amongst peers as an advocate of what is good and just. The student has consistently manifested strong values in the periods of ease and adversity.
+Named after Mother Foundress’ favourite Saint, whom she took as the father and protector of the Canossian Institute, the St Francis Award goes to the student who has the courage to stand tall amongst peers as an advocate of what is good and just. The student has consistently manifested strong values in the periods of ease and adversity.<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
