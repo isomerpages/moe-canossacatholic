@@ -155,8 +155,6 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 <br>
 
-</td>
-</tr>
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:center;vertical-align:top;word-break:normal">
