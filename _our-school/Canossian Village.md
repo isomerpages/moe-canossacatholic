@@ -15,6 +15,18 @@ Canossaville Children and Community Services is a social service agency that pr
 <br>
 <br>
 
+<table>
+<thead>
+  <tr>
+    <td><img src="https://canossacatholicpri.moe.edu.sg/qql/slot/u276/Canossian%20Education/Canossian%20Eduplex/B3.1%20Canossaville.png" alt="B3.1 Canossaville.png"><a href="https://canossaville.org.sg/">CANOSSAVILLE CHILDREN AND COMMUNITY SERVICES</a><br><br><br></td>
+    <td><a href="https://canossaville.org.sg/">Canossaville Children and Community Services</a>Canossaville Children and Community Services is a social service agency that provides additional support to children and their families. Comprising a preschool, after-school care and a child development unit, Canossaville ensures that continuous support is given to the children beyond the classroom walls.<br><br><a href="http://canossacatholicpri.moe.edu.sg/qql/slot/u276/Canossian%20Education/Canossian%20Eduplex/EIPIC-Flyer-A5.pdf">Canossian Early Intervention for Children with Hearing Loss (EIPIC)</a></td>
+  </tr>
+</thead>
+</table>
+
+
+
+
 |<img src="/images/Our%20School/Village%202.jpg" style="width:45%" align = "left">|
 | --------- |
 | <b><a href="http://www.canossian.edu.sg/">Canossian School</a></b>
