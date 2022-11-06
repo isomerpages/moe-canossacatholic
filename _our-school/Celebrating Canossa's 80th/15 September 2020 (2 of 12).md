@@ -8,7 +8,7 @@ third_nav_title: Celebrating Canossa's 80th
 
 <center>
 	
-**<font size=5 color="#7daadf">Devotion</font>**
+<font size=5 color="#7daadf">Devotion</font>
 <br>
 <br>
 Rosary in hand,<br>
