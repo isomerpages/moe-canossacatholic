@@ -7,7 +7,7 @@ description: ""
 
 <center>
 
-<font size=5 color=#FFB936>School Mission</font>
+<font size=5 color="#FFB936">School Mission</font>
 
 <br>
 Nurturing each in her/his own way by forming hearts,<br>
@@ -17,7 +17,7 @@ The Way, The Truth and The Life<br>
 
 
   
-<font size=5 color=#FFB936><b>School Vision</b></font>
+<font size=5 color="#FFB936"><b>School Vision</b></font>
 <br><br>
 Leaders of Hope<br>
 Sowers of Change
@@ -25,7 +25,7 @@ Sowers of Change
 
   
 
-<font size=5 color=#FFB936><b>Core Values</b></font>
+<font size=5 color="#FFB936"><b>Core Values</b></font>
 <br><br>
 Charity<br>
 Humility<br>
