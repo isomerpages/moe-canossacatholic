@@ -81,7 +81,6 @@ Anchoring on that, Canossian educators recognise the need to develop the childâ€
 </b>
 </font>
 <br>
-<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr>
