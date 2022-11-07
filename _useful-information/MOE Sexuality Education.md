@@ -134,10 +134,10 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:normal">
-·         know that there are different types of family structures<br>
-·         know that every family is unique<br>
-·         state that the three basic functions of families are to provide love, protection and guidance<br>
-·         identify the right sources of help to turn to when in need</td>
+• Know that there are different types of family structures<br>
+• Know that every family is unique<br>
+• State that the three basic functions of families are to provide love, protection and guidance<br>
+• Identify the right sources of help to turn to when in need</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal">Term 3 Week 1</td>
 </tr>
 <tr>
