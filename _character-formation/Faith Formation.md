@@ -20,11 +20,9 @@ In line with our Foundress’ vision of educating children to “make Jesus Chri
 <br>
 Planned in parallel with the liturgical year, the Values Education-Catechism programme includes special activities that allow the students to experience Christ’s love more deeply. These include Lenten activities, penitential services, rosary devotions in the months of May and October, Easter celebrations and so on. School Mass celebrations are also organised for Opening of the School Year, Canossian Saints' Day, Ash Wednesday and other days of obligation. These celebrations bring the students together in praise and worship, and shared faith tradition.
 
-<center>
 	
 ![](/images/Character%20Formation/Faith%201.png)
-
-</center>
+	
 	
 <br>
 The weeklong Canossian Saints’ week celebration culminated in a Eucharistic Celebration on Monday 28 February where the school came together to thank God for the gift of our Canossian Saints – St Magdalene of Canossa and St Josephine Bakhita from whom we learn the values of Charity, Humility, Forgiveness and Faith. Teachers also led the students in a class activity to recall what they had learnt during Canossian Saints Week. This was followed by a class discussion where they deepened their understanding of the ten Canossian leadership principles and how they can uphold these principles.  
