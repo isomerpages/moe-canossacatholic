@@ -238,7 +238,7 @@ P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kre
 </b>
 <br>
 <br>
-We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.  
+<font size="">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.</font>
 
 <br><br>
 	
@@ -247,6 +247,7 @@ We cultivate love for the language by using various hands-on language games and 
 </b>
 <br><br>
 
+<font size="">
 <b>Tamil Reading Programme (P1-P6)</b>
 <br>
 Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
@@ -272,6 +273,7 @@ iMTL portal is used as an interactive tool to enhance students' learning. Studen
 <b>Enrichment Class (P5-P6)</b>
 <br>
 Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
+</font>
 <br>
 <br>
 <b>Tamil Department Key Activities:</b>
