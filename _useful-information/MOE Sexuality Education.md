@@ -65,21 +65,21 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 </colgroup>
 <thead>
 <tr>
-<th style="background-color:#D9D9D9;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:black">UNIT</span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:black">Unit</span>
 </th>
-<th style="background-color:#D9D9D9;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:black">LESSONS / DURATION</span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:black">Lessons / Duration</span>
 </th>
-<th style="background-color:#D9D9D9;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:black">LESSON OBJECTIVES</span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:black">Lesson Objectives</span>
 <br>
-<span style="color:black">At the end of the lesson, pupils will be able to:</span>
+<span style="color:black"><em>At the end of the lesson, pupils will be able to:</em></span>
 </th>
-<th style="background-color:#D9D9D9;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:black">TIME PERIOD</span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:black">Time Period</span>
 <br>
-<span style="color:black">(e.g. Term 1 Week 2)</span>
+	<span style="color:black"><em>(e.g. Term 1 Week 2)</em></span>
 </th>
 </tr>
 </thead>
