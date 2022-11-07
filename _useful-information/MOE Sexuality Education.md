@@ -299,7 +299,7 @@ Pupils are to apply their understanding of Safety in a variety of scenarios wher
 </tbody>
 </table>
 
-
+<br><br>
 <b><font size=5 color="#7daadf">Information for Parents</font></b>
 <br><br>
 <b><font size=5 color="#eeac0d">8.</font></b>Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
