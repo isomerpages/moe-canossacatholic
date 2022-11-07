@@ -58,10 +58,10 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
-<col style="width: 100px">
+<col style="width: 120px">
 <col style="width: 150px">
-<col style="width: 350px">
-<col style="width: 150px">
+<col style="width: 300px">
+<col style="width: 130px">
 </colgroup>
 <thead>
 <tr>
@@ -187,14 +187,14 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 </table>
 
 
-**<center>Primary 6</center>**
+<b><center>Primary 6</center></b>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 804px" class="tg">
 <colgroup>
-<col style="width: 151px">
-<col style="width: 151px">
-<col style="width: 351px">
-<col style="width: 151px">
+<col style="width: 120px">
+<col style="width: 150px">
+<col style="width: 300px">
+<col style="width: 130px">
 </colgroup>
 <thead>
 <tr>
