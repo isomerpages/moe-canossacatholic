@@ -45,7 +45,8 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
  a.    Science  
  b.    Form Teacher Guidance Period (FTGP)  
  c.    Character and Citizenship Education (CCE)  
-<br>  
+<br>
+<br>
 <b>Sexuality Education:</b><br>
 “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package  
 <br>    
