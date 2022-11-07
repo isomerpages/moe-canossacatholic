@@ -38,8 +38,10 @@ During school operating hours, students should contact the School-based Helpline
 </p>
 
 <br>
- 
- * * *
+
+* * *
+
+<br>
 
 <p style="margin-left: 40px">
 <b>Non-School Operating Hours</b>
@@ -54,9 +56,11 @@ Outside the school operating hours, students should contact the SLS Helpdesk for
 <em><font size=3 color="#eeac0d">* Closed on Sundays & Public Holidays</font></em>
 <br>
 <br>
-	
- * * *
-	
+
+<br>
+
+* * *
+
 <br>
 
 You can also email SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)  
