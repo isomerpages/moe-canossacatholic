@@ -3,7 +3,7 @@ title: Character and Citizenship Education
 permalink: /character-formation/character-and-citizenship-education/
 description: ""
 ---
-<b><font size=6>testCharacter and Citizenship Education</font></b>
+<b><font size=6>Character and Citizenship Education</font></b>
 
 As part of Canossian Character Formation, the Character & Citizenship Education (CCE) Department Programmes aim to develop students who demonstrate:  
 
