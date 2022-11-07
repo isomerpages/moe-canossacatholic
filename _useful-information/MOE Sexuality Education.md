@@ -241,9 +241,9 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <span style="font-weight:normal">(30 min)</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:WHITE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-·         identify the characteristics of love and infatuation<br>
-·         distinguish between the characteristics of love versus infatuation<br>
-·         identify strong feelings arising from infatuation</td>
+• Identify the characteristics of love and infatuation<br>
+• Distinguish between the characteristics of love versus infatuation<br>
+• Identify strong feelings arising from infatuation</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 2</td>
 </tr>
 <tr>
