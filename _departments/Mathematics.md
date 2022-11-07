@@ -154,12 +154,13 @@ In teaching problem solving, teachers demonstrate how to use Polya’s 4 steps p
 
 </tbody></table>
 
-<br><br>
-
+<br>
+<br>
 <b>The 3 “I” Strategy</b>
 <br>
 While explaining and understanding the problem, teachers also probe students’ understanding of the process by asking questions using the 3 “I” strategy.
 
+<br>
 <br>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 652px" class="tg">
@@ -209,7 +210,8 @@ While explaining and understanding the problem, teachers also probe students’ 
 <b>The 5 “R” Approach</b>
 <br>
 To solve spatial visualization questions E.g. Geometry or model drawings, students are encouraged to use the 5 “R” – repeat, rearrange, remove, re-orientate and replace to simplify the problem.  
-
+<br>
+<br>
 <b>Heuristics</b>
 <br>
 Heuristics are problem solving methods that play a very important role in solving word problems. These include using a representation, making a guess or restating the problem. Teachers will apply appropriate heuristics to teach word problems in the classroom.
