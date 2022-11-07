@@ -4,9 +4,9 @@ permalink: /our-school/history/celebrating-canossas-80th-birthday/8-december-202
 description: ""
 third_nav_title: Celebrating Canossa's 80th
 ---
-**<font size=6>8 December 2020 (5 of 12)</font>**
+<b><font size=6>8 December 2020 (5 of 12)</font></b>
 
-**<font size=5 color="#7daadf">A Light in The Darkness</font>** 
+<b><font size=5 color="#7daadf">A Light in The Darkness</font></b>
 
 On 7 December 1941, the Canossian Sisters rejoiced over the beatification of Mother Foundress at Saint Joseph's Church at Victoria Street. It was a joyous occasion. 
 
@@ -68,21 +68,21 @@ Beacon of faith, hope and love to all humanity.
 	
 </center>
 
-**<font size=5 color="#7daadf">Photo Gallery</font>** 
+<b><font size=5 color="#7daadf">Photo Gallery</font></b>
 
 <center>
 
 <img src="/images/History/8%20Dec%202020%201.jpg" style="width:55%">
-<em>Foundress had a special love for Mary,
-<br>Mother of Sorrows, at the foot of the Cross</em>
+<font size=2><em>Foundress had a special love for Mary,
+<br>Mother of Sorrows, at the foot of the Cross</em></font>
 <br>
 <br>
 <img src="/images/History/8%20Dec%202020%202.jpg" style="width:65%">
-<em>Foundress serving the poor</em>
+<font size=2><em>Foundress serving the poor</em></font>
 <br>
 <br>
 <img src="/images/History/8%20Dec%202020%203.jpg" style="width:55%">
-<em>Foundress showering her love to all</em>
+<font size=2><em>Foundress showering her love to all</em></font>
 
 </center>
 
