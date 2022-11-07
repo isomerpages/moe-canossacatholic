@@ -3,9 +3,9 @@ title: 10 Principles Of A Canossian
 permalink: /our-school/10-principles-of-a-canossian/
 description: ""
 ---
-**<font size=6>10 Principles Of A Canossian</font>**
+<b><font size=6>10 Principles Of A Canossian</font></b>
 
-**<font size=5 color="#7daadf">10 Principles as a Canossian Leader I abide by:</font>**
+<b><font size=5 color="#7daadf">10 Principles as a Canossian Leader I abide by:</font></b>
 
 <font size=5 color="#eeac0d"><b>1</b></font>&emsp;I am created in God's image and likeness and so is everyone else.
 
