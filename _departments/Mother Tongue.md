@@ -286,7 +286,6 @@ Upper primary students receive further guidance in the enrichment classes where 
 <br>
 MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
 
-<br>
 
 ![](/images/Departments/MT%205.png)
 
