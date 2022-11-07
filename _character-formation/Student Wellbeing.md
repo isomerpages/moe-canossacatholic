@@ -73,7 +73,9 @@ The Rainbow Programme is a support programme for P1 to P4 students who experienc
 <br>
 <br>
 <br>
-<b><u>Student Leadership</b></u>
+<b>
+<u>Student Leadership</u>
+</b>
 <br>
 
 *   Click [**here**](https://staging.d2nutevx25vdua.amplifyapp.com/character-formation/student-leadership) to read more on Student Leadership
