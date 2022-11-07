@@ -54,8 +54,7 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <br><br>   
 <b><font size=5 color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:</font></b>
 
-<b><center><font size=4 color="#eeac0d">Primary 5</font></center></b>
-
+<b><center><font size=4 color="#eeac0d">Primary 5</font></center></b><br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
 <col style="width: 100px">
