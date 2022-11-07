@@ -23,7 +23,7 @@ description: ""
 
 <br>
 <center>
-For more information regarding P1 registration, refer to<a href="https://www.moe.gov.sg/primary/p1-registration">MOE Website</a>
+For more information regarding P1 registration, refer to <a href="https://www.moe.gov.sg/primary/p1-registration">MOE Website</a>
 </center>
 
 
