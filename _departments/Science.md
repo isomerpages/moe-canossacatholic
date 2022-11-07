@@ -23,11 +23,9 @@ The E2K Science Programme Singapore is a Science enrichment programme for primar
 
 Students learn Science by going through the same process that scientists use to generate knowledge in Science. Just as scientists make mistakes in the real world, students are allowed to make mistakes in E2K and teachers help students to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
 
-<center>
 	
 ![](/images/Departments/Science%201.png)
 
-</center>
 
 <br>
 
