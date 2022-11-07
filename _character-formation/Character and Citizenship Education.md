@@ -78,8 +78,7 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Knowing Myself, Others and My Surroundings
-<br>
+<span style="color:#454545;background-color:#FAFAFA">Knowing Myself, Others and My Surroundings</span>
 </td>
 </tr>
 <tr>
@@ -88,8 +87,7 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Coming Together as a Nation
-<br>
+	<span style="color:#454545;background-color:#FAFAFA">Coming Together as a Nation</span>
 </td>
 </tr>
 <tr>
@@ -97,7 +95,7 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <span style="color:#454545;background-color:#FAFAFA">P3</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Understanding Singapore’s Environment and Challenges
+<span style="color:#454545;background-color:#FAFAFA">Understanding Singapore’s Environment and Challenges</span>
 </td>
 </tr>
 <tr>
@@ -105,7 +103,7 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <span style="color:#454545;background-color:#FAFAFA">P4</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Understanding our Past
+<span style="color:#454545;background-color:#FAFAFA">Understanding our Past</span>
 </td>
 </tr>
 <tr>
