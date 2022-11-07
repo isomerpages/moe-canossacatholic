@@ -3,7 +3,7 @@ title: Singapore Student Learning Space (SLS)
 permalink: /useful-information/singapore-student-learning-space-sls/
 description: ""
 ---
-<b><font size=6>testSingapore Student Learning Space (SLS)</font></b>
+<b><font size=6>test2Singapore Student Learning Space (SLS)</font></b>
 
 <b><font size=5 color="#7daadf">Singapore Student Learning Space (SLS)</font></b>
 
