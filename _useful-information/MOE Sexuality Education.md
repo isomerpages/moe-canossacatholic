@@ -60,8 +60,8 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <colgroup>
 <col style="width: 120px">
 <col style="width: 150px">
-<col style="width: 300px">
-<col style="width: 130px">
+<col style="width: 280px">
+<col style="width: 150px">
 </colgroup>
 <thead>
 <tr>
@@ -193,8 +193,8 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <colgroup>
 <col style="width: 120px">
 <col style="width: 150px">
-<col style="width: 300px">
-<col style="width: 130px">
+<col style="width: 280px">
+<col style="width: 150px">
 </colgroup>
 <thead>
 <tr>
