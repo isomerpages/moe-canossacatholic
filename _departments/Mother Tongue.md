@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
 ---
-<b><font size=6>test3Mother Tongue</font></b>
+<b><font size=6>test4Mother Tongue</font></b>
 
 <b><font size=5 color="#7daadf">Chinese Language Department</font></b>
 <br>
