@@ -60,6 +60,7 @@ At the heart of the Singapore Social Studies (SS) curriculum is the preparation 
 Inter-disciplinary performance tasks and field-based learning journeys are organised to allow students to contextualise their learning experience in an authentic real-world setting. They would learn to explore, construct new knowledge and make connections to the topic being studied through hands-on exploration and engagement in multi-sensory modes.
 <br>
 <br>
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
@@ -71,7 +72,9 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 </th>
 </tr>
 </thead>
+	
 <tbody>
+
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">P1</span>
@@ -87,7 +90,7 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-	<span style="color:#454545;background-color:#FAFAFA">Coming Together as a Nation</span>
+<span style="color:#454545;background-color:#FAFAFA">Coming Together as a Nation</span>
 </td>
 </tr>
 <tr>
@@ -180,6 +183,7 @@ While National Education has been infused in the various subjects, SS Learning j
 <br><br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
+	
 <thead>
 <tr>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal">
@@ -196,7 +200,9 @@ While National Education has been infused in the various subjects, SS Learning j
 </th>
 </tr>
 </thead>
+	
 <tbody>
+	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Star Pupil</span></td>
@@ -287,10 +293,11 @@ While National Education has been infused in the various subjects, SS Learning j
 <span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Annually</span>
-</td>
+<span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
+	
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 
 <br><br><br><br><br><br>
