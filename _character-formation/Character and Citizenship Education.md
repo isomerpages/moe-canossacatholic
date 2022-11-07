@@ -111,18 +111,23 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <span style="color:#454545;background-color:#FAFAFA">P5</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Understanding Singapore’s Development as a Nation and Understanding Southeast Asia’s Diversity and Interconnectedness </td>
+<span style="color:#454545;background-color:#FAFAFA">Understanding Singapore’s Development as a Nation and Understanding Southeast Asia’s Diversity and Interconnectedness</span>
+</td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA"> P6</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Understanding Features and legacies of Civilisations
-</td>
+<span style="color:#454545;background-color:#FAFAFA">Understanding Features and legacies of Civilisations</span></td>
+	
 </tr>
+	
 </tbody>
+	
 </table>
+
+<br>
 <br>
 
 <b><font size=5 color="#7daadf">CCE: School-based Curriculum</font></b>
