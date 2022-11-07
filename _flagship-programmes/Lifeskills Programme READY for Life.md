@@ -113,9 +113,10 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 </td>
 </tr>
 </tbody>
+	
 </table>
-
-<br><br>
+<br>
+<br>
 
 <img src="/images/Flagship%20Programmes/Lifeskill%201.png" style="width:100%">	
 <br>
@@ -129,20 +130,22 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 <br>
 Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our students to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, students will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
 
+<br>
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
+
 <td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="font-weight:bold;color:#252525">Level</span>
-</th>
 <td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#252525"><b>Objectives</b><br>(<em>revised from 2021</em> )</span>
-</th>
 <td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="font-weight:bold;color:#252525">Curriculum Links</span>
-</th>
+
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
@@ -309,16 +312,22 @@ Healthy Food Pyramid
 – Balanced Diet, Nutrition Facts
 </td>
 </tr>
+	
+
 </tbody>
+
 </table>
 
-
+<br>
+<center>
 	
 <img src="/images/Flagship%20Programmes/Lifeskill%203.png">
 
 <br>
+
 <img src="/images/Flagship%20Programmes/Lifeskill%204.png">	
 
+</center>
 
 <br>
 <br>
