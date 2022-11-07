@@ -7,27 +7,26 @@ description: ""
 
 <b><font size=5 color="#7daadf">10 Principles as a Canossian Leader I abide by:</font></b>
 
-<font size=5 color="#eeac0d"><b>1</b></font>&emsp;
+<b><font size=5 color="#eeac0d">1</font></b>&emsp;
 I am created in God's image and likeness and so is everyone else.
 
+<b><font size=5 color="#eeac0d">2</font></b>&emsp; I know and do what is good and just even when no one is watching.
 
-<font size=5 color="#eeac0d"><b>2</b></font>&emsp; I know and do what is good and just even when no one is watching.
+<b><font size=5 color="#eeac0d">3</font></b>&emsp; I will always be the best version of myself in everything I say and do.
 
-<font size=5 color="#eeac0d"><b>3</b></font>&emsp; I will always be the best version of myself in everything I say and do.
+<b><font size=5 color="#eeac0d">4</font></b>&emsp; I know my purpose in life.
 
-<font size=5 color="#eeac0d"><b>4</b></font>&emsp; I know my purpose in life.
+<b><font size=5 color="#eeac0d">5</font></b>&emsp; I belong here and I want others to feel belonged too.
 
-<font size=5 color="#eeac0d"><b>5</b></font>&emsp; I belong here and I want others to feel belonged too.
+<b><font size=5 color="#eeac0d">6</font></b>&emsp; I make wherever I am a loving place.
 
-<font size=5 color="#eeac0d"><b>6</b></font>&emsp; I make wherever I am a loving place.
+<b><font size=5 color="#eeac0d">7</font></b>&emsp; I advocate for all that is good and just.
 
-<font size=5 color="#eeac0d"><b>7</b></font>&emsp; I advocate for all that is good and just.
+<b><font size=5 color="#eeac0d">8</font></b>&emsp; I am a trusted friend.
 
-<font size=5 color="#eeac0d"><b>8</b></font>&emsp; I am a trusted friend.
+<b><font size=5 color="#eeac0d">9</font></b>&emsp; I know I still must grow.
 
-<font size=5 color="#eeac0d"><b>9</b></font>&emsp; I know I still must grow.
-
-<font size=5 color="#eeac0d"><b>10</b></font>&emsp; I am keenly aware that I can make things better.
+<b><font size=5 color="#eeac0d">10</font></b>&emsp; I am keenly aware that I can make things better.
 
 
 <br><br><br><br><br><br>
