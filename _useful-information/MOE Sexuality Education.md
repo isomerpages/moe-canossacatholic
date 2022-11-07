@@ -56,12 +56,12 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 
 <b><center>Primary 5</center></b>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 804px" class="tg">
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
-<col style="width: 151px">
-<col style="width: 151px">
-<col style="width: 351px">
-<col style="width: 151px">
+<col style="width: 100px">
+<col style="width: 150px">
+<col style="width: 350px">
+<col style="width: 150px">
 </colgroup>
 <thead>
 <tr>
@@ -71,15 +71,14 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:black">Lessons / Duration</span>
 </th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:black">Lesson Objectives</span>
-<br>
-<span style="color:black"><em>At the end of the lesson, pupils will be able to:</em></span>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#252525">Lesson Objectives<br></span>
+<span style="font-weight:normal"><em>At the end of the lesson, pupils will be able to:</em></span>
 </th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:black">Time Period</span>
+<span style="color:#252525">Time Period</span>
 <br>
-	<span style="color:black"><em>(e.g. Term 1 Week 2)</em></span>
+<span style="font-weight:normal"><em>(e.g. Term 1 Week 2)</em></span>
 </th>
 </tr>
 </thead>
