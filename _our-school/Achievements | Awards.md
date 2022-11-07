@@ -664,21 +664,29 @@ description: ""
 <span style="color:#454545;background-color:#FAFAFA">Tan Xinyi Hannah</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Primary 6</span></td>
+<span style="color:#454545;background-color:#FAFAFA">Primary 6</span>
+</td>
+	
 </tr>
+	
 </tbody>
+	
 </table>
+
+<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr>
 <th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#000">Non-Academic Achievements<br>and Awards </span></th>
 <th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">
 <span style="color:#000">
-<span style="color:#000">Name of Awards <br> Names of Students </span></th>
+<span style="color:#000">Name of Awards <br> Names of Students </span>
+</th>
 
 </th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:0px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:middle;word-break:normal" colspan="3">Clubs and Uniformed Groups</td>
