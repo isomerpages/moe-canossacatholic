@@ -34,6 +34,7 @@ Singapore 387621<br>
 </span>
 <br>
 <br>
+
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
 <thead>
 <tr>
@@ -95,6 +96,8 @@ B70161
 <span style="color:#454545;background-color:#FAFAFA"> 61, 63, 65, 66, 135, 154, 158</span>
 </td>
 </tr>
+</tbody>
+</table>
 </tbody>
 </table>
 
