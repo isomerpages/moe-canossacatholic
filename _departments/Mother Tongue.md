@@ -170,11 +170,12 @@ The Malay Language department aims to build the joy of learning the Malay Langua
 
 <br><br>
 	
-<b><font size=5 color="#7daadf">Malay Language Key Programme:</font></b>
+<font size=5 color="#7daadf"><b>Malay Language Key Programme:</b></font>
 <br>
 <br>
 <br>
-<b>P1 to P6 Malay Reading Programme</b>
+<b>
+P1 to P6 Malay Reading Programme</b>
 <br>
 The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.  
 <br><br>
