@@ -3,7 +3,7 @@ title: Achievements | Awards
 permalink: /our-school/achievements-awards/
 description: ""
 ---
-**<font size=6>Achievements | Awards</font>**
+<b><font size=6>Achievements | Awards</font></b>
 
 <b><font size=6 color="#7daadf">2021</font></b>
 
@@ -319,11 +319,15 @@ description: ""
 </td>
 <td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 </td>
+	
 </tr>
+	
 </tbody>
+	
 </table>
 
-
+<br>
+	
 <b><font size=6 color="#7daadf">2020</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
