@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-<b><font size=6>test2Mathematics</font></b>
+<b><font size=6>test3Mathematics</font></b>
 
 The CCPS Math curriculum aims to develop our students to be effective problem solvers with the confidence and perseverance to think creatively and critically in their acquisition of mathematical skills, knowledge and processes.  
   
