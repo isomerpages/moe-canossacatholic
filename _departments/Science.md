@@ -43,11 +43,9 @@ Students at the P4 level will be introduced to the concept of a vertical garden 
 <br>
 In an attempt to inspire innovators of tomorrow, CCPS supports the Abbot Young Scientist award to recognise students who demonstrate a keen interest in the pursuit of science. Selected students will have the chance to participate in a structured programme at the Science Centre where they will receive mentoring and have the opportunity to present their work.
 
-<center>
 	
 ![](/images/Departments/Science%203.png)
 
-</center>
 
 <br>
 	
