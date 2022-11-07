@@ -173,6 +173,7 @@ The Malay Language department aims to build the joy of learning the Malay Langua
 <b><font size=5 color="#7daadf">Malay Language Key Programme:</font></b>
 <br>
 <br>
+<br>
 <b>P1 to P6 Malay Reading Programme</b>
 <br>
 The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.  
@@ -232,22 +233,27 @@ P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kre
 
 <br>
 	
-<b><font size=5 color="#7daadf">Tamil Language Department</font></b>
+<b>
+<font size=5 color="#7daadf">Tamil Language Department</font>
+</b>
 <br>
 <br>
 We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.  
 
 <br><br>
 	
-<b><font size=5 color="#7daadf">Tamil Language Key Programme:</font></b>
+<b>
+<font size=5 color="#7daadf">Tamil Language Key Programme:</font>
+</b>
 <br>
 
 <b>Tamil Reading Programme (P1-P6)</b>
 <br>
 Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
-
+<br>
 Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.  
-
+<br>
+<br>
 <b>Show & Tell (P1&P2)</b>
 <br>
 Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
