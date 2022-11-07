@@ -257,19 +257,23 @@ Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to you
 <b>Show & Tell (P1&P2)</b>
 <br>
 Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
-
+<br>
+<br>
 <b>Vaandu Portal (P1-P6)</b>
 <br>
 The six-year curriculum uses Vaandu as a supporting portal for students to revise their work at their own pace encouraging them to be self-directed learners. Students enjoy the game based learning and are motivated to complete the learning packages.  
-
+<br>
+<br>
 <b>iMTL Portal Programme (P4-P6)</b>
 <br>
 iMTL portal is used as an interactive tool to enhance students' learning. Students are taught to use this portal to share their answers for questions posted by the teachers. This platform gives students a chance to practice their touch typing skills as they post their answers as a mind map or on the collaborative board.  
-
+<br>
+<br>
 <b>Enrichment Class (P5-P6)</b>
 <br>
 Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
-
+<br>
+<br>
 <b>Tamil Department Key Activities:</b>
 <br>
 <p style="margin-left: 40px">
