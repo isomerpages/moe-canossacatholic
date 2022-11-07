@@ -3,7 +3,7 @@ title: Applied Learning Programme MAKE @ CCPS
 permalink: /flagship-programmes/applied-learning-programme-m-a-k-e-at-ccps/
 description: ""
 ---
-**<font size=6>Applied Learning Programme - M.A.K.E@CCPS</font>**
+<b><font size=6>Applied Learning Programme - M.A.K.E@CCPS</font></b>
 
   
   
