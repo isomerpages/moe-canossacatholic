@@ -3,7 +3,7 @@ title: Achievements | Awards
 permalink: /our-school/achievements-awards/
 description: ""
 ---
-<b><font size=6>test3Achievements | Awards</font></b>
+<b><font size=6>test4Achievements | Awards</font></b>
 
 <b><font size=6 color="#7daadf">2021</font></b>
 
@@ -334,7 +334,3 @@ description: ""
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" colspan="2">
 <span style="color:#454545;background-color:#FAFAFA">Kuah Yu Wei Yumi</span></td></tr></tbody></table>
 
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
