@@ -98,7 +98,7 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">What Can I Do? (Part 1)
 <br> (30 min)
 </td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:normal">
 • Identify the stresses caused by physical and emotional changes during puberty<br>
 • Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>
@@ -110,11 +110,13 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">What Can I Do? (Part 2)<br> (30 min)</td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-·       identify the stresses caused by physical and emotional changes during puberty<br>
-·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:normal">
+• Identify the stresses caused by physical and emotional changes during puberty<br>
+• Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>
 ·       describe the emotions caused by physical changes during puberty<br>
 ·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty
+</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal">Term 3 Week 1</td>
 </tr>
