@@ -116,8 +116,8 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 	
 </table>
 <br>
-<br>
 
+<br>
 <img src="/images/Flagship%20Programmes/Lifeskill%201.png" style="width:100%">	
 <br>
 <img src="/images/Flagship%20Programmes/Lifeskill%202.jpeg" style="width:45%">
