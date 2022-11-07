@@ -21,7 +21,10 @@ description: ""
 
 ![](/images/Useful%20Information/P1%20Registration%202.png)
 
-For more information regarding P1 registration, refer to [**MOE Website**](https://www.moe.gov.sg/primary/p1-registration).
+<br>
+<center>
+For more information regarding P1 registration, refer to<a href="https://www.moe.gov.sg/primary/p1-registration">MOE Website</a>
+</center>
 
 
 
