@@ -4,7 +4,7 @@ permalink: /flagship-programmes/support-stretch-programme/
 description: ""
 third_nav_title: Support Stretch Programme
 ---
-**<font size=6>Support Stretch Programme</font>**
+<b><font size=6>Support Stretch Programme</font></b>
 
 As part of the school’s mission to nurture each child in his or her own way, the Stretch Programmes in CCPS aim to further develop the potential of students who display an aptitude for the academic subjects. They provide an enriched learning experience that develop intellectual curiosity and creative thinking in our students.  
   
