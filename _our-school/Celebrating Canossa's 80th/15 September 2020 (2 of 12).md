@@ -4,11 +4,11 @@ permalink: /our-school/history/celebrating-canossas-80th-birthday/15-september-2
 description: ""
 third_nav_title: Celebrating Canossa's 80th
 ---
-**<font size=6>15 September 2020 (2 of 12)</font>**
+<b><font size=6>15 September 2020 (2 of 12)</font></b>
 
 <center>
 	
-<font size=5 color="#7daadf">Devotion</font>
+<b><font size=5 color="#7daadf">Devotion</font></b>
 <br>
 <br>
 Rosary in hand,<br>
@@ -59,7 +59,7 @@ of our Canossian Sisters' hands and hearts.
 	
 </center>
 
-**<font size=5 color="#7daadf">Photo Gallery</font>**<br>
+<b><font size=5 color="#7daadf">Photo Gallery</font></b><br>
 
 <center>
 	
