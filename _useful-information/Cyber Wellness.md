@@ -9,11 +9,9 @@ description: ""
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace.
 
-<center>
 	
 ![](/images/Useful%20Information/Cyber%20Wellness%201.png)
 
-</center>
 
 <br>
 <b><font size=5 color="#7daadf">CCPS CARLO Guiding Pillars</font></b>
