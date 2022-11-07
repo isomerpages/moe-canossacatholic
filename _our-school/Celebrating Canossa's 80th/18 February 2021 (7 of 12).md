@@ -14,14 +14,15 @@ third_nav_title: Celebrating Canossa's 80th
 
 <b><font size=5 color="#7daadf">Inscription on the Bell:</font></b>
 <br>
+<center>
 <em>
-<br>
+
 Rev. Mother Farina<br>
 Canossa Convent School<br>
 From Mr Wong Kah Loong<br>
 18 August 1958
 </em>
-
+</center>
 
 In 1958, Mr Wong Kah Loong presented the bell to Rev. Mother Maria Farina, Principal of Canossa Convent School from 1954 – 1960.
 
