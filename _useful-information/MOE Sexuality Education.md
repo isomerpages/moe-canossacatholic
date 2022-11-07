@@ -58,9 +58,9 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
-<col style="width: 120px">
+<col style="width: 100px">
 <col style="width: 150px">
-<col style="width: 280px">
+<col style="width: 300px">
 <col style="width: 150px">
 </colgroup>
 <thead>
@@ -191,9 +191,9 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: " class="tg">
 <colgroup>
-<col style="width: 120px">
+<col style="width: 100px">
 <col style="width: 150px">
-<col style="width: 280px">
+<col style="width: 300px">
 <col style="width: 150px">
 </colgroup>
 <thead>
