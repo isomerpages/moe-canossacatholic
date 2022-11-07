@@ -22,9 +22,8 @@ Enjoy this 3 minute snapshot of the exhibition and we hope to see you and your f
 
 ![](/images/History/Laudate%201.png)
 
-</center>
-
 <br>
+</center>
 
 We are thrilled at the many talented children we have here at Canossa Catholic Primary and Canossian School whose art works will be showcased. There will also be art pieces from the inter-religious communities, a CCPS alumna and our sister schools – the St Anthony’s Canossian Primary and Secondary Schools – at the exhibition as well.  
   
