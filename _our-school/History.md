@@ -76,7 +76,8 @@ In its emphasis on the Formation of the Heart, children are encouraged and affir
 
 Anchoring on that, Canossian educators recognise the need to develop the child’s attitudes, behaviours and respect, for the dignity of others. The school’s culture of love and care enables each Canossian daughter and son to become the best versions of themselves for God and others.
 
-<b><font size=6>SCHOOL INFOGRAPH AND MILESTONE</font></b>
+<br>
+<font size=5 color="#7daadf"><b>SCHOOL INFOGRAPH AND MILESTONE</b></font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr>
