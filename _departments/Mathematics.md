@@ -91,11 +91,9 @@ Learning experiences in the classroom are designed based on the C-P-A approach. 
 
 <br>
 
-<center>
 	
 ![](/images/Departments/Math%202.png)
 
-</center>
 
 <br>
 
