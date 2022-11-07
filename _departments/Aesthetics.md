@@ -182,11 +182,8 @@ Students are exposed to a wide variety of composers and music genres through ‘
   
 Through learning journeys, such as a trip to the <b>Esplanade (P2)</b>, students will appreciate the different roles musicians play in society. Through the <b>Digital Music Programme (P3 and P4)</b>, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
 
-<center>
 	
 ![](/images/Departments/Aesthetics%202.png)
-
-</center>
 
 
 Recognising the increasing popularity of digital media in the aesthetics, the use of ICT has been woven into the arts curriculum. For example, our P2 students learn the use of MS Paint while our P5 students learn about Stop-Motion Animation. Our students’ talents are groomed through the Arts Instructional Programme, Arts CCAs and Arts Enrichment Programme. Their confidence in their own talents is enhanced through the provision of opportunities for external performances. In addition, since 2007, all members of Arts CCAs are given opportunities to attend concerts, performances and exhibitions to extend their understanding of the Arts. 
