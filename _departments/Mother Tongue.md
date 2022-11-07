@@ -237,9 +237,10 @@ P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kre
 <br>
 We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.  
 
-<br>
+<br><br>
 	
-<b><font size=5 color="#7daadf">Tamil Language Key Programme:</font></b><br>
+<b><font size=5 color="#7daadf">Tamil Language Key Programme:</font></b>
+<br>
 
 <b>Tamil Reading Programme (P1-P6)</b>
 <br>
