@@ -54,8 +54,7 @@ Outside the school operating hours, students should contact the SLS Helpdesk for
 <b>Fridays:</b> 3:30 pm to 9:00 pm<br>
 <b>Saturdays:</b> 9:00 am to 3:00 pm<br>
 <em><font size=3 color="#eeac0d">* Closed on Sundays & Public Holidays</font></em>
-<br>
-<br>
+</p>
 
 <br>
 
