@@ -13,9 +13,7 @@ description: ""
 <br>
 1 Sallim Road<br>
 Singapore 387621<br>
-<a href="https://www.google.com/maps?ll=1.326286,103.881774&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=8325327445205013778"><b>VIEW MAP<b>
-</a>
-→
+<a href="https://www.google.com/maps?ll=1.326286,103.881774&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=8325327445205013778"><b>VIEW MAP<b>→ </a>
 <br>
   
 
