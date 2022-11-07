@@ -31,8 +31,9 @@ description: ""
 <b>(ii)</b>          Build positive relationships based on love and respect (which are the foundation for strong families);<br>
 <b>(iii)</b>         Make responsible decisions for yourself, your family and society; and<br>
 <b>(iv)</b>         Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+<br>
+<br>
+You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">here</a> for more information on MOE Sexuality Education.
 
 <br><br>
 <b><font size=5 color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2022</font></b>
