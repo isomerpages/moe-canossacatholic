@@ -4,15 +4,16 @@ permalink: /our-school/history/celebrating-canossas-80th-birthday/18-february-20
 description: ""
 third_nav_title: Celebrating Canossa's 80th
 ---
-**<font size=6>18 February 2021 (7 of 12)</font>**
+<b><font size=6>18 February 2021 (7 of 12)</font></b>
 
-**<font size=5 color="#7daadf">Restoration of Our 63-year-old Bell</font>**
+<b><font size=5 color="#7daadf">Restoration of Our 63-year-old Bell</font></b>
 
 <img src="/images/History/18%20Feb%2021%201.jpg" style="width:55%">
 
 <br>
 
-**<font size=5 color="#7daadf">Inscription on the Bell:</font>**
+<b><font size=5 color="#7daadf">Inscription on the Bell:</font></b>
+<br>
 <em>
 <br>
 Rev. Mother Farina<br>
