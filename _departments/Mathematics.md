@@ -154,7 +154,7 @@ In teaching problem solving, teachers demonstrate how to use Polya’s 4 steps p
 
 </tbody></table>
 
-<br>
+<br><br>
 
 <b>The 3 “I” Strategy</b>
 <br>
