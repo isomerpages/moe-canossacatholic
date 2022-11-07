@@ -674,9 +674,7 @@ description: ""
 	
 </tr>
 	
-</tbody>
-	
-</table>
+</tbody></table>
 
 <br>
 
