@@ -139,7 +139,7 @@ Focused on food preparation, basic cooking skills and dining etiquette, the modu
 <span style="font-weight:bold;color:#252525">Level</span>
 </th>
 <td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-	<span style="color:#252525"><b>Objectives</b><br>(<em>revised from 2021</em> )</span>
+<span style="color:#252525"><b>Objectives</b><br>(<em>revised from 2021</em> )</span>
 </th>
 <td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="font-weight:bold;color:#252525">Curriculum Links</span>
