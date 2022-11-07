@@ -15,7 +15,7 @@ description: ""
 Singapore 387621<br>
 <a href="https://www.google.com/maps?ll=1.326286,103.881774&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=8325327445205013778"><b>VIEW MAP<b>→ </a>
 <br>
-  
+<br>
 <span style="font-weight:normal">
 <font color="#7daadf" size=""><b>Tel&nbsp; &nbsp; &nbsp; :</b></font>&nbsp;&nbsp;&nbsp;+65 6844 1418<br>
 <b><font color="#7daadf" size="">Fax&nbsp; &nbsp; &nbsp;:</font></b>&nbsp;&nbsp;&nbsp; +65 6844 1417<br>
