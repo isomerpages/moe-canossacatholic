@@ -690,17 +690,24 @@ description: ""
 
 <br>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
 <th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#000">Non-Academic Achievements<br>and Awards </span></th>
+<span style="color:#000">Non-Academic Achievements<br>and Awards </span>
+</th>
 <th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">
 <span style="color:#000">
-<span style="color:#000">Name of Awards <br> Names of Students </span>
+<span style="color:#000">Name of Awards <br> Names of Students</span>
 </th>
 
 </th>
+	
 </tr>
+	
 </thead>
+
+<br>
 
 <tbody>
 <tr>
@@ -989,7 +996,9 @@ description: ""
 	
 </tbody>
 	
-</table> <br>
+</table>
+
+<br>
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
