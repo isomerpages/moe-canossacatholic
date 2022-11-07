@@ -3,7 +3,7 @@ title: 10 Principles Of A Canossian
 permalink: /our-school/10-principles-of-a-canossian/
 description: ""
 ---
-<b><font size=6>test10 Principles Of A Canossian</font></b>
+<b><font size=6>testtest10 Principles Of A Canossian</font></b>
 
 <b><font size=5 color="#7daadf">10 Principles as a Canossian Leader I abide by:</font></b>
 
