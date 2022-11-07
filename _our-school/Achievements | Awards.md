@@ -337,6 +337,7 @@ description: ""
 </th>
 </tr>
 </thead>
+	
 <tbody>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="20">Mother Tongue (CL)</td>
@@ -463,13 +464,10 @@ description: ""
 <span style="color:#454545;background-color:#FAFAFA">Khaira Farzana Rahman </span>
 </td>
 </tr>
+	
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Humayrah Rahmatullah Binti Abdullah</span>
-<br>
-<br>
-	
-</td>
+<span style="color:#454545;background-color:#FAFAFA">Humayrah Rahmatullah Binti Abdullah</span></td>
 	
 </tr>
 	
