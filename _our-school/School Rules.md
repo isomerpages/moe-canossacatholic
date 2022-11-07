@@ -8,10 +8,10 @@ description: ""
 <b><font size=5 color="#7daadf">Grooming</font></b>
 
 <li><b><u>School Uniform</u></b></li>
-Students must wear the prescribed school uniform when they are in school and when they represent the school in external activities unless prescribed by the teacher-in-charge. Boys must sew their name tag on top of the pocket. Girls must sew their name tag below the school badge. **Modification to the uniform is not allowed**.
+Students must wear the prescribed school uniform when they are in school and when they represent the school in external activities unless prescribed by the teacher-in-charge. Boys must sew their name tag on top of the pocket. Girls must sew their name tag below the school badge. <b>Modification to the uniform is not allowed</b>.
 <br><br>
 <li><b><u>P.E. Attire</u></b></li>
-Students must wear the prescribed attire for P.E. lessons, i.e. school T-shirt and blue shorts. **Modification to the uniform is not allowed**.
+Students must wear the prescribed attire for P.E. lessons, i.e. school T-shirt and blue shorts. <b>Modification to the uniform is not allowed</b>.
 <br><br>
 Girls must put on their pinafores after their PE lessons. Girls are allowed to be in their PE T-shirts and pinafores after their PE lessons. Girls are allowed to be in their PE T-shirts and pinafores the whole day only on the days that they have PE lessons. Boys must put on their school uniform shorts after their PE lessons.
 <br><br> 
