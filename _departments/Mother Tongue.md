@@ -109,7 +109,7 @@ The department's six years writing programme aims to develop students to become 
 <br>
 Chinese GO! is an educational mobile app developed to build students’ interest in acquiring key vocabulary and content to improve their communication proficiency in Chinese Language. The app is conceptualized and designed by Chinese teachers from Canossa Catholic Primary School and Saint Anthony Canossian Primary School, it aims to help students in learning Chinese Language through a fun and targeted way.
 
-<br>
+<br><br>
 	
 <b>P4 to P6 Letter Writing Programme</b>
 <br>
@@ -119,7 +119,7 @@ Students are taught how to identify the SVO during letter writing:
 *   <b><u>V</u></b> ariable – when and where (e.g the date, time and place, etc)
 *   <b><u>O</u></b> bjective – why the letter is written
 
-<br>	
+<br><br>
 <b>Chinese Language Key Activities</b>
 <p style="margin-left: 40px">
 <b><u><font size=3 color="#eeac0d">Lunar New Year Celebration</font></u></b>
@@ -162,7 +162,7 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 </center>
 
 <br>
-	
+<br>
 <b><font size=5 color="#7daadf">Malay Language Department</font></b>
 <br>
 <br>
@@ -239,7 +239,7 @@ P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kre
 </b>
 <br>
 <br>
-<font size="">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.</font>
+<font size="4">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.</font>
 
 <br><br>
 	
@@ -248,44 +248,43 @@ P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kre
 </b>
 <br><br>
 
-<font size="">
-<b>Tamil Reading Programme (P1-P6)</b></font>
+<font size="4">
+<b>Tamil Reading Programme (P1-P6)</b>
 <br>
 Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
 <br>
-Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.  
+Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.
 <br>
 <br>
-<font size=""><b>Show & Tell (P1&P2)</b></font>
+<b>Show & Tell (P1&P2)</b>
 <br>
 Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
 <br>
 <br>
-<font size=""><b>Vaandu Portal (P1-P6)</b></font>
+<b>Vaandu Portal (P1-P6)</b>
 <br>
 The six-year curriculum uses Vaandu as a supporting portal for students to revise their work at their own pace encouraging them to be self-directed learners. Students enjoy the game based learning and are motivated to complete the learning packages.  
 <br>
 <br>
-<font size=""><b>iMTL Portal Programme (P4-P6)</b></font>
+<b>iMTL Portal Programme (P4-P6)</b>
 <br>
 iMTL portal is used as an interactive tool to enhance students' learning. Students are taught to use this portal to share their answers for questions posted by the teachers. This platform gives students a chance to practice their touch typing skills as they post their answers as a mind map or on the collaborative board.  
 <br>
 <br>
-<font size=""><b>Enrichment Class (P5-P6)</b></font>
+<b>Enrichment Class (P5-P6)</b>
 <br>
 Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
-</font>
 <br>
 <br>
-<font size=""><b>Tamil Department Key Activities:</b></font>
+<b>Tamil Department Key Activities:</b></font>
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Deepavali Celebration</font></u></b>
+<b><u><font size=4 color="#eeac0d">Deepavali Celebration</font></u></b>
 <br>
  Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.  
 <br>
 <br>
-<b><u><font size=3 color="#eeac0d">MTL Fortnight Activities</font></u></b>
+<b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
 MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
 
@@ -294,7 +293,7 @@ MTL Fortnight week is one of the most anticipated weeks of learning for the stud
 
 
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
+<b><u><font size=4 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
 The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
 
