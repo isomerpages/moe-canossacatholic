@@ -130,11 +130,10 @@ The art curriculum in our school provides a foundation for all our students to u
 <br>
 <b><font size=5 color="#7daadf">Music Curriculum @ CCPS</font></b>
 <br>
-
-All music lessons are carefully planned based on the <b>Experience-Concept-Application-Recap (E-C-A-R) approach</b>.
-
 <br>
-
+All music lessons are carefully planned based on the <b>Experience-Concept-Application-Recap (E-C-A-R) approach</b>.
+<br>
+<br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg">
 <colgroup>
 <col style="width: 150px"><col style="width: 550px">
