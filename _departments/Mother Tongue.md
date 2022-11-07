@@ -248,14 +248,14 @@ P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kre
 <br><br>
 
 <font size="">
-<b>Tamil Reading Programme (P1-P6)</b>
+<b>Tamil Reading Programme (P1-P6)</b></font>
 <br>
 Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
 <br>
 Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.  
 <br>
 <br>
-<b>Show & Tell (P1&P2)</b>
+<font size=""><b>Show & Tell (P1&P2)</b></font>
 <br>
 Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
 <br>
