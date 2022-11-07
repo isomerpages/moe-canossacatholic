@@ -20,7 +20,10 @@ The programme permeates at both staff and students level where, every Canossian:
 
 <br>
 <center>
+	
 <img src="/images/Character%20Formation/Environment%20Edu.png" style="width:75%">
+	
+
 </center>
 
 <br>
