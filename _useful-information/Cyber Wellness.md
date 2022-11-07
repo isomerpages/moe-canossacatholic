@@ -65,6 +65,7 @@ Here are some PARENTing Tips to guide your child in this digital age.
 
 <b><font size=3 color="#eeac0d">Consider to create a [Family Media Plan](https://www.healthychildren.org/English/media/Pages/default.aspx#home)</font></b>
 * <em><a href="https://www.healthychildren.org/English/media/Pages/default.aspx#home">https://www.healthychildren.org/English/media/Pages/default.aspx#home</a></em>
+<br>
 
 <b><font size=3 color="#eeac0d">Navigate the Internet with your Child</font></b>
 
