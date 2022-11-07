@@ -232,8 +232,8 @@ You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-educati
 <span style="font-weight:normal">(30 min)</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:WHITE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-·         identify the qualities that they have as a friend<br>
-·         recognise the importance of developing in oneself the qualities of a good friend</td>
+• Identify the qualities that they have as a friend<br>
+• Recognise the importance of developing in oneself the qualities of a good friend</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 2</td>
 </tr>
 <tr>
