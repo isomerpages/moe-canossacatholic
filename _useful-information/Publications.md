@@ -9,7 +9,7 @@ description: ""
 
 **Canossa Newsbites**
 
-[Canossa Newsbites -  January](/files%2FNewsbites/Canossa%20Newsbites%20Jan%202022.pdf)<br>
+[Canossa Newsbites -  January](/files/Newsbites/Canossa%20Newsbites%20Jan%202022.pdf)<br>
 [Canossa Newsbites - February](/files/Canossa%20Newsbites%20February%202022.pdf) <br>
 [Canossa Newsbites - March](/files/Canossa%20Newsbites%20March%202022.pdf)<br>
 [Canossa Newsbites - April](/files/Canossa%20Newsbites%20April%202022.pdf)<br>
