@@ -16,8 +16,9 @@ Come join us to celebrate our amazing children and their art works! There will a
 Enjoy this 3 minute snapshot of the exhibition and we hope to see you and your family there!
 
 
-	
+<center>
 <iframe width="600" height="355" src="https://www.youtube.com/embed/rxq53XN_DNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ![](/images/History/Laudate%201.png)
 	
