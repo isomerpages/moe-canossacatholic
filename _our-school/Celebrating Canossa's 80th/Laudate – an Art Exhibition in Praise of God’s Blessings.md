@@ -4,7 +4,7 @@ permalink: /our-school/history/celebrating-canossas-80th-birthday/laudate-exhibi
 description: ""
 third_nav_title: Celebrating Canossa's 80th
 ---
-<b><font size=6>Laudate – an Art Exhibition in Praise of God’s Blessings
+<b><font size=6>testLaudate – an Art Exhibition in Praise of God’s Blessings
 </font></b>
 
 _Laudate_, our Art Exhibition in Praise of God’s Blessings, is starting this weekend. You and your family are warmly invited to join us.
