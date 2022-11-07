@@ -34,23 +34,24 @@ description: ""
 
 You may click [<b>here</b>](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
-<br>
+<br><br>
 <b><font size=5 color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2022</font></b>
-
+<br>
+<br>
 <b><font size=5 color="#eeac0d">4.</font></b> &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.  
-  
+<br>  
 <b><font size=5 color="#eeac0d">5.</font></b> &nbsp; The subjects that incorporate topics on sexuality include:  <br>
  a.    Science  
  b.    Form Teacher Guidance Period (FTGP)  
  c.    Character and Citizenship Education (CCE)  
-   
+<br>  
 <b>Sexuality Education:</b><br>
 “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package  
-  
+<br>    
 <b><font size=5 color="#eeac0d">6.</font></b> &nbsp; The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.  
-  
+<br>   
 <b><font size=5 color="#eeac0d">7.</font></b> &nbsp; The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.   
-<br>  
+<br><br>   
 <b><font size=5 color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:</font></b>
 
 <b><center>Primary 5</center></b>
