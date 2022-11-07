@@ -158,8 +158,8 @@ In teaching problem solving, teachers demonstrate how to use Polya’s 4 steps p
 	<span style="color:#454545;background-color:#FAFAFA">Students are to check the solution and decide whether or not the solution is reasonable.</span>
 </td>
 </tr>
-</tbody>
-</table>
+
+</tbody></table>
 
 <br>
 
