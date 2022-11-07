@@ -73,16 +73,16 @@ Beacon of faith, hope and love to all humanity.
 <center>
 
 <img src="/images/History/8%20Dec%202020%201.jpg" style="width:55%">
-<font size=2><em>Foundress had a special love for Mary,
-<br>Mother of Sorrows, at the foot of the Cross</em></font>
+<em>Foundress had a special love for Mary,
+<br>Mother of Sorrows, at the foot of the Cross</em>
 <br>
 <br>
 <img src="/images/History/8%20Dec%202020%202.jpg" style="width:65%">
-<font size=2><em>Foundress serving the poor</em></font>
+<em>Foundress serving the poor</em>
 <br>
 <br>
 <img src="/images/History/8%20Dec%202020%203.jpg" style="width:55%">
-<font size=2><em>Foundress showering her love to all</em></font>
+<em>Foundress showering her love to all</em>
 
 </center>
 
