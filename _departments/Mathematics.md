@@ -86,8 +86,8 @@ Learning experiences in the classroom are designed based on the C-P-A approach. 
 <span style="color:#454545;background-color:#FAFAFA">Abstract is the “symbolic” stage where students progress from pictorial representations to writing equations and solving them.</span>
 </td>
 </tr>
-</tbody>
-</table>
+
+</tbody></table>
 
 <br>
 
