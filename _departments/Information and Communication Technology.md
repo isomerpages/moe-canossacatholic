@@ -22,7 +22,7 @@ description: ""
 <br>
 <br>
 
-<img src="/images/Departments/ICT%201.jpg" style="width:250px;height:300px;" align = "center">
+<img src="/images/Departments/ICT%201.jpg" style="width:400px;height:500px;" align = "center">
 
 In CCPS, digital technologies are meaningfully and purposefully integrated in the total curriculum to design a range of learning experiences for students to develop the knowledge, skills and disposition of future-ready learners. Teachers leverage on technology to creates a more participatory, connected and reflective classroom that makes learning more engaging, active and personalised.  
 
