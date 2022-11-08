@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
 ---
-<b><font size=6>test6Mother Tongue</font></b>
+<b><font size=6>testMother Tongue</font></b>
 
 <b><font size=5 color="#7daadf">Chinese Language Department</font></b>
 <br>
@@ -26,29 +26,29 @@ The six-year Chinese curriculum aims to enhance students’ oral, listening and 
  
 <b>P1 to P6 School based Oracy programme</b>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Reading:</font></u></b>
+<b><u><font size=4 color="#eeac0d">Reading:</font></u></b>
 <br>
 The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
 <br>
 <br>
-<b><u><font size=3 color="#eeac0d">Conversation:</font></u></b>
+<b><u><font size=4 color="#eeac0d">Conversation:</font></u></b>
 <br>
 The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
 <br>
 <br>
-<b><u><font size=3 color="#eeac0d">Lower Primary: FAR Strategy</font></u></b>
+<b><u><font size=4 color="#eeac0d">Lower Primary: FAR Strategy</font></u></b>
 <br>
 <b>Question 1:</b> Feeling + Action + Reason (FAR strategy)
 <br>
 <br>
-<b><u><font size=3 color="#eeac0d">Middle Primary: FAR + PEEL Strategy</font></u></b>
+<b><u><font size=4 color="#eeac0d">Middle Primary: FAR + PEEL Strategy</font></u></b>
 <br>
 <b>Question 1:</b> Feeling + Action + Reason (FAR strategy)
 <br>
 <b>Question 2:</b> (Point + Explain + Example + Link (PEEL strategy)
 <br>
 <br>
-<b><u><font size=3 color="#eeac0d">Upper Primary: FAR + PEEL + 1234 Strategy</font></u></b>
+<b><u><font size=4 color="#eeac0d">Upper Primary: FAR + PEEL + 1234 Strategy</font></u></b>
 <br>
 <b>Question 1:</b> Feeling + Action + Reason (FAR strategy)
 <br>
@@ -64,7 +64,7 @@ The department also aims to develop students to become effective communicators t
 The department's six years writing programme aims to develop students to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
 
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Lower Primary:</font></u></b>
+<b><u><font size=4 color="#eeac0d">Lower Primary:</font></u></b>
 <br>
 <b>Primary 1:</b> 3W Strategy
 <br>
@@ -74,7 +74,7 @@ The department's six years writing programme aims to develop students to become 
 • &emsp; Who + Where + What + Feeling
 <br>
 <br>
-<b><u><font size=3 color="#eeac0d">Middle Primary:</font></u></b>
+<b><u><font size=4 color="#eeac0d">Middle Primary:</font></u></b>
 <br>
 <b>Primary 3:</b>
 <br>
@@ -92,7 +92,7 @@ The department's six years writing programme aims to develop students to become 
 • &emsp; <b>Step 4:</b> Predict the outcome
 <br>
 <br>
-<b><u><font size=3 color="#eeac0d">Upper Primary:</font></u></b>
+<b><u><font size=4 color="#eeac0d">Upper Primary:</font></u></b>
 <br>
 <b>Primary 5 and 6:</b>
 <br>
@@ -122,7 +122,7 @@ Students are taught how to identify the SVO during letter writing:
 <br><br>
 <b>Chinese Language Key Activities</b>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Lunar New Year Celebration</font></u></b>
+<b><u><font size=4 color="#eeac0d">Lunar New Year Celebration</font></u></b>
 <br>
 The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
 soaked in the festive atmosphere through the performances.
@@ -132,7 +132,7 @@ soaked in the festive atmosphere through the performances.
 </center>
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">MTL Fortnight Activities</font></u></b>
+<b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
 The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.
 
@@ -143,17 +143,17 @@ The Chinese Language Department has organized Mother Tongue Language Fortnight A
 
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
+<b><u><font size=4 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
 The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">External Competition</font></u></b>
+<b><u><font size=4 color="#eeac0d">External Competition</font></u></b>
 <br>
 Students in schools are given the opportunity to participate in various external competitions such as calligraphy, story-telling and writing competitions.
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Mid-Autumn Festival Celebration</font></u></b>
+<b><u><font size=4 color="#eeac0d">Mid-Autumn Festival Celebration</font></u></b>
 <br>
 All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
 
@@ -181,16 +181,16 @@ The Malay Language Department promotes the love of reading through our class lib
 <br><br>
 <b>P1 to P6 School based Oracy programme</b>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Reading</font></u></b>
+<b><u><font size=4 color="#eeac0d">Reading</font></u></b>
 <br>
 The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Conversation:</font></u></b>
+<b><u><font size=4 color="#eeac0d">Conversation:</font></u></b>
 <br>
 The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
 </p>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Lower and Middle Primary: 4P Strategy</font></u></b>
+<b><u><font size=4 color="#eeac0d">Lower and Middle Primary: 4P Strategy</font></u></b>
 <br>
 <b>Primary 1:</b> 1P (What is in the picture?) <br>
 <b>Primary 2:</b> 2P (What is in the picture? + Feelings) <br>
@@ -198,7 +198,7 @@ The department also aims to develop students to become effective communicators t
 <b>Primary 4:</b> 4P (What is in the picture? + Feelings + Personal Experience + Reason) <br>
 </p>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Upper Primary: 4PAS Strategy</font></u></b>
+<b><u><font size=4 color="#eeac0d">Upper Primary: 4PAS Strategy</font></u></b>
 <br>
 <b>Primary 5:</b> 4P + Impact <br>
 <b>Primary 6:</b> 4P + Impact + Suggestions <br>
@@ -208,12 +208,12 @@ The department also aims to develop students to become effective communicators t
 <b>Malay Department Key Activities:</b>
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">Hari Raya Celebration</font></u></b>
+<b><u><font size=4 color="#eeac0d">Hari Raya Celebration</font></u></b>
 <br>
 The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.  
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">MTL Fortnight Activities</font></u></b>
+<b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
 The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
 
@@ -222,12 +222,12 @@ The Malay Language Department has organized Mother Tongue Language Fortnight Act
 </center>
 
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
+<b><u><font size=4 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
 The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.  
   
 <p style="margin-left: 40px">
-<b><u><font size=3 color="#eeac0d">External Competition</font></u></b>
+<b><u><font size=4 color="#eeac0d">External Competition</font></u></b>
 <br>
 P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.
 </p>
