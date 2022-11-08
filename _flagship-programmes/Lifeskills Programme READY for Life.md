@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/lifeskills-programme-r-e-a-d-y-for-life/
 description: ""
 ---
-<b><font size=6>test2Lifeskills Programme - R.E.A.D.Y. FOR LIFE</font></b>
+<b><font size=6>test3Lifeskills Programme - R.E.A.D.Y. FOR LIFE</font></b>
 
 <b><font size=5 color="#7daadf">R.E.A.D.Y. for Life</font></b>
 
@@ -118,10 +118,12 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 <br>
 
 <br>
-<img src="/images/Flagship%20Programmes/Lifeskill%201.png" style="width:100%">	
-<br>
-<img src="/images/Flagship%20Programmes/Lifeskill%202.jpeg" style="width:45%">
 
+<img src="/images/Flagship%20Programmes/Lifeskill%201.png" style="width:100%">	
+
+<br>
+
+<img src="/images/Flagship%20Programmes/Lifeskill%202.jpeg" style="width:45%">
 
 <br>
 
@@ -319,7 +321,7 @@ Healthy Food Pyramid
 </table>
 
 <br>
-<center>
+
 	
 <img src="/images/Flagship%20Programmes/Lifeskill%203.png">
 
@@ -327,7 +329,7 @@ Healthy Food Pyramid
 
 <img src="/images/Flagship%20Programmes/Lifeskill%204.png">	
 
-</center>
+
 
 <br>
 <br>
