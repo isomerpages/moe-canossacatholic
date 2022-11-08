@@ -3,7 +3,6 @@ title: Students iCON Account
 permalink: /useful-information/students-icon-account/
 description: ""
 ---
-
 <b><font size="6">STUDENTS iCON ACCOUNT</font></b>
 
 <b><font size=5 color="#7daadf">Students’ iCON</font></b>
@@ -14,7 +13,7 @@ CCPS will be rolling out Student iCON progressively.
   
 <b>Student iCON Website:</b> https://workspace.google.com/dashboard  
 <b>Email:</b> <Full\_Name>@students.edu.sg  
-<b>Password:</b> IAMS Password  
+<b>Password:</b> MIMS Password  
   
 <b>Note:</b><br>
 Use a web browser (e.g. Chrome) on your computer or mobile devices when accessing MOE iCON account.  
