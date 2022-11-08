@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/lifeskills-programme-r-e-a-d-y-for-life/
 description: ""
 ---
-<b><font size=6>test3Lifeskills Programme - R.E.A.D.Y. FOR LIFE</font></b>
+<b><font size=6>test4Lifeskills Programme - R.E.A.D.Y. FOR LIFE</font></b>
 
 <b><font size=5 color="#7daadf">R.E.A.D.Y. for Life</font></b>
 
@@ -43,11 +43,8 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 
 <tbody>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Day 1 of School</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Who Am I?</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Day 1 of School</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Who Am I?</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will
 <br>
 <br>
@@ -65,12 +62,8 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 </td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Day 2 of School</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Our Common Goals</span>
-</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Day 2 of School</span>/td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Our Common Goals</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will
 <br><br>
 •  Establish their common goals (class goals)<br>
@@ -85,13 +78,8 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 • Year Head Talk
 </td>
 </tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Day 3 of School</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Joy in Learning</span>
-</td>
+<tr><td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Day 3 of School</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Joy in Learning</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will
 <br>
 <br>
