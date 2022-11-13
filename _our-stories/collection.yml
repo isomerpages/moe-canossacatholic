@@ -2,19 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2022 Events/All Saint's Day Family Mass.md
-      - 2022 Events/Bible Camp.md
-      - 2022 Events/May Devotion.md
-      - 2022 Events/Earth Day.md
-      - 2022 Events/Easter Paraliturgy.md
-      - 2022 Events/International Friendship Day.md
-      - 2022 Events/Parent Child Lent Retreat.md
-      - 2022 Events/World Water Day.md
-      - 2022 Events/World Hearing Day.md
-      - 2022 Events/Student Leadership Training.md
-      - 2022 Events/Mother Tongue Fortnight.md
-      - 2022 Events/Prefects' Investiture.md
-      - 2022 Events/Interest Week.md
       - 2022 Events/.keep
       - 2022 Events/2022 Events.md
       - 2022 Events/P1 Orientation.md
@@ -23,6 +10,19 @@ collections:
       - 2022 Events/P6 Sri Warisan Wayang Kulit and Gamelan Experience.md
       - 2022 Events/Total Defence Day.md
       - 2022 Events/Canossian Saints Week.md
+      - 2022 Events/Interest Week.md
+      - 2022 Events/Prefects' Investiture.md
+      - 2022 Events/Mother Tongue Fortnight.md
+      - 2022 Events/Student Leadership Training.md
+      - 2022 Events/World Hearing Day.md
+      - 2022 Events/World Water Day.md
+      - 2022 Events/Parent Child Lent Retreat.md
+      - 2022 Events/International Friendship Day.md
+      - 2022 Events/Easter Paraliturgy.md
+      - 2022 Events/Earth Day.md
+      - 2022 Events/May Devotion.md
+      - 2022 Events/Bible Camp.md
+      - 2022 Events/All Saint's Day Family Mass.md
       - 2021 Events/.keep
       - 2021 Events/2021 Events.md
       - 2021 Events/P1 Orientation.md
