@@ -3,11 +3,11 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-<b><font size=6>English</font></b>
+<b><font size=6>testEnglish</font></b>
 
 The six-year English Language (EL) curriculum aims to develop students to be confident and effective communicators of the English Language. It is aligned with the National Syllabus and STELLAR curriculum. Language is a means of communication, guided by purpose, audience, context and culture; hence language learning is a meaningful and an engaging experience for our students in CCPS.  
   
-<b><font size=4 color="#eeac0d">The EL Programme aims to:</font></b>
+<b><font size=5 color="#eeac0d">The EL Programme aims to:</font></b>
 
  *   Instil a love for lifelong reading
  *   Develop critical thinking through extensive reading and responding to texts
@@ -16,7 +16,7 @@ The six-year English Language (EL) curriculum aims to develop students to be con
  *   Emphasise differentiation of instruction to meet the special needs, abilities and interests of our students
 
 <br>
-<b><font size=4 color="#eeac0d">The foundation of EL learning will be strengthened through:</font></b>
+<b><font size=5 color="#eeac0d">The foundation of EL learning will be strengthened through:</font></b>
 <br><br>
 
 *   A greater focus on oral communication – listening & speaking
@@ -29,7 +29,7 @@ The six-year English Language (EL) curriculum aims to develop students to be con
 
 <br>
 
-<b><font size=4 color="#eeac0d">Reading Intervention:</font></b>
+<b><font size=5 color="#eeac0d">Reading Intervention:</font></b>
 <br>
 The Reading Intervention Programmes include the following:  
 
@@ -55,7 +55,7 @@ This programme aims to help students expand and extend students’ reading beyon
 
 <br>
 
-<b><font size=4 color="#eeac0d">Effective Communication:</font></b>
+<b><font size=5 color="#eeac0d">Effective Communication:</font></b>
 
 <b>Show & Tell</b>
 <br>
@@ -71,7 +71,7 @@ This activity is aimed at Primary 5 & Primary 6 students to help students build 
 
 <br>
 
-<b><font size=4 color="#eeac0d">Writing</font></b>
+<b><font size=5 color="#eeac0d">Writing</font></b>
 
 <b>Canossian Writing Programme</b>
 <br>
@@ -87,7 +87,7 @@ Students are encouraged to read widely and respond to what they read. Journaling
 
 <br>
 
-<b><font size=4 color="#eeac0d">I Love Literature:</font></b>  
+<b><font size=5 color="#eeac0d">I Love Literature:</font></b>  
 
 In line with the latest English Language Syllabus, "<em>I Love Literature</em>" gives every student a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our students participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
 
@@ -98,7 +98,7 @@ In line with the latest English Language Syllabus, "<em>I Love Literature</em>" 
 <br>
 
 
-<b><font size=4 color="#eeac0d">Department Strategies</font></b>
+<b><font size=5 color="#eeac0d">Department Strategies</font></b>
 
 <b>Strategies for Effective Communication:</b>
 <br>
