@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/permalink/
 description: ""
 ---
-<font size=6><b>test2Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
+<font size=6><b>test3Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
 <br>
 <font size=5 color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
 <br>
@@ -95,4 +95,3 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 </tr>
 </tbody>
 </table>
-
