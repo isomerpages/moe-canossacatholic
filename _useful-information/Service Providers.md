@@ -3,7 +3,7 @@ title: Service Providers
 permalink: /useful-information/service-providers-contact-numbers/
 description: ""
 ---
-<font size=6><b>test6Service Providers Contact Numbers</b></font><br>
+<font size=6><b>Service Providers Contact Numbers</b></font><br>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: px" class="tg">
 <colgroup>
@@ -63,9 +63,9 @@ description: ""
 		During closure of dental clinic, if in need of dental treatment, you may contact the buddy clinics listed below.<br><br>
 		*Please call to ensure that a dental staff is on duty before going to the clinic.<br>
 		<b>1)     Geylang Methodist Primary School:</b> 6848 1060<br>
-		<b>2)     Cedar Primary School:</b>6285 1372<br>
+		<b>2)     Cedar Primary School:</b> 6285 1372<br>
 		<b>3)     Mobile Dental Clinic 16 (MDC 16):</b> 9389 5107<br>
-		<b>4)     School Dental Centre:</b>6435 3782<br><br>
+		<b>4)     School Dental Centre:</b> 6435 3782<br><br>
 		Please do take note that crossing of schools are not allowed for the time being due to COVID-19 movement restrictions.</td>
 </tr></tbody></table>
 
