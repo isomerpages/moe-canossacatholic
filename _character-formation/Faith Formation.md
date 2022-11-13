@@ -3,7 +3,7 @@ title: Faith Formation
 permalink: /character-formation/faith-formation/
 description: ""
 ---
-<b><font size=6>testFaith Formation</font></b>
+<b><font size=6>Faith Formation</font></b>
 
 <center>
 <b><font size=3 color="#eeac0d"><em>“Above all...let the Sisters bring the children to the knowledge of Jesus Christ as He is not loved because He is not known.”<br></em>
