@@ -133,14 +133,12 @@ soaked in the festive atmosphere through the performances.
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
-The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.
+The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.<br>
 
-
-	
 ![](/images/Departments/MT%202.png)
-	
 
 <br>
+	
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
@@ -172,52 +170,49 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 <font size=5 color="#7daadf"><b>Malay Language Key Programme:</b></font>
 <br>
 <br>
-<br>
-<b>
-<font size=4>P1 to P6 Malay Reading Programme</b>
-<br>
-The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.</font>
+
+<font size=4><b>P1 to P6 Malay Reading Programme</b>
+<br>The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.</font>
 <br><br>
-	<font size=4><b>P1 to P6 School based Oracy programme</b></font>
+	
+<font size=4><b>P1 to P6 School based Oracy programme</b></font>
+	
+<p style="margin-left: 40px"><font size=4 color="#eeac0d"><b><u>Reading</u></b></font>
+<br>The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.</p>
+	
 <p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">Reading</font></u></b>
-<br>
-The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
-<p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">Conversation:</font></u></b>
-<br>
-The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
-</p>
+<font size=4 color="#eeac0d"><b><u>Conversation:</u></b></font>
+<br>The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.</p>
+
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">Lower and Middle Primary: 4P Strategy</font></u></b>
 <br>
 <b>Primary 1:</b> 1P (What is in the picture?) <br>
 <b>Primary 2:</b> 2P (What is in the picture? + Feelings) <br>
 <b>Primary 3:</b> 3P (What is in the picture? + Feelings + Personal Experience) <br>
-<b>Primary 4:</b> 4P (What is in the picture? + Feelings + Personal Experience + Reason) <br>
-</p>
+<b>Primary 4:</b> 4P (What is in the picture? + Feelings + Personal Experience + Reason) <br></p>
+
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">Upper Primary: 4PAS Strategy</font></u></b>
 <br>
 <b>Primary 5:</b> 4P + Impact <br>
-<b>Primary 6:</b> 4P + Impact + Suggestions <br>
-</p>
+<b>Primary 6:</b> 4P + Impact + Suggestions <br></p>
 <br>
 <br>
 <font size=4><b>Malay Department Key Activities:</b></font>
 <br>
 <p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">Hari Raya Celebration</font></u></b>
-<br>
-The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.  
-<br>
+<font size=4 color="#eeac0d"><b><u>Hari Raya Celebration</u></b></font>
+<br>The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.<br></p>
+
 <p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
-<br>
-The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
+<font size=4 color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
+<br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
 
 <center>
+	
 <img src="/images/Departments/MT%204.png" style="width:85%">
+	
 </center>
 
 <p style="margin-left: 40px">
@@ -226,53 +221,41 @@ The Malay Language Department has organized Mother Tongue Language Fortnight Act
 The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.  
   
 <p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">External Competition</font></u></b>
-<br>
-P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.
-</p>
-
+<font size=4 color="#eeac0d"><b><u>External Competition</u></b></font>
+<br>P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.</p>
 <br>
 	
-<b>
-<font size=5 color="#7daadf">Tamil Language Department</font>
-</b>
+<font size=5 color="#7daadf"><b>Tamil Language Department</b></font>
 <br>
 <br>
 <font size="4">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.</font>
 
 <br><br>
 	
-<b>
-<font size=5 color="#7daadf">Tamil Language Key Programme:</font>
-</b>
+<font size=5 color="#7daadf"><b>Tamil Language Key Programme:</b></font>
+
 <br><br>
 
 <font size="4">
 <b>Tamil Reading Programme (P1-P6)</b>
-<br>
-Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
-<br>
-Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.
+<br>Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
+<br>Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.
 <br>
 <br>
 <b>Show & Tell (P1&P2)</b>
-<br>
-Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
+<br>Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
 <br>
 <br>
 <b>Vaandu Portal (P1-P6)</b>
-<br>
-The six-year curriculum uses Vaandu as a supporting portal for students to revise their work at their own pace encouraging them to be self-directed learners. Students enjoy the game based learning and are motivated to complete the learning packages.  
+<br>The six-year curriculum uses Vaandu as a supporting portal for students to revise their work at their own pace encouraging them to be self-directed learners. Students enjoy the game based learning and are motivated to complete the learning packages.  
 <br>
 <br>
 <b>iMTL Portal Programme (P4-P6)</b>
-<br>
-iMTL portal is used as an interactive tool to enhance students' learning. Students are taught to use this portal to share their answers for questions posted by the teachers. This platform gives students a chance to practice their touch typing skills as they post their answers as a mind map or on the collaborative board.  
+<br>iMTL portal is used as an interactive tool to enhance students' learning. Students are taught to use this portal to share their answers for questions posted by the teachers. This platform gives students a chance to practice their touch typing skills as they post their answers as a mind map or on the collaborative board.  
 <br>
 <br>
 <b>Enrichment Class (P5-P6)</b>
-<br>
-Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
+<br>Upper primary students receive further guidance in the enrichment classes where teachers focus on oratorical and writing skills during the programme. students brainstorm and present their ideas to the class. Students take ownership of their learning and enrichment gives them the opportunity to be a student centric class where discussions will be led by them with some scaffolding by the teacher.  
 <br>
 <br>
 <b>Tamil Department Key Activities:</b></font>
@@ -286,7 +269,6 @@ Upper primary students receive further guidance in the enrichment classes where 
 <b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
 MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
-
 
 ![](/images/Departments/MT%205.png)
 
