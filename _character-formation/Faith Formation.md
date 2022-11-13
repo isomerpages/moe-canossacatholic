@@ -3,7 +3,7 @@ title: Faith Formation
 permalink: /character-formation/faith-formation/
 description: ""
 ---
-<b><font size=6>Faith Formation</font></b>
+<b><font size=6>testFaith Formation</font></b>
 
 <center>
 <b><font size=3 color="#eeac0d"><em>“Above all...let the Sisters bring the children to the knowledge of Jesus Christ as He is not loved because He is not known.”<br></em>
@@ -56,13 +56,7 @@ In addition to termly Faith Formation and weekly prayer sessions, Catholic staff
 
 <b><font size=5 color="#7daadf">Catholic Students' Club</font></b>
 
-<br>
-In 2019, the Catholic Students’ Club was formed as part of the Catholic faith formation of the school. The objectives of the Catholic Students’ Club are to :  
-<br>
-
-    1.  Deepen our students’ love for God and the Catholic faith
-    2.  Nurture our students in their faith formation and service for others
-    3.  Build a community among the students for support in their faith journey
+<br>In 2019, the Catholic Students’ Club was formed as part of the Catholic faith formation of the school. The objectives of the Catholic Students’ Club are to:<br><br><b>1.</b>  Deepen our students’ love for God and the Catholic faith<br><b>2.</b>  Nurture our students in their faith formation and service for others<br><b>3.</b>  Build a community among the students for support in their faith journey
 
 <br>
 The sessions are conducted once a month on a Wednesday and it is optional for P3 to P6 students in the VE Catechism Programme to participate in the club.  
