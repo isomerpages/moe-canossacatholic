@@ -3,7 +3,7 @@ title: Cyber Wellness
 permalink: /useful-information/cyber-wellness/
 description: ""
 ---
-<b><font size="6">Cyber Wellness</font></b>
+<b><font size="6">test2Cyber Wellness</font></b>
 
 <b><font size=5 color="#7daadf">Cyber Wellness Tips</font></b>
 
@@ -36,14 +36,13 @@ Here are some PARENTing Tips to guide your child in this digital age.
 
 <b><u>Activate Parental Controls and Filters in Devices</u></b>
 
-*   Help to regulate your child’s usage of devices by setting parental controls and filters. Check out “[Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)”
+*   Help to regulate your child’s usage of devices by setting parental controls and filters. [Guide for Parents on Setting Parental Controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
 
-*   [https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls](https://www.schoolbag.edu.sg/story/guide-for-parents-on-setting-parental-controls)
   
 <b><u>Role Model Good Digital Habits</u></b>
 
 *   Demonstrate safe, responsible and respectful behaviour when sharing, collaborating and creating online and avoid excessive use of technology
-*   Check out “[Helping Children with Appropriate Online Expression](/files/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)”
+*   Check out “[Helping Children with Appropriate Online Expression](/files/Forms%20and%20Guides/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)”
 
 <b><u>Establish Ground Rules for Devices Use</u></b>
 
@@ -94,7 +93,7 @@ Here are some PARENTing Tips to guide your child in this digital age.
   
 <b>Safe & Smart Online Parents Guide</b>
 
-*    [Safe and Smart Online Parent Guide](/files/Useful%20Information%20-%20Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
+*    [Safe and Smart Online Parent Guide](/files/Forms%20and%20Guides/Useful%20Information%20-%20Safe%20and%20Smart%20Online%20Parent%20Guide.pdf)
 
   
 <b>Help! How Do I Limit Screen Time for My Children?</b>
@@ -109,7 +108,7 @@ Here are some PARENTing Tips to guide your child in this digital age.
   
 <b>Helping Children with Appropriate Online Expression</b>
 
-*    [Helping Children with Appropriate Online Expression](/files/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)
+*    [Helping Children with Appropriate Online Expression](/files/Forms%20and%20Guides/Useful%20Information%20-%20Helping%20Children%20with%20Appropriate%20Online%20Expression.pdf)
 
   
 <b>Understanding cyber wellness</b>
