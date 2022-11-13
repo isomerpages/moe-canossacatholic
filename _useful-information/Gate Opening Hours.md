@@ -3,7 +3,7 @@ title: Gate Opening Hours
 permalink: /useful-information/school-gate-opening-hours/
 description: ""
 ---
-<b><font size="6">test1School Gate Opening Hours</font></b>
+<b><font size="6">test2School Gate Opening Hours</font></b>
 	
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
@@ -71,8 +71,8 @@ Canossa Catholic Primary School Rear Gate, Walk-in<br>
 <em>(Along Merpati Road)</em></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">Students Only</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">Monday to Friday:<br>6.45am - 7.25am</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<center>Monday to Friday:<br>1.30pm - 2pm</center>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
+Monday to Friday:<br>1.30pm - 2pm<br><br>
 • Enrichment / Remedial / CCA<br>
 • Gate will be opened for 30 minutes after the respective dismissal times<br></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Walk-in visitors are to come in via Gate 2</span></td>
