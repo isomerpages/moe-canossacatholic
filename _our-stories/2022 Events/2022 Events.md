@@ -130,14 +130,14 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/bible-camp/">
 <img src="/images/Gallery/Bible%20Camp%202022.jpg"
-		 style="width:95px;height:105px;margin-right:5px;"
+		 style="width:95px;height:105px;margin-right:1px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/all-saints-day-family-mass/">
 <img src="/images/Gallery/All%20Saint's%20Day%20Family%20Mass%202022.jpg"
-		 style="width:105px;height:120px;margin-right:5px;"
+		 style="width:108px;height:120px;margin-right:5px;"
 		 align="left">
 </a></p>
 
