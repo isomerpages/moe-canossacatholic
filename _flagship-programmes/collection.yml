@@ -2,10 +2,10 @@ collections:
   flagship-programmes:
     output: true
     order:
-      - Lifeskills Programme READY for Life 2.md
       - Applied Learning Programme MAKE @ CCPS.md
       - Learning for Life Programme PACE @ CCPS.md
       - Lifeskills Programme READY for Life.md
+      - Lifeskills Programme READY for Life 2.md
       - Support Stretch Programme/.keep
       - Support Stretch Programme/Support Stretch Programme.md
       - Support Stretch Programme/English Language.md
