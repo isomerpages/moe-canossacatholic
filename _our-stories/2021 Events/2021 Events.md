@@ -39,8 +39,8 @@ third_nav_title: 2021 Events
 		 align="left">
 </a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/prefects-investiture/">
+<img src="/images/Gallery/2021/Prefects'%20Investiture%202021.jpg"
 		 style="width:100px;height:109px;margin-right:5px;" 
 		 align="left">
 </a></p>
