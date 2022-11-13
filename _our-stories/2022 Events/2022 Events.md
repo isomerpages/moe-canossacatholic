@@ -63,30 +63,30 @@ third_nav_title: 2022 Events
 
 <br><br><br><br>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Prefects-Investiture/">
-<img src="/images/Gallery/Prefects'%20Investiture%202022.jpg"
-		 style="width:95px;height:111px;margin-right:5px;"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/mother-tongue-fortnight/">
+<img src="/images/Gallery/Mother%20Tongue%20Fortnight%202022.jpg"
+		 style="width:91px;height:111px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Prefects-Investiture/">
-<img src="/images/Gallery/Prefects'%20Investiture%202022.jpg"
-		 style="width:95px;height:111px;margin-right:5px;"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/student-leadership-training/">
+<img src="/images/Gallery/Student%20Leadership%20Training%202022.jpg"
+		 style="width:100px;height:125px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Prefects-Investiture/">
-<img src="/images/Gallery/Prefects'%20Investiture%202022.jpg"
-		 style="width:95px;height:111px;margin-right:5px;"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-hearing-day/">
+<img src="/images/Gallery/World%20Hearing%20Day%202022.jpg"
+		 style="width:95px;height:114px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Prefects-Investiture/">
-<img src="/images/Gallery/Prefects'%20Investiture%202022.jpg"
-		 style="width:95px;height:111px;margin-right:5px;"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-water-day/">
+<img src="/images/Gallery/World%20Water%20Day%202022.jpg"
+		 style="width:95px;height:115px;margin-right:5px;"
 		 align="left">
 </a></p>
 
