@@ -40,7 +40,8 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 <br>
 <br>
 <b><font size=5 color="#eeac0d">4.</font></b> &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach">here</a> for more information on the scope of Sexuality Education in the school curriculum.  
-<br>  
+<br> 
+<br>
 <b><font size=5 color="#eeac0d">5.</font></b> &nbsp; The subjects that incorporate topics on sexuality include:  <br>
  a.    Science<br>
  b.    Form Teacher Guidance Period (FTGP)<br>
@@ -215,8 +216,8 @@ They will consider the issues that their peers would face and craft questions an
 
 [Opt Out Form](/files/Forms%20and%20Guides/Annex%20A%20Opt%20Out%20Form.pdf)
 
-
-<b><font size=5 color="#eeac0d">10.</font></b> &nbsp; Parents can contact the school at Tel no: 68441418 or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
+<br>
+<font size=5 color="#eeac0d"><b>10.</b></font> &nbsp; Parents can contact the school at Tel no: 68441418 or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
 
 
 <br><br><br><br><br><br>
