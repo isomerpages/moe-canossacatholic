@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/permalink/
 description: ""
 ---
-<font size=6><b>test5Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
+<font size=6><b>test6Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
 <br>
 <font size=5 color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
 <br>
@@ -22,7 +22,7 @@ These life skills will empower the students to be <br>
 <b>D</b> – Determined in seeing through every commitment<br>
 <b>Y</b> – Yielding to GRACE and TRUTH, not fear<br>
 <br>
-<b>R.E.A.D.Y. for Life</b>  consists of a series of modules that are conducted in a year and across the levels in a progressive manner.<br>
+<b>R.E.A.D.Y. for Life</b>  consists of a series of modules that are conducted in a year and across the levels in a progressive manner.<br><br>
 
 <font size=5 color="#eeac0d"><b>Starting School Right</b></font>
 
