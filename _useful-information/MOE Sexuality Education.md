@@ -142,7 +142,11 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 • Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>
 • Know their responsibilities in minimising the risk of sexual harm</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
-</tr></tbody></table>
+</tr>
+</tbody>
+</table>
+
+</table>
 
 <center><font size=4 color="#eeac0d"><b>Primary 6</b></font></center>
 
@@ -204,7 +208,7 @@ Pupils are to play the role of a game designer who wants to create a board game 
 They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 2</span></td>
 </tr>
-	
+</tbody>
 </table>
 
 	
