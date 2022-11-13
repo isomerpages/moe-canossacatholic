@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/permalink/
 description: ""
 ---
-<font size=6><b>test3Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
+<font size=6><b>test4Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
 <br>
 <font size=5 color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
 <br>
@@ -23,9 +23,9 @@ These life skills will empower the students to be <br>
 <b>Y</b> – Yielding to GRACE and TRUTH, not fear<br>
 <br>
 <b>R.E.A.D.Y. for Life</b>  consists of a series of modules that are conducted in a year and across the levels in a progressive manner.
-<br><br>
+
 <font size=5 color="#eeac0d"><b>Starting School Right</b></font>
-<br><br>
+
 Conducted at the beginning of the school year, the 3-day module consists of a number of activities and lessons that provide opportunities for our students to explore different themes and be equipped with competencies and skills that are explicitly taught and reinforced progressively across their 6 years of education. It instils our school values (Charity, Humility, Forgiveness, Faith) and promotes the acquisition of learning dispositions (shares ideas and thoughts with others; works well with others, open to feedback and acts on it to improve, perseveres and does not give up easily).
 
 <br>
@@ -36,18 +36,17 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 
 <tr>
 
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 30px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#252525">Theme</span></th><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#252525">Objectives</span></th>
 
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 30px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Theme</span></th><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Objectives</span></th>
-
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Activities and Lessons</span></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#252525">Activities and Lessons</span></th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:,;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Day 1 of School</span></td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Who Am I?</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:,;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Day 1 of School</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Who Am I?</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">Students will
 <br>
 <br>
