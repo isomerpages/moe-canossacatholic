@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2022 Events/Interest Week.md
       - 2022 Events/.keep
       - 2022 Events/2022 Events.md
       - 2022 Events/P1 Orientation.md
