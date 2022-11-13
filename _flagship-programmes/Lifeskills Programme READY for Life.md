@@ -105,7 +105,6 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 
 <font size=5 color="#eeac0d"><b>The Little Chef in Me</b></font>
 <br>
-<br>
 Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our students to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, students will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
 <br>
 <br>
