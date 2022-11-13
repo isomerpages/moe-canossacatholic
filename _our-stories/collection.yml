@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2022 Events/Parent Child Lent Retreat.md
       - 2022 Events/World Water Day.md
       - 2022 Events/World Hearing Day.md
       - 2022 Events/Student Leadership Training.md
