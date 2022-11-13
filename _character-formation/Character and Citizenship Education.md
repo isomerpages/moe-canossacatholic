@@ -3,7 +3,7 @@ title: Character and Citizenship Education
 permalink: /character-formation/character-and-citizenship-education/
 description: ""
 ---
-<b><font size=6>test2Character and Citizenship Education</font></b>
+<b><font size=6>test3Character and Citizenship Education</font></b>
 
 As part of Canossian Character Formation, the Character & Citizenship Education (CCE) Department Programmes aim to develop students who demonstrate:  
 
@@ -65,7 +65,7 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <thead>
 <tr>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:top;word-break:normal">
-	<span style="font-weight:bold;color:#252525">Level</span>
+<span style="font-weight:bold;color:#252525">Level</span>
 </th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="font-weight:bold;color:#252525">Theme</span>
@@ -122,7 +122,8 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <span style="color:#454545;background-color:#FAFAFA">P6</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Understanding Features and legacies of Civilisations</span></td></tr></tbody></table>
+<span style="color:#454545;background-color:#FAFAFA">Understanding Features and legacies of Civilisations</span></td>
+</tr></tbody></table>
 
 <br>
 <br>
@@ -177,7 +178,6 @@ While National Education has been infused in the various subjects, SS Learning j
 <br><br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
-	
 <thead>
 <tr>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 25px;text-align:center;vertical-align:middle;word-break:normal">
@@ -194,9 +194,7 @@ While National Education has been infused in the various subjects, SS Learning j
 </th>
 </tr>
 </thead>
-	
 <tbody>
-	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Star Pupil</span></td>
@@ -247,46 +245,26 @@ While National Education has been infused in the various subjects, SS Learning j
 <span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Annually</span>
-</td>
+<span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">St Bakhita</span></td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Perseverance, Resilience and Determination</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Annually</span>
-</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">St Bakhita</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Perseverance, Resilience and Determination</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">St Francis</span></td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Service and Advocacy</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Annually</span>
-</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">St Francis</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Service and Advocacy</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">St Anthony</span></td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Outstanding performance in CCA and non-academic areas</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Annually</span></td></tr></tbody></table>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">St Anthony</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Outstanding performance in CCA and non-academic areas</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
+</tr></tbody></table>test
 
 
 <br><br><br><br><br><br>
