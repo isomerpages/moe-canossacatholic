@@ -3,7 +3,7 @@ title: Our Staff
 permalink: /our-school/our-staff/
 description: ""
 ---
-<b><font size=6>testOur Staff</font></b>
+<b><font size=6>Our Staff</font></b>
 
 <b><font size=5 color="#7daadf">KEY PERSONNEL</font></b>
 
