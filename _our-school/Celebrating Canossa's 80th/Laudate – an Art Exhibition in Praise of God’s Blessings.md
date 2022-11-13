@@ -20,7 +20,7 @@ Enjoy this 3 minute snapshot of the exhibition and we hope to see you and your f
 <iframe width="600" height="355" src="https://www.youtube.com/embed/rxq53XN_DNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![](/images/History/Laudate%201.png)
+<img src="/images/History/Laudate%201.png">
 
 <br>
 </center>
