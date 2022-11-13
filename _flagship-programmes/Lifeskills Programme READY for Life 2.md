@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life 2
 permalink: /flagship-programmes/permalink/
 description: ""
 ---
-<b><font size=6>test4Lifeskills Programme - R.E.A.D.Y. FOR LIFE</font></b>
+<b><font size=6>testLifeskills Programme - R.E.A.D.Y. FOR LIFE</font></b>
 
 <b><font size=5 color="#7daadf">R.E.A.D.Y. for Life</font></b>
 
