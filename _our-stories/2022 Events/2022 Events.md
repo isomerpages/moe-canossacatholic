@@ -63,6 +63,11 @@ third_nav_title: 2022 Events
 
 <br>
 
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Prefects-Investiture/">
+<img src="/images/Gallery/Prefects'%20Investiture%202022.jpg"
+		 style="width:95px;height:111px;margin-right:5px;"
+		 align="left">
+</a></p>
 
 
 <br><br><br><br><br><br><br>
