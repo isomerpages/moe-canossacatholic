@@ -3,7 +3,7 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-<b><font size=6>testEnglish</font></b>
+<b><font size=6>English</font></b>
 
 The six-year English Language (EL) curriculum aims to develop students to be confident and effective communicators of the English Language. It is aligned with the National Syllabus and STELLAR curriculum. Language is a means of communication, guided by purpose, audience, context and culture; hence language learning is a meaningful and an engaging experience for our students in CCPS.  
   
