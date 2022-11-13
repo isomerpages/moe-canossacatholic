@@ -123,7 +123,7 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/may-devotion/">
 <img src="/images/Gallery/May%20Devotion%202022.jpg"
-		 style="width:95px;height:108px;margin-right:8px;"
+		 style="width:95px;height:108px;margin-right:9px;"
 		 align="left">
 </a></p>
 
