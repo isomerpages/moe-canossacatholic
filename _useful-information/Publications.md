@@ -3,11 +3,10 @@ title: Publications
 permalink: /useful-information/publications/
 description: ""
 ---
-<font size="6"><b>test6Publications</b></font><br>
-
+<font size="6"><b>test7Publications</b></font><br>
 <font size=6 color="#7daadf"><b>2022</b></font>
 <br><br>
-<font size=5 color="#eeac0d"><b>Canossa Newsbites</b></font><br>
+<font size=5 color="#eeac0d"><b>Canossa Newsbites</b></font>
 
 * [Canossa Newsbites - January](/files/Newsbites/Canossa%20Newsbites%20Jan%202022.pdf)<br>
 * [Canossa Newsbites - February](/files/Newsbites/Canossa%20Newsbites%20February%202022.pdf)<br>
@@ -19,7 +18,7 @@ description: ""
 * [Canossa Newsbites - September](/files/Newsbites/Canossa%20Newsbites%20September%202022.pdf)<br>
 * [Canossa Newsbites - October ](/files/Newsbites/Canossa%20Newsbites%20-%20October%202022.pdf)<br><br>
 
-<font size=5 color="#eeac0d"><b>Canossa Connects</b></font><br>
+<font size=5 color="#eeac0d"><b>Canossa Connects</b></font>
 
 * [Canossa Connects 2022 Term 1](/files/Canossa%20Connects%202022%20Term%201.pdf)<br>
 * [Canossa Connects 2022 Term 2](/files/Canossa%20Connects%202022%20Term%202-compressed.pdf)<br>
