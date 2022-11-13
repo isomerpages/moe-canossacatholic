@@ -61,9 +61,9 @@ Canossa Catholic Primary School, side gate beside guardroom, Walk-in<br><em>(Alo
 	
 <tbody>
 <tr>
-<td style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"></td>
-<td style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">Arrival</td>
-<td style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td>
+<td style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"></td>
+<td style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2">Arrival</td>
+<td style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><b>Gate 4</b><br>
