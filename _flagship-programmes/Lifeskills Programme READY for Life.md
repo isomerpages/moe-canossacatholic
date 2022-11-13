@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/permalink/
 description: ""
 ---
-<font size=6><b>test9Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
+<font size=6><b>testLifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
 <br>
 <font size=5 color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
 <br>
@@ -210,8 +210,6 @@ Students will learn<br><br>
 Healthy Food Pyramid<br>– Balanced Diet, Nutrition Facts</td>
 </tr>
 </tbody>
-</table>
-
 </table>
 
 <br>
