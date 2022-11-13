@@ -68,7 +68,7 @@ The department's six years writing programme aims to develop students to become 
 <br>
 <b>Primary 1:</b> 3W Strategy
 <br>
-• &emsp; Who + Where + What </li>
+• &emsp; Who + Where + What 
 <br><br>
 <b>Primary 2:</b> 3W+1F Strategy <br>
 • &emsp; Who + Where + What + Feeling
@@ -114,13 +114,12 @@ Chinese GO! is an educational mobile app developed to build students’ interest
 <b>P4 to P6 Letter Writing Programme</b>
 <br>
 Students are taught how to identify the SVO during letter writing:  
-
-*   <b><u>S</u></b> ubject – who they are writing to
-*   <b><u>V</u></b> ariable – when and where (e.g the date, time and place, etc)
+<br>
+*   <b><u>S</u></b> ubject – who they are writing to<br>
+*   <b><u>V</u></b> ariable – when and where (e.g the date, time and place, etc)<br>
 *   <b><u>O</u></b> bjective – why the letter is written
 
-<br><br>
-<b>Chinese Language Key Activities</b>
+<br><br><b>Chinese Language Key Activities</b>
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">Lunar New Year Celebration</font></u></b>
 <br>
