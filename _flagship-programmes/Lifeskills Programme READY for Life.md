@@ -195,36 +195,15 @@ Students will learn<br><br>
 </tr>
 
 <tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 6</span><br>
+<span style="color:#454545;background-color:#FAFAFA">Kidz Fine Dining</span></td>
 
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-
-<span style="font-weight:bold">Primary 6</span>
-
-<br>
-
-<span style="color:#454545;background-color:#FAFAFA">Kidz Fine Dining</span>
-
-</td>
-
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-
-Students will learn
-
-<br>
-
-<br>
-
-•  Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
-
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+Students will learn<br><br>
+•  Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
 •  How to prepare a simple western meal<br>
-
-•  Food plating principles<br>
-
-•  Dining etiquette<br>
-
-<br>
-
-</td>
+•  Food plating principles<br><br>
+•  Dining etiquette<br><br></td>
 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 
