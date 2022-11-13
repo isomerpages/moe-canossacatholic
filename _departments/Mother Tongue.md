@@ -262,21 +262,17 @@ The MTL Department conducts Termly Internal Competition for students to showcase
 <br>
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">Deepavali Celebration</font></u></b>
-<br>
- Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.  
+<br>Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.</p> 
 <br>
 <br>
 <b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
 MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
-
-![](/images/Departments/MT%205.png)
-
+</p>
 
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
-<br>
-The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
+<br>The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.</p>
 
 
 <br><br><br><br><br><br>
