@@ -136,7 +136,9 @@ soaked in the festive atmosphere through the performances.
 The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.<br>
 </p>
 
-![](/images/Departments/MT%202.png)
+<center>
+<img src="/images/Departments/MT%202.png" style="width:100%">
+</center>
 
 <br>
 	
@@ -210,11 +212,7 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 <font size=4 color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
 <br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
 
-<center>
-	
-<img src="/images/Departments/MT%204.png" style="width:85%">
-	
-</center>
+C
 
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
