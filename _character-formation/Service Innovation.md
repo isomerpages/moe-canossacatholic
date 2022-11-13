@@ -3,7 +3,7 @@ title: Service Innovation
 permalink: /character-formation/service-innovation/
 description: ""
 ---
-<b><font size=6>testService Innovation</font></b>
+<b><font size=6>Service Innovation</font></b>
 <br>
 <br>
 <b><font size=5 color="#7daadf">Developing Compassionate Leaders</font></b>
