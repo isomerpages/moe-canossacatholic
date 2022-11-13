@@ -3,7 +3,7 @@ title: MOE Sexuality Education
 permalink: /useful-information/moe-sexuality-education/
 description: ""
 ---
-<b><font size="6">testMOE Sexuality Education</font></b>
+<b><font size="6">test2MOE Sexuality Education</font></b>
 
 <b><font size=5 color="#7daadf">MOE Sexuality Education in Schools</font></b>
 
@@ -35,7 +35,7 @@ description: ""
 <br>
 You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">here</a> for more information on MOE Sexuality Education.
 
-<br><br>
+<br><br><br>
 <b><font size=5 color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2022</font></b>
 <br>
 <br>
@@ -53,8 +53,8 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 <b><font size=5 color="#eeac0d">6.</font></b> &nbsp; The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.  
 <br>   
 <b><font size=5 color="#eeac0d">7.</font></b> &nbsp; The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.   
-<br><br>   
-<b><font size=5 color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:</font></b>
+<br><br><br>   
+<b><font size=5 color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:</font></b><br><br>
 
 <center><font size=5 color="#eeac0d"><b>Primary 5</b></font></center>
 
@@ -211,8 +211,10 @@ They will consider the issues that their peers would face and craft questions an
 <br><br>
 <b><font size=5 color="#eeac0d">8.</font></b> &nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 <br><br>
-<b><font size=5 color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and can be downloaded [here.](/files/Forms%20and%20Guides/Annex%20A%20Opt%20Out%20Form.pdf)
-<br>The completed opt-out form is to be submitted by 25/02/2022.
+<b><font size=5 color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and can be downloaded
+[here.](/files/Forms%20and%20Guides/Annex%20A%20Opt%20Out%20Form.pdf)
+
+The completed opt-out form is to be submitted by 25/02/2022.
 <br><br>
 <b><font size=5 color="#eeac0d">10.</font></b> &nbsp; Parents can contact the school at Tel no: 68441418 or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
 
