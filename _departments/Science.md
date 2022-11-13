@@ -3,7 +3,7 @@ title: Science
 permalink: /departments/science/
 description: ""
 ---
-<b><font size=6>testScience</font></b>
+<b><font size=6>Science</font></b>
 
 <center>
 <b><font size=4 color="#eeac0d"><em>"You learn at your best when you have something you care about and can get pleasure in being engaged in”
