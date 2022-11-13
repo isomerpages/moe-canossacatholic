@@ -116,7 +116,7 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 	• Know that there are different types of family structures<br><br>
 	• Know that every family is unique<br><br>
 	• State that the three basic functions of families are to provide love, protection and guidance<br><br>
-	• Identify the right sources of help to turn to when in need<br><br></td></span>
+	• Identify the right sources of help to turn to when in need<br><br></span></td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
 	</tr>
 	<tr>
@@ -141,10 +141,7 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
 	• Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>
 	• Know their responsibilities in minimising the risk of sexual harm<br><br></span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
-	</tr>
-</tbody>
-</table>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td></tr></tbody></table>test
 
 <br><br>
 
@@ -206,10 +203,7 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation.
 <br><br>
 They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 2</span></td>
-</tr>
-</tbody>
-</table>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 2</span></td></tr></tbody></table>test 3
 
 	
 <br><br>
@@ -217,7 +211,7 @@ They will consider the issues that their peers would face and craft questions an
 <br><br>
 <b><font size=5 color="#eeac0d">8.</font></b> &nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
 <br><br>
-<b><font size=5 color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Forms%20and%20Guides/Annex%20A%20Opt%20Out%20Form.pdf). The completed opt-out form is to be submitted by 25/02/2022.
+<b><font size=5 color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and can be downloaded [here.](/files/Forms%20and%20Guides/Annex%20A%20Opt%20Out%20Form.pdf) The completed opt-out form is to be submitted by 25/02/2022.
 <br><br>
 <b><font size=5 color="#eeac0d">10.</font></b> &nbsp; Parents can contact the school at Tel no: 68441418 or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
 
