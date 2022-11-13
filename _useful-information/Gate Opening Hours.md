@@ -3,7 +3,7 @@ title: Gate Opening Hours
 permalink: /useful-information/school-gate-opening-hours/
 description: ""
 ---
-<b><font size="6">test4School Gate Opening Hours</font></b>
+<b><font size="6">School Gate Opening Hours</font></b>
 	
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
