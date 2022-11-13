@@ -72,41 +72,41 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/student-leadership-training/">
 <img src="/images/Gallery/Student%20Leadership%20Training%202022.jpg"
-		 style="width:100px;height:125px;margin-right:5px;"
+		 style="width:100px;height:115px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-hearing-day/">
 <img src="/images/Gallery/World%20Hearing%20Day%202022.jpg"
-		 style="width:95px;height:114px;margin-right:5px;"
+		 style="width:95px;height:105px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-water-day/">
 <img src="/images/Gallery/World%20Water%20Day%202022.jpg"
-		 style="width:95px;height:115px;margin-right:5px;"
+		 style="width:95px;height:105px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/parent-child-lent-retreat/">
 <img src="/images/Gallery/Parent%20Child%20Lent%20Retreat%202022.jpg"
-		 style="width:95px;height:133px;margin-right:5px;"
+		 style="width:95px;height:124px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/international-friendship-day/">
 <img src="/images/Gallery/International%20Friendship%20Day%202022.jpg"
-		 style="width:104px;height:126px;margin-right:3px;"
+		 style="width:104px;height:115px;margin-right:3px;"
 		 align="left">
 </a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/easter-paraliturgy/">
 <img src="/images/Gallery/Easter%20Paraliturgy%202022.jpg"
-		 style="width:100px;height:115px;margin-right:2px;"
+		 style="width:100px;height:105px;margin-right:2px;"
 		 align="left">
 </a></p>
 
@@ -114,7 +114,7 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/earth-day/">
 <img src="/images/Gallery/Earth%20Day%202022.jpg"
-		 style="width:95px;height:118px;margin-right:5px;"
+		 style="width:95px;height:109px;margin-right:5px;"
 		 align="left">
 </a></p>
 
@@ -123,21 +123,21 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/may-devotion/">
 <img src="/images/Gallery/May%20Devotion%202022.jpg"
-		 style="width:95px;height:117px;margin-right:5px;"
+		 style="width:95px;height:110px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/bible-camp/">
 <img src="/images/Gallery/Bible%20Camp%202022.jpg"
-		 style="width:95px;height:115px;margin-right:5px;"
+		 style="width:95px;height:105px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/all-saints-day-family-mass/">
 <img src="/images/Gallery/All%20Saint's%20Day%20Family%20Mass%202022.jpg"
-		 style="width:115px;height:135px;margin-right:5px;"
+		 style="width:105px;height:120px;margin-right:5px;"
 		 align="left">
 </a></p>
 
