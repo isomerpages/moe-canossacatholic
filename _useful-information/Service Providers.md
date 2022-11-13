@@ -3,35 +3,65 @@ title: Service Providers
 permalink: /useful-information/service-providers-contact-numbers/
 description: ""
 ---
-<b><font size=6\>Service Providers Contact Numbers</font></b>
+<font size=6><b>test1Service Providers Contact Numbers<b></font>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 703px" class="tg"><colgroup><col style="width: 201px"><col style="width: 301px"><col style="width: 201px"></colgroup><thead>
-	
-<tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Types of Services</span></th>
-	
-<th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Service Provider</span></th>
-	
-<th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Contact Number</span></th></tr></thead><tbody><tr>
-	
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Student Care Services<br><br><br><br><br><br><br><br><br><br></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Canossaville Student Care</span>  <br><span style="color:#454545">1 Sallim Road (Gate 3)</span><br><span style="color:#454545">Singapore 387621</span><br><br><span style="color:#454545">Canossaville Student Care is situated within the Canossian Village. For more information on the After School Care services and transport arrangement, please contact the student care at the given number.</span><br></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"> 68121648</span><br><br><br><br><br><br><br><br><br><br></td>
-
-</tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School Uniform &amp; PE Attire<br><br><br><br><br><br><br><br><br><br></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">In-Trend Uniform</span><br><span style="color:#454545">729 Geylang Road</span><br><span style="color:#454545">Singapore 389640</span><br>www.intrenduniforms.com<br><br><span style="font-weight:bold">Operation Hours:</span><br><span style="color:#454545">Monday – Friday 10.00 a.m. – 6.00 p.m.</span><br><span style="color:#454545">Saturday: 10.00 a.m. – 3.00 p.m.</span><br><span style="color:#454545">Closed on Sundays and Public Holidays</span><br></td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">67410930</span><br><br><br><br><br><br><br><br><br><br></td></tr><tr>
-	
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Transport<br><br><br><br></td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Tong Tar Transport Service Pte Ltd</span><br><span style="color:#454545">8 Soon Lee Road</span><br><span style="color:#454545">Singapore 628073</span><br></td>
-
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">62615537</span><br><br><br><br></td>
-
-</tr><tr><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bookshop<span style="color:#454545;background-color:#FAFAFA"> </span><br><br><br><br><br><br><br><br></td>
-	
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">The Continental Book Centre</span><br>Blk 1013 Geylang East Ave 3#02-154<br>Singapore 389728<br><br><span style="font-weight:bold">Operation Hours:</span><br>Monday – Friday: 9.00 a.m. – 3.00 p.m. <br></td><td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">62478482 </span><br><br><br><br><br><br><br><br></td></tr><tr>
-	
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Dental Clinic<br><br><br><br><br><br><br><br><br><br><br><br></td>
-	
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Dental clinic will be open from August to December 2022 (tentative period). <br><br><br><span style="color:#454545">During closure of dental clinic, if in need of dental treatment, you may contact the buddy clinics listed below.</span><br><br><span style="color:#454545">*</span>Please call to ensure that a dental staff is on duty before going to the clinic<span style="color:#454545">.</span><br><span style="font-weight:bold">1)     Geylang Methodist Primary School:</span> <span style="color:#454545">6848 1060</span><br><span style="font-weight:bold">2)     Cedar Primary School:</span> <span style="color:#454545">6285 1372 </span><br><span style="font-weight:bold">3)     Mobile Dental Clinic 16 (MDC 16):</span> <span style="color:#454545">9389 5107</span><br><span style="font-weight:bold">4)     School Dental Centre:</span> <span style="color:#454545">6435 3782</span><br><br><span style="color:#454545">Please do take note that crossing of schools are not allowed for the time being due to COVID-19 movement restrictions.</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 703px" class="tg">
+<thead>
+<tr>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Types of Services</th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Service Provider</th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Contact Number</th></tr></thead>
+<tbody><tr>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Student Care Services</td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+		<b><u>Canossaville Student Care</u></b><br>
+		1 Sallim Road (Gate 3)<br>
+		Singapore 387621<br><br>
+		Canossaville Student Care is situated within the Canossian Village. For more information on the After School Care services and transport arrangement, please contact the student care at the given number.<br></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">68121648</td>
+</tr>
+<tr>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">School Uniform &amp; PE Attire</td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+	<u><b>In-Trend Uniform</b></u><br>
+	729 Geylang Road<br>
+	Singapore 389640<br>
+	www.intrenduniforms.com<br><br>
+	<b>Operation Hours:</b><br>
+	Monday – Friday 10.00 a.m. – 6.00 p.m.<br>
+	Saturday: 10.00 a.m. – 3.00 p.m.<br>
+	Closed on Sundays and Public Holidays<br></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">67410930</td>
+</tr>
+<tr>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Transport</td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
+		Tong Tar Transport Service Pte Ltd<br>
+		8 Soon Lee Road<br>
+		Singapore 628073<br></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">62615537</td>
+</tr>
+<tr>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Bookshop</td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:;left;vertical-align:top;word-break:normal">
+		<b><u>The Continental Book Centre</u></b><br>
+		Blk 1013 Geylang East Ave 3#02-154<br>
+		Singapore 389728<br><br>
+		<b>Operation Hours:</b><br>
+		Monday – Friday: 9.00 a.m. – 3.00 p.m.<br></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">62478482</td></tr>
+<tr>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Dental Clinic<br></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
+		Dental clinic will be open from August to December 2022 (tentative period).<br><br>
+		During closure of dental clinic, if in need of dental treatment, you may contact the buddy clinics listed below.<br><br>
+		*Please call to ensure that a dental staff is on duty before going to the clinic.<br>
+		<b>1)     Geylang Methodist Primary School:</b> 6848 1060<br>
+		<b>2)     Cedar Primary School:</b>6285 1372<br>
+		<b>3)     Mobile Dental Clinic 16 (MDC 16):</b> 9389 5107<br>
+		<b>4)     School Dental Centre:</b>6435 3782<br><br>
+		Please do take note that crossing of schools are not allowed for the time being due to COVID-19 movement restrictions.</td>
+</tr></tbody></table>
 
 <br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
+<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
