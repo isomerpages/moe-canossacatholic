@@ -178,68 +178,20 @@ Physical and Chemical Changes, Yeast<br></td>
 </tr>
 
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 5</span><br>
+<span style="color:#454545;background-color:#FAFAFA">Fried Rice Paradise</span></td>
 
-<span style="font-weight:bold">Primary 5</span>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+Students will learn<br><br>
+• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
+• How to use a stove or induction cooker<br><br>
+• How to prepare a healthy fried rice<br><br>
+•  Basic food plating principles<br><br></td>
 
-<br>
-
-<span style="color:#454545;background-color:#FAFAFA">Fried Rice Paradise</span>
-
-</td>
-
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-
-Students will learn
-
-<br>
-
-<br>
-
-• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
-
-• How to use a stove or induction cooker<br>
-
-• How to prepare a healthy fried rice<br>
-
-•  Basic food plating principles<br>
-
-<br>
-
-</td>
-
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-
-<span style="color:#eeac0d"><b>Science:</b></span>
-
-<br>
-
-Heat Energy
-
-<br>
-
-<br>
-
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#eeac0d"><b>Science:</b></span><br>Heat Energy<br><br>
 <span style="color:#eeac0d"><b>Math:</b></span>
-
-<br>
-
-Proportion, Estimation
-
-<br>
-
-<br>
-
-<span style="color:#eeac0d"><b>Health Education:</b></span>
-
-<br>
-
-Healthy Food Pyramid<br>
-
-– Balanced Diet<br>
-
-</td>
-
+<br>Proportion, Estimation<br><br>
+<span style="color:#eeac0d"><b>Health Education:</b></span><br>Healthy Food Pyramid<br>– Balanced Diet<br></td>
 </tr>
 
 <tr>
