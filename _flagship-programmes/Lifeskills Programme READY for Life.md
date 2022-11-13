@@ -5,9 +5,7 @@ description: ""
 ---
 <font size=6><b>test1Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
 <br>
-<br>
 <font size=5 color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
-<br>
 <br>
 <b>R.E.A.D.Y. for Life</b>Programme is a school-based programme designed to help our students  
 <br>
