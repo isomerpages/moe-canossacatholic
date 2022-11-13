@@ -205,38 +205,11 @@ Students will learn<br><br>
 •  Food plating principles<br><br>
 •  Dining etiquette<br><br></td>
 
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-
-<span style="color:#eeac0d"><b>Art:</b></span>
-
-<br>
-
-Colours, Textures, Contrast
-
-<br>
-
-<br>
-
-<span style="color:#eeac0d"><b>Health Education:</b></span>
-
-<br>
-
-Healthy Food Pyramid
-
-<br>
-
-– Balanced Diet, Nutrition Facts
-
-</td>
-
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#eeac0d"><b>Art:</b></span><br>Colours, Textures, Contrast<br><br>
+<span style="color:#eeac0d"><b>Health Education:</b></span><br>
+Healthy Food Pyramid<br>– Balanced Diet, Nutrition Facts</td>
 </tr>
-
-  
-
 </tbody>
-
-  
-
 </table>
 
 
