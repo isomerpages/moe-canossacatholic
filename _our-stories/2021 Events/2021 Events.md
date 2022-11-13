@@ -73,41 +73,41 @@ third_nav_title: 2021 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/national-day-celebration/">
 <img src="/images/Gallery/2021/National%20Day%20Celebration%202021.jpg"
-		 style="width:100px;height:120px;margin-right:5px;" 
+		 style="width:100px;height:122px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/code-for-fun/">
 <img src="/images/Gallery/2021/Code%20for%20Fun%202021.jpg"
-		 style="width:100px;height:111px;margin-right:5px;" 
+		 style="width:100px;height:113px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/cyber-wellness-assembly-show/">
 <img src="/images/Gallery/2021/Cyber%20Wellness%20Assembly%20Show%202021.jpg"
-		 style="width:100px;height:115px;margin-right:5px;" 
+		 style="width:100px;height:126px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/mid-autumn/">
 <img src="/images/Gallery/2021/Mid%20Autumn%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:115px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/p6-apple-clean-sea-project/">
 <img src="/images/Gallery/2021/P6%20Apple%20Clean%20Sea%20Project%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:128px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/p6-national-cyber-wellness-advocacy/">
 <img src="/images/Gallery/2021/P6%20National%20Cyber%20Wellness%20Advocacy.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:130px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
