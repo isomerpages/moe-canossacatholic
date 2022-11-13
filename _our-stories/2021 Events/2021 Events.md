@@ -29,7 +29,13 @@ third_nav_title: 2021 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
 <img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:110px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/interest-week/">
+<img src="/images/Gallery/2021/Interest%20Week%202021.jpg"
+		 style="width:95px;height:109px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
@@ -39,6 +45,67 @@ third_nav_title: 2021 Events
 		 align="left">
 </a></p>
 
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/safer-internet-day/">
+<img src="/images/Gallery/2021/Safer%20Internet%20Day%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/international-friendship-day/">
+<img src="/images/Gallery/2021/International%20Friendship%20Day%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+
+<br><br><br><br>
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/total-defence-day/">
+<img src="/images/Gallery/2021/Total%20Defence%20Day%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+
+
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/national-day-celebration/">
+<img src="/images/Gallery/2021/National%20Day%20Celebration%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/code-for-fun/">
+<img src="/images/Gallery/2021/Code%20for%20Fun%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/cyber-wellness-assembly-show/">
+<img src="/images/Gallery/2021/Cyber%20Wellness%20Assembly%20Show%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/mid-autumn/">
+<img src="/images/Gallery/2021/Mid%20Autumn%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/p6-apple-clean-sea-project/">
+<img src="/images/Gallery/2021/P6%20Apple%20Clean%20Sea%20Project%202021.jpg"
+		 style="width:100px;height:109px;margin-right:5px;" 
+		 align="left">
+</a></p>
+
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
 <img src="/images/Gallery/Canossian%20Saints%20Day.png"
@@ -47,64 +114,6 @@ third_nav_title: 2021 Events
 </a></p>
 
 
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
 
 
 
