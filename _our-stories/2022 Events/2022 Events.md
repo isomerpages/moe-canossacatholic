@@ -100,13 +100,13 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/international-friendship-day/">
 <img src="/images/Gallery/International%20Friendship%20Day%202022.jpg"
-		 style="width:101px;height:115px;margin-right:5px;"
+		 style="width:101px;height:116px;margin-right:5px;"
 		 align="left">
 </a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/easter-paraliturgy/">
 <img src="/images/Gallery/Easter%20Paraliturgy%202022.jpg"
-		 style="width:100px;height:105px;margin-right:10px;"
+		 style="width:100px;height:106px;margin-right:10px;"
 		 align="left">
 </a></p>
 
@@ -114,7 +114,7 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/earth-day/">
 <img src="/images/Gallery/Earth%20Day%202022.jpg"
-		 style="width:93px;height:109px;margin-right:5px;"
+		 style="width:93px;height:110px;margin-right:5px;"
 		 align="left">
 </a></p>
 
