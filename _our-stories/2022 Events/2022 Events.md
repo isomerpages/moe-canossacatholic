@@ -43,14 +43,14 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Canossian-Saints-Week">
 <img src="/images/Gallery/Canossian%20Saints%20Week.png"
-		 style="width:95px;height:130px;margin-right:5px;"
+		 style="width:95px;height:130px;margin-right:8px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Canossian-Saints-Week">
 <img src="/images/Gallery/Canossian%20Saints%20Week.png"
-		 style="width:95px;height:130px;margin-right:5px;"
+		 style="width:95px;height:130px;margin-right:8px;"
 		 align="left">
 </a></p>
 
