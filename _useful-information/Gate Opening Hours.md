@@ -49,7 +49,7 @@ Canossa Catholic Primary School, side gate beside guardroom, Walk-in</span><br><
 <col style="width: 150px">
 <col style="width: 100px">
 <col style="width: 150px">
-<col style="width: 200px">
+<col style="width: 250px">
 <col style="width: 150px">
 </colgroup>
 <thead>
@@ -71,10 +71,9 @@ Canossa Catholic Primary School Rear Gate, Walk-in<br>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">Students Only</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">Monday to Friday:<br>6.45am - 7.25am</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<center>Monday to Friday:<br>
-1.30pm - 2pm</center><br>
+<center>Monday to Friday:<br>1.30pm - 2pm</center>
 • Enrichment / Remedial / CCA<br>
-• Gate will be opened for 30 minutes after the respective dismissal times</td>
+• Gate will be opened for 30 minutes after the respective dismissal times<br></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Walk-in visitors are to come in via Gate 2</span></td>
 </tr>
 </tbody>
