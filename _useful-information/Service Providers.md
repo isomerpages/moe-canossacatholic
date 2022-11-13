@@ -3,12 +3,15 @@ title: Service Providers
 permalink: /useful-information/service-providers-contact-numbers/
 description: ""
 ---
-<font size=6><b>test2Service Providers Contact Numbers<b></font>
+<font size=6><b>test3Service Providers Contact Numbers<b></font>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: px" class="tg">
+<colgroup>
 <col style="width: 250px">
 <col style="width: 400px">
 <col style="width: 150px">
+</colgroup>
+
 <thead>
 <tr>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Types of Services</th>
