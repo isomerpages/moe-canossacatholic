@@ -46,11 +46,11 @@ Canossa Catholic Primary School, side gate beside guardroom, Walk-in</span><br><
 <br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: px" class="tg">
 <colgroup>
-<col style="width: 161px">
-<col style="width: 161px">
-<col style="width: 161px">
-<col style="width: 161px">
-<col style="width: 161px">
+<col style="width: 150px">
+<col style="width: 100px">
+<col style="width: 150px">
+<col style="width: 200px">
+<col style="width: 150px">
 </colgroup>
 <thead>
 <tr>
@@ -65,15 +65,17 @@ Canossa Catholic Primary School, side gate beside guardroom, Walk-in</span><br><
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Arrival</td>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"></td></td></tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;font-style:inherit">Gate 4</span><br><span style="color:#454545;background-color:#FAFAFA">Canossa Catholic Primary School Rear Gate, Walk-in</span><br><span style="color:#454545;background-color:#FAFAFA">(Along Merpati Road)</span></td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<br><br><br><br>
-<span style="font-weight:inherit;font-style:inherit;color:#454545;background-color:#FAFAFA">Students Only</span></td>
-<td style="border-color:black;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<br><br><br>
-<span style="font-weight:bold;font-style:inherit">Monday to Friday:</span><br>6.45am - 7.25am<br></td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;font-style:inherit">Monday to Friday:</span><br><span style="color:#454545;background-color:#FAFAFA">1.30pm - 2pm</span><br><br><span style="color:#454545;background-color:#FAFAFA">*Enrichment/Remedial/</span><br><span style="color:#454545;background-color:#FAFAFA">CCA</span><br><span style="color:#454545;background-color:#FAFAFA">*Gate will be opened for 30 minutes after the respective dismissal times</span></td>
-<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Walk-in visitors are to come in via Gate 2</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><b>Gate 4</b><br>
+Canossa Catholic Primary School Rear Gate, Walk-in<br>
+<em>(Along Merpati Road)</em></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">Students Only</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">Monday to Friday:<br>6.45am - 7.25am</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
+<center>Monday to Friday:<br>
+1.30pm - 2pm</center><br>
+• Enrichment / Remedial / CCA<br>
+• Gate will be opened for 30 minutes after the respective dismissal times</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Walk-in visitors are to come in via Gate 2</span></td>
 </tr>
 </tbody>
 </table>
