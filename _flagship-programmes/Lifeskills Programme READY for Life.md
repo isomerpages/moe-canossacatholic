@@ -3,7 +3,7 @@ title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/permalink/
 description: ""
 ---
-<font size=6><b>test6Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
+<font size=6><b>test7Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
 <br>
 <font size=5 color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
 <br>
@@ -92,3 +92,20 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 </tr>
 </tbody>
 </table>
+
+<br>
+
+<img src="/images/Flagship%20Programmes/Lifeskill%201.png" style="width:100%">
+
+<br>
+
+<img src="/images/Flagship%20Programmes/Lifeskill%202.jpeg" style="width:45%">
+
+<br>
+
+<font size=5 color="#eeac0d"><b>The Little Chef in Me</b></font>
+<br>
+<br>
+Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our students to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, students will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
+<br>
+<br>
