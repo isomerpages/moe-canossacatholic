@@ -71,25 +71,23 @@ third_nav_title: 2021 Events
 
 
 
-
-
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/national-day-celebration/">
 <img src="/images/Gallery/2021/National%20Day%20Celebration%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:120px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/code-for-fun/">
 <img src="/images/Gallery/2021/Code%20for%20Fun%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:111px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/cyber-wellness-assembly-show/">
 <img src="/images/Gallery/2021/Cyber%20Wellness%20Assembly%20Show%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:115px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
