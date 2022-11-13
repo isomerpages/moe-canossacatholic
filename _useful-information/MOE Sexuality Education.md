@@ -56,7 +56,7 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 <br><br>   
 <b><font size=5 color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:</font></b>
 
-<b><center><font size=5 color="#eeac0d">Primary 5</font></center></b>
+<center><font size=5 color="#eeac0d"><b>Primary 5</b></font></center>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
@@ -69,9 +69,9 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 <thead>
 	
 <tr>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:black">Unit</span></th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:black">Lessons / Duration</span></th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#252525">Lesson Objectives<br></span><span style="font-weight:normal"><em>At the end of the lesson, pupils will be able to:</em></span></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Unit</th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Lessons / Duration</th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Lesson Objectives<br><span style="font-weight:normal"><em>At the end of the lesson, pupils will be able to:</em></span></th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Time Period
 <br><span style="font-weight:normal"><em>(e.g. Term 1 Week 2)</em></span></th>
 </tr>
