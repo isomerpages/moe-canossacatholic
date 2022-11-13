@@ -47,7 +47,8 @@ SDR is a 2-year intervention programme to support identified students with dysle
 <br>
 <b>Structured Reading Programme</b>
 <br>
-This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words. <br>
+This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words. 
+<br><br>
 <b>Extensive Reading Programme</b>
 <br>
 This programme aims to help students expand and extend students’ reading beyond the curriculum.  
@@ -96,7 +97,8 @@ In line with the latest English Language Syllabus, "<em>I Love Literature</em>" 
 
 <br>
 
-<b><font size=5 color="#7daadf">Department Strategies</font></b>
+
+<b><font size=4 color="#eeac0d">Department Strategies</font></b>
 
 <b>Strategies for Effective Communication:</b>
 <br>
