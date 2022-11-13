@@ -23,9 +23,7 @@ These life skills will empower the students to be <br>
 <b>Y</b> – Yielding to GRACE and TRUTH, not fear<br>
 <br>
 <b>R.E.A.D.Y. for Life</b>  consists of a series of modules that are conducted in a year and across the levels in a progressive manner.
-
-<br>
-
+<br><br><br>
 <font size=5 color="#eeac0d"><b>Starting School Right</b></font>
 <br><br>
 Conducted at the beginning of the school year, the 3-day module consists of a number of activities and lessons that provide opportunities for our students to explore different themes and be equipped with competencies and skills that are explicitly taught and reinforced progressively across their 6 years of education. It instils our school values (Charity, Humility, Forgiveness, Faith) and promotes the acquisition of learning dispositions (shares ideas and thoughts with others; works well with others, open to feedback and acts on it to improve, perseveres and does not give up easily).
