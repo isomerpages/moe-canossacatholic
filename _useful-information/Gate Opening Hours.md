@@ -3,7 +3,7 @@ title: Gate Opening Hours
 permalink: /useful-information/school-gate-opening-hours/
 description: ""
 ---
-<b><font size="6">test3School Gate Opening Hours</font></b>
+<b><font size="6">test4School Gate Opening Hours</font></b>
 	
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
 <colgroup>
@@ -26,7 +26,7 @@ description: ""
 <tbody>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><b>Gate 2</b><br>
-Canossa Catholic Primary School, side gate beside guardroom, Walk-in</span><br><em>(Along Sallim Road</em>)</td>
+Canossa Catholic Primary School, side gate beside guardroom, Walk-in<br><em>(Along Sallim Road</em>)</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Students and walk-in visitors only</span><br></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">6.45 am −  6 pm</span><br></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Parents are requested to wait at the waiting area near the security guard post. In the event of a need to proceed to the General Office, parents / care givers are required to sign in for a Visitor Pass from the security guard post. </span><br></td>
