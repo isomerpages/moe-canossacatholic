@@ -3,12 +3,12 @@ title: Service Innovation
 permalink: /character-formation/service-innovation/
 description: ""
 ---
-<b><font size=6>Service Innovation</font></b>
+<b><font size=6>testService Innovation</font></b>
 <br>
 <br>
 <b><font size=5 color="#7daadf">Developing Compassionate Leaders</font></b>
 
-<b><font size=4 color="#eeac0d">About Service Innovation through Design Thinking - Project L.O.V.E</font></b>
+<b><font size=5 color="#eeac0d">About Service Innovation through Design Thinking - Project L.O.V.E</font></b>
 
 <br>
 With the formation of the heart and service as a hallmark of Canossian schools, the school’s life-long learning programme aims to provide our students with the platform to acquire and apply skills that will develop them to become leaders of hope and sowers of change through the design thinking process, with an emphasis on inculcating empathy in our students.
@@ -84,9 +84,9 @@ CCPS develops students with a heart of compassion for others. With that heart of
 </td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Primary 5 </span></td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Community</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><b>Key of Love</b><br>
 • To reach out to the elderly in the community and bring hope to their lives</td></tr>
