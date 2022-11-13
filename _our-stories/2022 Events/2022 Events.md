@@ -100,7 +100,7 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/international-friendship-day/">
 <img src="/images/Gallery/International%20Friendship%20Day%202022.jpg"
-		 style="width:101px;height:117px;margin-right:5px;"
+		 style="width:101px;height:118px;margin-right:5px;"
 		 align="left">
 </a></p>
 
