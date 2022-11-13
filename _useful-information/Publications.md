@@ -3,21 +3,13 @@ title: Publications
 permalink: /useful-information/publications/
 description: ""
 ---
-**<font size="6">Publications</font>**
+<font size="6"><b>Publications</b></font>
 
-**<font size="5">2022</font>**
+<font size=6 color="#7daadf"><b>2022</b></font>
 
-**Canossa Newsbites**
+<font size=5 color="#eeac0d"><b>Canossa Newsbites<b></font>
 
-[Canossa Newsbites -  January](/files/Newsbites/Canossa%20Newsbites%20Jan%202022.pdf)<br>
-[Canossa Newsbites - February](/files/Canossa%20Newsbites%20February%202022.pdf) <br>
-[Canossa Newsbites - March](/files/Canossa%20Newsbites%20March%202022.pdf)<br>
-[Canossa Newsbites - April](/files/Canossa%20Newsbites%20April%202022.pdf)<br>
-[Canossa Newsbites - May](/files/Canossa%20Newsbites%20May%202022.pdf)<br>
-[Canossa Newsbites - July](/files/Canossa%20Newsbites%20July%202022.pdf)<br>
-[Canossa Newsbites - August](/files/Canossa%20Newsbites%20August%202022.pdf)
-<br>
-<a href="https://flipbookpdf.net/web/site/1bc69c0850ae90a0d7af4390ceb8f7d9bed675a4202210.pdf.html">Canossa Newsbites - October</a>
+[Canossa Newsbites - January](/files/Newsbites/Canossa%20Newsbites%20Jan%202022.pdf)
 
 
 
