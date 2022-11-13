@@ -1134,11 +1134,11 @@ description: ""
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
 <tr>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name
 </th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Designation
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Designation
 </th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Email
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Email
 </th>
 </tr>
 </thead>
