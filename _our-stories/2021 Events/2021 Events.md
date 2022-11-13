@@ -73,7 +73,7 @@ third_nav_title: 2021 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/national-day-celebration/">
 <img src="/images/Gallery/2021/National%20Day%20Celebration%202021.jpg"
-		 style="width:100px;height:122px;margin-right:5px;" 
+		 style="width:100px;height:124px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
