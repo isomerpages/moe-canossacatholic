@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
 ---
-<b><font size=6>test1Aesthetics</font></b>
+<b><font size=6>Aesthetics</font></b>
 
 The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Excursion, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence.
 <br>
