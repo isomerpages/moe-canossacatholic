@@ -206,6 +206,8 @@ They will consider the issues that their peers would face and craft questions an
 </tr>
 	
 </table>
+
+</table>
 	
 <br><br>
 <b><font size=5 color="#7daadf">Information for Parents</font></b>
