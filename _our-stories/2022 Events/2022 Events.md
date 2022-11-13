@@ -48,20 +48,20 @@ third_nav_title: 2022 Events
 </a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Canossian-Saints-Week">
-<img src="/images/Gallery/Canossian%20Saints%20Week.png"
-		 style="width:95px;height:130px;margin-right:8px;"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Interest-Week/">
+<img src="/images/Gallery/Interest%20Week%202022.jpg"
+		 style="width:95px;height:112px;margin-right:8px;"
 		 align="left">
 </a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Canossian-Saints-Week">
-<img src="/images/Gallery/Canossian%20Saints%20Week.png"
-		 style="width:95px;height:130px;margin-right:5px;"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Prefects-Investiture/">
+<img src="/images/Gallery/Prefects'%20Investiture%202022.jpg"
+		 style="width:95px;height:111px;margin-right:5px;"
 		 align="left">
 </a></p>
 
-
+<br>
 
 
 
