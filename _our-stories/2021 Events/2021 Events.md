@@ -107,8 +107,8 @@ third_nav_title: 2021 Events
 </a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/p6-national-cyber-wellness-advocacy/">
+<img src="/images/Gallery/2021/P6%20National%20Cyber%20Wellness%20Advocacy.jpg"
 		 style="width:100px;height:109px;margin-right:5px;" 
 		 align="left">
 </a></p>
