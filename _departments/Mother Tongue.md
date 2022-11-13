@@ -270,7 +270,9 @@ The MTL Department conducts Termly Internal Competition for students to showcase
 MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
 </p>
 
-![](/images/Departments/MT%205.png)
+<center>
+<img src="/images/Departments/MT%205.png" style="width:100%">
+</center>
 	
 <p style="margin-left: 40px">
 <font size=4 color="#eeac0d"><b><u>P1 to P6 Internal Competition</u></b></font>
