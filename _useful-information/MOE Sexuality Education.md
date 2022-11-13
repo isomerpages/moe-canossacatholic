@@ -3,7 +3,7 @@ title: MOE Sexuality Education
 permalink: /useful-information/moe-sexuality-education/
 description: ""
 ---
-<b><font size="6">test3MOE Sexuality Education</font></b>
+<b><font size="6">MOE Sexuality Education</font></b>
 
 <b><font size=5 color="#7daadf">MOE Sexuality Education in Schools</font></b>
 
