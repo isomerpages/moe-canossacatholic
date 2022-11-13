@@ -65,42 +65,42 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/mother-tongue-fortnight/">
 <img src="/images/Gallery/Mother%20Tongue%20Fortnight%202022.jpg"
-		 style="width:91px;height:111px;margin-right:10px;"
+		 style="width:95px;height:111px;margin-right:10px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/student-leadership-training/">
 <img src="/images/Gallery/Student%20Leadership%20Training%202022.jpg"
-		 style="width:100px;height:115px;margin-right:10px;"
+		 style="width:100px;height:115px;margin-right:7px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-hearing-day/">
 <img src="/images/Gallery/World%20Hearing%20Day%202022.jpg"
-		 style="width:95px;height:105px;margin-right:10px;"
+		 style="width:95px;height:105px;margin-right:11px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-water-day/">
 <img src="/images/Gallery/World%20Water%20Day%202022.jpg"
-		 style="width:95px;height:105px;margin-right:10px;"
+		 style="width:95px;height:105px;margin-right:8px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/parent-child-lent-retreat/">
 <img src="/images/Gallery/Parent%20Child%20Lent%20Retreat%202022.jpg"
-		 style="width:95px;height:124px;margin-right:10px;"
+		 style="width:98px;height:122px;margin-right:10px;"
 		 align="left">
 </a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/international-friendship-day/">
 <img src="/images/Gallery/International%20Friendship%20Day%202022.jpg"
-		 style="width:104px;height:115px;margin-right:7px;"
+		 style="width:101px;height:115px;margin-right:5px;"
 		 align="left">
 </a></p>
 
@@ -114,7 +114,7 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/earth-day/">
 <img src="/images/Gallery/Earth%20Day%202022.jpg"
-		 style="width:95px;height:109px;margin-right:5px;"
+		 style="width:93px;height:109px;margin-right:5px;"
 		 align="left">
 </a></p>
 
