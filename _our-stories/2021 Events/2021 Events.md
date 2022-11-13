@@ -55,7 +55,7 @@ third_nav_title: 2021 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/international-friendship-day/">
 <img src="/images/Gallery/2021/International%20Friendship%20Day%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
+		 style="width:100px;height:122px;margin-right:5px;" 
 		 align="left">
 </a></p>
 
