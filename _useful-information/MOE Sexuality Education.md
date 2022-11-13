@@ -3,7 +3,7 @@ title: MOE Sexuality Education
 permalink: /useful-information/moe-sexuality-education/
 description: ""
 ---
-<b><font size="6">test7MOE Sexuality Education</font></b>
+<b><font size="6">test8MOE Sexuality Education</font></b>
 
 <b><font size=5 color="#7daadf">MOE Sexuality Education in Schools</font></b>
 
@@ -50,7 +50,7 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 <br>
 <b>Sexuality Education:</b><br>
 “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package  
-<br>    
+<br><br>   
 <b><font size=5 color="#eeac0d">6.</font></b> &nbsp; The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.  
 <br><br>
 <b><font size=5 color="#eeac0d">7.</font></b> &nbsp; The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.   
