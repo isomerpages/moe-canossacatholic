@@ -3,7 +3,7 @@ title: Parents Gateway
 permalink: /useful-information/parents-gateway/
 description: ""
 ---
-<b><font size="6">testParents Gateway</font></b>
+<b><font size="6">Parents Gateway</font></b>
 
 Parents Gateway is mobile application developed by the Ministry of Education and GovTech to enable schools to interact with parents more conveniently on administrative matters. It is available for both iOS and Andriod.  
   
