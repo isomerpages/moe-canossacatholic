@@ -134,6 +134,7 @@ soaked in the festive atmosphere through the performances.
 <b><u><font size=4 color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
 The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.<br>
+</p>
 
 ![](/images/Departments/MT%202.png)
 
