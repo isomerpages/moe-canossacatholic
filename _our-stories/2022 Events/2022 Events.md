@@ -4,8 +4,6 @@ permalink: /gallery/school-events-n-programmes-2022/
 description: ""
 third_nav_title: 2022 Events
 ---
-
-
 **<font size=6>School Events & Programmes 2022</font>**
 
 **<font size=5>Photo Gallery</font>**
@@ -53,7 +51,7 @@ third_nav_title: 2022 Events
 
 <br><br><br><br><br><br><br>
 
-TBC for the remaining events (12 more)
+
 
 
 <br><br><br><br><br><br>
