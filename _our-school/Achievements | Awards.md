@@ -395,8 +395,6 @@ description: ""
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Art and Craft, Upcycling, Firelighting and  Outdoor Cooking</span></td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Aida Jan<br>Chee Shiao Yu, Kimi (Xu Xiaoyu)<br>Chong Yu Xuan<br>Prabu Sadhana<br><br></td>
-</tr>
-<tr>
 <tr>
 <td style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:0px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:middle;word-break:normal" colspan="3">Sports and Games</td>
 </tr>	
