@@ -108,3 +108,246 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our students to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, students will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
 <br>
 <br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+
+<thead>
+
+<tr>
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#252525">Level</span></td>
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#252525"><b>Objectives</b><br>(<em>revised from 2021</em>)</span></td>
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="font-weight:bold;color:#252525">Curriculum Links</span></td>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 1</span><br><span style="color:#454545;background-color:#FAFAFA">Milo &amp; Butter Bread</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+Students will learn<br><br>
+• Basic hygiene in handling food and keeping cutlery and utensils clean<br><br>
+• How to boil water and make a cup of milo<br><br>
+• How to make a butter sandwich<br><br></td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#eeac0d"><b>English:</b></span><br>
+Understanding and writing a procedural text<br><br>
+<span style="color:#eeac0d"><b>Science:</b></span><br>
+Boiling point of water</td>
+</tr>
+
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:f;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 2</span><br><span style="color:#454545;background-color:#FAFAFA">Cake In A Cup</span></td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+Students will learn<br><br>
+• Basic hygiene in handling food and keeping cutlery and utensils clean<br><br>
+• How to use a microwave<br><br>
+• How to make a cake in a cup<br><br></td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#eeac0d"><b>English:</b></span><br>Understanding and writing a recipe<br><br>
+<span style="color:#eeac0d"><b>Math:</b></span><br>
+Proper fractions, Time</td>
+</tr>
+
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 3</span><br>
+<span style="color:#454545;background-color:#FAFAFA">Egg-citing Sandwich</span></td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+Students will learn<br><br>
+• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
+• How to make an egg sandwich<br><br>
+• Different ways to cook an egg e.g. boiled egg, scrambled egg and fried egg<br><br></td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#eeac0d"><b>Science:</b></span><br>Heat Transfer, Chemical Changes<br><br>
+<span style="color:#eeac0d"><b>Health Education:</b></span><br>
+Nutrition</td>
+</tr>
+
+<tr>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+
+<span style="font-weight:bold">Primary 4</span>
+
+<br>
+
+<span style="color:#454545;background-color:#FAFAFA">Knead &amp; Bake</span>
+
+</td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+
+Students will learn
+
+<br>
+
+• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
+
+• How to use an oven<br>
+
+• How to bake bread<br>
+
+<br>
+
+</td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+
+<span style="color:#eeac0d"><b>Math:</b></span>
+
+<br>
+
+Fractions, Proportion, Time
+
+<br>
+
+<br>
+
+<span style="color:#eeac0d"><b>Science:</b></span>
+
+<br>
+
+Physical and Chemical Changes, Yeast
+
+<br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+
+<span style="font-weight:bold">Primary 5</span>
+
+<br>
+
+<span style="color:#454545;background-color:#FAFAFA">Fried Rice Paradise</span>
+
+</td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+
+Students will learn
+
+<br>
+
+<br>
+
+• Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
+
+• How to use a stove or induction cooker<br>
+
+• How to prepare a healthy fried rice<br>
+
+•  Basic food plating principles<br>
+
+<br>
+
+</td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+
+<span style="color:#eeac0d"><b>Science:</b></span>
+
+<br>
+
+Heat Energy
+
+<br>
+
+<br>
+
+<span style="color:#eeac0d"><b>Math:</b></span>
+
+<br>
+
+Proportion, Estimation
+
+<br>
+
+<br>
+
+<span style="color:#eeac0d"><b>Health Education:</b></span>
+
+<br>
+
+Healthy Food Pyramid<br>
+
+– Balanced Diet<br>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+
+<span style="font-weight:bold">Primary 6</span>
+
+<br>
+
+<span style="color:#454545;background-color:#FAFAFA">Kidz Fine Dining</span>
+
+</td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+
+Students will learn
+
+<br>
+
+<br>
+
+•  Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br>
+
+•  How to prepare a simple western meal<br>
+
+•  Food plating principles<br>
+
+•  Dining etiquette<br>
+
+<br>
+
+</td>
+
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+
+<span style="color:#eeac0d"><b>Art:</b></span>
+
+<br>
+
+Colours, Textures, Contrast
+
+<br>
+
+<br>
+
+<span style="color:#eeac0d"><b>Health Education:</b></span>
+
+<br>
+
+Healthy Food Pyramid
+
+<br>
+
+– Balanced Diet, Nutrition Facts
+
+</td>
+
+</tr>
+
+  
+
+</tbody>
+
+  
+
+</table>
+
+
+<br><br><br><br><br><br>
+<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
