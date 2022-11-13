@@ -3,7 +3,7 @@ title: MOE Sexuality Education
 permalink: /useful-information/moe-sexuality-education/
 description: ""
 ---
-<b><font size="6">test4MOE Sexuality Education</font></b>
+<b><font size="6">test5MOE Sexuality Education</font></b>
 
 <b><font size=5 color="#7daadf">MOE Sexuality Education in Schools</font></b>
 
@@ -143,10 +143,8 @@ You may click <a href="(https://www.moe.gov.sg/programmes/sexuality-education">h
 • Know their responsibilities in minimising the risk of sexual harm</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
 </tr>
-</tbody>
-</table>
 
-</table>
+<br>
 
 <center><font size=4 color="#eeac0d"><b>Primary 6</b></font></center>
 
