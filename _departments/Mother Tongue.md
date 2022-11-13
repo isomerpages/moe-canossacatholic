@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /departments/mother-tongue/
 description: ""
 ---
-<b><font size=6>test5Mother Tongue</font></b>
+<b><font size=6>test6Mother Tongue</font></b>
 
 <b><font size=5 color="#7daadf">Chinese Language Department</font></b>
 <br>
@@ -175,7 +175,7 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 <br>
 
 <font size=4><b>P1 to P6 Malay Reading Programme</b>
-<br>The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.</font>
+<br><br>The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.</font>
 <br><br>
 	
 <font size=4><b>P1 to P6 School based Oracy programme</b></font>
@@ -210,14 +210,12 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 
 <p style="margin-left: 40px">
 <font size=4 color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
-<br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.
-
-C
+<br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.</p>
 
 <p style="margin-left: 40px">
 <b><u><font size=4 color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
-The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.  
+The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing. </p>
   
 <p style="margin-left: 40px">
 <font size=4 color="#eeac0d"><b><u>External Competition</u></b></font>
@@ -228,13 +226,10 @@ The MTL Department conducts Termly Internal Competition for students to showcase
 <br>
 <br>
 <font size="4">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.</font>
-
-<br><br>
-	
+<br>
+<br>
 <font size=5 color="#7daadf"><b>Tamil Language Key Programme:</b></font>
-
 <br><br>
-
 <font size="4">
 <b>Tamil Reading Programme (P1-P6)</b>
 <br>Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
@@ -262,7 +257,6 @@ The MTL Department conducts Termly Internal Competition for students to showcase
 <p style="margin-left: 40px">
 <font size=4 color="#eeac0d"><b><u>Deepavali Celebration</u></b></font>
 <br>Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.</p> 
-<br>
 <br>
 <p style="margin-left: 40px">
 <font size=4 color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
