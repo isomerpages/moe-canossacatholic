@@ -46,7 +46,28 @@ Learning experiences in the classroom are designed based on the C-P-A approach. 
 
 <br>
 
-
+<table>
+<thead>
+  <tr>
+    <th>Approach</th>
+    <th>Details</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Concrete</td>
+    <td>Concrete is the “doing” stage where students engage in activities to learn mathematical concepts and skills using manipulatives.</td>
+  </tr>
+  <tr>
+    <td>Pictorial</td>
+    <td>Pictorial is the “seeing” stage where students use pictorial representations to model problems. This stage encourages children to make a mental connection between the physical object they just handled and the abstract pictures, diagrams or models that represent the objects from the problem.</td>
+  </tr>
+  <tr>
+    <td>Abstract</td>
+    <td>Abstract is the “symbolic” stage where students progress from pictorial representations to writing equations and solving them.</td>
+  </tr>
+</tbody>
+</table>
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
