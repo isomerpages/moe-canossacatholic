@@ -49,21 +49,21 @@ Here are some PARENTing Tips to guide your child in this digital age.
  *   Discuss and set ground rules for devices use as a family.
  *   Some basic rules could include the following:
 
-<b><font size=3 color="#eeac0d">Do's:</font></b>
+<b><font size=4 color="#eeac0d">Do's:</font></b>
 * Seek permission before using devices
 * Have a time limit for the use of devices
 * Practice netiquette on the Internet
 * Respect intellectual property rights
 
-<b><font size=3 color="#eeac0d">Dont's:</font></b>
+<b><font size=4 color="#eeac0d">Dont's:</font></b>
 * Access websites that have age restrictions (e.g. many social media sites have age limit for setting up accounts to comply with international regulations on children accessing social media).
 * Share personal information online
 * Share password with others
 * Spread rumours and say mean things online
 * Meet strangers face to face without parents’ knowledge
 
-<b><font size=3 color="#eeac0d">Consider to create a [Family Media Plan](https://www.healthychildren.org/English/media/Pages/default.aspx#home)</font></b>
-* <em><a href="https://www.healthychildren.org/English/media/Pages/default.aspx#home">https://www.healthychildren.org/English/media/Pages/default.aspx#home</a></em>
+<b><font size=4 color="#eeac0d">Consider to create a Family Media Plan</font></b>
+* <em><a href="https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx?_ga=2.3158520.957048614.1668416772-730791189.1668416771&_gl=1*12wclbc*_ga*NzMwNzkxMTg5LjE2Njg0MTY3NzE.*_ga_FD9D3XZVQQ*MTY2ODQxNjc3MS4xLjAuMTY2ODQxNjc3MS4wLjAuMA..">Family Media Plan</a></em>
 <br>
 
 <b><font size=3 color="#eeac0d">Navigate the Internet with your Child</font></b>
