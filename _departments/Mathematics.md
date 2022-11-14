@@ -7,7 +7,7 @@ description: ""
 
 The CCPS Math curriculum aims to develop our students to be effective problem solvers with the confidence and perseverance to think creatively and critically in their acquisition of mathematical skills, knowledge and processes.  
   
-<b><font size=5 color="#7daadf">Department Key Programmes</font></b>
+<b><font size=5 color="#eeac0d">Department Key Programmes</font></b>
 
 <b>P1 and P2 Learning Support for Mathematics</b>
 <br>
@@ -38,7 +38,7 @@ Our Mathematics package aims to explicitly teach various skills. To better meet 
 </center>
 
 <br>
-<b><font size=5 color="#7daadf">Department Strategies</font></b>
+<b><font size=5 color="#eeac0d">Department Strategies</font></b>
 
 <b>Concrete-Pictorial-Abstract (C-P-A) Approach</b>
 <br>
