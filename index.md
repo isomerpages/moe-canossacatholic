@@ -13,7 +13,7 @@ sections:
       description: Laudate – an Art Exhibition in Praise of God’s Blessings
       button: Click here
       alt: Image alt text
-      url: /announcement
+      url: https://staging.d2nutevx25vdua.amplifyapp.com/our-school/history/celebrating-canossas-80th-birthday/laudate-exhibition/
       image: /images/Homepage/Laudate.jpg
   - infopic:
       title: Newsbites
