@@ -14,7 +14,7 @@ sections:
       button: Click here
       alt: Image alt text
       url: https://staging.d2nutevx25vdua.amplifyapp.com/our-school/history/celebrating-canossas-80th-birthday/laudate-exhibition/
-      image: /images/Homepage/Laudate.jpg
+      image: /images/Homepage/Announcements - Laudate (GIF).gif
   - infopic:
       title: Newsbites
       description: October 2022
