@@ -4,9 +4,11 @@ permalink: /gallery/school-events-n-programmes-2022/
 description: ""
 third_nav_title: 2022 Events
 ---
-<font size=6><b>School Events & Programmes 2022</b></font>
+<font size=6><b>test1School Events & Programmes 2022</b></font>
 
 <font size=5 color="#7daadf"><b>Photo Gallery</b></font>
+
+<center>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/P1-Orientation"><img src="/images/Gallery/P1%20Orientation.png" style="width:140px;height:155px;margin-right:5px;" align="left"></a></p>
 
@@ -68,7 +70,7 @@ third_nav_title: 2022 Events
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/all-saints-day-family-mass/"><img src="/images/Gallery/All%20Saint's%20Day%20Family%20Mass%202022.jpg" style="width:180px;height:205px;margin-right:5px;" align="left"></a></p>
 
 
-
+</center>
 
 
 <br><br><br><br><br><br><br>
