@@ -4,8 +4,7 @@ permalink: /gallery/school-events-n-programmes-2021/
 description: ""
 third_nav_title: 2021 Events
 ---
-<font size=6><b>test1School Events & Programmes 2021</b></font><br>
-
+<font size=6><b>test2School Events & Programmes 2021</b></font><br>
 <font size=5 color="#7daadf"><b>Photo Gallery</b></font>
 
 <center>
