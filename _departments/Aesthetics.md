@@ -137,7 +137,7 @@ All music lessons are carefully planned based on the <b>Experience-Concept-Appl
 <br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg">
 <colgroup>
-<col style="width: 150px"><col style="width: 550px">
+<col style="width: 150px"><col style="width: 650px">
 </colgroup>
 <thead>
 <tr>
