@@ -6,7 +6,15 @@ third_nav_title: Co Curricular Activities
 ---
 <b><font size="6">Brownies</font></b>
 
-Brownies, originally called Rosebuds, was first founded by Lord Baden-Powell in the year 1914. The activities are tailored for young girls aged 7 to 12 and are guided by a comprehensive 5-point programme which encompasses (1) Personal &amp; Social Development – Healthy Me, Courteous Me, Cultured Me; (2) Home – Safety &amp; Duties; (3) Outdoor – Discovering Nature, A Green World; (4) Community – My Country, My Neighbourhood; and (5) International – My Brownie Friend, My World. Brownies are given opportunities to develop lifeskills such as good grooming, sewing, gardening and the active conservation of the environment by reusing materials to create useful objects.&nbsp;
+Brownies, originally called Rosebuds, was first founded by Lord Baden-Powell in the year 1914. The activities are tailored for young girls aged 7 to 12 and are guided by a comprehensive 5-point programme which encompasses;<br>
+
+<b>(1)</b> Personal &amp; Social Development – Healthy Me, Courteous Me, Cultured Me <br>
+<b>(2)</b> Home – Safety &amp; Duties<br>
+<b>(3)</b> Outdoor – Discovering Nature, A Green World<br>
+<b>(4)</b> Community – My Country, My Neighbourhood <br>
+<b>(5)</b> International – My Brownie Friend, My World <br>
+
+Brownies are given opportunities to develop lifeskills such as good grooming, sewing, gardening and the active conservation of the environment by reusing materials to create useful objects.&nbsp;
 
 Living out the Brownies’ motto, Brownies ‘Lend a Hand’ to play their part in the community. They learn how to work both independently and as a team. They also acquire positive values such as compassion and loyalty. Through meaningful activities, they forge lasting friendships and emerge cheerful, compassionate, honest and responsible young ladies who have a heart to serve God, country and man.
 
