@@ -79,5 +79,101 @@ Learning experiences in the classroom are designed based on the C-P-A approach. 
 </tbody>
 </table>
 
+
+<center>
+<img src="/images/Departments/Math%202.png" style="width:100%">
+</center>
+
+
+<b>George Polya’s 4 stages of problem solving</b><br>
+Mathematical problem solving is central to mathematics learning. Thinking skills and heuristics are essential for mathematical problem solving.  
+  
+In teaching problem solving, teachers demonstrate how to use Polya’s 4 steps process of problem solving. In addition to this, teachers also model thinking aloud to make the thinking processes visible to the students.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m2q4{background-color:#bdd6ee;color:#252525;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-15z8{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-m2q4">Poly’s 4 steps approach</th>
+    <th class="tg-m2q4">Details</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-15z8"><span style="font-weight:bold">Step 1:</span> <span style="color:#454545;background-color:#FAFAFA">Understand the problem</span></td>
+    <td class="tg-15z8"><span style="color:#454545;background-color:#FAFAFA">Students are to read and understand the problem, identify the essential and non-essential information and decide what they are attempting to find.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-15z8"><span style="font-weight:bold">Step 2:</span> <span style="color:#454545;background-color:#FAFAFA">Devise a plan</span></td>
+    <td class="tg-15z8"><span style="color:#454545;background-color:#FAFAFA">Students are to come up with an appropriate plan to solve the problem using strategies such as using a model, making a list, working backwards and others..</span></td>
+  </tr>
+  <tr>
+    <td class="tg-15z8"><span style="font-weight:bold">Step 3:</span> <span style="color:#454545;background-color:#FAFAFA">Execute the plan</span></td>
+    <td class="tg-15z8"><span style="color:#454545;background-color:#FAFAFA">Students are to solve the equation or come up with another plan if the first one does not work.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-15z8"><span style="font-weight:bold">Step 4:</span> <span style="color:#454545;background-color:#FAFAFA">Check-Look back</span></td>
+    <td class="tg-15z8"><span style="color:#454545;background-color:#FAFAFA">Students are to check the solution and decide whether or not the solution is reasonable. </span></td>
+  </tr>
+</tbody>
+</table>
+
+<b>The 3 “I” Strategy</b><br>
+While explaining and understanding the problem, teachers also probe students’ understanding of the process by asking questions using the 3 “I” strategy.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-m2q4{background-color:#bdd6ee;color:#252525;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-56tu{background-color:#FAFAFA;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-15z8{background-color:#FAFAFA;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-m2q4">The 3 “I”</th>
+    <th class="tg-m2q4">Details</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-56tu"><span style="color:#454545;background-color:#FAFAFA">Identify</span></td>
+    <td class="tg-15z8"><span style="color:#454545;background-color:#FAFAFA">Students are to underline, circle or highlight the given information in the problem.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-56tu"><span style="color:#454545;background-color:#FAFAFA">Interpret</span></td>
+    <td class="tg-15z8"><span style="color:#454545;background-color:#FAFAFA">Students are to draw arrows or lines to show the relationship or linkages in the information</span></td>
+  </tr>
+  <tr>
+    <td class="tg-56tu"><span style="color:#454545;background-color:#FAFAFA">Infer</span></td>
+    <td class="tg-15z8"><span style="color:#454545;background-color:#FAFAFA">Students are to write down hidden or missing information</span></td>
+  </tr>
+</tbody>
+</table>
+
+<b>The 5 “R” Approach</b><br>
+To solve spatial visualization questions E.g. Geometry or model drawings, students are encouraged to use the 5 “R” – repeat, rearrange, remove, re-orientate and replace to simplify the problem.  
+  
+  
+
+<b>Heuristics</b><br>
+Heuristics are problem solving methods that play a very important role in solving word problems. These include using a representation, making a guess or restating the problem. Teachers will apply appropriate heuristics to teach word problems in the classroom.
+
+
+
+
+
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
