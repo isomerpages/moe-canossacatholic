@@ -3,7 +3,7 @@ title: Character and Citizenship Education
 permalink: /character-formation/character-and-citizenship-education/
 description: ""
 ---
-<b><font size=6>test8Character and Citizenship Education</font></b>
+<b><font size=6>test1Character and Citizenship Education</font></b>
 
 As part of Canossian Character Formation, the Character & Citizenship Education (CCE) Department Programmes aim to develop students who demonstrate:  
 
@@ -119,8 +119,7 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">P6</span>
-</td>
+<span style="color:#454545;background-color:#FAFAFA">P6</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Understanding Features and legacies of Civilisations</span></td>
 </tr></tbody></table>
@@ -215,39 +214,23 @@ While National Education has been infused in the various subjects, SS Learning j
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Angel Class</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">School values, class cleanliness and good personal grooming</span>
+<span style="color:#454545;background-color:#FAFAFA">School values, class cleanliness and good personal grooming</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Primary 1 to 6 Classes</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Termly</span>
-</td>
+<span style="color:#454545;background-color:#FAFAFA">Primary 1 to 6 Classes</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Termly</span></td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Canossian Spirit</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Exemplary character and outstanding personal qualities</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Primary 1 to 6 Students</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Annually</span>
-</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Canossian Spirit</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Exemplary character and outstanding personal qualities</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Primary 1 to 6 Students</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">St Magdalene</span></td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Character, Leadership and Service</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Character, Leadership and Service</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">St Bakhita</span></td>
