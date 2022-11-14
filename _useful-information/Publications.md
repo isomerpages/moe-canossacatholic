@@ -20,8 +20,8 @@ description: ""
 
 <font size=5 color="#eeac0d"><b>Canossa Connects</b></font>
 
-* [Canossa Connects 2022 Term 1](/files/Canossa%20Connects%202022%20Term%201.pdf)<br>
-* [Canossa Connects 2022 Term 2](/files/Canossa%20Connects%202022%20Term%202-compressed.pdf)<br>
+* [Canossa Connects 2022 - Term 1](/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%201.pdf)<br>
+* [Canossa Connects 2022 - Term 2](/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%202-compressed.pdf)
 
 
 
