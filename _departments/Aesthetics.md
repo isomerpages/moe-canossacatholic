@@ -77,8 +77,9 @@ The art curriculum in our school provides a foundation for all our students to u
 *   Our art modules are planned based on the Seeing, Expressing, Appreciating (SEA) approach.
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg">
-<colgroup><col style="width: 150px">
-<col style="width: 550px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 650px">
 </colgroup>
 <thead>
 <tr>
