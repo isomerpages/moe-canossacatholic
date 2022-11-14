@@ -11,7 +11,7 @@ third_nav_title: 2021 Events
 <center>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/P1-Orientation">
-<img src="/images/Gallery/P1%20Orientation%202021.png" style="width:100px;height:105px;margin-right:5px;" align="left"></a></p>
+<img src="/images/Gallery/P1%20Orientation%202021.png" style="width:150px;height:105px;margin-right:5px;" align="left"></a></p>
 
 	
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Opening-School-Mass">
