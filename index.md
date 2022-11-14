@@ -21,4 +21,5 @@ sections:
       button: Click here
       url: https://flipbookpdf.net/web/site/1bc69c0850ae90a0d7af4390ceb8f7d9bed675a4202210.pdf.html
       alt: Image alt text
+      image: /images/Homepage/Newsbites.png
 ---
