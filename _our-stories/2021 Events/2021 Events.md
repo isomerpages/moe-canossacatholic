@@ -4,52 +4,32 @@ permalink: /gallery/school-events-n-programmes-2021/
 description: ""
 third_nav_title: 2021 Events
 ---
-**<font size=6>School Events & Programmes 2021</font>**
+<font size=6><b>School Events & Programmes 2021</b></font><br><br>
 
-**<font size=5>Photo Gallery</font>**
+<font size=5 color="#7daadf"><b>Photo Gallery</b></font>
 
+<center>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/P1-Orientation">
-<img src="/images/Gallery/P1%20Orientation%202021.png"
-		 style="width:100px;height:105px;margin-right:5px;" 
-		 align="left">
-</a></p>
+<img src="/images/Gallery/P1%20Orientation%202021.png" style="width:100px;height:105px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Opening-School-Mass">
-<img src="/images/Gallery/Opening%20School%20Mass%202021.png"
-		 style="width:100px;height:103px;margin-right:5px;" 
-		 align="left">
-</a></p>
+<img src="/images/Gallery/Opening%20School%20Mass%202021.png" style="width:100px;height:103px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/CNY-Celebration">
-<img src="/images/Gallery/CNY%20Celebration%202021.png"
-		 style="width:100px;height:120px;margin-right:5px;" 
-		 align="left">
-</a></p>
+<img src="/images/Gallery/CNY%20Celebration%202021.png" style="width:100px;height:120px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png"
-		 style="width:100px;height:110px;margin-right:5px;" 
-		 align="left">
-</a></p>
+<img src="/images/Gallery/Canossian%20Saints%20Day.png" style="width:100px;height:110px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/interest-week/">
-<img src="/images/Gallery/2021/Interest%20Week%202021.jpg"
-		 style="width:95px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
+<img src="/images/Gallery/2021/Interest%20Week%202021.jpg" style="width:95px;height:109px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/prefects-investiture/">
-<img src="/images/Gallery/2021/Prefects'%20Investiture%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
+<img src="/images/Gallery/2021/Prefects'%20Investiture%202021.jpg" style="width:100px;height:109px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/safer-internet-day/">
-<img src="/images/Gallery/2021/Safer%20Internet%20Day%202021.jpg"
-		 style="width:100px;height:109px;margin-right:5px;" 
-		 align="left">
-</a></p>
+<img src="/images/Gallery/2021/Safer%20Internet%20Day%202021.jpg" style="width:100px;height:109px;margin-right:5px;" align="left"></a></p>
 
 
 
