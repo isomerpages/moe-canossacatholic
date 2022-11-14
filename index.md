@@ -17,9 +17,9 @@ sections:
       image: /images/Homepage/Laudate.jpg
   - infopic:
       title: Newsbites
-      description: November 2022
+      description: October 2022
       button: Click here
-      url: https://flipbookpdf.net/web/site/1bc69c0850ae90a0d7af4390ceb8f7d9bed675a4202210.pdf.html
+      url: https://staging.d2nutevx25vdua.amplifyapp.com/files/Newsbites/Canossa%20Newsbites%20-%20October%202022.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.png
 ---
