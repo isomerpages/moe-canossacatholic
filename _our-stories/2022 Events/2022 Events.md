@@ -58,14 +58,14 @@ third_nav_title: 2022 Events
 <br><br><br><br><br><br>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/may-devotion/"><img src="/images/Gallery/May%20Devotion%202022.jpg" style="width:95px;height:108px;margin-right:11px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/may-devotion/"><img src="/images/Gallery/May%20Devotion%202022.jpg" style="width:150px;height:170px;margin-right:13px;" align="left"></a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/bible-camp/">
-<img src="/images/Gallery/Bible%20Camp%202022.jpg" style="width:95px;height:107px;margin-right:0px;" align="left"></a></p>
+<img src="/images/Gallery/Bible%20Camp%202022.jpg" style="width:150px;height:175px;margin-right:0px;" align="left"></a></p>
 
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/all-saints-day-family-mass/"><img src="/images/Gallery/All%20Saint's%20Day%20Family%20Mass%202022.jpg" style="width:108px;height:122px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/all-saints-day-family-mass/"><img src="/images/Gallery/All%20Saint's%20Day%20Family%20Mass%202022.jpg" style="width:180px;height:205px;margin-right:5px;" align="left"></a></p>
 
 
 
@@ -77,4 +77,4 @@ third_nav_title: 2022 Events
 
 
 <br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
+<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
