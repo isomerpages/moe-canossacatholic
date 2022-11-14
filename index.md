@@ -14,6 +14,7 @@ sections:
       button: Click here
       alt: Image alt text
       url: /announcement
+      image: /images/Homepage/Laudate.jpg
   - infopic:
       title: Newsbites
       description: November 2022
