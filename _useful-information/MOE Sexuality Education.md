@@ -3,7 +3,7 @@ title: MOE Sexuality Education
 permalink: /useful-information/moe-sexuality-education/
 description: ""
 ---
-<b><font size="6">test1MOE Sexuality Education</font></b>
+<b><font size="6">MOE Sexuality Education</font></b>
 
 <b><font size=5 color="#7daadf">MOE Sexuality Education in Schools</font></b>
 
@@ -214,7 +214,6 @@ They will consider the issues that their peers would face and craft questions an
 <br><br>
 <font size=5 color="#eeac0d"><b>10.</b></font> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and can be downloaded here. The completed opt-out form is to be submitted by 25/02/2022.
 
-* [Opt Out Form](/files/Forms%20and%20Guides/Annex%20A%20Opt%20Out%20Form.pdf)
 
 <br><br><br><br><br><br>
 <sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
