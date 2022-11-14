@@ -4,7 +4,7 @@ permalink: /gallery/school-events-n-programmes-2022/
 description: ""
 third_nav_title: 2022 Events
 ---
-<font size=6><b>test3School Events & Programmes 2022</b></font><br>
+<font size=6><b>test4School Events & Programmes 2022</b></font><br>
 
 <font size=5 color="#7daadf"><b>Photo Gallery</b></font>
 
@@ -37,8 +37,7 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/student-leadership-training/"><img src="/images/Gallery/Student%20Leadership%20Training%202022.jpg" style="width:145px;height:185px;margin-right:15px;" align="left"></a></p>
 
-
-<p><a href="https://staging.d2nutevx250dua.amplifyapp.com/gallery/2022/world-hearing-day/"><img src="/images/Gallery/World%20Hearing%20Day%202022.jpg" style="width:150px;height:170px;margin-right:13px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-hearing-day/"><img src="/images/Gallery/World%20Hearing%20Day%202022.jpg" style="width:150px;height:170px;margin-right:13px;" align="left"></a></p>
 
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/world-water-day/"><img src="/images/Gallery/World%20Water%20Day%202022.jpg" style="width:155px;height:170px;margin-right:10px;" align="left"></a></p>
