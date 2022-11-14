@@ -66,12 +66,12 @@ Here are some PARENTing Tips to guide your child in this digital age.
 * <em><a href="https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx?_ga=2.3158520.957048614.1668416772-730791189.1668416771&_gl=1*12wclbc*_ga*NzMwNzkxMTg5LjE2Njg0MTY3NzE.*_ga_FD9D3XZVQQ*MTY2ODQxNjc3MS4xLjAuMTY2ODQxNjc3MS4wLjAuMA..">Family Media Plan</a></em>
 <br>
 
-<b><font size=3 color="#eeac0d">Navigate the Internet with your Child</font></b>
+<b><font size=4 color="#eeac0d">Navigate the Internet with your Child</font></b>
 
 *   Surf the Internet with your child so that you know what she/he does online and whether she/he is involved in age-appropriate activities.
 *   Highlight to your child not to respond to anyone who says something inappropriate and she/he should immediately report to adults and leave any site if she/he feel uncomfortable
 
-<b><font size=3 color="#eeac0d">Talk about Internet Use</font></b>
+<b><font size=4 color="#eeac0d">Talk about Internet Use</font></b>
 
 *   Communicate regularly with you child and get her/him to share with you
 
