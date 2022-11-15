@@ -1,0 +1,14 @@
+collections:
+  useful-information:
+    output: true
+    order:
+      - P1 Registration.md
+      - Singapore Student Learning Space (SLS).md
+      - Parents Gateway.md
+      - Students iCON Account.md
+      - Cyber Wellness.md
+      - My SkillsFuture.md
+      - MOE Sexuality Education.md
+      - Publications.md
+      - Gate Opening Hours.md
+      - Service Providers.md
