@@ -24,7 +24,7 @@ sections:
       image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossa Connects
-      description: A Quarterly Newsletter for Parents of Canossa Catholic Primary School
+      description: A quarterly newsletter for parents
       button: Click Here
       url: https://staging.d2nutevx25vdua.amplifyapp.com/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%202-compressed.pdf
       image: /images/Homepage/Canossa Connects.jpg
