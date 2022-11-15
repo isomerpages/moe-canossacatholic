@@ -4,17 +4,14 @@ permalink: /departments/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-
-
-<b><font size=6>CO-CURRICULAR ACTIVITIES</font></b>
+<b><font size=6>CO CURRICULAR ACTIVITIES</font></b>
 
 CCA is a key component of our students’ holistic education. It provides a platform for students to discover their interests and talents, and develop character, values, social emotional competencies and skills to prepare them for the future.  
   
 In addition, participation in CCA also encourages social interaction and integration amongst students across levels and diverse backgrounds. By learning alongside others, our students develop friendships and deepen their sense of belonging to the school and the community.  
   
 
-<b><font size=5 color="#7daadf">The Co-Curricular Activities offered to the Primary 3 to 6 students are as follows:</font></b>
+<b><font size=5 color="#7daadf">The Co Curricular Activities offered to the Primary 3 to 6 students are as follows:</font></b>
 
 <br>
 
