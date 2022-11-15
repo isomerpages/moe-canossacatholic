@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Homepage/Banner 4 (Gif).gif
   - infopic:
       title: Announcements
       description: Laudate – an Art Exhibition in Praise of God’s Blessings
