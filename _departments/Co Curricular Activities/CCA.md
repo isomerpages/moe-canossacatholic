@@ -4,7 +4,7 @@ permalink: /departments/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<b><font size=6>CO CURRICULAR ACTIVITIES</font></b>
+<b><font size=6>Co Curricular Activities</font></b>
 
 CCA is a key component of our students’ holistic education. It provides a platform for students to discover their interests and talents, and develop character, values, social emotional competencies and skills to prepare them for the future.  
   
