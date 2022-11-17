@@ -3,7 +3,7 @@ title: Students iCON Account
 permalink: /useful-information/students-icon-account/
 description: ""
 ---
-<b><font size="6">STUDENTS iCON ACCOUNT</font></b>
+<b><font size="6">Students iCON Account</font></b>
 
 <b><font size=5 color="#7daadf">Students’ iCON</font></b>
 
