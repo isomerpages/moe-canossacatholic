@@ -5,7 +5,7 @@ description: ""
 ---
 <b><font size=6>Our Staff</font></b>
 
-<b><font size=5 color="#7daadf">KEY PERSONNEL</font></b>
+<b><font size=5 color="#7daadf">Key Personnel</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -195,7 +195,7 @@ description: ""
 </table>
 <br>
 <br>
-<b><font size=5 color="#7daadf">LEAD / SENIOR TEACHERS</font></b>
+<b><font size=5 color="#7daadf">Lead / Senior Teachers</font></b><br><br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -243,7 +243,7 @@ description: ""
 </table>
 <br>
 <br>
-<b><font size=5 color="#7daadf">FORM TEACHERS</font></b>
+<b><font size=5 color="#7daadf">Form Teachers</font></b><br><br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
