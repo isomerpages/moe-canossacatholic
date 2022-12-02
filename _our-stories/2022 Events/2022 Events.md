@@ -85,6 +85,10 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/permalink/Christmas-at-the-Village/"><img src="/images/Our%20Stories/2022/Christmas%20at%20the%20Village%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
+<br><br><br><br><br><br>
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/permalink/Christmas-at-the-Village/"><img src="/images/Our%20Stories/2022/Christmas%20at%20the%20Village%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
+
 </center>
 
 
