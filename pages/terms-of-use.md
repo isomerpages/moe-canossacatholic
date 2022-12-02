@@ -18,7 +18,7 @@ Thank you for visiting Canossa Catholic Primary School’s website. By accessing
 
 <b><font size=5 color="#7daadf">Privacy Policy</font></b>
 
-<b><font size=4 color="#eeac0d">4.</font></b>&emsp;  Click here to review this website Privacy Statement.
+<b><font size=4 color="#eeac0d">4.</font></b>&emsp;  Click here to review this website [Privacy Statement](https://www.canossacatholicpri.moe.edu.sg/privacy/).
 
 <b><font size=5 color="#7daadf">Restrictions on use of Materials</font></b>
 
@@ -30,9 +30,9 @@ Thank you for visiting Canossa Catholic Primary School’s website. By accessing
 
 <b><font size=4 color="#eeac0d">7.</font></b>&emsp;  The Contents of this website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Canossa Catholic Primary School does not warrant and hereby disclaims any warranty:
 
-(a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
+<b>(a)</b>&emsp;   as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
 
-(b) that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.
+<b>(b)</b>&emsp;   that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.
 
 <b><font size=4 color="#eeac0d">8.</font></b>&emsp;  Canossa Catholic Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
 
