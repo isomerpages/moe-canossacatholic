@@ -69,7 +69,7 @@ third_nav_title: 2022 Events
 
 <br><br><br><br><br><br>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/all-saints-day-family-mass/"><img src="/images/Gallery/Christmas%20at%20the%20Village%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/permalink/"><img src="/images/Gallery/Christmas%20at%20the%20Village%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:px;" align="left"></a></p>
 
 </center>
 
