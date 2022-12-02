@@ -73,7 +73,6 @@ third_nav_title: 2022 Events
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/national-day/"><img src="/images/Our%20Stories/National%20Day%20-%20Cover%20Photo%20(Main).jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
 
-
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/permalink/Christmas-at-the-Village/"><img src="/images/Our%20Stories/Christmas%20at%20the%20Village%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
 </center>
