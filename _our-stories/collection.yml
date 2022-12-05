@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2022 Events/P6 Graduation Day.md
       - 2022 Events/.keep
       - 2022 Events/2022 Events.md
       - 2022 Events/P1 Orientation.md
@@ -24,13 +23,14 @@ collections:
       - 2022 Events/May Devotion.md
       - 2022 Events/Bible Camp.md
       - 2022 Events/All Saint's Day Family Mass.md
+      - 2022 Events/All Saints Family Day Mass.md
       - 2022 Events/National Day.md
       - 2022 Events/P2 Neighbourhood Trail.md
       - 2022 Events/P5 Katong Learning Journey.md
       - 2022 Events/Racial Harmony Day.md
       - 2022 Events/Teachers' Day.md
       - 2022 Events/Children's Day.md
-      - 2022 Events/All Saints Family Day Mass.md
+      - 2022 Events/P6 Graduation Day.md
       - 2022 Events/Christmas at the Village.md
       - 2021 Events/.keep
       - 2021 Events/2021 Events.md
