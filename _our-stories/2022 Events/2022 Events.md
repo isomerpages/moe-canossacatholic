@@ -85,7 +85,7 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/teachers-day/"><img src="/images/Our%20Stories/2022/Teachers'%20Day%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/childrens-day//"><img src="" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/childrens-day//"><img src="/images/Our%20Stories/2022/Children's%20Day%202%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/All-Saints-Family-Day-Mass/"><img src="/images/Our%20Stories/2022/All%20Saints%20Day%20Family%20Mass%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
