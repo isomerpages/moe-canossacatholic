@@ -65,10 +65,10 @@ third_nav_title: 2022 Events
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/bible-camp/">
 <img src="/images/Our%20Stories/2022/Bible%20Camp%202022.jpg" style="width:150px;height:175px;margin-right:0px;" align="left"></a></p>
 
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/all-saints-day-family-mass/"><img src="/images/Our%20Stories/2022/All%20Saint's%20Day%20Family%20Mass%202022.jpg" style="width:180px;height:205px;margin-right:5px;" align="left"></a></p>
-
 <br><br><br><br><br><br>
+
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/All-Saints-Family-Day-Mass/"><img src="/images/Our%20Stories/2022/All%20Saints%20Day%20Family%20Mass%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
+
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/national-day/"><img src="/images/Our%20Stories/2022/National%20Day%20-%20Cover%20Photo%20(Main).jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
@@ -78,16 +78,18 @@ third_nav_title: 2022 Events
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/P5-Katong-Learning-Journey/"><img src="/images/Our%20Stories/2022/P5%20Katong%20Learning%20Journey%20-%20Cover%20Page.jpg" style="width:195px;height:200px;margin-right:5px;" align="left"></a></p>
 
-
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/Racial-Harmony-Day/"><img src="/images/Our%20Stories/2022/Racial%20Harmony%20-%20Cover%20Photo.jpg" style="width:195px;height:200px;margin-right:5px;" align="left"></a></p>
-
 <br><br><br><br><br><br>
+	
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/Racial-Harmony-Day/"><img src="/images/Our%20Stories/2022/Racial%20Harmony%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/teachers-day/"><img src="/images/Our%20Stories/2022/Teachers'%20Day%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/teachers-day/"><img src="/images/Our%20Stories/2022/Teachers'%20Day%20-%20Cover%20Photo.jpg" style="width:185px;height:200px;margin-right:5px;" align="left"></a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/childrens-day//"><img src="/images/Our%20Stories/2022/Children's%20Day%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/childrens-day/"><img src="/images/Our%20Stories/2022/Children's%20Day%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/All-Saints-Family-Day-Mass/"><img src="/images/Our%20Stories/2022/All%20Saints%20Day%20Family%20Mass%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/p6graduationday/"><img src="/images/Our%20Stories/2022/P6%20Graduation%20%20Ceremony%20-%20Cover%20Photo.jpg" style="width:180px;height:200px;margin-right:5px;" align="left"></a></p>
+
+
+
 
 
 <br><br><br><br><br><br>
