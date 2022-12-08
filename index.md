@@ -10,11 +10,11 @@ sections:
       background: /images/Homepage/Banner 4 (Gif).gif
   - infopic:
       title: Announcements
-      description: Laudate – an Art Exhibition in Praise of God’s Blessings
+      description: Christmas @ the Village - Thanksgiving for God's Blessings
       button: Click here
       alt: Image alt text
-      url: https://staging.d2nutevx25vdua.amplifyapp.com/our-school/history/celebrating-canossas-80th-birthday/laudate-exhibition/
-      image: /images/Homepage/Annoucements.jpg
+      url: https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/permalink/Christmas-at-the-Village/
+      image: /images/Homepage/Annoucements & Christmas at the Village.gif
   - infopic:
       title: Newsbites
       description: October 2022

@@ -16,7 +16,9 @@ description: ""
 * [Canossa Newsbites - July](/files/Newsbites/Canossa%20Newsbites%20July%202022.pdf)<br>
 * [Canossa Newsbites - August](/files/Newsbites/Canossa%20Newsbites%20August%202022.pdf)<br>
 * [Canossa Newsbites - September](/files/Newsbites/Canossa%20Newsbites%20September%202022.pdf)<br>
-* [Canossa Newsbites - October ](/files/Newsbites/Canossa%20Newsbites%20-%20October%202022.pdf)<br><br>
+* [Canossa Newsbites - October](/files/Newsbites/Canossa%20Newsbites%20-%20October%202022.pdf)<br>
+* [Canossa Newsbites - November](/files/Newsbites/Canossa%20Newsbites%20-%20November%202022.pdf)
+<br>
 
 <font size=5 color="#eeac0d"><b>Canossa Connects</b></font>
 
