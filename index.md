@@ -26,7 +26,7 @@ sections:
       title: Canossa Connects
       description: A quarterly newsletter for parents
       button: Click Here
-      url: https://staging.d2nutevx25vdua.amplifyapp.com/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%202-compressed.pdf
+      url: https://www.flipbookpdf.net/web/site/7e0b3c144d1f38242a0897bceff754e4c1e5c010202212.pdf.html
       image: /images/Homepage/Canossa Connects.jpg
       alt: Image alt text
 ---
