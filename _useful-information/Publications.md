@@ -24,6 +24,10 @@ description: ""
 
 * [Canossa Connects 2022 - Term 1](/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%201.pdf)<br>
 * [Canossa Connects 2022 - Term 2](/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%202-compressed.pdf)
+<br>
+* [Canossa Connects 2022 - Term 3](https://www.flipbookpdf.net/web/site/488133f228e77b2e8d0c0f6aeb8a85ba30613541202212.pdf.html)
+<br>
+* [Canossa Connects 2022 - Term 4](https://www.flipbookpdf.net/web/site/7e0b3c144d1f38242a0897bceff754e4c1e5c010202212.pdf.html)
 
 
 
