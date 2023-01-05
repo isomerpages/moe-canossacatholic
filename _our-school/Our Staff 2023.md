@@ -173,3 +173,26 @@ description: ""
 <span style="color:#454545">Subject Head National Education, Social Studies and Values-in-Action</span>
 </td>
 </tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="color:#454545">Ms Elizabeth Yee</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Subject Head Educational Support</span>
+<br>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mdm Faezah</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Administration Manager </span>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<br>
+<b><font size=5 color="#7daadf">Lead / Senior Teachers</font></b><br><br>
