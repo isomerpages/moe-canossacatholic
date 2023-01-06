@@ -19,7 +19,7 @@ sections:
       title: Newsbites
       description: October 2022
       button: Click here
-      url: https://staging.d2nutevx25vdua.amplifyapp.com/files/Newsbites/Canossa%20Newsbites%20-%20October%202022.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa%20Newsbites%20-%20January%202023.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
