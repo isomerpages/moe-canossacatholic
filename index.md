@@ -17,9 +17,9 @@ sections:
       image: /images/Homepage/Annoucements & Christmas at the Village.gif
   - infopic:
       title: Newsbites
-      description: October 2022
+      description: January 2023
       button: Click here
-      url: https://staging.d2nutevx25vdua.amplifyapp.com/files/Newsbites/Canossa%20Newsbites%20-%20October%202022.pdf
+      url: https://staging.d2nutevx25vdua.amplifyapp.com/files/Newsbites/Canossa%20Newsbites%20-%20January%202023.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
