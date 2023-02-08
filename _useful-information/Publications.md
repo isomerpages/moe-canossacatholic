@@ -10,6 +10,7 @@ description: ""
 <font size="5" color="#eeac0d"><b>Canossa Newsbites</b></font>
 
 * [Canossa Newsbites - January](/files/Newsbites/Canossa%20Newsbites%20-%20January%202023.pdf)
+* [Canossa Newsbites - February](/files/Newsbites/Canossa%20Newsbites%20-%20February%202023.pdf)
 
 
 <br>
