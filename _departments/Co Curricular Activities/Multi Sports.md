@@ -1,15 +1,14 @@
 ---
-title: Modular CCA (Sports)
-permalink: /departments/co-curricular-activities/modular-cca-sports/
+title: Multi Sports
+permalink: /departments/co-curricular-activities/Multi-Sports/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
 
 
+<b><font size="6">Multi-Sports</font></b>
 
-<b><font size="6">Modular CCA (Sports)</font></b>
-
-The Modular CCA-Sports is a recreational sports club that offers a platform to expose students to a variety of sports and games such as creative skipping, mini tennis, netball and basketball etc. Through such exposure, students will have the opportunity to discover and develop their interest in sports and games, which is an important step for them towards leading a healthy lifestyle.
+Multi-Sports is a recreational sports club that offers a platform to expose students to a variety of sports and games such as creative skipping, mini tennis, netball and basketball etc. Through such exposure, students will have the opportunity to discover and develop their interest in sports and games, which is an important step for them towards leading a healthy lifestyle.
 
 Besides coaching students in the fundamental skills and techniques of the games, some game rules are introduced progressively to enable students to appreciate the games and demonstrate their skills in the right settings.
 
