@@ -17,9 +17,9 @@ sections:
       image: /images/Homepage/Annoucements & Christmas at the Village.gif
   - infopic:
       title: Newsbites
-      description: January 2023
+      description: February 2023
       button: Click here
-      url: https://staging.d2nutevx25vdua.amplifyapp.com/files/Newsbites/Canossa%20Newsbites%20-%20January%202023.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa%20Newsbites%20-%20February%202023.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
