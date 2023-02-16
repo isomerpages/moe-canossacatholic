@@ -146,9 +146,10 @@ In this lesson, students will learn healthy ways to manage the emotions arising 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Did You Know? *<br>(60 min)
 </span></td>
 <td style="background-color:#FAFAFA;border-color:WHITE;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-• Identify the characteristics of love and infatuation<br><br>
-• Distinguish between the characteristics of love versus infatuation<br><br>
-• Identify strong feelings arising from infatuation<br><br></td>
+This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+
+<br><br></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 2</span></td>
 </tr>
 <tr>
