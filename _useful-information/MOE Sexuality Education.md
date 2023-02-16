@@ -136,7 +136,8 @@ In this lesson, students will learn to distinguish between the characteristics o
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 2</span></td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Am I A Good Friend?<br>(30 min)</span></td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Are We More than Friends?<br>Lesson 2<br>(60 min)
+</span></td>
 <td style="background-color:#FAFAFA;border-color:WHITE;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 • Identify the qualities that they have as a friend<br><br>
 • Recognise the importance of developing in oneself the qualities of a good friend<br><br></td>
