@@ -159,11 +159,12 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 <b><font size=5 color="#7daadf">Information for Parents</font></b>
 <br><br>
-<font size=5 color="#eeac0d"><b>8.</b></font> &nbsp; Parents can contact the school at Tel no: <a href="68441418">68441418</a> or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s sexuality education programme.
+<b><font size=5 color="#eeac0d">8.</font></b> &nbsp; Parents may opttheir children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 <br><br>
-<b><font size=5 color="#eeac0d">9.</font></b> &nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers. 
+<font size=5 color="#eeac0d"><b>9.</b></font> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the end of Term 1.
 <br><br>
-<font size=5 color="#eeac0d"><b>10.</b></font> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and can be downloaded here. The completed opt-out form is to be submitted by 25/02/2022.
+<font size=5 color="#eeac0d"><b>10.</b></font> &nbsp; Parents can contact the school at Tel no: <a href="68441418">68441418</a> or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education Programme.
+<br><br>
 
 
 <br><br><br><br><br><br>
