@@ -97,51 +97,11 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	<tr>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Keeping Myself Safe<br>(60 min)
 </span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
-	• Identify the stresses caused by physical and emotional changes during puberty<br><br>
-	• Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>
-	• Describe the emotions caused by physical changes during puberty<br><br>
-	• Recognise that one’s identity does not change even when one’s body is experiencing change due to puberty<br><br></span></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+<br><br></span></td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td></tr>
-	<tr>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Main Task<br>
-	(30 min)</span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal"><b>Description of the Main Task:</b></span><br><br><span style="font-weight:normal">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.<br><br></span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
-	</tr>
-	<tr>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Where I Belong</td><td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">What Are Families?<br>
-	(30 min)</span><br></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
-	• Know that there are different types of family structures<br><br>
-	• Know that every family is unique<br><br>
-	• State that the three basic functions of families are to provide love, protection and guidance<br><br>
-	• Identify the right sources of help to turn to when in need<br><br></span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
-	</tr>
-	<tr>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Where I Belong</td><td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">What is My Role?<br>
-	(30 min)</span></td>
-	<td style="background-color:#FAFAFA;border-color:black;border-style:solid;border-width:1px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
-	• Know that gender is about being male or female<br><br>
-	• Choose not to stereotype by gender<br><br></span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
-	</tr>
-	<tr>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">How Do I Keep Myself Safe?</td><td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">What is Safety?<br>
-	(30 min)</span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
-	• Know what sexual abuse is<br><br>
-	• Know that there are laws in Singapore that can protect them from sexual abuse<br><br>
-	• Know their rights in keeping themselves safe from sexual abuse<br><br></span></td><td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
-	</tr>
-	<tr>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Stop It! Run! Tell!<br>
-	(30 min)</span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
-	• Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>
-	• Know their responsibilities in minimising the risk of sexual harm<br><br></span></td>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td></tr></tbody></table>
+</tbody></table>
 
 <br><br>
 
