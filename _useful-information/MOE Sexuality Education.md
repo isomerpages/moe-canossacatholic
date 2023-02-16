@@ -152,7 +152,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 2</span></td>
 </tr>
 </tbody></table>
-<br><br>
+<br>
 
 <b><u>Please Note:</b></u><br>
 *For <b><u>2023</u></b>, the Primary 5 lesson <em>“Did You Know?”</em> will also be conducted for the Primary 6 cohort. 
