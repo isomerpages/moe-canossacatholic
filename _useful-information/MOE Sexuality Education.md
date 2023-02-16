@@ -78,10 +78,13 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <tbody>
 	<tr>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4">Gosh! I Am Changing</td><td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">What Is Happening To Me?<br>(30 min)</span></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4">Growing Years</td><td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">The Changes in Me
+(60 min)
+</span></td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
-	• Know what puberty is<br><br>
-	• Identify the physical changes during puberty<br><br></span></td>
+	This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br> 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+<br><br></span></td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
 	</tr>
 	<tr>
