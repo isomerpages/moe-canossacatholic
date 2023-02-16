@@ -156,7 +156,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 <b><u>Please Note:</b></u><br>
 *For <b><u>2023</u></b>, the Primary 5 lesson <em>“Did You Know?”</em> will also be conducted for the Primary 6 cohort. 
-
+<br>
+<br>
 <b><font size=5 color="#7daadf">Information for Parents</font></b>
 <br><br>
 <b><font size=5 color="#eeac0d"><b>8.</b></font> &nbsp; Parents may opttheir children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
