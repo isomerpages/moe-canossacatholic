@@ -95,7 +95,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:CENTER;vertical-align:top;word-break:normal"><span style="font-weight:normal">Term 3 Week 1</span></td>
 	</tr>
 	<tr>
-	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">What Can I Do?<br>(Part 2)<br>(30 min)</span></td>
+	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:normal">Keeping Myself Safe<br>(60 min)
+</span></td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">
 	• Identify the stresses caused by physical and emotional changes during puberty<br><br>
 	• Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>
