@@ -53,7 +53,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 <br><br>
 <b><font size=5 color="#eeac0d">7.</font></b> &nbsp; Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.    
 <br><br><br>   
-<b><font size=5 color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2022:</font></b><br><br>
+<b><font size=5 color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2023:</font></b><br><br>
 
 <center><font size=5 color="#eeac0d"><b>Primary 5</b></font></center>
 
