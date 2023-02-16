@@ -167,6 +167,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <font size=5 color="#eeac0d"><b>10.</b></font> &nbsp; Parents can contact the school at Tel no: <a href="68441418">68441418</a> or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education Programme.
 <br><br>
 
+test
 
 <br><br><br><br><br><br>
 <sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
