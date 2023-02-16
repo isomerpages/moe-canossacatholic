@@ -154,9 +154,18 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tbody></table>
 <br>
 
-<b><u>Please Note:</b></u><br>
+<u><b>Please Note:</b></u><br>
 *For <b><u>2023</u></b>, the Primary 5 lesson  <em>“Did You Know?”</em>  will also be conducted for the Primary 6 cohort. 
-
+<br>
+<br>
+<b><font size=5 color="#7daadf">Information for Parents</font></b>
+<br><br>
+<font size=5 color="#eeac0d"><b>8.</b></font> &nbsp; Parents may opttheir children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+<br><br>
+<font size=5 color="#eeac0d"><b>9.</b></font> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents before the end of Term 1.
+<br><br>
+<font size=5 color="#eeac0d"><b>10.</b></font> &nbsp; Parents can contact the school at Tel no: <a href="68441418">68441418</a> or email to <a href="mailto:ccps@moe.edu.sg">ccps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education Programme.
+<br><br>
 
 test
 
