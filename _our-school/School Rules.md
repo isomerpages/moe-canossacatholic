@@ -33,10 +33,12 @@ No strands of hair should be hanging down the side of the front of the face. The
 <br>
 <br>
 <li><b><u>Accessories</u></b></li>
-Students are to wear **one** small, simple ear-stud, either gold or silver, on **each** ear. Earrings are not allowed.  
+Students are to wear <b>one</b> small, simple ear-stud, either gold or silver, on <b>each</b> ear. Earrings are not allowed.  
+<br>
 <br>
 Students are not allowed to wear religious items and jewellery such as rings, necklace, lockets, bracelets, friendship bands etc, sling pouches and lanyards to school.  
-<br> 
+<br>
+<br>
 Students are only allowed to wear small and simple watches with dark solid-coloured straps (eg. black, blue, brown). No smart expensive electronic watches/devices are to be brought to school.
 <br>
 <br>
@@ -46,6 +48,7 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <br>
 <br>
 <br>
+
 <b><font size=5 color="#7daadf">Punctuality</font></b>
 *   Students must be in assembly area before 7.25am. Lessons will start at 7.30am.
 *   Students must be punctual for all lessons, CCA sessions and other school programmes.
