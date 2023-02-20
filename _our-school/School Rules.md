@@ -34,12 +34,10 @@ No strands of hair should be hanging down the side of the front of the face. The
 <br>
 <li><b><u>Accessories</u></b></li> 
 Students are to wear <b>one</b> small, simple ear-stud, either gold or silver, on <b>each</b> ear. Earrings are not allowed.  
-<br>
-<br>
+<br><br>
 Students are not allowed to wear religious items and jewellery such as rings, necklace, lockets, bracelets, friendship bands etc, sling pouches and lanyards to school.  
-<br>
-<br>
-Students are only allowed to wear small and simple watches with dark solid-coloured straps (eg. black, blue, brown). No smart expensive electronic watches/devices are to be brought to school. TEST
+<br><br>
+Students are only allowed to wear small and simple watches with dark solid-coloured straps (eg. black, blue, brown). No smart expensive electronic watches/devices are to be brought to school. TEST 2
 <br>
 <br>
 <li><b><u>Fingernails</u></b></li>
