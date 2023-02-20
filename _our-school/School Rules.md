@@ -37,7 +37,7 @@ Students are to wear <b>one</b> small, simple ear-stud, either gold or silver, 
 
 Students are not allowed to wear religious items and jewellery such as rings, necklace, lockets, bracelets, friendship bands etc, sling pouches and lanyards to school.  
 
-Students are only allowed to wear small and simple watches with dark solid-coloured straps (eg. black, blue, brown). No smart expensive electronic watches/devices are to be brought to school. TEST 3
+Students are only allowed to wear small and simple watches with dark solid-coloured straps (eg. black, blue, brown). No smart expensive electronic watches/devices are to be brought to school.
 <br>
 <br>
 <li><b><u>Fingernails</u></b></li>
