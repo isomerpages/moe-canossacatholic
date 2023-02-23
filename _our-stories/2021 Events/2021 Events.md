@@ -64,7 +64,7 @@ third_nav_title: 2021 Events
 <br><br><br><br><br><br>
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/mid-autumn/">
-<img src="/images/Gallery/2021/Mid%20Autumn%202021.jpg" style="width:155px;height:165px;margin-right:15px;margin-left:20px" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Mid%20Autumn%202021.jpg" style="width:155px;height:165px;margin-right:15px;margin-left:20px" align="left"></a></p>
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/p6-apple-clean-sea-project/">
