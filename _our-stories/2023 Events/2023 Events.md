@@ -10,10 +10,12 @@ third_nav_title: 2023 Events
 
 <center>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/P1-Orientation"><img src="/images/Our%20Stories/2022/P1%20Orientation.png" style="width:140px;height:155px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/school-events-n-programmes-2023/Chinese-New-Year-Celebration/"><img src="/images/Our%20Stories/2023/CNY%20Celebrations%20-%20Cover%20Photo.jpg" style="width:160px;height:170px;margin-right:10px;" align="left"></a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Opening-School-Mass"><img src="/images/Our%20Stories/2022/Opening%20School%20Mass.png" style="width:155px;height:155px;margin-right:5px;" align="left"></a></p>
 
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/school-events-n-programmes-2023/Prefects-Investiture/"><img src="/images/Our%20Stories/2023/Prefects%20Investiture%20-%20Cover%20Photo.jpg" style="width:157px;height:170px;margin-right:10px;" align="left"></a></p>
+
+	
 </center>
 
 
