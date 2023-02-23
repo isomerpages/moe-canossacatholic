@@ -18,7 +18,7 @@ third_nav_title: 2021 Events
 
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/CNY-Celebration">
-<img src="/images/Gallery/CNY%20Celebration%202021.png" style="width:160px;height:195px;margin-right:10px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/CNY%20Celebration%202021.png" style="width:160px;height:195px;margin-right:10px;" align="left"></a></p>
 
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/Canossian-Saints-Day">
