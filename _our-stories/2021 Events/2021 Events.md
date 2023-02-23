@@ -40,27 +40,26 @@ third_nav_title: 2021 Events
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/international-friendship-day/">
-<img src="/images/Gallery/2021/International%20Friendship%20Day%202021.jpg" style="width:160px;height:190px;margin-right:5px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/International%20Friendship%20Day%202021.jpg" style="width:160px;height:190px;margin-right:5px;" align="left"></a></p>
 
-	
 
 <br><br><br><br><br><br>
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/total-defence-day/">
-<img src="/images/Gallery/2021/Total%20Defence%20Day%202021.jpg" style="width:150px;height:160px;margin-right:20px;margin-left:15px" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Total%20Defence%20Day%202021.jpg" style="width:150px;height:160px;margin-right:20px;margin-left:15px" align="left"></a></p>
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/national-day-celebration/">
-<img src="/images/Gallery/2021/National%20Day%20Celebration%202021.jpg" style="width:160px;height:190px;margin-right:10px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/National%20Day%20Celebration%202021.jpg" style="width:160px;height:190px;margin-right:10px;" align="left"></a></p>
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/code-for-fun/">
-<img src="/images/Gallery/2021/Code%20for%20Fun%202021.jpg" style="width:155px;height:170px;margin-right:10px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Code%20for%20Fun%202021.jpg" style="width:155px;height:170px;margin-right:10px;" align="left"></a></p>
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/cyber-wellness-assembly-show/">
-<img src="/images/Gallery/2021/Cyber%20Wellness%20Assembly%20Show%202021.jpg" style="width:160px;height:195px;margin-right:5px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Cyber%20Wellness%20Assembly%20Show%202021.jpg" style="width:160px;height:195px;margin-right:5px;" align="left"></a></p>
 	
 <br><br><br><br><br><br>
 
