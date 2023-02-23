@@ -68,11 +68,11 @@ third_nav_title: 2021 Events
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/p6-apple-clean-sea-project/">
-<img src="/images/Gallery/2021/P6%20Apple%20Clean%20Sea%20Project%202021.jpg" style="width:160px;height:190px;margin-right:10px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/P6%20Apple%20Clean%20Sea%20Project%202021.jpg" style="width:160px;height:190px;margin-right:10px;" align="left"></a></p>
 
 
-<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/p6-national-cyber-wellness-advocacy/"><img src="/images/Gallery/2021/P6%20National%20Cyber%20Wellness%20Advocacy.jpg" style="width:160px;height:195px;margin-right:5px;" align="left"></a></p>
-
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/p6-national-cyber-wellness-advocacy/"><img src="/images/Our%20Stories/2021/P6%20National%20Cyber%20Wellness%20Advocacy.jpg" style="width:160px;height:195px;margin-right:5px;" align="left"></a></p>
+	
 </center>
 
 
