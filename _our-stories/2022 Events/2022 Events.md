@@ -10,11 +10,11 @@ third_nav_title: 2022 Events
 
 <center>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/P1-Orientation"><img src="/images/Our%20Stories/2022/P1%20Orientation.png" style="width:140px;height:155px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2022/P1-Orientation"><img src="/images/Our%20Stories/2022/P1%20Orientation.png" style="width:140px;height:155px;margin-right:5px;" align="left"></a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/Opening-School-Mass"><img src="/images/Our%20Stories/2022/Opening%20School%20Mass.png" style="width:155px;height:155px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2022/Opening-School-Mass"><img src="/images/Our%20Stories/2022/Opening%20School%20Mass.png" style="width:155px;height:155px;margin-right:5px;" align="left"></a></p>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/CNY-Celebration"><img src="/images/Our%20Stories/2022/Chinese%20New%20Year%20Celebration.png" style="width:155px;height:180px;margin-right:5px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2022/CNY-Celebration"><img src="/images/Our%20Stories/2022/Chinese%20New%20Year%20Celebration.png" style="width:155px;height:180px;margin-right:5px;" align="left"></a></p>
 
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2022/P6-Sri-Warisan-Wayang-Kulit-n-Gamelan-Exp"><img src="/images/Our%20Stories/2022/P6%20Sri%20Warisan%20Wayang%20Kulit%20and%20Gamelan%20Experience.png" style="width:160px;height:205px;margin-right:5px;" align="left"></a></p>
 
