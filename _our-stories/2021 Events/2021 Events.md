@@ -22,7 +22,8 @@ third_nav_title: 2021 Events
 
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/Canossian-Saints-Day">
-<img src="/images/Gallery/Canossian%20Saints%20Day.png" style="width:170px;height:180px;margin-right:10px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Canossian%20Saints%20Day.png" style="width:170px;height:180px;margin-right:10px;" align="left"></a></p>
+	
 
 <br><br><br><br><br><br>
 
