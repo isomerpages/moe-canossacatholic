@@ -28,20 +28,21 @@ third_nav_title: 2021 Events
 <br><br><br><br><br><br>
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/interest-week/">
-<img src="/images/Gallery/2021/Interest%20Week%202021.jpg" style="width:150px;height:165px;margin-right:10px;margin-left:15px" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Interest%20Week%202021.jpg" style="width:150px;height:165px;margin-right:10px;margin-left:15px" align="left"></a></p>
 
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/prefects-investiture/">
-<img src="/images/Gallery/2021/Prefects'%20Investiture%202021.jpg" style="width:160px;height:167px;margin-right:10px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Prefects'%20Investiture%202021.jpg" style="width:160px;height:167px;margin-right:10px;" align="left"></a></p>
 
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/safer-internet-day/">
-<img src="/images/Gallery/2021/Safer%20Internet%20Day%202021.jpg" style="width:160px;height:170px;margin-right:15px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Safer%20Internet%20Day%202021.jpg" style="width:160px;height:170px;margin-right:15px;" align="left"></a></p>
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/international-friendship-day/">
 <img src="/images/Gallery/2021/International%20Friendship%20Day%202021.jpg" style="width:160px;height:190px;margin-right:5px;" align="left"></a></p>
 
+	
 
 <br><br><br><br><br><br>
 
