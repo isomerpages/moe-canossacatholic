@@ -9,8 +9,8 @@ third_nav_title: 2021 Events
 
 <center>
 
-<p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/P1-Orientation">
-<img src="/images/Gallery/P1%20Orientation%202021.png" style="width:160px;height:165px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/P1-Orientation/">
+<img src="/images/Our%20Stories/2021/P1%20Orientation%202021.png" style="width:160px;height:165px;margin-right:10px;" align="left"></a></p>
 
 	
 <p><a href="https://staging.d2nutevx25vdua.amplifyapp.com/gallery/2021/Opening-School-Mass">
