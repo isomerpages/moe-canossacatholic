@@ -14,7 +14,7 @@ third_nav_title: 2021 Events
 
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/Opening-School-Mass">
-<img src="/images/Gallery/Opening%20School%20Mass%202021.png" style="width:160px;height:165px;margin-right:10px;" align="left"></a></p>
+<img src="/images/Our%20Stories/2021/Opening%20School%20Mass%202021.png" style="width:160px;height:165px;margin-right:10px;" align="left"></a></p>
 
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2021/CNY-Celebration">
