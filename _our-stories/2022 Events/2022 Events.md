@@ -20,7 +20,7 @@ third_nav_title: 2022 Events
 
 <br><br><br><br><br><br>
 
-<p><a href=https://www.canossacatholicpri.moe.edu.sg/gallery/2022/Total-Defence-Day><img src="/images/Our%20Stories/2022/Total%20Defence%20Day.png" style="width:150px;height:155px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2022/Total-Defence-Day"><img src="/images/Our%20Stories/2022/Total%20Defence%20Day.png" style="width:150px;height:155px;margin-right:10px;" align="left"></a></p>
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/2022/Canossian-Saints-Week"><img src="/images/Our%20Stories/2022/Canossian%20Saints%20Week.png" style="width:140px;height:185px;margin-right:15px;" align="left"></a></p>
 
