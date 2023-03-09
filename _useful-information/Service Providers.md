@@ -59,7 +59,7 @@ description: ""
 <tr>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Dental Clinic<br></td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-For dental treatment, please contact the school’s dental clinic at 91054971 for an appointment.<br><br>
+		For dental treatment, please contact the school’s dental clinic at <b>91054971</b> for an appointment.<br><br>
 During closure of the school’s dental clinic, you may also contact the buddy clinics listed below for an appointment.<br><br>
 		<b>1)     Geylang Methodist Primary School:</b> 89402459<br>
 		<b>2)     Cedar Primary School:</b> 87646935<br>
