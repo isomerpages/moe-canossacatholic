@@ -61,10 +61,10 @@ description: ""
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
 For dental treatment, please contact the school’s dental clinic at 91054971 for an appointment.<br><br>
 During closure of the school’s dental clinic, you may also contact the buddy clinics listed below for an appointment.<br><br>
-		<b>1)     Geylang Methodist Primary School:</b> [89402459](89402459)<br>
-		<b>2)     Cedar Primary School:</b> [87646935](87646935)<br>
-		<b>3)     Mobile Dental Clinic 28 (MDC 28):</b> [92707786](92707786)<br><br>
-		In case of emergency such as trauma of tooth, gum or facial swelling and severe toothache, please contact the School Dental Centre (HPB) at <b>[64353782](64353782)</b>.<br><br></td>
+		<b>1)     Geylang Methodist Primary School:</b> 89402459<br>
+		<b>2)     Cedar Primary School:</b> 87646935<br>
+		<b>3)     Mobile Dental Clinic 28 (MDC 28):</b> 92707786<br><br>
+		In case of emergency such as trauma of tooth, gum or facial swelling and severe toothache, please contact the School Dental Centre (HPB) at <b>64353782</b>.<br><br></td>
 </tr></tbody></table>
 
 <br><br><br><br><br><br>
