@@ -64,7 +64,7 @@ The House System aims to foster a sense of loyalty and pride towards the school,
 Students are allocated to one of the four houses:
 <br><br>
 ●&emsp; Anthony House <br>
-●&emsp; Bakhita House <br>
+●&emsp; Francis House <br>
 ●&emsp; Josephine House <br>
 ●&emsp; Magdalene House <br>
 </p>
