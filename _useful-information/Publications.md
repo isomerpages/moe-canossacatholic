@@ -16,6 +16,7 @@ description: ""
 
 <font size=5 color="#eeac0d"><b>Canossa Connects</b></font>
 
+* [Canossa Connects 2023 - Term 1](https://www.flipbookpdf.net/web/site/2ff74084269a92d756422e7291b5a0e7ae452c09202303.pdf.html)
 
 
 <br>
