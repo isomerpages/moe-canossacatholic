@@ -12,6 +12,10 @@ description: ""
 * [Canossa Newsbites - January](/files/Newsbites/Canossa%20Newsbites%20-%20January%202023.pdf)
 * [Canossa Newsbites - February](/files/Newsbites/Canossa%20Newsbites%20-%20February%202023.pdf)
 * [Canossa Newsbites - March](/files/Newsbites/Canossa%20Newsbites%20March%202023.pdf)
+<br>
+
+<font size=5 color="#eeac0d"><b>Canossa Connects</b></font>
+
 
 
 <br>
