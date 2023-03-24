@@ -14,7 +14,10 @@ description: ""
 * [Canossa Newsbites - March](/files/Newsbites/Canossa%20Newsbites%20March%202023.pdf)
 <br>
 
+<font size=5 color="#eeac0d"><b>Canossa Connects</b></font>
 
+
+* [Canossa Connects - Term 1](https://www.flipbookpdf.net/web/site/820ea7d2810aae7d84c98860aceeec108049d0df202303.pdf.html)<br>
 
 
 <br>
