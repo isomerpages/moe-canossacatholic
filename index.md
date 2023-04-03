@@ -17,9 +17,9 @@ sections:
       image: /images/Homepage/Annoucements & Christmas at the Village.gif
   - infopic:
       title: Newsbites
-      description: March 2023
+      description: April 2023
       button: Click here
-      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa%20Newsbites%20March%202023.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/canossa%20newsbites%20april%202023.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
