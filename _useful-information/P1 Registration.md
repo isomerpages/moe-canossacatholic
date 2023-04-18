@@ -16,15 +16,11 @@ description: ""
 </center>
 
 <br>
-
-<center>
 	
 ![](/images/Useful%20Information/ccps%20p1%20registration%20infographic%202023%20(page%201).jpg)
-
 	
 ![](/images/Useful%20Information/ccps%20p1%20registration%20infographic%202023%20(page%202).jpg)
 
-</center>
 
 <br>
 <center>
