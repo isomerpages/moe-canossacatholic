@@ -14,7 +14,8 @@ sections:
       button: Click here
       alt: Image alt text
       url: https://www.canossacatholicpri.moe.edu.sg/useful-information/p1-registration/
-      image: /images/Homepage/Annoucements.jpg
+      image: /images/Homepage/p1 registration chit chat session - announcement page
+        (gif).gif
   - infopic:
       title: Newsbites
       description: April 2023
