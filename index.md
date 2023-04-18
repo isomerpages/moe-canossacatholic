@@ -10,11 +10,11 @@ sections:
       background: /images/Homepage/Banner 4 (Gif).gif
   - infopic:
       title: Announcements
-      description: Christmas @ the Village - Thanksgiving for God's Blessings
+      description: Primary 1 Registration Chit Chat Session
       button: Click here
       alt: Image alt text
-      url: https://staging.d2nutevx25vdua.amplifyapp.com/our-stories/2022-Events/permalink/Christmas-at-the-Village/
-      image: /images/Homepage/Annoucements & Christmas at the Village.gif
+      url: https://www.canossacatholicpri.moe.edu.sg/useful-information/p1-registration/
+      image: /images/Homepage/Annoucements.jpg
   - infopic:
       title: Newsbites
       description: April 2023
