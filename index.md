@@ -18,9 +18,9 @@ sections:
         (gif).gif
   - infopic:
       title: Newsbites
-      description: April 2023
+      description: May 2023
       button: Click here
-      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/canossa%20newsbites%20april%202023.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/canossa%20newsbites%20-%20may%202023.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
