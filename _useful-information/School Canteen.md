@@ -12,11 +12,8 @@ description: ""
 | Chinese Economy Rice Stall     | 26 May 2023     | Nil |
 | Western Food Stall (Non-halal)| 26 May 2023     | Nil |
 
-
 <br>
-<font size="5" color="#7daadf"><b>Application Procedure
-</b>
-</font>
+<font size="5" color="#7daadf"><b>Application Procedure</b></font>
 
 **(1.)** Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
