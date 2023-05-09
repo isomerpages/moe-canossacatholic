@@ -25,13 +25,13 @@ General Office (Mon to Fri: 8 am to 4 pm)<br>
 1 Sallim Road<br>
 Singapore 387621<br>
 <br>
-<br>
+
 **(2.)** Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 <br>
-<br>
+
 **(3.)** Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 **Address:** 1 Sallim Road<br>
@@ -60,3 +60,5 @@ You may refer [here](https://www.canossacatholicpri.moe.edu.sg/contact-us/).
 <br>
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 *Successful applicant will be expected to commence operation of the stall on **26 June 2023**.*
+
+test
