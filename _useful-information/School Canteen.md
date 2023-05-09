@@ -23,20 +23,21 @@ description: ""
 
 * [Application Form](/files/School%20Canteen%20and%20School%20Bus/application%20for%20canteen%20stall%20in%20existing%20school%20form.pdf)
 
- **Application forms can  be obtained from:**<br>
- Canossa Catholic Primary School<br>
- General Office (Mon to Fri: 8 am to 4 pm)<br>
- 1 Sallim Road<br>
- Singapore 387621<br>
+**Application forms can  be obtained from:**<br>
+Canossa Catholic Primary School<br>
+General Office (Mon to Fri: 8 am to 4 pm)<br>
+1 Sallim Road<br>
+Singapore 387621<br>
 
-(2.) Attached the following documents together with the application form:
+**(2.)** Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-(3.) Submit the completed application form and documents by closing date via email OR to the School's General Office.
+**(3.)** Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 **Contact No:** 6844 1418<br>
 **Email:** ccps@moe.edu.sg<br>
 **Contact Person:** Mr Harvey De Souza (Operations Manager)<br>
        &nbsp;&nbsp;Mdm Eda (Management Support Officer)
+			 
