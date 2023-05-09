@@ -36,6 +36,7 @@ Singapore 387621<br>
 
 **(3.)** Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
+**Address:** 1 Sallim Road<br>
 **Contact No:** 6844 1418<br>
 **Email:** ccps@moe.edu.sg<br>
 **Contact Person:** Mr Harvey De Souza (Operations Manager)<br>
