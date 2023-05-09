@@ -58,7 +58,7 @@ You may refer [here](https://www.canossacatholicpri.moe.edu.sg/contact-us/).
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 <br>
-<br>
+
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
 *Successful applicant will be expected to commence operation of the stall on **26 June 2023**.*
