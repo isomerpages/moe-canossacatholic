@@ -30,7 +30,7 @@ Singapore 387621<br>
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
-<br>
+<br><br>
 
 **(3.)** Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
