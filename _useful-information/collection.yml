@@ -2,7 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - School Canteen.md
       - P1 Registration.md
       - Singapore Student Learning Space (SLS).md
       - Parents Gateway.md
@@ -13,3 +12,4 @@ collections:
       - Publications.md
       - Gate Opening Hours.md
       - Service Providers.md
+      - School Canteen.md
