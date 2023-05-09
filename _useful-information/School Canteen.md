@@ -17,7 +17,6 @@ description: ""
 <font size="5" color="#7daadf"><b>Application Procedure
 </b>
 </font>
-<br>
 
 **(1.)** Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
