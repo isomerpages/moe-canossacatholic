@@ -41,23 +41,23 @@ Singapore 387621<br>
 **Contact Person:** Mr Harvey De Souza (Operations Manager)<br>
        &nbsp;&nbsp;Mdm Eda (Management Support Officer)
 
-**How to get there?**
-You may refer here. https://www.canossacatholicpri.moe.edu.sg/contact-us/
-
+**How to get there?**<br>
+You may refer [here](https://www.canossacatholicpri.moe.edu.sg/contact-us/). 
+<br>
+<br>
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
 * Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
-
-
+<br>
+<br>
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
-
-
+<br>
+<br>
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-Successful applicant will be expected to commence operation of the stall on *26 June 2023*. 
-
+*Successful applicant will be expected to commence operation of the stall on **26 June 2023**.*
