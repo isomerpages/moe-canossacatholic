@@ -37,8 +37,9 @@ Singapore 387621<br>
 **Address:** 1 Sallim Road<br>
 **Contact No:** 6844 1418<br>
 **Email:** [ccps@moe.edu.sg](ccps@moe.edu.sg)<br>
-**Contact Person:** Mr Harvey De Souza (Operations Manager)<br>
-       &nbsp;&nbsp;Mdm Eda (Management Support Officer)
+**Contact Person:**<br>
+Mr Harvey De Souza (Operations Manager)<br>
+Mdm Eda (Management Support Officer)
 
 **How to get there?**<br>
 You may refer [here](https://www.canossacatholicpri.moe.edu.sg/contact-us/). 
