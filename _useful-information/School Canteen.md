@@ -40,4 +40,3 @@ description: ""
 **Email:** ccps@moe.edu.sg<br>
 **Contact Person:** Mr Harvey De Souza (Operations Manager)<br>
        &nbsp;&nbsp;Mdm Eda (Management Support Officer)
-
