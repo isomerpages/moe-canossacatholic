@@ -7,10 +7,10 @@ description: ""
 
 <br>
 
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-| Chinese Economy Rice Stall     | 26 May 2023     | Nil |
-| Western Food Stall (Non-halal)| 26 May 2023     | Nil |
+| Type of Stall | Closing Date |
+| -------- | -------- |
+| Chinese Economy Rice Stall     | 26 May 2023     ||
+| Western Food Stall (Non-halal)| 26 May 2023     |
 
 <br>
 <font size="5" color="#7daadf"><b>Application Procedure</b></font>
