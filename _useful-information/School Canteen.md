@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Chinese Economy Rice Stall     | 26 May 2023     ||
+| Chinese Economy Rice Stall     | 26 May 2023     |
 | Western Food Stall (Non-halal)| 26 May 2023     |
 
 <br>
