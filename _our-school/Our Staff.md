@@ -3,9 +3,9 @@ title: Our Staff
 permalink: /our-school/ourstaff/
 description: ""
 ---
-<b><font size=6>Our Staff</font></b>
+<b><font size="6">Our Staff</font></b>
 
-<b><font size=5 color="#7daadf">Key Personnel</font></b>
+<b><font size="5" color="#7daadf">Key Personnel</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -195,7 +195,7 @@ description: ""
 </table>
 <br>
 <br>
-<b><font size=5 color="#7daadf">Lead / Senior Teachers</font></b><br><br>
+<b><font size="5" color="#7daadf">Lead / Senior Teachers</font></b><br><br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -251,7 +251,7 @@ description: ""
 </table>
 <br>
 <br>
-<b><font size=5 color="#7daadf">Form Teachers</font></b><br><br>
+<b><font size="5" color="#7daadf">Form Teachers</font></b><br><br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -319,19 +319,6 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Valerie Wang Qinghui</span>
-<br>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545">1 Hope</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">valerie_wang_qinghui@moe.edu.sg</span>
-<br>
-</td>
-</tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Mdm Angela Tew</span>
 <br>
 </td>
@@ -340,6 +327,19 @@ description: ""
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">tew_hwee_gee_angela@moe.edu.sg</span>
+<br>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mdm Nurshirinlee</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">2 Piety</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">		yeo_phuay_hua@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -610,19 +610,6 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mdm Nurshirinlee</span>
-<br>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545">2 Piety</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">		yeo_phuay_hua@moe.edu.sg</span>
-<br>
-</td>
-</tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Ms Joey Khou Ziyi</span>
 <br>
 </td>
@@ -880,14 +867,14 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mdm Jahiza Jamaludin</span>
+<span style="color:#454545">Ms Valerie Wang Qinghui</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">4 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">		jahiza_jamaludin@moe.edu.sg</span>
+<span style="color:#454545">valerie_wang_qinghui@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -1185,7 +1172,7 @@ description: ""
 </table>
 <br>
 <br>
-<b><font size=5 color="#7daadf">STUDENT WELL BEING SUPPORT STAFF</font></b>
+<b><font size="5" color="#7daadf">STUDENT WELL BEING SUPPORT STAFF</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -1237,7 +1224,7 @@ description: ""
 
 <br>
 <br>
-<b><font size=5 color="#7daadf">EXECUTIVE AND ADMINISTRATIVE STAFF</font></b>
+<b><font size="5" color="#7daadf">EXECUTIVE AND ADMINISTRATIVE STAFF</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
