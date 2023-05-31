@@ -433,7 +433,7 @@ From 2022, the Canossa Art Award is an annual school-based award that recognises
 <b><font size="5" color="#7daadf">Canossa Sports Award
 </font></b>
 
-From 2021, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
+From 2022, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <tbody><tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Piety
