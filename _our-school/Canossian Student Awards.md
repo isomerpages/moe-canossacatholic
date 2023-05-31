@@ -375,7 +375,7 @@ From 2021, the Canossa Art Award is an annual school-based award that recognises
 <tbody>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<b><font size="4" color="#eeac0d">2022 Canossa Art Award Winners</font></b>
+<b><font size="4" color="#eeac0d">2022 Canossa Art Award Recipients</font></b>
 </th>
 </tr>
 
@@ -446,7 +446,7 @@ From 2021, the Canossa Sports Award is an annual school-based award that recogni
 <tbody>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<b><font size="4" color="#eeac0d">2022 Canossa Sports Award Winners</font></b>
+<b><font size="4" color="#eeac0d">2022 Canossa Sports Award Recipients</font></b>
 </th>
 </tr>
 
