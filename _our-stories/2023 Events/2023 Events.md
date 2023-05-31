@@ -18,13 +18,18 @@ third_nav_title: 2023 Events
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/school-events-n-programmes-2023/Canossian-Saints-Day-Celebration/"><img src="/images/Our%20Stories/2023/Canossian%20Saints%20Day%20Celebration%20-%20Cover%20Photo.jpg" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 	
-
+<br><br><br><br><br><br>
+	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/totaldefenceday//"><img src="/images/Our%20Stories/2023/total%20defence%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 	
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/worldhearingday/"><img src="/images/Our%20Stories/2023/world%20hearing%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/interestweek/"><img src="/images/Our%20Stories/2023/interest%20week%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 	
+	
+<br><br><br><br><br><br>	
 
 	
 </center>
