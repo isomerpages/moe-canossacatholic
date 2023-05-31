@@ -9,8 +9,9 @@ description: ""
 
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Chinese Economy Rice Stall     | 26 May 2023     |
-| Western Food Stall (Non-halal)| 26 May 2023     |
+| Chinese Economy Rice Stall     | 26 May 2023 |
+| Western Food Stall (Non-halal)| 26 May 2023 |
+| Western &amp; Light Snack Stall  | 20 June 2023 |
 
 <br>
 <font size="5" color="#7daadf"><b>Application Procedure</b></font>
@@ -61,4 +62,4 @@ You may refer [here](https://www.canossacatholicpri.moe.edu.sg/contact-us/).
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-*Successful applicant will be expected to commence operation of the stall on **26 June 2023**.*
+*Successful applicant will be expected to commence operation of the stall in **Term 3**.*
