@@ -369,11 +369,18 @@ Named after Mother Foundress’ favourite Saint, whom she took as the father and
 <b><font size="5" color="#7daadf">Canossa Art Award
 </font></b>
 
-From 2022, the Canossa Art Award is an annual school-based award that recognises students who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
+From 2021, the Canossa Art Award is an annual school-based award that recognises students who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
-<tbody><tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Justice
+<tbody>
+<tr>
+<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
+<b><font size="4" color="#eeac0d">2022 Canossa Art Award Winners</font></b>
+</th>
+</tr>
+
+</tbody><tbody>	
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Justice
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Karen Fan Rui En
@@ -433,10 +440,18 @@ From 2022, the Canossa Art Award is an annual school-based award that recognises
 <b><font size="5" color="#7daadf">Canossa Sports Award
 </font></b>
 
-From 2022, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
+From 2021, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
+	
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
-<tbody><tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Piety
+<tbody>
+<tr>
+<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
+<b><font size="4" color="#eeac0d">2022 Canossa Sports Award Winners</font></b>
+</th>
+</tr>
+
+</tbody><tbody>		
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Piety
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Heather Ong Yu Xin
