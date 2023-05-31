@@ -21,7 +21,11 @@ third_nav_title: 2023 Events
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/totaldefenceday//"><img src="/images/Our%20Stories/2023/total%20defence%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 	
-![]()	
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/worldhearingday/"><img src="/images/Our%20Stories/2023/world%20hearing%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+
+	
+
 	
 </center>
 
