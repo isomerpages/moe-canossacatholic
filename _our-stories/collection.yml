@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2023 Events/Earth Day.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events.md
       - 2023 Events/Chinese New Year Celebration.md
@@ -14,6 +13,7 @@ collections:
       - 2023 Events/World Water Day.md
       - 2023 Events/International Friendship Day.md
       - 2023 Events/Easter Paraliturgy.md
+      - 2023 Events/Earth Day.md
       - 2022 Events/.keep
       - 2022 Events/2022 Events.md
       - 2022 Events/P1 Orientation.md
