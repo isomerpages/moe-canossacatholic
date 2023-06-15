@@ -4,8 +4,8 @@ permalink: /gallery/school-events-n-programmes-2023/
 description: ""
 third_nav_title: 2023 Events
 ---
-<font size=6><b>School Events & Programmes 2023</b></font><br>
-<font size=5 color="#7daadf"><b>Photo Gallery</b></font>
+<font size="6"><b>School Events &amp; Programmes 2023</b></font><br>
+<font size="5" color="#7daadf"><b>Photo Gallery</b></font>
 
 
 <center>
@@ -17,6 +17,40 @@ third_nav_title: 2023 Events
 	
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/gallery/school-events-n-programmes-2023/Canossian-Saints-Day-Celebration/"><img src="/images/Our%20Stories/2023/Canossian%20Saints%20Day%20Celebration%20-%20Cover%20Photo.jpg" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+	
+<br><br><br><br><br><br>
+	
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/totaldefenceday//"><img src="/images/Our%20Stories/2023/total%20defence%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+	
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/worldhearingday/"><img src="/images/Our%20Stories/2023/world%20hearing%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/interestweek/"><img src="/images/Our%20Stories/2023/interest%20week%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+	
+	
+<br><br><br><br><br><br>	
+
+	
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/worldwaterday/"><img src="/images/Our%20Stories/2023/world%20water%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/internationalfriendshipday/"><img src="/images/Our%20Stories/2023/international%20friendship%20day%20-%20cover%20photo.JPG" style="width:190px;height:224px;margin-right:10px;" align="left"></a></p>
+
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/easterparaliturgy/"><img src="/images/Our%20Stories/2023/easter%20paraliturgy%20%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+
+	
+<br><br><br><br><br><br>	
+
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/earthday//"><img src="/images/Our%20Stories/2023/earth%20day%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/harirayacelebration/"><img src="/images/Our%20Stories/2023/hari%20raya%20celebration%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/biblecamp/"><img src="/images/Our%20Stories/2023/bible%20camp%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 
 	
 </center>

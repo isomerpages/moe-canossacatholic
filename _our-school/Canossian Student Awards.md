@@ -3,9 +3,9 @@ title: Canossian Student Awards
 permalink: /our-school/canossian-student-awards/
 description: ""
 ---
-<b><font size=6>Canossian Student Awards</font></b>
+<b><font size="6">Canossian Student Awards</font></b>
 
-<b><font size=5 color="#7daadf">The St Magdalene Award</font></b>
+<b><font size="5" color="#7daadf">The St Magdalene Award</font></b>
 
 Named after Mother Foundress, the St Magdalene Award is given to a graduating student who is outstanding in the areas of Character, Leadership and Service. This is the pinnacle award for all Canossian schools.
 
@@ -13,7 +13,7 @@ Named after Mother Foundress, the St Magdalene Award is given to a graduating st
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<b><font size=4 color="#eeac0d">Canossa Convent Primary School</font></b>
+<b><font size="4" color="#eeac0d">Canossa Convent Primary School</font></b>
 </th>
 </tr>
 </thead>
@@ -105,7 +105,7 @@ Named after Mother Foundress, the St Magdalene Award is given to a graduating st
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-	<b><font size=4 color="#eeac0d">Canossa Catholic Primary School</font></b>
+	<b><font size="4" color="#eeac0d">Canossa Catholic Primary School</font></b>
 </th>
 </tr>
 </thead>
@@ -136,7 +136,7 @@ Named after Mother Foundress, the St Magdalene Award is given to a graduating st
 <br>
 <br>
 <br>
-<b><font size=5 color="#7daadf">The St Bakhita Award</font></b>
+<b><font size="5" color="#7daadf">The St Bakhita Award</font></b>
 
 Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduating student who has overcome personal difficulties to succeed. Against all odds, this student shows perseverance, resilience and determination.
 
@@ -144,7 +144,7 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<b><font size=4 color="#eeac0d">Canossa Convent Primary School</font></b>
+<b><font size="4" color="#eeac0d">Canossa Convent Primary School</font></b>
 </th>
 </tr>
 </thead>
@@ -256,7 +256,7 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 <thead>
 <tr>
 <th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-<b><font size=4 color="#eeac0d">Canossa Catholic Primary School</font></b>
+<b><font size="4" color="#eeac0d">Canossa Catholic Primary School</font></b>
 </th></tr>
 </thead>
 <tbody>
@@ -295,12 +295,12 @@ Named after our 2nd Canossian Saint, the St Bakhita Award is given to a graduati
 <br>
 
 
-<b><font size=5 color="#7daadf">The St Anthony Award</font></b>
+<b><font size="5" color="#7daadf">The St Anthony Award</font></b>
 
 Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St Anthony Award recognises the most outstanding student in the area of Sports, Arts, a Club or a Uniform Group. The student’s contributions to the CCA must include representing the school in the area and a desire to always improve. The student must also be a positive role-model to others in the CCA and must be able to motivate peers to give of their best.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
-<tr>
+<tbody><tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
@@ -322,16 +322,16 @@ Named after the Patron of the Canossian Sisters of Singapore and Myanmar, the St
 <span style="color:#454545;background-color:#FAFAFA">Miiko Lee Kexin</span>
 </td>
 </tr>
-</table>
+</tbody></table>
 
 	
-<b><font size=5 color="#7daadf">The St Francis Award
+<b><font size="5" color="#7daadf">The St Francis Award
 </font></b>
 
 Named after Mother Foundress’ favourite Saint, whom she took as the father and protector of the Canossian Institute, the St Francis Award goes to the student who has the courage to stand tall amongst peers as an advocate of what is good and just. The student has consistently manifested strong values in the periods of ease and adversity.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
-<tr>
+<tbody><tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
@@ -362,29 +362,108 @@ Named after Mother Foundress’ favourite Saint, whom she took as the father and
 </td>
 </tr>	
 
-</table>
+</tbody></table>
 
 
 
-<b><font size=5 color="#7daadf">Canossa Art Award
+<b><font size="5" color="#7daadf">Canossa Art Award
 </font></b>
 
 From 2021, the Canossa Art Award is an annual school-based award that recognises students who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
+<tbody>
 <tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Piety
+<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
+<b><font size="4" color="#eeac0d">2022 Canossa Art Award Recipients</font></b>
+</th>
+</tr>
+
+</tbody><tbody>	
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Justice
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Francis Alexander Yam Mun Heen
+<span style="color:#454545;background-color:#FAFAFA">Karen Fan Rui En
 </span>
 </td>
 </tr>
 <tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Fortitude
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Chng Xuan Yi Sophia
+</span>
+</td>
+</tr>
+
+<tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Piety
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Zeng Lingxuan Audrey
+<span style="color:#454545;background-color:#FAFAFA">Lim Rui En Rianne
+</span>
+</td>
+</tr>
+	
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Piety
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Ti Jie Ken
+</span>
+</td>
+</tr>	
+
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Joy
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Chia Jing Xuan Alison
+</span>
+</td>
+</tr>		
+	
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Hope
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Catherine Eloise Watt
+</span>
+</td>
+</tr>	
+		
+	
+</tbody></table>
+
+
+
+<b><font size="5" color="#7daadf">Canossa Sports Award
+</font></b>
+
+From 2021, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
+	
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<tbody>
+<tr>
+<th style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#252525;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
+<b><font size="4" color="#eeac0d">2022 Canossa Sports Award Recipients</font></b>
+</th>
+</tr>
+
+</tbody><tbody>		
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Piety
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Heather Ong Yu Xin
+
+</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Joy
+</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545;background-color:#FAFAFA">Goh Raphael Nicholas
 </span>
 </td>
 </tr>
@@ -393,7 +472,8 @@ From 2021, the Canossa Art Award is an annual school-based award that recognises
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Joy
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Chia Jing Xuan, Alison
+<span style="color:#454545;background-color:#FAFAFA">Lim En Min Karyna
+
 </span>
 </td>
 </tr>
@@ -402,7 +482,7 @@ From 2021, the Canossa Art Award is an annual school-based award that recognises
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Joy
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Catherine Eloise Watt
+<span style="color:#454545;background-color:#FAFAFA">Leong Xin Yi
 </span>
 </td>
 </tr>	
@@ -411,98 +491,25 @@ From 2021, the Canossa Art Award is an annual school-based award that recognises
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Hope
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Chew Rui Xuan Rachel
+<span style="color:#454545;background-color:#FAFAFA">Lithuni Sayunima Morapitiya
 </span>
 </td>
 </tr>		
 	
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Hope
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Marvel Chen
-</span>
-</td>
-</tr>	
-
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Hope
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Chan Kai Yin
-</span>
-</td>
-</tr>		
-	
-</table>
-
-
-
-<b><font size=5 color="#7daadf">Canossa Sports Award
-</font></b>
-
-From 2021, the Canossa Sports Award is an annual school-based award that recognises students who have a deep passion and flair in sports which drive them in their constant pursuit of excellence in sports.
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Joy
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Laiso Justin Andrea
-
-</span>
-</td>
-</tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Hope
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Angeline Goh Xing Yu
-</span>
-</td>
-</tr>
-
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Piety
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Lim En Ting Kayna
-
-</span>
-</td>
-</tr>
-	
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Hope
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Liauw Thiam En, Elizabeth Joy
-</span>
-</td>
-</tr>	
-
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Hope
 </td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Fan Xinyin, Aasha
-</span>
-</td>
-</tr>		
-	
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Hope
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Poon Keling, Charlotte
+<span style="color:#454545;background-color:#FAFAFA">Adele Yeo Kiat Teng
 </span>
 </td>
 </tr>	
 
 	
-</table>
+</tbody></table>
 
 
-<b><font size=5 color="#7daadf">Star Pupil Award</font></b>
+<b><font size="5" color="#7daadf">Star Pupil Award</font></b>
 
 
   
@@ -510,7 +517,7 @@ Star Pupil Award is a school-based award given at the end of each term to recogn
   
   
   
-<b><font size=5 color="#7daadf">Angel Class Award</font></b>
+<b><font size="5" color="#7daadf">Angel Class Award</font></b>
 
   
 Angel Class Award is a school-based award given at the end of each term to recognise and affirm classes that are exemplary in demonstrating our school values.
