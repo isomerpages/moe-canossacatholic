@@ -10,6 +10,7 @@ description: ""
 | Type of Stall | Closing Date |
 | -------- | -------- |
 | Western &amp; Light Snack Stall  | 20 June 2023 |
+| Chinese Noodle Stall    | 31 July 2023 |
 
 <br>
 <font size="5" color="#7daadf"><b>Application Procedure</b></font>
