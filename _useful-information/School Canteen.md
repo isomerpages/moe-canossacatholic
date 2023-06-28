@@ -60,5 +60,3 @@ You may refer [here](https://www.canossacatholicpri.moe.edu.sg/contact-us/).
 <br>
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-*Successful applicant will be expected to commence operation of the stall in **Term 3**.*
