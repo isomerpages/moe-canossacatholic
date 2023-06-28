@@ -3,17 +3,17 @@ title: Achievements | Awards
 permalink: /our-school/achievements-awards/
 description: ""
 ---
-<b><font size=6>Achievements | Awards</font></b>
+<b><font size="6">Achievements | Awards</font></b>
 
-<b><font size=6 color="#7daadf">2021</font></b>
+
+<b><font size="6" color="#7daadf">2021</font></b>
+<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
-
+	
 <thead>
 <tr><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Academic Achievements<br>and Awards </span>
 </th><th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#000">Name of Awards <br> Names of Students</span></th></tr></thead>
-	
-<br>
 	
 <tbody>
 	
@@ -104,7 +104,7 @@ description: ""
 
 <br>
 
-<b><font size=6 color="#7daadf">2020</font></b>
+<b><font size="6" color="#7daadf">2020</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 
@@ -212,7 +212,7 @@ description: ""
 
 <tr>
 <th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#000">Non-Academic Achievements<br>and Awards</span></th>
-<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#000">Name of Awards <br>Names of Students </span></th>
+<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#000">Name of Awards <br>Names of Students&nbsp;</span></th>
 </tr>
 </thead>
 	
@@ -231,9 +231,9 @@ description: ""
 
 <br>
 
-<b><font size=6 color="#7daadf">2019</font></b>
+<b><font size="6" color="#7daadf">2019</font></b>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<br><br><table style="border-collapse:collapse;border-spacing:0" class="tg">
 
 <thead>
 
@@ -249,13 +249,13 @@ description: ""
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="22">Mathematics</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Singapore and Asian Schools Math Olympiad (SASMO) 2019 Competition</td>
 </tr>
-<br>
+
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal" colspan="2">Gold Awards</td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Renee Teh Rui Xuan</span></td>
-<br>
+
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 	<span style="color:#454545;background-color:#FAFAFA">Primary 3</span></td></tr>
 <tr>
@@ -338,7 +338,7 @@ description: ""
 
 <br>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<br><table style="border-collapse:collapse;border-spacing:0" class="tg">
 
 <thead>
 
@@ -349,7 +349,7 @@ description: ""
 
 </thead>
 
-<br>
+
 
 <tbody>
 <tr>
@@ -393,7 +393,7 @@ description: ""
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"></span></td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Art and Craft, Upcycling, Firelighting and  Outdoor Cooking</span></td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Art and Craft, Upcycling, Firelighting and&nbsp; Outdoor Cooking</span></td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Aida Jan<br>Chee Shiao Yu, Kimi (Xu Xiaoyu)<br>Chong Yu Xuan<br>Prabu Sadhana<br><br></span></td>
 </tr>
 <tr>
@@ -482,10 +482,10 @@ description: ""
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Swimming
 </td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National School Games  (B Division)</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">National School Games&nbsp; (B Division)</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA"></span></td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Individual 50m Breaststroke (3rd Position)</span></td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Isabelle Cheah</span></td>
-</tr>
+</tr></tbody></table>
