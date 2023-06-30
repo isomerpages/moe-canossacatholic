@@ -218,7 +218,7 @@ NA
 <br>
 <br>Mr Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
-<br>Mr Lionel Mun (Vice-Principal) (Administration)
+<br>Ms Penny Ng (Vice-Principal (Administration))
 <br>
 <br>
 <br>
