@@ -3,9 +3,9 @@ title: Financial Information
 permalink: /our-school/financial-information/
 description: ""
 ---
-<b><font size=6>Financial Information</font></b>
+<b><font size="6">Financial Information</font></b>
 
-<b><font size=5 color="#7daadf">1. Non-Financial Information</font></b>
+<b><font size="5" color="#7daadf">1. Non-Financial Information</font></b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -87,13 +87,23 @@ description: ""
 <b><font color="#eeac0d">Objectives:</font></b>
 <br>
 <br>
-The mission of the Education Service is to mould the future of the nation, by moulding the people who will determine the future of the nation. This is achieved by providing children with a balanced and well-rounded education, develop them to their full potential, and nurture them into good citizens, conscious of their responsibilities to family, society and country.
+The mission of the Education Service is to
+mould the future of the nation, by moulding the
+people who will determine the future of the
+nation. This is achieved by providing children
+with a balanced and well-rounded education,
+develop them to their full potential, and nurture
+them into good citizens, conscious of their
+responsibilities to family, society and country.
 <br>
 <br>
 <br>
 <b><font color="#eeac0d">Mission:</font></b>
 <br>
-<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life.
+<br>Nurturing each in her/his own way by forming
+hearts, enlightening minds and empowering
+spirits to live in The Way, The Truth and The
+Life
 <br>
 <br>
 <br>
@@ -118,37 +128,39 @@ All students
 <b><font color="#eeac0d">Programmes/Activities:</font></b>
 <br>
 <br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2021)</span>
-<br>
-<br>
-<b>1.</b>&emsp; Character Development Programme
-<br>
-<b>2.</b>&emsp; Integrated Programme
-<br>
-<b>3.</b>&emsp; Flagship Programmes
-<br>
-<em>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
-</em>
-<br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2022)</span>
 <br>
-<b>1.</b>&emsp; Character Development Programme
 <br>
-<b>2.</b>&emsp; Integrated Programme
+<b>1.</b>  Character Development Programme
 <br>
-<b>3.</b>&emsp; Flagship Programmes
+<b>2.</b>  Integrated Programme
+<br>
+<b>3.</b>  Flagship Programmes
 <br>
 <em>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>STEM -</b> MAKE@CCPS<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!
-	</em>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
+</em>
+<br>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2023)</span>
+<br>
+<b>1.</b>  Character Development Programme
+<br>
+<b>2.</b>  Integrated Programme
+<br>
+<b>3.</b>  Flagship Programmes
+<br>
+<em>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>STEM -</b> MAKE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b>
+</em>
 <br>
 <br>
 </th>
@@ -191,15 +203,12 @@ All students
 NA
 <br>
 <br>
-<br>Dr Gerard Ee Hock Kim (Chairman)
+<br>Mr Beh Jit Han (Chairman)
 <br>Sr Elizabeth Tham (Supervisor)
-<br>Ms Martina Wong Yoke Lin (Treasurer)
-<br>Dr Wong Foong Lin, Angela (Member)
-<br>Ms Cheong May Aung Mamie (Member)
+<br>Ms Cheong May Aung Mamie (Treasurer)
+<br>Ms Martina Wong Yoke Lin (Member)
 <br>Mdm Yee May Kuen Peggy Sarah (Member)
 <br>Dr Janelene Leong Hoe Chng (Member)
-<br>Sr Yeo Sui Chin Christina (Member)
-<br>Sr Seow Lee Huang Theresa (Member)
 <br>Sr Wang Janet (Member)
 <br>Mr Yap Qi Rong, Timothy Charles (Member)
 <br>Mr Wilson Wong (Member)
@@ -207,9 +216,9 @@ NA
 <br>
 <br>
 <br>
-<br>Mr Eugenie Tan (Principal)
+<br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
-<br>Mr Lionel Mun (Vice-Principal) (Administration)
+<br>Ms Penny Ng (Vice-Principal (Administration))
 <br>
 <br>
 <br>
@@ -223,9 +232,9 @@ NA
 
 
 
-<b><font size=5 color="#7daadf">2. Financial Information</font></b>
+<b><font size="5" color="#7daadf">2. Financial Information</font></b>
 
-Please click [here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary) to view the latest information.
+Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest information.
 
 
 <br><br><br><br><br><br>
