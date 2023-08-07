@@ -9,7 +9,7 @@ description: ""
 
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| *No vacancy*  |  |
+| Indian Muslim Stall  |  |
 
 
 <br>
