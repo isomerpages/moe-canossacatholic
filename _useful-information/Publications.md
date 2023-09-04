@@ -16,6 +16,7 @@ description: ""
 * [Canossa Newsbites - May](/files/Newsbites/canossa%20newsbites%20-%20may%202023.pdf)
 * [Canossa Newsbites - July](/files/Newsbites/canossa%20newsbites%20july%202023.pdf)
 * [Canossa Newsbites - August](/files/Newsbites/canossa%20newsbites%20august%202023.pdf)
+* [Canossa Newsbites - September](/files/Newsbites/canossa%20newsbites%20-%20september%202023.pdf)
 <br>
 
 <font size="5" color="#eeac0d"><b>Canossa Connects</b></font>
@@ -47,9 +48,9 @@ description: ""
 * [Canossa Connects - Term 1](/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%201.pdf)<br>
 * [Canossa Connects - Term 2](/files/Canossa%20Connects/Canossa%20Connects%202022%20Term%202-compressed.pdf)
 <br>
-* [Canossa Connects - Term 3](https://www.flipbookpdf.net/web/site/488133f228e77b2e8d0c0f6aeb8a85ba30613541202212.pdf.html)
+* [Canossa Connects - Term 3](https://www.flipbookpdf.net/web/site/162a45b53ba1b377c74d8058a79aadea8910654c202309.pdf.html)
 <br>
-* [Canossa Connects - Term 4](https://www.flipbookpdf.net/web/site/7e0b3c144d1f38242a0897bceff754e4c1e5c010202212.pdf.html)
+* [Canossa Connects - Term 4](https://www.flipbookpdf.net/web/site/1d3d61020b7b318a5dffc07e9df378f3e71356f9202309.pdf.html)
 
 
 
