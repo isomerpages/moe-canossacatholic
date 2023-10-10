@@ -24,7 +24,8 @@ description: ""
 
 
 * [Canossa Connects - Term 1](https://www.flipbookpdf.net/web/site/820ea7d2810aae7d84c98860aceeec108049d0df202303.pdf.html)<br>
-* [Canossa Connects - Term 2](https://flipbookpdf.net/web/site/a386a3008e20fbefd33629a621eed5cfc1e7e80f202310.pdf.html)<br>
+* [Canossa Connects - Term 2](https://www.flipbookpdf.net/web/site/55d13ffa33aef4cb8d0d4bb343f18abe35114c0e202310.pdf.html)<br>
+* [Canossa Connects - Term 3](https://flipbookpdf.net/web/site/a386a3008e20fbefd33629a621eed5cfc1e7e80f202310.pdf.html)<br>
 
 
 <br>
