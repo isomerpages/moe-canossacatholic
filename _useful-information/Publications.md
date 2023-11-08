@@ -2,6 +2,7 @@
 title: Publications
 permalink: /useful-information/publications/
 description: ""
+variant: markdown
 ---
 <font size="6"><b>Publications</b></font><br>
 
@@ -18,7 +19,7 @@ description: ""
 * [Canossa Newsbites - August](/files/Newsbites/canossa%20newsbites%20august%202023.pdf)
 * [Canossa Newsbites - September](/files/Newsbites/canossa%20newsbites%20-%20september%202023.pdf)
 * [Canossa Newsbites - October](/files/Newsbites/canossa%20newsbites%20october%202023.pdf)
-* [Canossa Newsbites - November](/files/Newsbites/canossa%20newsbites%20november%202023.pdf)
+* 
 <br>
 
 <font size="5" color="#eeac0d"><b>Canossa Connects</b></font>
