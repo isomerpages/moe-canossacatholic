@@ -3,9 +3,9 @@ title: Total Defence Day
 permalink: /gallery/2022/Total-Defence-Day/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7L2EDdOzm0hsuOzU5IGmDtv-QAW6osUSc6Jw_m6KHw0FWmiEX95qeCWEwiq9IoA5UouxaGXoGy39l/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="499" width="680" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQGiTJLrdCf-j9fCH_9fxpC2pq4YndVSCCG_HWHftWnI3Il0pMgt_CcD0IgiEAqfxdSPhfX2iGAtqnU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 <br><br><br><br><br><br>
