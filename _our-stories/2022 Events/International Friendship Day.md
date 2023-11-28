@@ -3,8 +3,9 @@ title: International Friendship Day
 permalink: /gallery/2022/international-friendship-day/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnDKyRLxVqOTYsty5CgnH_hiZPozh7lHonhI4FBhtWzWNw1bG6LpgGutDHsaww33ethUUf96FLFbfv/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="499" width="680" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMsyKmk0QV_jz2CDnoF4nuCpjWaQ2Mg2wwf8e1PFg7iwdJe655V7ZCLmxyHHwTyyqr8tBHBvCuwDkA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 <br><br><br><br><br><br>
