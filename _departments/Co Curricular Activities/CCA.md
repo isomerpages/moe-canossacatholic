@@ -3,15 +3,16 @@ title: CCA
 permalink: /departments/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-<b><font size=6>Co Curricular Activities</font></b>
+<b><font size="6">Co Curricular Activities</font></b>
 
 CCA is a key component of our students’ holistic education. It provides a platform for students to discover their interests and talents, and develop character, values, social emotional competencies and skills to prepare them for the future.  
   
 In addition, participation in CCA also encourages social interaction and integration amongst students across levels and diverse backgrounds. By learning alongside others, our students develop friendships and deepen their sense of belonging to the school and the community.  
   
 
-<b><font size=5 color="#7daadf">The Co Curricular Activities offered to the Primary 3 to 6 students are as follows:</font></b>
+<b><font size="5" color="#7daadf">The Co Curricular Activities offered to the Primary 3 to 6 students are as follows:</font></b>
 
 <br>
 
@@ -32,7 +33,7 @@ In addition, participation in CCA also encourages social interaction and integra
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <a class="link" href="https://staging.d2nutevx25vdua.amplifyapp.com/departments/co-curricular-activities/art-club" title="Art Club">
-	<span style="text-decoration:none;color:#454545">Art Club</span>
+<span style="text-decoration:none;color:#454545">Art Club</span>
 </a>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
