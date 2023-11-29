@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 2022 Events
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="499" width="680" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRUIqlq3dQTfb-Oj_yE6PXs4xF3WeDTLwdiwTjnNLh2eqPMTMagIP2x96jiy5ijKUIbil-w00pUnCO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="469" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRUIqlq3dQTfb-Oj_yE6PXs4xF3WeDTLwdiwTjnNLh2eqPMTMagIP2x96jiy5ijKUIbil-w00pUnCO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 
