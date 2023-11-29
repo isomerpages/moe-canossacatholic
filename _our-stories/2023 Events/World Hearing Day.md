@@ -3,8 +3,9 @@ title: World Hearing Day
 permalink: /our-stories/2023-events/worldhearingday/
 description: ""
 third_nav_title: 2023 Events
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSc3FujZB5oQ3qIq_TanGUDicj2uHrvZuud25xIDQraUk2t2-N2EeZbvi7hbbftUks3_jmZjJPwSxK/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="680" height="499" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSc3FujZB5oQ3qIq_TanGUDicj2uHrvZuud25xIDQraUk2t2-N2EeZbvi7hbbftUks3_jmZjJPwSxK/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" height="469" width="760" allowfullscreen="true"></iframe>
 
 
 <br><br><br><br><br><br>
