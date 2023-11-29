@@ -3,10 +3,8 @@ title: Track and Field
 permalink: /departments/co-curricular-activities/track-and-field/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
-
-
 <b><font size="6">Track and Field</font></b>
 
 Track and field is a sport that comprises of running, jumping and throwing events. Our Track and Field team members train weekly on&nbsp;Mondays and Thursdays.  
@@ -19,7 +17,7 @@ Through Track and Field, our members develop a love for exercising and maintaini
 
 <center>
 
-<iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyKVZ-ba1WRH-tkCfMhtpjmuHn8gPFEMmjSdKvNzTCj66g_JbAFXH8xjBTRLwPY0Cidau6lnsbDZuQ/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQs0q0G4HNQ4h7WBBKo8AnIpoLNg9WpKmjGZKipAwxqgpVvOeEDA7S1EhA7iy-vAVr88h4x8sjJSOhN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 </center>
 
