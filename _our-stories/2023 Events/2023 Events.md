@@ -94,6 +94,7 @@ variant: markdown
 <br><br><br><br><br><br>	
 	
 	
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/"><img src="" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 	
 </center>
 
