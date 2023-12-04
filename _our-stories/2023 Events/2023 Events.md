@@ -67,7 +67,10 @@ variant: markdown
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/family-mass/"><img src="/images/Our%20Stories/2023/Family_Mass___Cover_Photo.jpg" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 	
 
+<br><br><br><br><br><br>	
 	
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/"><img src="" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 
 
 	
