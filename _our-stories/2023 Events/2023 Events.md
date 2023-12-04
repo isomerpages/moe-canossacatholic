@@ -54,7 +54,7 @@ variant: markdown
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/harirayacelebration/"><img src="/images/Our%20Stories/2023/hari%20raya%20celebration%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 
 
-<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/adventure-week/"><img src="/images/Our%20Stories/2023/Adventure_Week___Cover_Photo.jpg" style="width:190px;height:224px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/adventure-week/"><img src="/images/Our%20Stories/2023/Adventure_Week___Cover_Photo.jpg" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 
 
 <br><br><br><br><br><br>	
