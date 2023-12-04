@@ -3,6 +3,7 @@ title: 2023 Events
 permalink: /gallery/school-events-n-programmes-2023/
 description: ""
 third_nav_title: 2023 Events
+variant: markdown
 ---
 <font size="6"><b>School Events &amp; Programmes 2023</b></font><br>
 <font size="5" color="#7daadf"><b>Photo Gallery</b></font>
@@ -36,6 +37,9 @@ third_nav_title: 2023 Events
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/internationalfriendshipday/"><img src="/images/Our%20Stories/2023/international%20friendship%20day%20-%20cover%20photo.JPG" style="width:190px;height:224px;margin-right:10px;" align="left"></a></p>
+	
+	
+<br><br><br><br><br><br>	
 
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/easterparaliturgy/"><img src="/images/Our%20Stories/2023/easter%20paraliturgy%20%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
@@ -50,6 +54,12 @@ third_nav_title: 2023 Events
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/harirayacelebration/"><img src="/images/Our%20Stories/2023/hari%20raya%20celebration%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 
 
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/adventure-week/"><img src="/images/Our%20Stories/2023/Adventure_Week___Cover_Photo.jpg" style="width:190px;height:224px;margin-right:10px;" align="left"></a></p>
+
+
+<br><br><br><br><br><br>	
+	
+	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/biblecamp/"><img src="/images/Our%20Stories/2023/bible%20camp%20-%20cover%20photo.JPG" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
 
 	
