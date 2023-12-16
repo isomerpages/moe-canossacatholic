@@ -4,9 +4,9 @@ permalink: /our-stories/2022-Events/All-Saints-Family-Day-Mass/
 description: ""
 image: /images/Our Stories/2022/All Saints Day Family Mass - Cover Photo.jpg
 third_nav_title: 2022 Events
+variant: markdown
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTukyuxK8Ngpxa7CKvwLE-qpCLZ_MOggCJetHrK8qzjMfA3LmhQ7v7O8ImfCzsh0V2ep7m-0nQPrU5J/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="469" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTukyuxK8Ngpxa7CKvwLE-qpCLZ_MOggCJetHrK8qzjMfA3LmhQ7v7O8ImfCzsh0V2ep7m-0nQPrU5J/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 <br><br><br><br><br><br>

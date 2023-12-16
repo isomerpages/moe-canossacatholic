@@ -3,8 +3,9 @@ title: May Devotion
 permalink: /gallery/2022/may-devotion/
 description: ""
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQc7S9W9eZNHUD--NTB6e4BEKU3pKQ4Ss985LzBMFnJ0P36Vq29BJl5F8fVAgKmCcqUMawBnJu8uM0S/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="469" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO9pPK2a7Ouc1NZsT-9VE-Wj6eOsfLoyw5me-qiVcSC6p4OMq_j6hOiAXNTRZT7H65llHfv1MZ_86R/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 

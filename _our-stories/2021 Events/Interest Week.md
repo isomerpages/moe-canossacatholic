@@ -3,8 +3,9 @@ title: Interest Week
 permalink: /gallery/2021/interest-week/
 description: ""
 third_nav_title: 2021 Events
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxR6uW__5uyTOrD60asFsmLC69ARMVaGGbSWqrZGkP48SoadzqGuqn5Lnv_F-GJAgv4Cwu_a-4SSlY/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="469" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRi5rLZZxGWg18OGKr_oEfS76X6xV_u0axb_eEA8lMR5cDzwuVSmmNOohRVn1jSBbqHgqd16_-a7sMN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 <br><br><br><br><br><br>

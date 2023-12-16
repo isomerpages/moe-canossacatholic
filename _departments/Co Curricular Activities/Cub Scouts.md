@@ -3,10 +3,8 @@ title: Cub Scouts
 permalink: /departments/co-curricular-activities/cub-scouts/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
-
-
 <b><font size="6">Cub Scouts</font></b>
 
 The Canossa Catholic Cub Scout Group was inaugurated on 19 January 2021 with our first batch of 15 boys.&nbsp;  
@@ -17,7 +15,7 @@ Some activities that the Cub Scouts will get to experience include map reading, 
 
 <center>
 	
-<iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-OmVlSRXY2_0JanjGU8E4-3zPkr7MBPR9J_chnSvJYVEwnXoIfYtWMKPF8wbM_45uAj7jeEzngrEK/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTuH8JDEazfPVbx7nwe63GCxYmWx1dEQEqzVvlt3knBer17cSVC2ITJIibM6Pwyfgewhw8jgGJCyYH_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 </center>
 

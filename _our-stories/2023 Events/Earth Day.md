@@ -3,8 +3,9 @@ title: Earth Day
 permalink: /our-stories/2023-events/earthday/
 description: ""
 third_nav_title: 2023 Events
+variant: markdown
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRs5XsNmYIgW4o5ULcpZQ_SGjNGaW8oTWu4YUcpWQcMLjn-AYhFd5NHgedflbNu9sWTY9HHgnnYRhUd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="680" height="499" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRs5XsNmYIgW4o5ULcpZQ_SGjNGaW8oTWu4YUcpWQcMLjn-AYhFd5NHgedflbNu9sWTY9HHgnnYRhUd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" height="469" width="760" allowfullscreen="true"></iframe>
 
 
 <br><br><br><br><br><br>

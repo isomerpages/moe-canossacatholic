@@ -3,9 +3,9 @@ title: Chinese New Year Celebration
 permalink: /gallery/2021/CNY-Celebration/
 description: ""
 third_nav_title: 2021 Events
+variant: markdown
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTZwD4HjpNalxLN7c9k8FJ_DIYS2rvlBPbIZWNHl3Wk0doj5EELvRgZzvZnnDY148U3U7yLuljdE9eV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="469" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcs2KukscJjsm5owmw0RJ51MxRdHgGRtzT-OQm7BwAkiaxsEYDdjOkycH_4x_1A0HtesQahnwBtYzp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 <br><br><br><br><br><br>

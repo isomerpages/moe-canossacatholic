@@ -4,9 +4,9 @@ permalink: /our-stories/2022-Events/childrens-day/
 description: ""
 image: /images/Our Stories/2022/Children's Day - Cover Photo.jpg
 third_nav_title: 2022 Events
+variant: markdown
 ---
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCvJcRuCTaRrbcREdwrXZiBs1kDHh_I7eiFwzlYcnKbHyxnfYnyUHiwjmXpYfR7OdITNkPYyX4yK41/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="469" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRCvJcRuCTaRrbcREdwrXZiBs1kDHh_I7eiFwzlYcnKbHyxnfYnyUHiwjmXpYfR7OdITNkPYyX4yK41/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 <br><br><br><br><br><br>

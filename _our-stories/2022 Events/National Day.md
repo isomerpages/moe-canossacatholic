@@ -4,8 +4,9 @@ permalink: /our-stories/2022-Events/national-day/
 description: ""
 image: /images/Our Stories/National Day - Cover Photo (Main).jpg
 third_nav_title: 2022 Events
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSO2caHE6Fi75044KvSXUlb1kt7o3FpDW8grpJlwW7QI-R2rimo3kTjf9uEzWJsaKHDhMI2wiUOjpID/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="469" width="760" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSO2caHE6Fi75044KvSXUlb1kt7o3FpDW8grpJlwW7QI-R2rimo3kTjf9uEzWJsaKHDhMI2wiUOjpID/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 <br><br><br><br><br><br>
