@@ -2,6 +2,7 @@
 title: School Canteen
 permalink: /useful-information/schoolcanteen/
 description: ""
+variant: markdown
 ---
 <b><font size="6">School Canteen Advertisement</font></b>
 
@@ -9,7 +10,7 @@ description: ""
 
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Indian Muslim Stall  |  |
+| Indian Muslim Stall  | 31 January 2024 |
 
 
 <br>

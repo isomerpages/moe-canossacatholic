@@ -82,9 +82,20 @@ variant: markdown
 <br><br><br><br><br><br>	
 
 	
-<p><a href="https://www.canossacatholicpri.moe.edu.sg/"><img src="" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/family-mass-october"><img src="/images/Our%20Stories/2023/Family_Mass___Cover_Photo_2.jpg" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+	
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/thanksgiving-mass/"><img src="/images/Our%20Stories/2023/Thanksgiving_Mass___Cover_Photo.jpg" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+	
+
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/p6-graduation-day"><img src="/images/Our%20Stories/2023/P6_Graduation___Cover_Photo.jpg" style="width:185px;height:204px;margin-right:10px;" align="left"></a></p>
+
+	
+<br><br><br><br><br><br>	
 	
 	
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2023-events/p1-to-p5-award-presentation"><img src="/images/Our%20Stories/2023/Award_Presentation___Cover_Photo.jpg" style="width:205px;height:208px;margin-right:10px;" align="left"></a></p>
+
 	
 </center>
 
