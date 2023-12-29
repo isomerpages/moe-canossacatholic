@@ -11,6 +11,7 @@ variant: markdown
 | Type of Stall | Closing Date |
 | -------- | -------- |
 | Indian Muslim Stall  | 31 January 2024 |
+| Hot and Cold Drinks Stall  | 31 January 2024 |
 
 
 <br>
