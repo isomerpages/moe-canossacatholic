@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023 Events/.keep
-      - 2023 Events/Family Mass.md
       - 2023 Events/2023 Events.md
       - 2023 Events/Chinese New Year Celebration.md
       - 2023 Events/Prefects' Investiture.md
