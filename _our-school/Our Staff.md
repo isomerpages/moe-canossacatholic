@@ -181,7 +181,7 @@ description: ""
 <span style="color:#454545">Ms Tan Sze Hua</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Assistant Year Head (Primary 1 and 4)</span>
+<span style="color:#454545">Assistant Year Head (Primary 1 and 4) (Internal)</span>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ description: ""
 <span style="color:#454545">Mdm Yati</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Level Head English</span>
+<span style="color:#454545">Level Head English (Internal)</span>
 </td>
 </tr>
 	<tr>
@@ -197,7 +197,7 @@ description: ""
 <span style="color:#454545">Mr Jeremy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Level Head Mathematics</span>
+<span style="color:#454545">Level Head Mathematics (Internal)</span>
 </td>
 </tr>
 <tr>
