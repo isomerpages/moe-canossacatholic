@@ -34,7 +34,7 @@ Through PACE, all CCPS students would be nurtured into young people who are futu
 *   Learn to make decisions and take responsible risks as part of character formation
 
   
-Click&nbsp;**[here](https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/pace-at-ccps/)**&nbsp;for details on&nbsp;<b>Learning for Life Programme P.A.C.E @ CCPS</b>.  
+Click&nbsp;**[here](https://www.canossacatholicpri.moe.edu.sg/flagship-programmes/pace-at-ccps/)**&nbsp;for details on&nbsp;<b>Learning for Life Programme P.A.C.E @ CCPS</b>.  
 
 <br>
 
