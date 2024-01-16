@@ -2,11 +2,12 @@
 title: Learning for Life Programme PACE @ CCPS
 permalink: /flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Learning for Life Programme - P.A.C.E. @ CCPS
+<b><font size="6">P.A.C.E. @ CCPS
 </font></b>
 
-P.A.C.E.@CCPS leverages on PE, Sports & Outdoor Education to cultivate a deep love for sports, the outdoors and promote lifelong healthy-living attitudes, whilst nurturing values of perseverance and resilience.  
+P.A.C.E.@CCPS leverages on PE, Sports &amp; Outdoor Education to cultivate a deep love for sports, the outdoors and promote lifelong healthy-living attitudes, whilst nurturing values of perseverance and resilience.  
   
 We believe that every student in CCPS will be:  
 
@@ -34,18 +35,18 @@ Through P.A.C.E., all CCPS students will be nurtured into young people who are f
 <br>
 <br>
 
-<b><font size=4 color="#eeac0d"><u>P</u>ACE - Physically Fit</font></b>
+<b><font size="4" color="#eeac0d"><u>P</u>ACE - Physically Fit</font></b>
 <br>
 CCPS uses a 3-tiered approach – broad base, talent identified and interest based – to ensure that all students are full beneficiaries of the programme. There are also provisions made for students who show an interest in the sports and / or outdoor games to develop their skills and competencies through the recreational wing of the Sports CCAs should they not be selected for the school team.  
   
 <p style="margin-left: 40px">
-<b><font size=4 color="#7daadf"><u>Tier 1 - Broad Base</u></font></b>
+<b><font size="4" color="#7daadf"><u>Tier 1 - Broad Base</u></font></b>
 <br><br>
 <b>Sports Enrichment Programme (SEP)</b>
 <br>
 The SEP aims to advocate the importance of sports education and encourage a love of sports. Our students are given opportunities to experience a variety of sports and acquire new sports-related skills during PE lessons. Throughout their 6 years in CCPS, students will be exposed to the following sports at the different levels:
 	
-<p style="margin-left: 40px">
+</p><p style="margin-left: 40px">
 <b>Primary 1:</b> Soccer<br>
 <b>Primary 2:</b> Inline Skate<br>
 <b>Primary 3:</b> Skipping<br>
@@ -63,17 +64,17 @@ The House System aims to foster a sense of loyalty and pride towards the school,
 <p style="margin-left: 40px">
 Students are allocated to one of the four houses:
 <br><br>
-●&emsp; Anthony House <br>
-●&emsp; Francis House <br>
-●&emsp; Josephine House <br>
-●&emsp; Magdalene House <br>
+●  Anthony House <br>
+●  Francis House <br>
+●  Josephine House <br>
+●  Magdalene House <br>
 </p>
 
 <p style="margin-left: 40px">
 Opportunities to work together to compete in their assigned Houses come during several events organised by our school. We conduct inter-house sports events throughout the year for students to showcase the skills they have learnt during PE and develop within them the values of teamwork and sportsmanship. These events include:
 <br><br>
-●&emsp; Lower Primary Games Day (Primary 1 and 2) <br>
-●&emsp; Sports Day (Primary 3 - 6) <br>
+●  Lower Primary Games Day (Primary 1 and 2) <br>
+●  Sports Day (Primary 3 - 6) <br>
 </p>
   
 <p style="margin-left: 40px">
@@ -83,38 +84,38 @@ Recess play is conducted during recesses daily to encourage our students to part
 <br><br>
 Through the relaxed and casual setting of recess play, students learn to manage their emotions organically. Being sensitive towards others and caring for each other also means that students learn about safety and responsibility during their time of fun and games.
 
-<p style="margin-left: 40px">
-<b><font size=4 color="#7daadf"><u>Tier 2 - Talent Identified and Interest based</u></font></b>
+</p><p style="margin-left: 40px">
+<b><font size="4" color="#7daadf"><u>Tier 2 - Talent Identified and Interest based</u></font></b>
 <br><br>
 <b>Talent Identified</b><br>
 Students who show aptitude in a sport are talent-identified for the school team in the following CCAs:  
 <br><br>
-●&emsp; Track & Field<br>
-●&emsp; Taekwondo<br>
+●  Track &amp; Field<br>
+●  Taekwondo<br>
 <br>
 Identified students in these CCAs are given additional focused training so that they are well-equipped to represent the school at the National Level.
 <br><br>
 <b>Interest based</b>
 <br>
-<p style="margin-left: 40px">
+</p><p style="margin-left: 40px">
 <b><u><em>Recreational CCAs (Primary 3 - 6)</em></u></b><br>
 Students who enjoy sports and outdoor games but may not be selected to represent the school at competitions can join Sports CCAs at the recreational level. These sports CCAs include Track and Field, Taekwondo and Modular CCA (Sport).
 <br><br>
 <b><u><em>Modular CCAs at Lower Primary (Primary 1 and 2)</em></u></b><br>
 CCPS has developed a Modular CCAs Programme for our lower primary students. This programme encourages them to participate in a variety of CCAs during different terms; over the course of 5 sessions. Students are given a list of Modular CCAs options to choose from based on their interests before making an informed decision as to which they would like to pursue as their official CCA from Primary 3 onwards.
 <br>
-<p style="margin-left: 40px">
+</p><p style="margin-left: 40px">
 The Modular CCAs offered by our school are as follows:
 <br>
-●&emsp; Kids Yoga<br>
-●&emsp; Lifeskills (Baking)<br>
-●&emsp; Taekwondo<br>
-●&emsp; Track and Field<br>
-●&emsp; Visual Arts<br>
+●  Kids Yoga<br>
+●  Lifeskills (Baking)<br>
+●  Taekwondo<br>
+●  Track and Field<br>
+●  Visual Arts<br>
 </p>
 <br>
 <br>
-<b><font size=4 color="#eeac0d">P<u>AC</u>E - Adventure & (building) Courage</font></b>
+<b><font size="4" color="#eeac0d">P<u>AC</u>E - Adventure &amp; (building) Courage</font></b>
 <br>
 <p style="margin-left: 40px"> 
 <b>Broad Base</b>
@@ -125,10 +126,10 @@ To further develop that spirit of adventure amongst our students, and to build c
 </p>
 <br>
 <br> 
-<b><font size=4 color="#eeac0d">PAC<u>E</u> - Empowering the Life</font></b>
+<b><font size="4" color="#eeac0d">PAC<u>E</u>&nbsp;- Empowering the Life</font></b>
 <br>
 <p style="margin-left: 40px">
-<b><font size=4 color="#7daadf"><u>Health & Diet</u></font></b>
+<b><font size="4" color="#7daadf"><u>Health &amp; Diet</u></font></b>
 <br><br> 
 <b>Broad Base</b>
 <br>
@@ -136,14 +137,14 @@ In helping our children to be empowered in life, P.A.C.E. aims to inculcate good
 <br><br>
 The school runs school-wide programmes to create awareness on health-related topics such as personal hygiene, nutrition, mental well-being, and the importance of having an active and healthy lifestyle. These include health talks conducted by the following health organisations:
 <br><br>
-●&emsp; Health Talk by National Kidney Foundation<br>
-●&emsp; “I Love ME” Roving Exhibition by Health Promotion Board<br>
-●&emsp; Blood Pressure Initiative @ Schools by Singapore Heart Foundation<br>
-●&emsp; Preventive Drug Education Sharing session by Central Narcotics Bureau<br>
+●  Health Talk by National Kidney Foundation<br>
+●  “I Love ME” Roving Exhibition by Health Promotion Board<br>
+●  Blood Pressure Initiative @ Schools by Singapore Heart Foundation<br>
+●  Preventive Drug Education Sharing session by Central Narcotics Bureau<br>
  
 
 
 
 <br><br><br><br><br><br>
 	
-<sup>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</sup>
+<sup>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</sup></p>
