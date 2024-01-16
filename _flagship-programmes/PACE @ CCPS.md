@@ -61,5 +61,14 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 
 <tbody>
 
+<tr>
+<td style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:0px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;"></td>
+<td style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:0px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;"></td>
+<td style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:0px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;">Learning &amp; Mastery
+Platforms (examples)
+</td>
+<td style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:0px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;">Showcase Opportunities (examples)</td>
+<td style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:0px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;">Outreach Focus</td>
+</tr>
 
 </tbody></table>
