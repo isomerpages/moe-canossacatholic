@@ -33,9 +33,6 @@ Through PACE, all CCPS students would be nurtured into young people who are futu
 *   Build their emotional resilience and mental and physical perseverance so that they will have the energy and spirit to keep trying no matter how hard the odds may be; and
 *   Learn to make decisions and take responsible risks as part of character formation
 
-  
-Click&nbsp;**[here](https://www.canossacatholicpri.moe.edu.sg/flagship-programmes/pace-at-ccps/)**&nbsp;for details on&nbsp;<b>The A.B.C. of Canossian Leadership</b>.  
-
 <br>
 
 <b><font size="5" color="#7daadf">PE Curriculum</font></b>
