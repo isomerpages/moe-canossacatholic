@@ -50,25 +50,12 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 <thead>
 
 <tr>
-<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%&quot;;"><span style="color:#000">Tiered Leadership</span></th>
-<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%&quot;;"><span style="color:#000">Target Group</span></th>
-<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%&quot;;"><span style="color:#000">Equipping</span></th>
-<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%&quot;;"><span style="color:#000">Empowering</span></th>
-<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%&quot;;"><span style="color:#000">Enriching</span></th>
-</tr>
+<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#000">Tiered Leadership</span></th>
+<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#000">
+Target Group</span></th>
+<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#000">Equipping </span></th>
+<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#000">Empowering</span></th>
+<th style="background-color:#BDD6EE;border-color:#ffffff;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#000">Enriching</span></th>
 
-</thead>
-
-<tbody>
-
-<tr>
-<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;"></td>
-<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal" width="25%&quot;;colspan=&quot;5&quot;"></td>
-<td style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;">Learning &amp; Mastery
-Platforms (examples)
-</td>
-<td style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;">Showcase Opportunities (examples)</td>
-<td style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;">Outreach Focus</td>
-</tr>
-
-</tbody></table>
+	
+</tr></thead></table>
