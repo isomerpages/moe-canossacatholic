@@ -45,6 +45,15 @@ No Canossian is Left Behind.
 <br>
 <br>  
 
+<b><font size="5" color="#7daadf">The A.B.C. of Canossian Leadership</font></b>
+
+<br>
+<b><font size="3" color="#eeac0d"><em>Learning For Life (Community Service and Student Leadership) @ Canossa Catholic Primary School</em></font></b><br><br>
+The A.B.C. of Canossian Leadership, CCPS Learning for Life Programme (LLP), leverages on our school’s Co-Curricula programmes, CCAs and Design Thinking platforms where our children can explore and discover their inherent potential, grow their passion and develop skills in their area of interest to develop the leader in every child. 
+<br>
+<br>
+Click here for details on The A.B.C. of Canossian Leadership
+
 <b><font size="5" color="#7daadf">Class Service Roles and Student Leader Roles</font></b>
 
 <br>
