@@ -17,7 +17,7 @@ variant: markdown
 
 <br>
 
-<b><font size="5" color="#7daadf">Learning for Life programme - PACE@CCPS</font></b>
+<b><font size="5" color="#7daadf">PACE@CCPS</font></b>
   
 Leveraging a sound and strong PE Curriculum, together with a wide array of Sports and Outdoor Education opportunities, PACE is designed to cultivate a deep love for sports and the outdoors, promote a lifelong healthy living attitude and nurture character.  
   
@@ -34,7 +34,7 @@ Through PACE, all CCPS students would be nurtured into young people who are futu
 *   Learn to make decisions and take responsible risks as part of character formation
 
   
-Click&nbsp;**[here](https://www.canossacatholicpri.moe.edu.sg/flagship-programmes/pace-at-ccps/)**&nbsp;for details on&nbsp;<b>Learning for Life Programme P.A.C.E @ CCPS</b>.  
+Click&nbsp;**[here](https://www.canossacatholicpri.moe.edu.sg/flagship-programmes/pace-at-ccps/)**&nbsp;for details on&nbsp;<b>The A.B.C. of Canossian Leadership</b>.  
 
 <br>
 
