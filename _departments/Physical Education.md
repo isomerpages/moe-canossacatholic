@@ -2,10 +2,11 @@
 title: Physical Education
 permalink: /departments/physical-education/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Physical Education</font></b>
+<b><font size="6">Physical Education</font></b>
 
-<b><font size=5 color="#7daadf">Physical Education (PHE) in CCPS aims to provide the students with an array of learning opportunities to:</font></b>
+<b><font size="5" color="#7daadf">Physical Education (PHE) in CCPS aims to provide the students with an array of learning opportunities to:</font></b>
 
 *   Acquire a range of movement skills to participate in a variety of physical activities.
 *   Understand and apply movement concepts, principles and strategies in a range of physical activities.
@@ -16,7 +17,7 @@ description: ""
 
 <br>
 
-<b><font size=5 color="#7daadf">Learning for Life programme - PACE@CCPS</font></b>
+<b><font size="5" color="#7daadf">Learning for Life programme - PACE@CCPS</font></b>
   
 Leveraging a sound and strong PE Curriculum, together with a wide array of Sports and Outdoor Education opportunities, PACE is designed to cultivate a deep love for sports and the outdoors, promote a lifelong healthy living attitude and nurture character.  
   
@@ -33,11 +34,11 @@ Through PACE, all CCPS students would be nurtured into young people who are futu
 *   Learn to make decisions and take responsible risks as part of character formation
 
   
-Click **[here](https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/learning-for-life-programme-p-a-c-e-at-ccps)** for details on <b>Learning for Life Programme P.A.C.E @ CCPS</b>.  
+Click&nbsp;**[here](https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/pace-at-ccps/)**&nbsp;for details on&nbsp;<b>Learning for Life Programme P.A.C.E @ CCPS</b>.  
 
 <br>
 
-<b><font size=5 color="#7daadf">PE Curriculum</font></b>
+<b><font size="5" color="#7daadf">PE Curriculum</font></b>
   
 The PE Curriculum focuses on the student’s development of different fundamental motor skills such as locomotor, non-locomotor and manipulative skills safely through a variety of physical settings and different mediums progressively across the levels. The students learning experiences are organised according to the following learning areas:  
   
@@ -52,7 +53,7 @@ The PE Curriculum focuses on the student’s development of different fundamenta
 
 <br>
 
-<b><font size=5 color="#7daadf">SwimSafer™ 2.0 Programme</font></b>
+<b><font size="5" color="#7daadf">SwimSafer™ 2.0 Programme</font></b>
   
 SwimSafer™ 2.0 Programme by ActiveSG is offered to all our Primary 2 students. It aims to equip our students with basic swimming and water survival skills in a fun and engaging way.
 
