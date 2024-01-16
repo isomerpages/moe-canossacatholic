@@ -26,18 +26,18 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 o	Being the best version of themselves in everything they say and do <br>
 o	Knowing and doing what is good and just even when no one is watching<br>
 
-●	(Inspire a Shared Vision)<br>
+●  (Inspire a Shared Vision)<br>
 o	Knowing that they are created in God’s image and so is everyone else<br>
 o	Knowing their purpose in life<br>
 
-●	(Challenge the Process)
+●  (Challenge the Process)<br>
 o	Being keenly aware that they can make things better <br>
 o	Making wherever they are a loving place <br>
 
-●	(Enable Others to Act)<br>
+●  (Enable Others to Act)<br>
 o	Knowing that they still must grow <br>
 o	Making others feel belonged<br>
 
-●	(Encourage the Heart) <br>
+●  (Encourage the Heart) <br>
 o	Advocating for all that is good and just<br>
 o	Being a trusted friend<br>
