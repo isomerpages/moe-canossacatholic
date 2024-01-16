@@ -42,6 +42,4 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 * Advocating for all that is good and just<br>
 * Being a trusted friend<br>
 
-<br>
-<br>
-
+<center><img src="/images/Flagship%20Programmes/The_A_B_C__of_Canossian_Leadership.png" style="width:55%"></center>
