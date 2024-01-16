@@ -81,4 +81,5 @@ Exco Meetings
 Canossian Saints’ Week</td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tier 2</td></tr></thead></table>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tier 2</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Class Leaders<br>Catholic Student Leaders<br>Peer Support Leaders<br>CCA Leaders<br>House Captains<br>Green Leaders<br>Young Ambassadors</td></tr></thead></table>
