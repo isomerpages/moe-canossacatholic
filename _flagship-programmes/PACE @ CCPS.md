@@ -22,22 +22,22 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 <br>
 <br>
 
-●  (Model the Way)<br>
-o	Being the best version of themselves in everything they say and do <br>
-o	Knowing and doing what is good and just even when no one is watching<br>
+<b><font size="4" color="#eeac0d">Model the Way</font></b><br>
+* Being the best version of themselves in everything they say and do <br>
+* Knowing and doing what is good and just even when no one is watching<br>
 
-●  (Inspire a Shared Vision)<br>
-o	Knowing that they are created in God’s image and so is everyone else<br>
-o	Knowing their purpose in life<br>
+<b><font size="4" color="#eeac0d">Inspire a Shared Vision</font></b><br>
+* Knowing that they are created in God’s image and so is everyone else<br>
+* Knowing their purpose in life<br>
 
-●  (Challenge the Process)<br>
-o	Being keenly aware that they can make things better <br>
-o	Making wherever they are a loving place <br>
+<b><font size="4" color="#eeac0d">Challenge the Process</font></b><br>
+* Being keenly aware that they can make things better <br>
+* Making wherever they are a loving place <br>
 
-●  (Enable Others to Act)<br>
-o	Knowing that they still must grow <br>
-o	Making others feel belonged<br>
+<b><font size="4" color="#eeac0d">Enable Others to Act</font></b><br>
+* Knowing that they still must grow <br>
+* Making others feel belonged<br>
 
-●  (Encourage the Heart) <br>
-o	Advocating for all that is good and just<br>
-o	Being a trusted friend<br>
+<b><font size="4" color="#eeac0d">Encourage the Heart</font></b><br>
+* Advocating for all that is good and just<br>
+* Being a trusted friend<br>
