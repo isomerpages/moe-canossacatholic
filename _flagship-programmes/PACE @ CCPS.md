@@ -18,3 +18,4 @@ every child will be<br>
 have <b><font size="4" color="#eeac0d"><u>C</u></font></b>ourage as <b><font size="4" color="#eeac0d"><u>C</u></font></b>atalystl<br>
 </center>
 <br>
+Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others of Act, Encourage the Heart, aligning to our principles of a Canossian Leader and building on our school’s current tiered leadership, our children will be strengthened in the following aspects of leadership progressively through our 3-prong approach <b>Equipping - Empowering - Enriching</b> that frames the children’s learning and mastery, showcase and outreach platforms:
