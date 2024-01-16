@@ -41,3 +41,7 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 <b><font size="4" color="#eeac0d">Encourage the Heart</font></b><br>
 * Advocating for all that is good and just<br>
 * Being a trusted friend<br>
+
+<br>
+<br>
+
