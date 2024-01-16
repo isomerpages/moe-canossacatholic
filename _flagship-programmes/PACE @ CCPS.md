@@ -62,8 +62,8 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 <tbody>
 
 <tr>
-<td style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;"></td>
-<td style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal" width="25%&quot;;colspan=&quot;5&quot;"></td>
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;"></td>
+<td style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:middle;word-break:normal" width="25%&quot;;colspan=&quot;5&quot;"></td>
 <td style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" width="15%&quot;;colspan=&quot;5&quot;">Learning &amp; Mastery
 Platforms (examples)
 </td>
