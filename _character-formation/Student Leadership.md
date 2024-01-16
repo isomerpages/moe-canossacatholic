@@ -7,7 +7,7 @@ variant: markdown
 <b><font size="6">Student Leadership</font></b>
 
 <center>
-<b><font size="3" color="#eeac0d"><em>Those who love are never tired, since love knows no burden_." - St Magdalene of Canossa</em></font></b>
+<b><font size="3" color="#eeac0d"><em>"Those who love are never tired, since love knows no burden." - St Magdalene of Canossa</em></font></b>
 </center>
 
 <br>
