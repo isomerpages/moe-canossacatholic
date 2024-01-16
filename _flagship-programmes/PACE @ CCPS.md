@@ -50,16 +50,15 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 <thead>
 
 <tr>
-<th style="background-color:#BDD6EE;border-color:#BDD6EE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px; text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000">Tiered Leadership</span></th>
-<th style="background-color:#BDD6EE;border-color:#BDD6EE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%"><span style="color:#000">
+<th style="background-color:#BDD6EE;border-color:#BDD6EE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px; text-align:center;vertical-align:middle;word-break:normal" width="15%" rowspan="2"><span style="color:#000">Tiered Leadership</span></th>
+<th style="background-color:#BDD6EE;border-color:#BDD6EE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%" rowspan="2"><span style="color:#000">
 Target Group</span></th>
 <th style="background-color:#BDD6EE;border-color:#BDD6EE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Equipping </span></th>
 <th style="background-color:#BDD6EE;border-color:#BDD6EE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Empowering</span></th>
 <th style="background-color:#BDD6EE;border-color:#BDD6EE;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Enriching</span></th>
 </tr>
 <tr>
-<th style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span></th>
-<th style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span></th>
+
 <th style="background-color:#ebf3fa;border-color:#ebf3fa;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span>Learning &amp; Mastery
 Platforms (examples)
 </th>
