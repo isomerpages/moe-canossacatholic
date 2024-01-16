@@ -58,10 +58,10 @@ Target Group</span></th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Enriching</span></th>
 </tr>
 <tr>
-
 <th style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span>Learning &amp; Mastery
 Platforms (examples)
 </th>
 <th style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span>Showcase Opportunities (examples)</th>
 <th style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span>Outreach Focus</th>
-</tr></thead></table>
+</tr>
+<tr></tr></thead></table>
