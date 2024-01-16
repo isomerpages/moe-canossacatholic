@@ -19,3 +19,25 @@ have <b><font size="4" color="#eeac0d"><u>C</u></font></b>ourage as <b><font siz
 </center>
 <br>
 Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others of Act, Encourage the Heart, aligning to our principles of a Canossian Leader and building on our school’s current tiered leadership, our children will be strengthened in the following aspects of leadership progressively through our 3-prong approach <b>Equipping - Empowering - Enriching</b> that frames the children’s learning and mastery, showcase and outreach platforms:
+<br>
+<br>
+
+●  (Model the Way)<br>
+o	Being the best version of themselves in everything they say and do <br>
+o	Knowing and doing what is good and just even when no one is watching<br>
+
+●	(Inspire a Shared Vision)<br>
+o	Knowing that they are created in God’s image and so is everyone else<br>
+o	Knowing their purpose in life<br>
+
+●	(Challenge the Process)
+o	Being keenly aware that they can make things better <br>
+o	Making wherever they are a loving place <br>
+
+●	(Enable Others to Act)<br>
+o	Knowing that they still must grow <br>
+o	Making others feel belonged<br>
+
+●	(Encourage the Heart) <br>
+o	Advocating for all that is good and just<br>
+o	Being a trusted friend<br>
