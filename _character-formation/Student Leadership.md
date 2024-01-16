@@ -12,7 +12,6 @@ variant: markdown
 
 <br>
 Our school’s Student Leadership programme is anchored on the beliefs of our foundress and inspired by the life that she led. She led by caring and she cared by leading and inspiring others to serve with humility and love.  
-<br>
 <br>  
 <center>
 <b><font size="5" color="#eeac0d">Every Canossian a Leader of Hope</font></b>
