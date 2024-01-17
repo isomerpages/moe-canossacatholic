@@ -13,9 +13,9 @@ variant: markdown
 <center>
 <b><font size="4" color="#7daadf">As a Leader of Hope, Sower of Change,</font></b><br>
 every child will be<br>
-<b><font size="4" color="#eeac0d"><u>A</u></font></b>nchored as <b><font size="4" color="#eeac0d"><u>A</u></font></b>dvocatel<br>
-<b><font size="4" color="#eeac0d"><u>B</u></font></b>laze as <b><font size="4" color="#eeac0d"><u>B</u></font></b>eaconl<br>
-have <b><font size="4" color="#eeac0d"><u>C</u></font></b>ourage as <b><font size="4" color="#eeac0d"><u>C</u></font></b>atalystl<br>
+<b><font size="4" color="#eeac0d"><u>A</u></font></b>nchored as <b><font size="4" color="#eeac0d"><u>A</u></font></b>dvocate<br>
+<b><font size="4" color="#eeac0d"><u>B</u></font></b>laze as <b><font size="4" color="#eeac0d"><u>B</u></font></b>eacon<br>
+have <b><font size="4" color="#eeac0d"><u>C</u></font></b>ourage as <b><font size="4" color="#eeac0d"><u>C</u></font></b>atalyst<br>
 </center>
 <br>
 Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others of Act, Encourage the Heart, aligning to our principles of a Canossian Leader and building on our school’s current tiered leadership, our children will be strengthened in the following aspects of leadership progressively through our 3-prong approach <b>Equipping - Empowering - Enriching</b> that frames the children’s learning and mastery, showcase and outreach platforms:
