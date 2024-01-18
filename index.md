@@ -18,9 +18,9 @@ sections:
         (gif).gif
   - infopic:
       title: Newsbites
-      description: November 2023
+      description: January 2024
       button: Click here
-      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/canossa%20newsbites%20november%202023.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/canossa_newsbites_january_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
