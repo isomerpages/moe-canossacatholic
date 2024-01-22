@@ -25,21 +25,21 @@ Five goals serve as a guide to provide an array of opportunities for the student
  Students make informed and responsible decisions with regard to personal behaviour<br>
  and social interactions based on sound values-based judgements.
 
-<b><font color="#eeac0d">Enjoyment</font></b><br>
-Students enjoy and value physical activities and healthy living in a sustainable way.
+ <b><font color="#eeac0d">Enjoyment</font></b><br>
+ Students enjoy and value physical activities and healthy living in a sustainable way.
 
 Each goal lsited above interact with one another in a well-planned Physical Education curriculum that addresses the understanding, skills, practices and values desired for each student.
 
 Though the PE curriculum focuses on a spiral progression on the students' development of different fundamental motor skills, and manipulative skills safely through a variety of physical settings and different mediums across the levels. The students learning experience are oganized according to the following learning areas:
 
-<b><font color="#eeac0d">Physical Activity</font></b><br>
-* Athletics, Dance, Games and Sports, Gymnastics and Swimming.
+ <b><font color="#eeac0d">Physical Activity</font></b><br>
+ * Athletics, Dance, Games and Sports, Gymnastics and Swimming.
 
-<b><font color="#eeac0d">Outdoor Education</font></b><br>
-* Outdoor living, Sense of place and Risk assessment and management.
+ <b><font color="#eeac0d">Outdoor Education</font></b><br>
+ * Outdoor living, Sense of place and Risk assessment and management.
 
-<b><font color="#eeac0d">Physical Health and Safety</font></b><br>
-* Physical fitness, Nutrition, Safety and Risk Management and Personal Hygiene and Self-Care.
+ <b><font color="#eeac0d">Physical Health and Safety</font></b><br>
+ * Physical fitness, Nutrition, Safety and Risk Management and Personal Hygiene and Self-Care.
 
 
 <br>
