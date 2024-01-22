@@ -16,6 +16,9 @@ Students are competent and confident to participate in a range of physical and o
 <b><font size="3" color="#7daadf">Healthy Lifestyle Practices</font></b><br>
 Students have a personal commitement to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.
 
+<b><font size="3" color="#7daadf">Safety Mindset</font></b><br>
+Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.
+
 
 
 *   Acquire a range of movement skills to participate in a variety of physical activities.
