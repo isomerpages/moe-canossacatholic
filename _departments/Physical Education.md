@@ -49,7 +49,8 @@ Though the PE curriculum focuses on a spiral progression on the students' develo
 Leveraging on this sound and strong PE curriculum, P.A.C.E is designed to cultivate a deep love for sports and outdoors and promote a lifelong healthy living attitude and nurture character.
   
 At CCPS, we envision our students to be:
-  
+ 
+
 *  Physically Fit,
 *  Adventurous,
 *  Courageous and
@@ -60,26 +61,7 @@ Through PACE, all CCPS students would be nurtured into young people who are futu
 *   Build their emotional resilience and mental and physical perseverance so that they will have the energy and spirit to keep trying no matter how hard the odds may be; and
 *   Learn to make decisions and take responsible risks as part of character formation
 
-<br>
 
-<b><font size="5" color="#7daadf">PE Curriculum</font></b>
-  
-The PE Curriculum focuses on the student’s development of different fundamental motor skills such as locomotor, non-locomotor and manipulative skills safely through a variety of physical settings and different mediums progressively across the levels. The students learning experiences are organised according to the following learning areas:  
-  
-
-*   Athletics (from Primary 3)
-*   Dance
-*   Games and Sports
-*   Gymnastics
-*   Outdoor Education
-*   Physical Health and Fitness
-*   Swimming (at Primary 2)
-
-<br>
-
-<b><font size="5" color="#7daadf">SwimSafer™ 2.0 Programme</font></b>
-  
-SwimSafer™ 2.0 Programme by ActiveSG is offered to all our Primary 2 students. It aims to equip our students with basic swimming and water survival skills in a fun and engaging way.
 
 
 <br><br><br><br><br><br>
