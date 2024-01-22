@@ -19,7 +19,8 @@ Students have a personal commitement to healthy lifestyle practices in physical 
 <b><font size="3" color="#7daadf">Safety Mindset</font></b><br>
 Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.
 
-
+<b><font size="3" color="#7daadf">Core Values</font></b><br>
+Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based 
 
 *   Acquire a range of movement skills to participate in a variety of physical activities.
 *   Understand and apply movement concepts, principles and strategies in a range of physical activities.
