@@ -33,7 +33,7 @@ Though the PE curriculum focuses on a spiral progression on the students' develo
 * Athletics, Dance, Games and Sports, Gymnastics and Swimming.
 
 <b><font color="#eeac0d">Outdoor Education</font></b><br>
-* Outdoor living, sense of place and risk assessment and management.
+* Outdoor living, Sense of place and Risk assessment and management.
 
 <b><font color="#eeac0d">Physical Health and Safety</font></b><br>
 * Physical fitness, Nutrition, Safety and Risk Management and Personal Hygiene and Self-Care.
