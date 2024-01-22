@@ -8,7 +8,7 @@ variant: markdown
 
 Physical Education (PE) in CCPS aims to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly.
 
-Five goals serve as a guide to provide an array of opportunities for the studnets.
+Five goals serve as a guide to provide an array of opportunities for the students.
 
 <b><font size="3" color="#7daadf">Movement Competence</font></b><br>
 Students are competent and confident to participate in a range of physical and outdoor activities.<br>
