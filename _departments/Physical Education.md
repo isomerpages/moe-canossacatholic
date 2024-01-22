@@ -25,7 +25,11 @@ Students make informed and responsible decisions with regard to personal behavio
 <b><font color="#eeac0d">Enjoyment</font></b><br>
 Students enjoy and value physical activities and healthy living in a sustainable way.
 
-Each goal lsited above interact with one another in a well-planned Physical Education curriculum that addresses the understanding, skills, practices abd values desired for each students.
+Each goal lsited above interact with one another in a well-planned Physical Education curriculum that addresses the understanding, skills, practices and values desired for each student.
+
+Though the PE curriculum focuses on a spiral progression on the students' development of different fundamental motor skills, and manipulative skills safely through a variety of physical settings and different mediums across the levels. The students learning experience are oganized according to the following learning areas:
+
+
 
 <br>
 
