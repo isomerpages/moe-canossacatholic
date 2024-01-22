@@ -1,11 +1,11 @@
 ---
-title: Taekwando
+title: Taekwondo
 permalink: /departments/co-curricular-activities/taekwondo/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-<b><font size="6">Taekwando</font></b>
+<b><font size="6">Taekwondo</font></b>
 
 This traditional Korean Martial Arts CCA is formed in 2019 in CCPS. In CCPS, our Taekwondo Programme consists of Poomsae (pattern) which is defined as a set of defense-and-attack motions with distinct form for each colour belt to instil accuracy, precision and mental discipline in practising.  
   

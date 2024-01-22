@@ -4,16 +4,32 @@ permalink: /departments/physical-education/
 description: ""
 variant: markdown
 ---
-<b><font size="6">Physical Education</font></b>
+3<b><font size="6">Physical Education</font></b>
 
-<b><font size="5" color="#7daadf">Physical Education (PHE) in CCPS aims to provide the students with an array of learning opportunities to:</font></b>
+Physical Education (PE) in CCPS aims to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly.
 
-*   Acquire a range of movement skills to participate in a variety of physical activities.
-*   Understand and apply movement concepts, principles and strategies in a range of physical activities.
-*   Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
-*   Display positive personal and social behaviour across different experiences.
-*   Acquire and maintain health-enhancing fitness through regular participation in physical activities.
-*   Enjoy and value the benefits of living a physically active and healthy life.
+Five goals serve as a guide to provide an array of opportunities for the students.
+
+<b><font color="#eeac0d">Movement Competence</font></b><br>
+Students are competent and confident to participate in a range of physical and outdoor activities.<br>
+
+<b><font color="#eeac0d">Healthy Lifestyle Practices</font></b><br>
+Students have a personal commitement to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.
+
+<b><font color="#eeac0d">Safety Mindset</font></b><br>
+Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.
+
+<b><font color="#eeac0d">Core Values</font></b><br>
+Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.
+
+<b><font color="#eeac0d">Enjoyment</font></b><br>
+Students enjoy and value physical activities and healthy living in a sustainable way.
+
+Each goal lsited above interact with one another in a well-planned Physical Education curriculum that addresses the understanding, skills, practices and values desired for each student.
+
+Though the PE curriculum focuses on a spiral progression on the students' development of different fundamental motor skills, and manipulative skills safely through a variety of physical settings and different mediums across the levels. The students learning experience are oganized according to the following learning areas:
+
+
 
 <br>
 
