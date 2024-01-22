@@ -10,19 +10,19 @@ Physical Education (PE) in CCPS aims to develop physically competent and confide
 
 Five goals serve as a guide to provide an array of opportunities for the students.
 
-<b><font size="3" color="#eeac0d">Movement Competence</font></b><br>
+<b><font color="#eeac0d">Movement Competence</font></b><br>
 Students are competent and confident to participate in a range of physical and outdoor activities.<br>
 
-<b><font size="3" color="#eeac0d">Healthy Lifestyle Practices</font></b><br>
+<b><font color="#eeac0d">Healthy Lifestyle Practices</font></b><br>
 Students have a personal commitement to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.
 
-<b><font size="3" color="#eeac0d">Safety Mindset</font></b><br>
+<b><font color="#eeac0d">Safety Mindset</font></b><br>
 Students apply risk assessment to manage daily and physical activities with respect to self, others and the environment.
 
-<b><font size="3" color="#eeac0d">Core Values</font></b><br>
+<b><font color="#eeac0d">Core Values</font></b><br>
 Students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.
 
-<b><font size="3" color="#eeac0d">Enjoyment</font></b><br>
+<b><font color="#eeac0d">Enjoyment</font></b><br>
 Students enjoy and value physical activities and healthy living in a sustainable way.
 
 Each goal lsited above interact with one another in a well-planned Physical Education curriculum that addresses the understanding, skills, practices abd values desired for each students.
