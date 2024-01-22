@@ -6,7 +6,17 @@ variant: markdown
 ---
 <b><font size="6">Physical Education</font></b>
 
-<b><font size="5" color="#7daadf">Physical Education (PHE) in CCPS aims to provide the students with an array of learning opportunities to:</font></b>
+Physical Education (PE) in CCPS aims to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly.
+
+Five goals serve as a guide to provide an array of opportunities for the studnets.
+
+<b><font size="4" color="#7daadf">Movement Competence</font></b><br>
+Students are competent and confident to participate in a range of physical and outdoor activities.<br>
+
+<b><font size="4" color="#7daadf">Healthy Lifestyle Practices</font></b><br>
+Students have a personal commitement to healthy lifestyle practices in physical activity, nutrition, sleep, outdoor time and hygiene.
+
+
 
 *   Acquire a range of movement skills to participate in a variety of physical activities.
 *   Understand and apply movement concepts, principles and strategies in a range of physical activities.
