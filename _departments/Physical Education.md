@@ -44,16 +44,16 @@ Though the PE curriculum focuses on a spiral progression on the students' develo
 
 <br>
 
-<b><font size="5" color="#7daadf">PACE@CCPS</font></b>
+<b><font size="5" color="#7daadf">P.A.C.E@CCPS</font></b>
   
-Leveraging a sound and strong PE Curriculum, together with a wide array of Sports and Outdoor Education opportunities, PACE is designed to cultivate a deep love for sports and the outdoors, promote a lifelong healthy living attitude and nurture character.  
+Leveraging on this sound and strong PE curriculum, P.A.C.E is designed to cultivate a deep love for sports and outdoors and promote a lifelong healthy living attitude and nurture character.
   
-We envision our students in CCPS to be  
+At CCPS, we envision our students to be:
   
-*   <b><u>P</u></b> hysically Fit,
-*   <b><u>A</u></b> dventurous,
-*   <b><u>C</u></b> ourageous and
-*   <b><u>E</u></b> mpowered Leaders through Sports
+*  Physically Fit,
+*  Adventurous,
+*  Courageous and
+*  Empowered Leaders through Sports
   
 Through PACE, all CCPS students would be nurtured into young people who are future ready, fit and healthy in body and strong in mind. They will  
   
