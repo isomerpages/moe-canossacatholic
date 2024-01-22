@@ -29,6 +29,14 @@ Each goal lsited above interact with one another in a well-planned Physical Educ
 
 Though the PE curriculum focuses on a spiral progression on the students' development of different fundamental motor skills, and manipulative skills safely through a variety of physical settings and different mediums across the levels. The students learning experience are oganized according to the following learning areas:
 
+<b><font color="#eeac0d">Physical Activity</font></b><br>
+* Athletics, Dance, Games and Sports, Gymnastics and Swimming.
+
+<b><font color="#eeac0d">Outdoor Education</font></b><br>
+* Outdoor living, sense of place and risk assessment and management.
+
+<b><font color="#eeac0d">Physical Health and Safety</font></b><br>
+* Physical fitness, Nutrition, Safety and Risk Management and Personal Hygiene and Self-Care.
 
 
 <br>
