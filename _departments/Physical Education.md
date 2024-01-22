@@ -25,12 +25,7 @@ Students make informed and responsible decisions with regard to personal behavio
 <b><font size="3" color="#7daadf">Enjoyment</font></b><br>
 Students enjoy and value physical activities and healthy living in a sustainable way.
 
-*   Acquire a range of movement skills to participate in a variety of physical activities.
-*   Understand and apply movement concepts, principles and strategies in a range of physical activities.
-*   Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.
-*   Display positive personal and social behaviour across different experiences.
-*   Acquire and maintain health-enhancing fitness through regular participation in physical activities.
-*   Enjoy and value the benefits of living a physically active and healthy life.
+Each goal lsited above interact with one another in a well-planned Physical Education curriculum that addresses the understanding, skills, practices abd values desired for each students.
 
 <br>
 
