@@ -12,6 +12,7 @@ variant: markdown
 | -------- | -------- |
 | Chinese Noodle Stall | 24 February 2024 |
 | Western Food (Non-Halal) | 24 February 2024 |
+| Indian Muslim Stall | 26 February 2024 |
 
 
 <br>
