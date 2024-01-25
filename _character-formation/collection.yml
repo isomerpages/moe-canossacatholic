@@ -1,0 +1,10 @@
+collections:
+  character-formation:
+    output: true
+    order:
+      - Faith Formation.md
+      - Student Wellbeing.md
+      - Character and Citizenship Education.md
+      - Student Leadership.md
+      - Service Innovation.md
+      - Environment Education.md

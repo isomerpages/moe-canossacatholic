@@ -1,0 +1,15 @@
+collections:
+  flagship-programmes:
+    output: true
+    order:
+      - Applied Learning Programme MAKE @ CCPS.md
+      - The A B C of Canossian Leadership.md
+      - Lifeskills Programme READY for Life.md
+      - Support Stretch Programme/.keep
+      - Support Stretch Programme/Support Stretch Programme.md
+      - Support Stretch Programme/English Language.md
+      - Support Stretch Programme/Science.md
+      - Support Stretch Programme/Mathematics.md
+      - Support Stretch Programme/Mother Tongue Languages.md
+      - heart & SOUL.md
+      - Interest Week.md
