@@ -10,12 +10,13 @@ sections:
       background: /images/Homepage/Banner 4 (Gif).gif
   - infopic:
       title: Announcements
-      description: Primary 1 Registration Chit Chat Session
+      description: The beginning of a New Journey - Canossa Catholic Primary School as
+        a Designated Mainstream Primary School Supporting Students with Hearing
+        Loss
       button: Click here
       alt: Image alt text
       url: https://www.canossacatholicpri.moe.edu.sg/useful-information/p1-registration/
-      image: /images/Homepage/p1 registration chit chat session - announcement page
-        (gif).gif
+      image: /images/Homepage/Annoucements.jpg
   - infopic:
       title: Newsbites
       description: January 2024
