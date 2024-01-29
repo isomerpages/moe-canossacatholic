@@ -4,7 +4,7 @@ permalink: /useful-information/moe-sexuality-education/
 description: ""
 variant: markdown
 ---
-<b><font size="6">MOE Sexuality Education</font></b>
+r&gt;<font size="6">MOE Sexuality Education</font>
 
 <b><font size="5" color="#7daadf">MOE Sexuality Education in Schools</font></b>
 
@@ -35,7 +35,8 @@ problem-solving and decision-making skills; and
 <b>(iii)</b>&nbsp; &nbsp;&nbsp;To help students develop a moral
 compass, respect for themselves and for others as sexual beings, premised
 on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about
-sexuality. &nbsp;<p></p>
+sexuality. &nbsp;
+<br><br>
 <b><font size="5" color="#eeac0d">3.</font></b> &nbsp; The key messages of Sexuality Education are:<p></p>
 <p><strong>(i)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love
 and respect yourself as you love and respect others;
