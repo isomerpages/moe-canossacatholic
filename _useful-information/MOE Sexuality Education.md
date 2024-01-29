@@ -53,6 +53,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.
 more information on MOE Sexuality Education.
 <br>
 <br>
+<br>
 <b><font size="5" color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2024</font></b> 
 <br>
 <br>
@@ -73,7 +74,7 @@ include:
 <br><strong>Sexuality Education Lessons</strong> 
 <br>
 <br>
-<br><strong>6.</strong> &nbsp; The upper primary years mark the onset of puberty.
+	<b><font size="5" color="#eeac0d">6.</font></b> &nbsp; The upper primary years mark the onset of puberty.
 With better nutrition and improved health care, children are reaching puberty
 at a younger age and have to grapple with physical, emotional and psychological
 changes in themselves. The implication is that our children are becoming
