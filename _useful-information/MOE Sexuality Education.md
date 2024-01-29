@@ -96,7 +96,7 @@ on sexuality matters. &nbsp;
 <br>
 <br>
 <br>
-<br><strong>At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2024:</strong> 
+<b><font size="5" color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2024:</font></b> 
 <br>
 <br>
 </p>
