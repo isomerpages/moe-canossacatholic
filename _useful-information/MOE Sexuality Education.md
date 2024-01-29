@@ -64,7 +64,7 @@ include:
 <br>b.&nbsp;&nbsp; &nbsp;Character and Citizenship Education (CCE)
 <br>
 <br>
-<br><strong>Sexuality Education Lessons</strong>
+<br><strong>Sexuality Education Lessons</strong> 
 <br>
 <br>
 <br><strong>6.</strong> &nbsp; The upper primary years mark the onset of puberty.
@@ -89,7 +89,7 @@ on sexuality matters. &nbsp;
 <br>
 <br>
 <br>
-<br><strong>At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<br><strong>At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2024:</strong> 
 <br>
 <br>
 </p>
@@ -261,12 +261,6 @@ so that the students will feel more comfortable during the discussions.
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<p><strong><u>Please Note:</u></strong>
-<br>*For <strong><u>2023</u></strong>, the Primary 5 lesson <em>“Did You Know?”</em> will
-also be conducted for the Primary 6 cohort.
-<br>
 <br><strong>Information for Parents</strong> 
 <br>
 <br><strong>8.</strong> &nbsp; Parents may opt their children out of Sexuality
