@@ -10,7 +10,14 @@ description: ""
 
 The Satellite Partnership between Canossa Catholic Primary School (CCPS) and&nbsp;[Canossian School](http://www.canossian.edu.sg/)&nbsp;(CS) provides students from both schools with meaningful opportunities to interact and integrate.&nbsp;
 
-This special partnership gives students from both schools the opportunity to learn and participate in all activities, academic and non-academic, side by side. Through encountering peers who are different from themselves, the students learn to cherish each other’s unique gifts and talents. It is through journeying together that the students learn that while they may be different from each other in every way, they will always be equal in dignity.
+Canossa Catholic Primary School (CCPS) will be a mainstream primary school designated to support students diagnosed with hearing loss (HL) using the ORal Approach from 2 January 2025. The restructuring of CCPS and Canossian School (CS) under 1 school banner - CCPS is a natural next step for both schools. 
+
+Since 1999, CS and CCPS have enjoyed a close school partnership, providing students from both schools meaningful opportunities to interact. CS students have been learning alongside CCPS students for most of the schools days across different subjects. They experience recess together, go on learning journeys and school camps and participate in various school events together. 
+
+To provide a more inclusive educational experience for the students, Canossa Mission Singapore (CMS) decided to restructure CS and CCPS under a single school, CCPS. With 25 years of strong school partnership, this restructuring will deepen the existing inclusive culture and build a community where the students diagnosed with hearing loss will have more opportunities to learn and play alongside their hearing peers. 
+
+Students from both schools will continue to study together in the same form and participate alongside one another in all school activities. Through interacting with differently-abled peers, the students will cherish each other's unique gifts and talents. In journeying together, they will learn that while they may be different from one another, they will always be equal in dignity. 
+
 
 <center>
 
@@ -20,11 +27,9 @@ This special partnership gives students from both schools the opportunity to lea
 
 <br>
 <br>
-<b><font size="5" color="#7daadf">History of the Satellite Partnership</font></b> 
+<b><font size="5" color="#7daadf">Continuing CS' Support for students with HL</font></b> 
 
-The partnership between CCPS and CS started in 2000, with selected CS girls being integrated into Canossa Convent Primary School, then an all-girls primary school. Selected Upper Primary CS boys were integrated into MacPherson Primary School, a co-educational school. By 2010, all CS students were integrated into either Canossa Convent Primary School or MacPherson Primary School.&nbsp;
-
-In 2019, Canossa Convent Primary School was renamed Canossa Catholic Primary School as it took in its first batch of Primary 1 boys as a co-educational school. That same year, MacPherson Primary School was merged with Cedar Primary. As such, 2019 marked the milestone in which all CS students, girls and boys alike, were integrated into CCPS.&nbsp;
+For students 
 <br>
 <br>
 
