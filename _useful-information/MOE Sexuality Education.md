@@ -172,6 +172,20 @@ on sexuality matters. &nbsp;
 <table>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>CCE (FTGP) THEME</strong>
 </p>
@@ -189,7 +203,7 @@ on sexuality matters. &nbsp;
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Growing Years</strong>
 </p>
 </td>
@@ -231,30 +245,6 @@ and learn to behave maturely towards each other.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term 3 Week 5</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Did You Know? *<br>(60 min)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students to know what pornography is and
-how it can affect themselves and others. Students will learn the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘Stop-Think-Do’.
-<br>
-<br>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Term 3</strong>
 </p>
 </td>
 </tr>
