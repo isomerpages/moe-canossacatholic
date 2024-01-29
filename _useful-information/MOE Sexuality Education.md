@@ -177,7 +177,7 @@ by MOE-approved external providers.&nbsp;
 <b><font size="5" color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of
 the Sexuality Education lessons need to complete an opt-out form. This
 form will be communicated to parents at the start of the year and is also
-downloadable <a href="" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+downloadable here.
 The completed opt-out form is to be submitted to their child's form teacher
 by 02/02/2024.
 <br><br>
