@@ -33,15 +33,15 @@ For students diagnosed with HL enrolled in CCPS through the designated programme
 
 The students will also receive social emotional support aimed at inclusion, learning and identity. This includes greater support from both CCPS teachers and teachers supporting HL in their learning and character development. 
 
-The whole range of CCA offereings, school programmes and leadership opportunities for existing students of CCPS will be made available to all students, including the current students of CS. The provision of increased opportunities for students diagnosed with HL to interact with their peers will help to strengthen
+The whole range of CCA offereings, school programmes and leadership opportunities for existing students of CCPS will be made available to all students, including the current students of CS. The provision of increased opportunities for students diagnosed with HL to interact with their peers will help to strengthen interpersonal skills and allow for emotional expression and growth.
 <br>
 <br>
 
-<b><font size="5" color="#7daadf">How the Satellite Partnership looks like</font></b>
+<b><font size="5" color="#7daadf">Enrolment Process to CCPS under the designated programme:</font></b>
+<p><strong>How can I enroll my child with moderate to profound hearing loss in Canossa Catholic Primary School(CCPS)?</strong><br>
 
-Students from both schools attend all non-academic lessons, such as P.E., Art, Music and Social Studies, together. As for academic lessons, students from CS will join their CCPS peers in English, Mathematics and Science according to each student’s readiness.&nbsp;  
-  
-Both CS and CCPS students take part in special programmes such as camps, overseas trips, enrichment lessons and life skills workshops. These programmes not only enhance their educational experience but give them further opportunities to interact and bond with one another.  
+To ensure 
+
 <br>
 <br>
 <b><font size="5" color="#7daadf">Benefits of the Satellite Partnership</font></b> 
@@ -70,4 +70,4 @@ Staff at CCPS attend professional development workshops conducted by the CS audi
 <br><font size="3" color="#eeac0d">- Shermaine Tan Li Ning, former CS student</font>  
   
 <br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
+<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup></p>
