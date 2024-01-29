@@ -61,8 +61,7 @@ Transfers of students diagnosed with hearing loss from other mainstream schools 
 <br>
 
 <b><font size="5" color="#7daadf">Quotes from teachers and students</font></b>  
-
-  
+<br><br>
 <em>“This is what our society needs – to be an inclusive Singapore. They will form the new generation of Singaporeans who are receptive to inclusion in our society.”</em> 
 <br><font size="3" color="#eeac0d">- Miss Joslyn, CCPS teacher</font>
 
