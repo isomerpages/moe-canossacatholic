@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Satellite Partnership 2.md
       - History.md
       - Celebrating Canossa's 80th/.keep
       - Celebrating Canossa's 80th/15 August 2020 (1 of 12).md
