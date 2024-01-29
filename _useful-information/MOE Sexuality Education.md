@@ -139,7 +139,7 @@ on sexuality matters. &nbsp;
 <br>
 <center><b><font size="5" color="#eeac0d">Primary 6</font></b></center>
 <p></p>
-<br><br><p></p><table style="border-collapse:collapse;border-spacing:0" class="tg">
+<p></p><table style="border-collapse:collapse;border-spacing:0" class="tg">
 
 <thead>
 
@@ -156,14 +156,9 @@ on sexuality matters. &nbsp;
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">In this lesson, students will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 3</td>
 
 
-
-
-<td rowspan="1" colspan="1">
-<p><strong>Term 3 Week 3</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
