@@ -40,7 +40,15 @@ The whole range of CCA offereings, school programmes and leadership opportunitie
 <b><font size="5" color="#7daadf">Enrolment Process to CCPS under the designated programme:</font></b>
 <p><strong>How can I enroll my child with moderate to profound hearing loss in Canossa Catholic Primary School(CCPS)?</strong><br>
 
-To ensure 
+To ensure that specialised supports at CCPS will meet your child's learning needs, please seek a consultation with professionals at KKH's Department of Child Development (DCD), NUH's Child Development Unit (CDU) or SGH ENT Centre on your child's suitability for the designated programme. You may also approach Canossian Child Development Unit (CCDU) if your child is enrolled in the Canossian Early Intervention Programme for Infants and Children (EIPIC). 
+
+Please bring along all relevant medical and professional reports from your child's previous assessments. You should be prepared for further evaluation or re-evaluation of your child by professionals at the hospitals or Canossian EIPIC to ensure that your child's learning needs can be met in CCPS. 
+</p><p><strong>What if my child is currently seeing a doctor/therapist who is not at KKH, NUH or SGH?</strong><br>
+A referral from KKH DCD, NUH CDU, SGH ENT Centre or CCDU is required. MOE is working with KKH, NUH, SGH and CCDU to provide educational placement advice to parents with hearing loss. 
+
+If your child is not currently or 
+
+	
 
 <br>
 <br>
