@@ -86,7 +86,7 @@ require guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.
 <br>
 <br>
-	<b><font size="5" color="#eeac0d">7.</font></b> &nbsp; Sexuality Education (SEd) lessons are taught
+<b><font size="5" color="#eeac0d">7.</font></b> &nbsp; Sexuality Education (SEd) lessons are taught
 as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships including those with
@@ -101,8 +101,8 @@ on sexuality matters. &nbsp;
 <br>
 </p>
 <p></p>
-<p><strong>Primary 5</strong>
-</p>
+<center><b><font size="5" color="#eeac0d">Primary 5</font></b></center>
+<p></p>
 <table>
 <tbody>
 <tr>
