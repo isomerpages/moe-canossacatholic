@@ -153,12 +153,9 @@ on sexuality matters. &nbsp;
 
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Growing Years</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
 
 
-<td rowspan="1" colspan="1">
-<p><strong>Are We More than Friends?<br>Lesson 1<br>(60 min)</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise
