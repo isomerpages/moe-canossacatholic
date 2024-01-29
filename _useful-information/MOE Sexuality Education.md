@@ -103,7 +103,20 @@ on sexuality matters. &nbsp;
 <p></p>
 <center><b><font size="5" color="#eeac0d">Primary 5</font></b></center>
 <p></p>
-<table>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+
+<thead>
+
+<tr>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px; text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000">CCE (FTGP) THEME</span></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%"><span style="color:#000">Lessons Title / Duration	</span></th><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%"><span style="color:#000">Lesson Objectives	</span></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%"><span style="color:#000">Time Period<br><em>(e.g. Term 1 Week 2)</em></span></th>
+
+
+
+
+</tr></thead></table><table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
