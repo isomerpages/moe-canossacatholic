@@ -139,44 +139,22 @@ on sexuality matters. &nbsp;
 <br>
 <center><b><font size="5" color="#eeac0d">Primary 6</font></b></center>
 <p></p>
-<table>
+<p></p><table style="border-collapse:collapse;border-spacing:0" class="tg">
+
+<thead>
+
+<tr>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px; text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000">CCE (FTGP) THEME</span></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Lessons Title / Duration	</span></th><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="40%"><span style="color:#000">Lesson Objectives	</span></th>
+<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%"><span style="color:#000">Time Period<br><em>(e.g. Term 1 Week 2)</em></span></th>
+</tr>
+</thead>
 <tbody>
+
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCE (FTGP) THEME</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lessons Title / Duration</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time Period<br><em>(e.g. Term 1 Week 2)</em></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Growing Years</strong>
-</p>
-</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Growing Years</td>
+
+
 <td rowspan="1" colspan="1">
 <p><strong>Are We More than Friends?<br>Lesson 1<br>(60 min)</strong>
 </p>
