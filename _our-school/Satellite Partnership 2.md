@@ -53,19 +53,10 @@ As the referral process may require an evaluation to determine your child’s su
 To ensure that the specialised supports at CCPS will meet the learning needs of the students with HL, parents whose children not currently enrolled in Canossian EIPIC are required to obtain a referral from KKH DCD, NUH CDU or SGH ENT to ensure that the child’s learning needs can be met in CCPS. You are advised to take this step early, preferably when your child is in K1, to allow sufficient time for the evaluation.
 </p><p><strong><u>Q4. Do I need to participate in the P1 registration?</u></strong><br>
 Parents need not participate in the MOE P1 registration exercise if their application is successful. Their child would be directly enrolled in CCPS. If parents are informed that the application is unsuccessful, they should participate in the P1 registration exercise.
-
-<br>
-<br>
-<b><font size="5" color="#7daadf">Benefits of the Satellite Partnership</font></b> 
-
-The Satellite Partnership helps CCPS students to develop empathy and perspective-taking as they learn to see and hear the world through the eyes and ears of their peers with hearing loss. It allows CS students to be immersed in a language-rich environment, thus enabling them to develop and hone their listening skills through the use of hearing devices.&nbsp;
-<br>
-<br>
-
-<b><font size="5" color="#7daadf">Staff Development through the Satellite Partnership</font></b>
-
-  
-Staff at CCPS attend professional development workshops conducted by the CS audiology department to learn about hearing loss, the challenges that students with hearing loss face in the classroom, and strategies that would mitigate these challenges. Staff are also taught to use the Roger FM transmitter, a wireless transmitter that transmits the speaker’s voice directly into the students’ hearing devices.  
+</p><p><strong><u>Q5. When will I know the outcome of the application?</u></strong><br>
+Parents will be notified of the outcome of their application by the second week of June each year, for admission to P1 in CCPS in the following year. For example, applications for P1 2025, notification of outcome will come out by June 2024.
+</p><p><strong><u>Q6. Can students diagnosed with hearing loss from other mainstream schools transfer to CCPS?</u></strong><br>
+Transfers of students diagnosed with hearing loss from other mainstream schools to CCPS will only take place when students meet the admissions criteria for enrolment into the school. MOE is in discussion with relevant stakeholders and will provide more information on the MOE website in the 3rd quarter of 2024. 
 <br>
 <br>
 
