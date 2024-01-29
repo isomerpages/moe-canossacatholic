@@ -4,7 +4,7 @@ permalink: /our-school/satellite-partnership-2/
 variant: markdown
 description: ""
 ---
-<b><font size="6">Satellite Partnership</font></b>
+<b><font size="6">Supporting Students with Hearing Loss (Designated School 2025)</font></b>
 
 <b><font size="5" color="#7daadf">Overview</font></b>
 
