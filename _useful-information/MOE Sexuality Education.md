@@ -157,14 +157,11 @@ on sexuality matters. &nbsp;
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">In this lesson, students will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 3</td>
-
-
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Are We More than Friends?<br>Lesson 2<br>(60 min)</strong>
-</p>
-</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+
+
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn healthy ways to manage the emotions
 arising from infatuation and recognise the importance of respecting the
