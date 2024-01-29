@@ -4,7 +4,7 @@ permalink: /our-school/satellite-partnership-2/
 variant: markdown
 description: ""
 ---
-<b><font size="6">Satellite Partnership</font></b>
+<b><font size="6">Support for Hearing Loss Students</font></b>
 
 <b><font size="5" color="#7daadf">Overview</font></b>
 
@@ -29,7 +29,11 @@ Students from both schools will continue to study together in the same form and 
 <br>
 <b><font size="5" color="#7daadf">Continuing CS' Support for students with HL</font></b> 
 
-For students 
+For students diagnosed with HL enrolled in CCPS through the designated programme, educational support will be provided to strnegthen their communication and language skills by teachers supporting hearing loss. They will also have access to onsite audiology, speech language and other relevant therapy support. 
+
+The students will also receive social emotional support aimed at inclusion, learning and identity. This includes greater support from both CCPS teachers and teachers supporting HL in their learning and character development. 
+
+The whole range of CCA offereings, school programmes and leadership opportunities for existing students of CCPS will be made available to all students, including the current students of CS. The provision of increased opportunities for students diagnosed with HL to interact with their peers will help to strengthen
 <br>
 <br>
 
