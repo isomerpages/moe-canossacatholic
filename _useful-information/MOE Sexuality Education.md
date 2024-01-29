@@ -169,8 +169,8 @@ of love and infatuation, and identify the strong emotions that may arise from ex
 </table>
 <p>
 <b><font size="5" color="#7daadf">Information for Parents</font></b> 
-<br>
-	<b><font size="5" color="#eeac0d">8.</font></b> &nbsp; Parents may opt their children out of Sexuality
+<br><br>
+<b><font size="5" color="#eeac0d">8.</font></b> &nbsp; Parents may opt their children out of Sexuality
 Education lessons, and/or supplementary Sexuality Education programmes
 by MOE-approved external providers.&nbsp;
 <br><br>
