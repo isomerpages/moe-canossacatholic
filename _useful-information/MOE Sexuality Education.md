@@ -137,8 +137,8 @@ on sexuality matters. &nbsp;
 </table>
 <br>
 <br>
-<p><strong>Primary 6</strong>
-</p>
+<center><b><font size="5" color="#eeac0d">Primary 6</font></b></center>
+<p></p>
 <table>
 <tbody>
 <tr>
