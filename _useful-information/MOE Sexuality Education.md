@@ -4,10 +4,10 @@ permalink: /useful-information/moe-sexuality-education/
 description: ""
 variant: markdown
 ---
-<p><strong>MOE Sexuality Education</strong>
-</p>
-<p><strong>MOE Sexuality Education in Schools</strong>
-</p>
+<b><font size="6">MOE Sexuality Education</font></b>
+
+<b><font size="5" color="#7daadf">MOE Sexuality Education in Schools</font></b>
+
 <p><strong>1.</strong> &nbsp; Sexuality Education (SEd) in schools is about
 enabling students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
