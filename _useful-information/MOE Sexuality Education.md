@@ -112,30 +112,16 @@ on sexuality matters. &nbsp;
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px; text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000">CCE (FTGP) THEME</span></th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Lessons Title / Duration	</span></th><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="40%"><span style="color:#000">Lesson Objectives	</span></th>
 <th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%"><span style="color:#000">Time Period<br><em>(e.g. Term 1 Week 2)</em></span></th>
-
-
-
-
-</tr></thead></table><table>
+</tr>
+</thead>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCE (FTGP) THEME</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lessons Title / Duration</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Time Period <br><em>(e.g. Term 1 Week 2)</em></strong>
-</p>
-</th>
-</tr>
-<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Growing Years</td>
+
+
+
+
+</tr><tr>
 <td rowspan="3" colspan="1">
 <p><strong>Growing Years</strong>
 </p>
