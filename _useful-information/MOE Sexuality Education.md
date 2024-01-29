@@ -175,11 +175,8 @@ Education lessons, and/or supplementary Sexuality Education programmes
 by MOE-approved external providers.&nbsp;
 <br><br>
 <b><font size="5" color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of
-the Sexuality Education lessons need to complete an opt-out form. This
-form will be communicated to parents at the start of the year and is also
-downloadable here.
-The completed opt-out form is to be submitted to their child's form teacher
-by 02/02/2024.
+the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="(https://www.canossacatholicpri.moe.edu.sg/files/Forms%20and%20Guides/Annex_A___Opt_Out_form_2024.pdf">here.</a><br>	The completed opt-out form is to be submitted to their child's form teacher
+by 2 February 2024.
 <br><br>
 <b><font size="5" color="#eeac0d">10.</font></b> &nbsp; Parents can contact the school at Tel no:
 <a href="68441418" rel="noopener noreferrer nofollow" target="_blank">68441418</a>or email to <a href="koh_ai_leen_ethel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ai_leen_ethel@moe.edu.sg</a> for
