@@ -63,14 +63,13 @@ Transfers of students diagnosed with hearing loss from other mainstream schools 
 <br>
 
 <b><font size="5" color="#7daadf">Quotes from teachers and students</font></b>  
-
-  
+<br><br>  
 <em>“This is what our society needs – to be an inclusive Singapore. They will form the new generation of Singaporeans who are receptive to inclusion in our society.”</em> 
 <br><font size="3" color="#eeac0d">- Miss Joslyn, CCPS teacher</font>
-
+<br><br>
 <em>“The inclusion programme is a beautiful partnership …It provides an opportunity for children with special needs to play and learn in a mainstream environment.”</em>
 <br><font size="3" color="#eeac0d">- Mdm Connie Chua, CS teacher</font>
-
+<br><br>
 <em>“It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve.”</em>
 <br><font size="3" color="#eeac0d">- Shermaine Tan Li Ning, former CS student</font>  
   
