@@ -104,7 +104,7 @@ on sexuality matters. &nbsp;
 <center><b><font size="5" color="#eeac0d">Primary 5</font></b></center>
 <p></p>
 
-<p></p><p></p><p></p><table style="border-collapse:collapse;border-spacing:0" class="tg">
+<p></p><p></p><table style="border-collapse:collapse;border-spacing:0" class="tg">
 
 <thead>
 
@@ -132,15 +132,11 @@ on sexuality matters. &nbsp;
 
 
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 6</td>
-
-
 </tr>
 </tbody>
 </table>
-<p>
 <br>
 <br>
-</p>
 <p><strong>Primary 6</strong>
 </p>
 <table>
