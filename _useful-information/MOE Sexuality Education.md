@@ -4,7 +4,7 @@ permalink: /useful-information/moe-sexuality-education/
 description: ""
 variant: markdown
 ---
-r&gt;<font size="6">MOE Sexuality Education</font>
+<b><font size="6">MOE Sexuality Education</font></b>
 
 <b><font size="5" color="#7daadf">MOE Sexuality Education in Schools</font></b>
 
@@ -50,11 +50,10 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
-<p>
+more information on MOE Sexuality Education.
 <br>
 <br>
-<br><strong>Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2024</strong> 
+<b><font size="5" color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2024</font></b> 
 <br>
 <br><strong>4.</strong> &nbsp; Sexuality Education is delivered in a holistic
 manner through the school curriculum. The content for Sexuality Education
