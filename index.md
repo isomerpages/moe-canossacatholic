@@ -10,12 +10,10 @@ sections:
       background: /images/Homepage/Banner 4 (Gif).gif
   - infopic:
       title: Announcements
-      description: The beginning of a New Journey - Canossa Catholic Primary School as
-        a Designated Mainstream Primary School Supporting Students with Hearing
-        Loss
+      description: Supporting Students with Hearing Loss (Designated School 2025)
       button: Click here
       alt: Image alt text
-      url: https://www.canossacatholicpri.moe.edu.sg/useful-information/p1-registration/
+      url: https://www.canossacatholicpri.moe.edu.sg/our-school/supporting-students-with-hearing-loss/
       image: /images/Homepage/Annoucements.jpg
   - infopic:
       title: Newsbites
