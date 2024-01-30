@@ -10,17 +10,16 @@ sections:
       background: /images/Homepage/Banner 4 (Gif).gif
   - infopic:
       title: Announcements
-      description: Primary 1 Registration Chit Chat Session
+      description: Supporting Students with Hearing Loss (Designated School 2025)
       button: Click here
       alt: Image alt text
-      url: https://www.canossacatholicpri.moe.edu.sg/useful-information/p1-registration/
-      image: /images/Homepage/p1 registration chit chat session - announcement page
-        (gif).gif
+      url: https://www.canossacatholicpri.moe.edu.sg/our-school/supporting-students-with-hearing-loss/
+      image: /images/Homepage/Annoucements.jpg
   - infopic:
       title: Newsbites
-      description: January 2024
+      description: February 2024
       button: Click here
-      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/canossa_newsbites_january_2024.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_February_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
