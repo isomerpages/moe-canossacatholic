@@ -37,7 +37,7 @@ compass, respect for themselves and for others as sexual beings, premised
 on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about
 sexuality. &nbsp;
 <br><br>
-<b><font size="5" color="#eeac0d">3.</font></b> &nbsp; The key messages of Sexuality Education are:<p></p>
+<b><font size="5" color="#eeac0d">3.</font></b> &nbsp; The key messages of Sexuality Education are:
 <p><strong>(i)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love
 and respect yourself as you love and respect others;
 <br><strong>(ii)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build
@@ -175,7 +175,7 @@ Education lessons, and/or supplementary Sexuality Education programmes
 by MOE-approved external providers.&nbsp;
 <br><br>
 <b><font size="5" color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of
-the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="(https://www.canossacatholicpri.moe.edu.sg/files/Forms%20and%20Guides/Annex_A___Opt_Out_form_2024.pdf">here.</a> The completed opt-out form is to be submitted to their child's form teacher
+the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://www.canossacatholicpri.moe.edu.sg/files/Forms%20and%20Guides/Annex_A___Opt_Out_form_2024.pdf">here.</a> The completed opt-out form is to be submitted to their child's form teacher
 by 2 February 2024.
 <br><br>
 <b><font size="5" color="#eeac0d">10.</font></b> &nbsp; Parents can contact the school at Tel no:
