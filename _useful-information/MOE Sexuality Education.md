@@ -37,7 +37,7 @@ compass, respect for themselves and for others as sexual beings, premised
 on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about
 sexuality. &nbsp;
 <br><br>
-<b><font size="5" color="#eeac0d">3.</font></b> &nbsp; The key messages of Sexuality Education are:<p></p>
+<b><font size="5" color="#eeac0d">3.</font></b> &nbsp; The key messages of Sexuality Education are:
 <p><strong>(i)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love
 and respect yourself as you love and respect others;
 <br><strong>(ii)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build
