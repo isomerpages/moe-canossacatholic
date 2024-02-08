@@ -11,17 +11,17 @@ third_nav_title: 2024 Events
 
 <center>
 
-<p><a href=""><img src="/images/Our%20Stories/2024/_P1_Orientation___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/p1-orientation/"><img src="/images/Our%20Stories/2024/_P1_Orientation___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 
 	
-<p><a href=""><img src="/images/Our%20Stories/2024/_Opening_School_Mass___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/"><img src="/images/Our%20Stories/2024/_Opening_School_Mass___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 	
 
-<p><a href=""><img src="/images/Our%20Stories/2024/_Prefects__Investiture___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/"><img src="/images/Our%20Stories/2024/_Prefects__Investiture___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 	
 <br><br><br><br><br><br>
 	
-<p><a href=""><img src="/images/Our%20Stories/2024/_Canossa_School_Hong_Kong_Visit___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/"><img src="/images/Our%20Stories/2024/_Canossa_School_Hong_Kong_Visit___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 
 	
 </center>
