@@ -17,9 +17,9 @@ sections:
       image: /images/Homepage/Annoucements.jpg
   - infopic:
       title: Newsbites
-      description: February 2024
+      description: March 2024
       button: Click here
-      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_February_2024.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_March_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
