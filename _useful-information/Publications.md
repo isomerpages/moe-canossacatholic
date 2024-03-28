@@ -20,6 +20,9 @@ variant: markdown
 
 * [Canossa Connects - Term 1](https://www.flipbookpdf.net/web/site/c53f2b68fa530b6be5a202d8a746ef94463b43a4202403.pdf.html)<br>
 
+
+<br>
+
 <font size="6" color="#7daadf"><b>2023</b></font><br>
 
 <font size="5" color="#eeac0d"><b>Canossa Newsbites</b></font>
