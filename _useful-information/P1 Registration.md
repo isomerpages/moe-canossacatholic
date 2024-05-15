@@ -2,6 +2,7 @@
 title: P1 Registration
 permalink: /useful-information/p1-registration/
 description: ""
+variant: markdown
 ---
 <b><font size="6"> P1 Registration</font></b>
 
@@ -17,9 +18,8 @@ description: ""
 
 <br>
 	
-![](/images/Useful%20Information/ccps%20p1%20registration%20infographic%202023%20(page%201).jpg)
-	
-![](/images/Useful%20Information/ccps%20p1%20registration%20infographic%202023%20(page%202).jpg)
+![](/images/Useful%20Information/CCPS_P1_Registration_Infographic_2024_15_May_2024_pages_to_jpg_0001.jpg)
+![](/images/Useful%20Information/CCPS_P1_Registration_Infographic_2024_15_May_2024_pages_to_jpg_0002.jpg)
 
 
 <br>

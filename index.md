@@ -17,16 +17,16 @@ sections:
       image: /images/Homepage/Annoucements.jpg
   - infopic:
       title: Newsbites
-      description: April 2024
+      description: May 2024
       button: Click here
-      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_April_2024_.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_May_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossa Connects
       description: A quarterly newsletter for parents
-      button: Term 3 2023
-      url: https://flipbookpdf.net/web/site/a386a3008e20fbefd33629a621eed5cfc1e7e80f202310.pdf.html
+      button: Term 1 2024
+      url: https://www.flipbookpdf.net/web/site/c53f2b68fa530b6be5a202d8a746ef94463b43a4202403.pdf.html
       image: /images/Homepage/Canossa Connects.jpg
       alt: Image alt text
 ---
