@@ -43,7 +43,7 @@ third_nav_title: 2024 Events
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/hari-raya-celebration/"><img src="" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 
 	
-
+![](/images/Our%20Stories/2024/Hari_Raya_Celebration___Cover_Photo.jpg)
 	
 </center>
 
