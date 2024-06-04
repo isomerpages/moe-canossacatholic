@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2024 Events/Interest Week.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events.md
       - 2024 Events/P1 Orientation.md
@@ -10,6 +9,7 @@ collections:
       - 2024 Events/Prefects' Investiture.md
       - 2024 Events/Canossa School Hong Kong Visit.md
       - 2024 Events/Chinese New Year Celebration.md
+      - 2024 Events/Interest Week.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events.md
       - 2023 Events/Chinese New Year Celebration.md
