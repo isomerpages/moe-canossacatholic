@@ -34,10 +34,10 @@ third_nav_title: 2024 Events
 <br><br><br><br><br><br>
 		
 	
-<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/canossian-saints-day/"><img src="" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/canossian-saints-day/"><img src="/images/Our%20Stories/2024/Canossian_Saints_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 	
 
-	
+
 	
 </center>
 
