@@ -1,6 +1,6 @@
 ---
 title: May Devotional
-permalink: /may-devotional/
+permalink: /our-stories/2024-events/may-devotional/
 variant: markdown
 description: ""
 third_nav_title: 2024 Events

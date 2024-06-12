@@ -1,6 +1,6 @@
 ---
 title: Hari Raya Celebration
-permalink: /hari-raya-celebration/
+permalink: /our-stories/2024-events/hari-raya-celebration/
 variant: markdown
 description: ""
 third_nav_title: 2024 Events

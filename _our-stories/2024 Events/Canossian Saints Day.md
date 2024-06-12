@@ -1,6 +1,6 @@
 ---
 title: Canossian Saints Day
-permalink: /canossian-saints-day/
+permalink: /our-stories/2024-events/canossian-saints-day/
 variant: markdown
 description: ""
 third_nav_title: 2024 Events

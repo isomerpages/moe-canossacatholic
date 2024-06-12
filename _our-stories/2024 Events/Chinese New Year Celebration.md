@@ -1,6 +1,6 @@
 ---
 title: Chinese New Year Celebration
-permalink: /chinese-new-year-celebration/
+permalink: /our-stories/2024-events/chinese-new-year-celebration/
 variant: markdown
 description: ""
 third_nav_title: 2024 Events
