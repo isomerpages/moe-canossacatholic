@@ -156,7 +156,6 @@ All students
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch </b>Programme<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>HeARTs Programme</b> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - heART &amp; Soul<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week</b> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Discovering the Unique Me!<br>
-	
 </em><b>
 <br>
 <br>
