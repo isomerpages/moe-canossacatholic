@@ -149,7 +149,6 @@ All students
 <em>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Applied Learning Programme
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</b> MAKE@CCPS<br>
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Learning for Life Programme
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>The A.B.C. of Canossian Leadership<br>	
 	
