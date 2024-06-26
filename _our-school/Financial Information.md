@@ -199,16 +199,15 @@ All students
 NA
 <br>
 <br>
-<br>Mr Beh Jit Han (Chairman)
-<br>Sr Elizabeth Tham (Supervisor)
-<br>Ms Cheong May Aung Mamie (Treasurer)
-<br>Ms Martina Wong Yoke Lin (Member)
-<br>Mdm Yee May Kuen Peggy Sarah (Member)
-<br>Dr Janelene Leong Hoe Chng (Member)
-<br>Sr Wang Janet (Member)
-<br>Mr Yap Qi Rong, Timothy Charles (Member)
-<br>Mr Wilson Wong (Member)
+<br>Dr Gerard Ee Hock Kim (Chairman)
+<br>Sr Seow Lee Huang Theresa (Supervisor)
+<br>Mr Chia Heng Chian Dominic (Treasurer)
+<br>Dr Lim Luck Siew (Member) 
+<br>Prof Hsu Pon Poh (Member)
 <br>Mr Fan Yue Soon Charles (Member)
+<br>Sr Tan Gek Wah Anne (Member)
+<br>Ms Cheang Chin Neo (Member)
+<br>Ms Yee May Kuen Peggy Sarah (Member)
 <br>
 <br>
 <br>
