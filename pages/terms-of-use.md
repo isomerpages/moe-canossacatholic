@@ -43,9 +43,9 @@ Thank you for visiting https://www.canossacatholicpri.moe.edu.sg/. By accessing 
 
 <b><font size="5" color="#7daadf">Links from this website to other websites</font></b>
 
-<b><font size="4" color="#eeac0d">10.</font></b>   This website contains hyperlinks to websites which are not maintained by Canossa Catholic Primary School. Canossa Catholic Primary School is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+<b><font size="4" color="#eeac0d">11.</font></b>   This Web Site contains hyperlinks to web sites which are not maintained Canossa Catholic Primary School. Canossa Catholic Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk. 
 
-<b><font size="4" color="#eeac0d">11.</font></b>   Hyperlinks to other websites are provided as a convenience. In no circumstances shall Canossa Catholic Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
+<b><font size="4" color="#eeac0d">12.</font></b>   Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Canossa Catholic Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
 <b><font size="5" color="#7daadf">Links to this website from other websites</font></b>
 
