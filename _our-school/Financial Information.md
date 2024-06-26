@@ -138,7 +138,7 @@ All students
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
 </em>
 <br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2023)</span>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2024)</span>
 <br>
 <b>1.</b>  Character Development Programme
 <br>
