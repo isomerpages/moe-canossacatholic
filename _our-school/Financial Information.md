@@ -120,7 +120,7 @@ All students
 <b><font color="#eeac0d">Programmes/Activities:</font></b>
 <br>
 <br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2022)</span>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2023)</span>
 <br>
 <br>
 <b>1.</b>  Character Development Programme
