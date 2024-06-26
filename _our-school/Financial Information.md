@@ -88,14 +88,7 @@ variant: markdown
 <b><font color="#eeac0d">Objectives:</font></b>
 <br>
 <br>
-The mission of the Education Service is to
-mould the future of the nation, by moulding the
-people who will determine the future of the
-nation. This is achieved by providing children
-with a balanced and well-rounded education,
-develop them to their full potential, and nurture
-them into good citizens, conscious of their
-responsibilities to family, society and country.
+The mission of the Education Service is to mould the future of the nation, by moulding the people who will determine the future of the nation. This is achieved by providing children with a balanced and well-rounded education, develop them to their full potential, and nurture them into good citizens, conscious of their responsibilities to family, society and country.
 <br>
 <br>
 <br>
