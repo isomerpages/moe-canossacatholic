@@ -151,6 +151,8 @@ All students
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</b> MAKE@CCPS<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Learning for Life Programme
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>The A.B.C. of Canossian Leadership<br>	
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills Programme
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>R.E.A.D.Y. For Life<br>	
 	
 </em>
 <br>
