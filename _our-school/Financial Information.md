@@ -147,12 +147,9 @@ All students
 <b>3.</b>  Flagship Programmes
 <br>
 <em>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>STEM -</b> MAKE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Applied Learning Programme
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</b> MAKE@CCPS<br>
+
 </em>
 <br>
 <br>
