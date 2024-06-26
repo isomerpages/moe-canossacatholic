@@ -2,6 +2,7 @@
 title: Financial Information
 permalink: /our-school/financial-information/
 description: ""
+variant: markdown
 ---
 <b><font size="6">Financial Information</font></b>
 
@@ -33,7 +34,7 @@ description: ""
 <b><span style="color:#454545">Email Address: &nbsp; &nbsp;</span></b>ccps@moe.edu.sg
 <br>
 <b><span style="color:#454545">Web-site Address: &nbsp; &nbsp;</span></b>
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.canossacatholicpri.moe.edu.sg/" target="_blank" rel="noopener noreferrer">
 <span style="text-decoration:underline;color:blue">Canossa Catholic Primary School</span>
 <br>
 <br>
