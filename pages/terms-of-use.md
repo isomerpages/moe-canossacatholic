@@ -47,20 +47,20 @@ Thank you for visiting https://www.canossacatholicpri.moe.edu.sg/. By accessing 
 
 <b><font size="4" color="#eeac0d">12.</font></b>   Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Canossa Catholic Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
-<b><font size="5" color="#7daadf">Links to this website from other websites</font></b>
+<b><font size="5" color="#7daadf">Links to This Web Site from Other Web Sites</font></b>
 
-<b><font size="4" color="#eeac0d">12.</font></b>   Except as set forth below, caching and links to, and the framing of this website or any of the Contents are prohibited.
+<b><font size="4" color="#eeac0d">13.</font></b>   Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited. 
 
-<b><font size="4" color="#eeac0d">13.</font></b>   You must secure permission from Canossa Catholic Primary School prior to hyperlinking to, or framing, this website or any of the Contents, or engaging in similar activities. Canossa Catholic Primary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this website or any of the Contents.
+<b><font size="4" color="#eeac0d">14.</font></b>   You must secure permission from Canossa Catholic Primary School prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. Canossa Catholic Primary School reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents. 
 
-<b><font size="4" color="#eeac0d">14.</font></b>   Your linking to, or framing any part of this website or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this website or any of the Contents.
+<b><font size="4" color="#eeac0d">15.</font></b>   Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents. 
 
-<b><font size="4" color="#eeac0d">15.</font></b>   In no circumstances shall Canossa Catholic Primary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web the Contents.
+<b><font size="4" color="#eeac0d">16.</font></b>   In no circumstances shall Canossa Catholic Primary School be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents. 
 
-<b><font size="4" color="#eeac0d">16.</font></b>   Canossa Catholic Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+<b><font size="4" color="#eeac0d">17.</font></b>   Canossa Catholic Primary School reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights. 
 
-<b><font size="4" color="#eeac0d">17.</font></b>   Canossa Catholic Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this website or any of the Contents.
+<b><font size="4" color="#eeac0d">18.</font></b>   Canossa Catholic Primary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. 
 
 <b><font size="5" color="#7daadf">Governing Law</font></b>
 
-<b><font size="4" color="#eeac0d">18.</font></b>   These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+<b><font size="4" color="#eeac0d">19.</font></b>   These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. 
