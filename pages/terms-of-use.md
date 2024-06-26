@@ -23,23 +23,23 @@ Thank you for visiting https://www.canossacatholicpri.moe.edu.sg/. By accessing 
 
 <b><font size="5" color="#7daadf">Restrictions on use of Materials</font></b>
 
-<b><font size="4" color="#eeac0d">5.</font></b>   Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Canossa Catholic Primary School.
+<b><font size="4" color="#eeac0d">6.</font></b>   Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Canossa Catholic Primary School.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
 
-<b><font size="4" color="#eeac0d">6.</font></b>   Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Canossa Catholic Primary School's copyright and other intellectual property rights. Graphics and images on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Canossa Catholic Primary School.
+<b><font size="4" color="#eeac0d">7.</font></b>   Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Canossa Catholic Primary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Canossa Catholic Primary School.
+
+<b><font size="5" color="#7daadf">Right of Access </font></b>
+
+<b><font size="4" color="#eeac0d">8.</font></b>   Canossa Catholic Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever. 
 
 <b><font size="5" color="#7daadf">Disclaimer of Warranties and Liability</font></b>
 
-<b><font size="4" color="#eeac0d">7.</font></b>   The Contents of this website are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Canossa Catholic Primary School does not warrant and hereby disclaims any warranty:
+<b><font size="4" color="#eeac0d">9.</font></b>   The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, Canossa Catholic Primary School does not warrant and hereby disclaims any warranty: 
 
-<b>(a)</b>    as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this website;
+<b>(a)</b>    as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;
 
-<b>(b)</b>    that the Contents available through this website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this website and the server is and will be free of all viruses and/or other harmful elements.
+<b>(b)</b>    that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements. 
 
-<b><font size="4" color="#eeac0d">8.</font></b>   Canossa Catholic Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the website.
-
-<b><font size="5" color="#7daadf">Right of Access</font></b>
-
-<b><font size="4" color="#eeac0d">9.</font></b>   Canossa Catholic Primary School reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular Internet address to this website, at any time, without ascribing any reasons whatsoever.
+<b><font size="4" color="#eeac0d">10.</font></b>   Canossa Catholic Primary School shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
 <b><font size="5" color="#7daadf">Links from this website to other websites</font></b>
 
