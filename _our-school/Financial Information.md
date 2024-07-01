@@ -199,10 +199,10 @@ All students
 NA
 <br>
 <br>
-<br>Dr Gerard Ee Hock Kim (Chairman)
-<br>Sr Seow Lee Huang Theresa (Supervisor)
+<br>Dr Gerard Ee Hock Kim (Chairman)                                         
+<br>Sr Seow Lee Huang Theresa (Supervisor)                                       
 <br>Mr Chia Heng Chian Dominic (Treasurer)
-<br>Dr Lim Luck Siew (Member) 
+<br>Dr Lim Luck Siew (Member)                                         
 <br>Prof Hsu Pon Poh (Member)
 <br>Mr Fan Yue Soon Charles (Member)
 <br>Sr Tan Gek Wah Anne (Member)
