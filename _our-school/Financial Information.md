@@ -94,7 +94,7 @@ The mission of the Education Service is to mould the future of the nation, by mo
 <br>
 <b><font color="#eeac0d">Mission:</font></b>
 <br>
-<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life
+<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life​.
 
 <br>
 <br>
