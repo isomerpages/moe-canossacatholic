@@ -2,6 +2,7 @@
 title: Financial Information
 permalink: /our-school/financial-information/
 description: ""
+variant: markdown
 ---
 <b><font size="6">Financial Information</font></b>
 
@@ -33,7 +34,7 @@ description: ""
 <b><span style="color:#454545">Email Address: &nbsp; &nbsp;</span></b>ccps@moe.edu.sg
 <br>
 <b><span style="color:#454545">Web-site Address: &nbsp; &nbsp;</span></b>
-<a href="https://staging.d2nutevx25vdua.amplifyapp.com/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.canossacatholicpri.moe.edu.sg/" target="_blank" rel="noopener noreferrer">
 <span style="text-decoration:underline;color:blue">Canossa Catholic Primary School</span>
 <br>
 <br>
@@ -87,23 +88,14 @@ description: ""
 <b><font color="#eeac0d">Objectives:</font></b>
 <br>
 <br>
-The mission of the Education Service is to
-mould the future of the nation, by moulding the
-people who will determine the future of the
-nation. This is achieved by providing children
-with a balanced and well-rounded education,
-develop them to their full potential, and nurture
-them into good citizens, conscious of their
-responsibilities to family, society and country.
+The mission of the Education Service is to mould the future of the nation, by moulding the people who will determine the future of the nation. This is achieved by providing children with a balanced and well-rounded education, develop them to their full potential, and nurture them into good citizens, conscious of their responsibilities to family, society and country.
 <br>
 <br>
 <br>
 <b><font color="#eeac0d">Mission:</font></b>
 <br>
-<br>Nurturing each in her/his own way by forming
-hearts, enlightening minds and empowering
-spirits to live in The Way, The Truth and The
-Life
+<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life​.
+
 <br>
 <br>
 <br>
@@ -128,25 +120,9 @@ All students
 <b><font color="#eeac0d">Programmes/Activities:</font></b>
 <br>
 <br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2022)</span>
-<br>
-<br>
-<b>1.</b>  Character Development Programme
-<br>
-<b>2.</b>  Integrated Programme
-<br>
-<b>3.</b>  Flagship Programmes
-<br>
-<em>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>STEM -</b> MAKE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
-</em>
-<br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2023)</span>
 <br>
+<br>
 <b>1.</b>  Character Development Programme
 <br>
 <b>2.</b>  Integrated Programme
@@ -159,11 +135,31 @@ All students
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
 </em>
 <br>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2024)</span>
 <br>
-</th>
+<b>1.</b>  Character Development Programme
+<br>
+<b>2.</b>  Integrated Programme
+<br>
+<b>3.</b>  Flagship Programmes
+<br>
+<em>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Applied Learning Programme
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</b> MAKE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Learning for Life Programme
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>The A.B.C. of Canossian Leadership<br>	
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills Programme
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>R.E.A.D.Y. For Life<br>	
+	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>HeARTs Programme</b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - heART &amp; Soul<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week</b> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Discovering the Unique Me!<br>
+</em><b>
+<br>
+<br>
+</b></th>
 </tr>
 </thead>
 <tbody>
@@ -183,15 +179,7 @@ All students
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <span style="font-weight:bold">Key Employees</span>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -203,24 +191,19 @@ All students
 NA
 <br>
 <br>
-<br>Mr Beh Jit Han (Chairman)
-<br>Sr Elizabeth Tham (Supervisor)
-<br>Ms Cheong May Aung Mamie (Treasurer)
-<br>Ms Martina Wong Yoke Lin (Member)
-<br>Mdm Yee May Kuen Peggy Sarah (Member)
-<br>Dr Janelene Leong Hoe Chng (Member)
-<br>Sr Wang Janet (Member)
-<br>Mr Yap Qi Rong, Timothy Charles (Member)
-<br>Mr Wilson Wong (Member)
+<br>Dr Gerard Ee Hock Kim (Chairman)                                         
+<br>Sr Seow Lee Huang Theresa (Supervisor)                                       
+<br>Mr Chia Heng Chian Dominic (Treasurer)
+<br>Dr Lim Luck Siew (Member)                                         
+<br>Prof Hsu Pon Poh (Member)
 <br>Mr Fan Yue Soon Charles (Member)
-<br>
-<br>
+<br>Sr Tan Gek Wah Anne (Member)
+<br>Ms Cheang Chin Neo (Member)
+<br>Ms Yee May Kuen Peggy Sarah (Member)
 <br>
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
 <br>Ms Penny Ng (Vice-Principal (Administration))
-<br>
-<br>
 <br>
 <br>Assurance Partners LLP
 <br>
