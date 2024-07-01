@@ -179,11 +179,7 @@ All students
 <br>
 <br>
 <br>
-<br>
-<br>
 <span style="font-weight:bold">Key Employees</span>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -205,13 +201,9 @@ NA
 <br>Ms Cheang Chin Neo (Member)
 <br>Ms Yee May Kuen Peggy Sarah (Member)
 <br>
-<br>
-<br>
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
 <br>Ms Penny Ng (Vice-Principal (Administration))
-<br>
-<br>
 <br>
 <br>Assurance Partners LLP
 <br>
