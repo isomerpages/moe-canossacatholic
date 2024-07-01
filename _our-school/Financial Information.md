@@ -154,7 +154,7 @@ All students
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills Programme
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>R.E.A.D.Y. For Life<br>	
 	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>HeARTs Programme</b> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - heART &amp; Soul<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>HeARTs Programme</b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - heART &amp; Soul<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week</b> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Discovering the Unique Me!<br>
 </em><b>
 <br>
