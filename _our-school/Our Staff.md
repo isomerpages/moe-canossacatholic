@@ -560,7 +560,7 @@ description: ""
 <span style="color:#454545">2 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">	bianca_jasmyn_joseph@moe.edu.sg</span>
+<span style="color:#454545">bianca_jasmyn_joseph@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -644,6 +644,19 @@ description: ""
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">ho_ming@moe.edu.sg</span>
+<br>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Ms Joyce Lee</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">3 Peace</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">lee_tsueh_ting@moe.edu.sg</span>
 <br>
 </td>
 </tr>
