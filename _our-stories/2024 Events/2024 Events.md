@@ -49,11 +49,11 @@ third_nav_title: 2024 Events
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/may-devotional/"><img src="/images/Our%20Stories/2024/May_Devotional___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 		
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/singapore-youth-festival/"><img src="/images/Our%20Stories/2024/SYF___Cover_Photo.jpg" style="width:180px;height:201px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://canossacatholicpri.moe.edu.sg/singapore-youth-festival/"><img src="/images/Our%20Stories/2024/SYF___Cover_Photo.jpg" style="width:187px;height:201px;margin-right:10px;" align="left"></a></p>
 
 		
 	
-<p><a href=""><img src="" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://canossacatholicpri.moe.edu.sg/racial-harmony-day/"><img src="/images/Our%20Stories/2024/Racial_Harmony_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 
 
 	
