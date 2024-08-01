@@ -25,8 +25,8 @@ sections:
   - infopic:
       title: Canossa Connects
       description: A quarterly newsletter for parents
-      button: Term 1 2024
-      url: https://www.flipbookpdf.net/web/site/c53f2b68fa530b6be5a202d8a746ef94463b43a4202403.pdf.html
+      button: Term 2 2024
+      url: https://www.flipbookpdf.net/web/site/80c97b0898f45a37c8a4e16dcca4e88475a91213202407.pdf.html
       image: /images/Homepage/Canossa Connects.jpg
       alt: Image alt text
 ---
