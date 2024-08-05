@@ -3,8 +3,9 @@ title: Support Stretch Programme
 permalink: /flagship-programmes/support-stretch-programme/
 description: ""
 third_nav_title: Support Stretch Programme
+variant: markdown
 ---
-<b><font size=6>Support Stretch Programme</font></b>
+<b><font size="6">Stretch and Support Programme</font></b>
 
 As part of the school’s mission to nurture each child in his or her own way, the Stretch Programmes in CCPS aim to further develop the potential of students who display an aptitude for the academic subjects. They provide an enriched learning experience that develop intellectual curiosity and creative thinking in our students.  
   
@@ -15,14 +16,14 @@ Recognising that growth does not occur in a linear fashion, with some students s
 
 <p>
 <a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/english-language">
-<img src="/images/Flagship%20Programmes/English%20Language.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/Flagship%20Programmes/English%20Language.png" style="width:250px;height:240px;margin-right:15px;" align="left">
 </a>
 </p>
 
 
 <p>
 <a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/science">
-<img src="/images/Flagship%20Programmes/Science.png" style="width:260px;height:290px;margin-left:15px;" align = "right">
+<img src="/images/Flagship%20Programmes/Science.png" style="width:260px;height:290px;margin-left:15px;" align="right">
 </a>
 </p>
 
@@ -34,13 +35,13 @@ Recognising that growth does not occur in a linear fashion, with some students s
 
 <p>
 <a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mathematics">
-<img src="/images/Flagship%20Programmes/Mathematics.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/Flagship%20Programmes/Mathematics.png" style="width:250px;height:240px;margin-right:15px;" align="left">
 </a>
 </p>
 
 
 <p>
 <a href="https://staging.d2nutevx25vdua.amplifyapp.com/flagship-programmes/support-stretch-programme/mother-tongue-languages">
-<img src="/images/Flagship%20Programmes/Mother%20Tongue%20Languages.png" style="width:250px;height:255px;margin-left:15px;" align = "right">
+<img src="/images/Flagship%20Programmes/Mother%20Tongue%20Languages.png" style="width:250px;height:255px;margin-left:15px;" align="right">
 </a>
 </p>
