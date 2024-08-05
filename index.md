@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Banner 4 (Gif).gif
+      key_highlights:
+        - title: Our Stories
+          description: ""
+          url: ""
+        - title: Canossa Connects
+          description: ""
+          url: ""
   - infopic:
       title: Newsbites
       description: August 2024
