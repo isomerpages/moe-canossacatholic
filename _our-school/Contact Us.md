@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /contact-us/
 description: ""
+variant: markdown
 ---
 <b><font size="6">Contact Us</font></b>
 
