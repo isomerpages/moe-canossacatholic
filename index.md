@@ -24,7 +24,6 @@ sections:
       image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Highlights
-      subtitle: Add an image and text
       id: infopic
       description: 2024 Singapore Youth Festival Arts Presentation
       button: Click Here
