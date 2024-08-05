@@ -22,4 +22,13 @@ sections:
       url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_August_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
+  - infopic:
+      title: Highlights
+      subtitle: Add an image and text
+      id: infopic
+      description: 2024 Singapore Youth Festival Arts Presentation
+      button: Click Here
+      url: https://www.canossacatholicpri.moe.edu.sg/singapore-youth-festival/
+      image: /images/Homepage/SYF_Highlights.gif
+      alt: Image alt text
 ---
