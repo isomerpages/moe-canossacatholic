@@ -12,23 +12,23 @@ description: ""
 <b><font color="#eeac0d" size="5">Canossa Catholic Primary School</font></b>
 <br>
 1 Sallim Road<br>
-Singapore 387621<br><a href="https://www.google.com/maps?ll=1.326286,103.881774&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=8325327445205013778">VIEW MAP</a>
+Singapore 387621<br><a href="https://www.google.com/maps?ll=1.326286,103.881774&amp;z=16&amp;t=m&amp;hl=en&amp;gl=SG&amp;mapclient=embed&amp;cid=8325327445205013778">VIEW MAP</a>
 <br>
 <br>
 	
-<b><font size="4" color="#7daadf">Tel.</font></b> &emsp; +65 6844 1418&nbsp;
+<b><font size="4" color="#7daadf">Tel.</font></b>   +65 6844 1418&nbsp;
 <br>
-<b><font size="4" color="#7daadf">Fax.</font></b> &emsp; +65 6844 1417&nbsp;
+<b><font size="4" color="#7daadf">Fax.</font></b>   +65 6844 1417&nbsp;
 <br>
-<b><font size="4" color="#7daadf">Email.</font></b> &emsp; <a href="mailto:ccps@moe.edu.sg"> ccps@moe.edu.sg</a>&nbsp;
+<b><font size="4" color="#7daadf">Email.</font></b>   <a href="mailto:ccps@moe.edu.sg"> ccps@moe.edu.sg</a>&nbsp;
 <br>
 <br> 
 <span style="font-weight:normal">
 <b><font color="#eeac0d">Directions:</font></b>
 <br>
-<b><font size="4" color="#7daadf">1.</font></b> &emsp; Nearest MRT station: Mattar Station (7-minute walk)&nbsp;
+<b><font size="4" color="#7daadf">1.</font></b>   Nearest MRT station: Mattar Station (7-minute walk)&nbsp;
 <br>
-<b><font size="4" color="#7daadf">2.</font></b> &emsp; Buses to take:
+<b><font size="4" color="#7daadf">2.</font></b>   Buses to take:
 </span>
 <br>
 <br>
