@@ -17,7 +17,7 @@ Enjoy this 3 minute snapshot of the exhibition!
 <iframe width="600" height="355" src="https://www.youtube.com/embed/rxq53XN_DNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-<img src="/images/History/Laudate%201.png">
+![](/images/Flagship%20Programmes/Poster.png)
 
 <br>
 </center>
