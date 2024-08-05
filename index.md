@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Our Stories
           description: ""
-          url: ""
+          url: https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/2024-events/
         - title: Canossa Connects
           description: ""
-          url: ""
+          url: https://www.flipbookpdf.net/web/site/80c97b0898f45a37c8a4e16dcca4e88475a91213202407.pdf.html
   - infopic:
       title: Newsbites
       description: August 2024
