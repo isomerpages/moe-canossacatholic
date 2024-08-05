@@ -10,14 +10,7 @@ variant: markdown
 <b><font size="6" color="#7daadf">2024</font></b>
 <br>
 
-
-	
-	
-	
-	----------------------------
-
-
-<br><br><b><font size="6" color="#7daadf">2023</font></b><br><table style="border-collapse:collapse;border-spacing:0" class="tg">
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
 <tr><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Non-Academic Achievements<br>and Awards </span>
@@ -25,10 +18,29 @@ variant: markdown
 	
 <tbody>
 
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="53">Choir</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">Accomplishment Award</td></tr>
 
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Kate Lim Ziting</span></td>
 
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">3 Hope</span></td></tr>	
+	
+	
+	
+	
+	
+	
+</tbody>	
+</table>
+--------------------------
+	
+	
+	
+<br>
+<br>
+<b><font size="6" color="#7daadf">2023</font></b>
+<br>
 
-</tbody></table><table style="border-collapse:collapse;border-spacing:0" class="tg">
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
 <tr><th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#252525;font-family:;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#252525">Academic Achievements<br>and Awards </span>
