@@ -1,8 +1,8 @@
 ---
-title: Support Stretch Programme
-permalink: /flagship-programmes/support-stretch-programme/
+title: Stretch & Support Programme
+permalink: /flagship-programmes/stretch-support-programme/
 description: ""
-third_nav_title: Support Stretch Programme
+third_nav_title: Stretch & Support Programme
 variant: markdown
 ---
 <b><font size="6">Stretch and Support Programme</font></b>

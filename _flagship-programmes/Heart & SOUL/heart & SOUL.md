@@ -1,7 +1,8 @@
 ---
-title: heart &amp; SOUL
+title: heart & SOUL
 permalink: /flagship-programmes/heart-n-soul/
 description: ""
+third_nav_title: Heart & SOUL
 ---
 <b><font size="6">heART &amp; SOUL</font></b>
 

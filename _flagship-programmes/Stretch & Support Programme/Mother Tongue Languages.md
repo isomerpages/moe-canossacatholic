@@ -2,18 +2,18 @@
 title: Mother Tongue Languages
 permalink: /flagship-programmes/support-stretch-programme/mother-tongue-languages/
 description: ""
-third_nav_title: Support Stretch Programme
+third_nav_title: Stretch & Support Programme
 ---
-<b><font size=6>Mother Tongue Languages</font></b>
+<b><font size="6">Mother Tongue Languages</font></b>
 
-<b><font size=5 color="#7daadf">Lower Primary Poetry and Idioms Stories Appreciation</font></b>
+<b><font size="5" color="#7daadf">Lower Primary Poetry and Idioms Stories Appreciation</font></b>
 <br>
 <br>
 The CCPS Mother Tongue Languages Lower Primary Stretch Programme aims to increase students’ exposure to the Mother Tongue Languages through the teaching of poetry and idioms in the Lower Primary.  
 <br>
 All Mother Tongue Languages have their own unique and beautiful sounds. Through reading aloud poetry and idioms, students discover the rhythm and rhyme inherent in their Mother Tongue and develop a deeper appreciation for the language. Moreover, as language and culture are deeply intertwined, students also grow in understanding of their culture while learning each poem and idiom.  
 <br>  
-<b><font size=5 color="#7daadf">Middle Primary Higher Mother Tongue Programme
+<b><font size="5" color="#7daadf">Middle Primary Higher Mother Tongue Programme
 </font></b>
 <br>
 <br>

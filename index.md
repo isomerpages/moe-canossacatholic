@@ -8,6 +8,21 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Banner 4 (Gif).gif
+      key_highlights:
+        - title: Our Stories
+          description: ""
+          url: https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/2024-events/
+        - title: Canossa Connects
+          description: ""
+          url: https://www.flipbookpdf.net/web/site/80c97b0898f45a37c8a4e16dcca4e88475a91213202407.pdf.html
+  - infopic:
+      title: Highlights
+      id: infopic
+      description: 2024 Singapore Youth Festival Arts Presentation
+      button: Click Here
+      url: https://www.canossacatholicpri.moe.edu.sg/singapore-youth-festival/
+      image: /images/Homepage/SYF_Highlights.gif
+      alt: Image alt text
   - infopic:
       title: Newsbites
       description: August 2024
@@ -15,11 +30,4 @@ sections:
       url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_August_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
-  - infopic:
-      title: Canossa Connects
-      description: A quarterly newsletter for parents
-      button: Term 2 2024
-      url: https://www.flipbookpdf.net/web/site/80c97b0898f45a37c8a4e16dcca4e88475a91213202407.pdf.html
-      image: /images/Homepage/Canossa Connects.jpg
-      alt: Image alt text
 ---

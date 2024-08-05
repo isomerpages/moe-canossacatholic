@@ -25,6 +25,8 @@ links:
         url: /our-school/school-rules
       - title: Our Staff
         url: /our-school/ourstaff/
+      - title: Contact Us
+        url: https://canossacatholicpri.moe.edu.sg/our-school/contact-us/
   - title: Flagship Programmes
     collection: flagship-programmes
   - title: Character Formation
@@ -33,7 +35,3 @@ links:
     collection: departments
   - title: Useful Information
     collection: useful-information
-  - title: Our Stories
-    collection: our-stories
-  - title: Contact Us
-    url: /contact-us/
