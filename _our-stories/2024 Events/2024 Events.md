@@ -55,6 +55,12 @@ third_nav_title: 2024 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/racial-harmony-day/"><img src="/images/Our%20Stories/2024/Racial_Harmony_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 
+	
+<br><br><br><br><br><br>
+		
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/student-leadership-symposium/"><img src="/images/Our%20Stories/2024/Student_Leadership_Symposium___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+
 
 	
 </center>
