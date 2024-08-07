@@ -652,6 +652,18 @@ variant: markdown
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">5 Piety</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">4 x 50m Relay</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">2nd Place</td>		
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">Lim En Min Karyna</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">5 Piety</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">25 metre</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">5th Place</td>		
+</tr>			
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">Lim En Min Karyna</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">5 Piety</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">4 x 50m Relay</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">2nd Place</td>		
 </tr>			
 
 </tbody>	
