@@ -4,9 +4,7 @@ permalink: /our-school/achievements-awards/
 description: ""
 variant: markdown
 ---
-<span style="color:#454545;background-color:#FAFAFA">Sze Toh Yu Shin</span>
-
-<span style="color:#454545;background-color:#FAFAFA"></span>5 Peace			<b><font size="6">Achievements | Awards</font></b>
+<b><font size="6">Achievements | Awards</font></b>
 <br>
 <br>
 <b><font size="6" color="#7daadf">2024</font></b>
