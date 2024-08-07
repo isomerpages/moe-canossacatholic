@@ -558,9 +558,7 @@ variant: markdown
 	
 </tbody>	
 </table>
---------------------------
-	
-	
+
 	
 <br>
 <br>
