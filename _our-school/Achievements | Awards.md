@@ -563,10 +563,7 @@ variant: markdown
 	
 </tbody>	
 </table>
-
 <br>
-<br>
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
