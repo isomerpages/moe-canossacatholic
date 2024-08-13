@@ -37,17 +37,6 @@ sections:
       description: CCPS celebrated Singapore's 59th birthday on 8 August with exciting
         performances and activities.
   - infopic:
-      title: Singapore & Asian Schools Math Olympiad
-      id: infopic
-      button: Click Here
-      url: https://canossacatholicpri.moe.edu.sg/singapore-asian-schools-math-olympiad/
-      image: /images/Homepage/GIF_Singapore___Asian_Schools_Math_Olympiad.gif
-      alt: Image alt text
-      subtitle: Highlights
-      description: Our students participated in the Singapore & Asian Schools Math
-        Olympiad (SASMO) and many of them have done well. Congratulations to all
-        award winners.
-  - infopic:
       title: Newsbites
       description: August 2024
       button: Click here
