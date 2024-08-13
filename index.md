@@ -16,21 +16,29 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/80c97b0898f45a37c8a4e16dcca4e88475a91213202407.pdf.html
   - infopic:
-      title: Highlights
+      title: Singapore Youth Festival
+      subtitle: Highlights
       id: infopic
-      description: National Day Celebration
+      button: Click Here
+      url: https://www.canossacatholicpri.moe.edu.sg/singapore-youth-festival/
+      image: /images/Homepage/SYF_Highlights.gif
+      alt: Image alt text
+  - infopic:
+      title: National Day Celebration
+      id: infopic
       button: Click Here
       url: https://canossacatholicpri.moe.edu.sg/national-day-celebration/
       image: /images/Homepage/Highlights___National_Day.gif
       alt: Image alt text
+      subtitle: Highlights
   - infopic:
-      title: Highlights
+      title: Singapore & Asian Schools Math Olympiad
       id: infopic
-      description: Singapore & Asian Schools Math Olympiad
       button: Click Here
       url: https://canossacatholicpri.moe.edu.sg/singapore-asian-schools-math-olympiad/
       image: /images/Homepage/Highlights___Maths_Olympiads.gif
       alt: Image alt text
+      subtitle: Highlights
   - infopic:
       title: Newsbites
       description: August 2024
