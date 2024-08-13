@@ -61,9 +61,6 @@ third_nav_title: 2024 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/student-leadership-symposium/"><img src="/images/Our%20Stories/2024/Student_Leadership_Symposium___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>
 	
 
-<p><a href="https://canossacatholicpri.moe.edu.sg/singapore-asian-schools-math-olympiad/"><img src="/images/Our%20Stories/2024/Singapore_and_Asian_Schools_Math_Olympiad___Cover_Photo.jpg" style="width:190px;height:205px;margin-right:10px;" align="left"></a></p>
-	
-
 <p><a href="https://canossacatholicpri.moe.edu.sg/national-day-celebration/"><img src="/images/Our%20Stories/2024/National_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>	
 
 	
