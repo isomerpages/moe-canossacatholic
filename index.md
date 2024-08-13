@@ -31,6 +31,8 @@ sections:
       image: /images/Homepage/Highlights___National_Day.gif
       alt: Image alt text
       subtitle: Highlights
+      description: CCPS celebrated Singapore's 59th birthday on 8 August with exciting
+        performances and activities.
   - infopic:
       title: Singapore & Asian Schools Math Olympiad
       id: infopic
