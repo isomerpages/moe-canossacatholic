@@ -23,6 +23,9 @@ sections:
       url: https://www.canossacatholicpri.moe.edu.sg/singapore-youth-festival/
       image: /images/Homepage/SYF_Highlights.gif
       alt: Image alt text
+      description: Our children in the Performing Arts CCAs participated in the SYF
+        Arts Presentation for Choir, Guitar Ensemble, Handbell Ensemble and
+        Modern Dance.
   - infopic:
       title: National Day Celebration
       id: infopic
