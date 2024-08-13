@@ -18,10 +18,18 @@ sections:
   - infopic:
       title: Highlights
       id: infopic
-      description: 2024 Singapore Youth Festival Arts Presentation
+      description: National Day Celebration
       button: Click Here
-      url: https://www.canossacatholicpri.moe.edu.sg/singapore-youth-festival/
-      image: /images/Homepage/SYF_Highlights.gif
+      url: https://canossacatholicpri.moe.edu.sg/national-day-celebration/
+      image: /images/Homepage/Highlights___National_Day.gif
+      alt: Image alt text
+  - infopic:
+      title: Highlights
+      id: infopic
+      description: Singapore & Asian Schools Math Olympiad
+      button: Click Here
+      url: https://canossacatholicpri.moe.edu.sg/singapore-asian-schools-math-olympiad/
+      image: /images/Homepage/Highlights___Maths_Olympiads.gif
       alt: Image alt text
   - infopic:
       title: Newsbites
