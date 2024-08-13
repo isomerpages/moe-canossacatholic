@@ -21,7 +21,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://www.canossacatholicpri.moe.edu.sg/singapore-youth-festival/
-      image: /images/Homepage/SYF_Highlights.gif
+      image: /images/Homepage/GIF_SYF.gif
       alt: Image alt text
       description: Our children in the Performing Arts CCAs participated in the SYF
         Arts Presentation for Choir, Guitar Ensemble, Handbell Ensemble and
@@ -31,7 +31,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://canossacatholicpri.moe.edu.sg/national-day-celebration/
-      image: /images/Homepage/Highlights___National_Day.gif
+      image: /images/Homepage/GIF_National_Day_Celebration.gif
       alt: Image alt text
       subtitle: Highlights
       description: CCPS celebrated Singapore's 59th birthday on 8 August with exciting
@@ -41,7 +41,7 @@ sections:
       id: infopic
       button: Click Here
       url: https://canossacatholicpri.moe.edu.sg/singapore-asian-schools-math-olympiad/
-      image: /images/Homepage/Highlights___Maths_Olympiads.gif
+      image: /images/Homepage/GIF_Singapore___Asian_Schools_Math_Olympiad.gif
       alt: Image alt text
       subtitle: Highlights
       description: Our students participated in the Singapore & Asian Schools Math
