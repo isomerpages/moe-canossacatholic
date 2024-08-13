@@ -52,7 +52,6 @@ third_nav_title: 2024 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/singapore-youth-festival/"><img src="/images/Our%20Stories/2024/SYF___Cover_Photo.jpg" style="width:187px;height:201px;margin-right:10px;" align="left"></a></p>
 
 		
-	
 <p><a href="https://canossacatholicpri.moe.edu.sg/racial-harmony-day/"><img src="/images/Our%20Stories/2024/Racial_Harmony_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 
 	
@@ -60,6 +59,12 @@ third_nav_title: 2024 Events
 		
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/student-leadership-symposium/"><img src="/images/Our%20Stories/2024/Student_Leadership_Symposium___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+	
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/singapore-asian-schools-math-olympiad/"><img src="" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+	
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/national-day-celebration/"><img src="" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>	
 
 
 	
