@@ -41,6 +41,9 @@ sections:
       image: /images/Homepage/Highlights___Maths_Olympiads.gif
       alt: Image alt text
       subtitle: Highlights
+      description: Our students participated in the Singapore & Asian Schools Math
+        Olympiad (SASMO) and many of them have done well. Congratulations to all
+        award winners.
   - infopic:
       title: Newsbites
       description: August 2024
