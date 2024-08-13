@@ -9,8 +9,6 @@ variant: markdown
 <br>
 <b><font size="6" color="#7daadf">2024</font></b>
 <br>
-
-<br>
 <br>
 		
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
@@ -224,9 +222,8 @@ variant: markdown
 <tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal" colspan="2"></td></tr>
 </tbody>
 </table>
-
-<br><br>
-
+<br>
+<br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 		
 <thead>
