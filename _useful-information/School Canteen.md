@@ -10,8 +10,7 @@ variant: markdown
 
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Western Food (Non-Halal) | 30 April 2024 |
-| Indian Muslim Stall | 30 April 2024 |
+|  |  |
 
 
 <br>
