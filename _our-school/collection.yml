@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - 2024 Events/.keep
       - Our Stories/.keep
       - History.md
       - Mission | Vision | Values.md
