@@ -19,8 +19,6 @@ Singapore 387621<br><a href="https://www.google.com/maps?ll=1.326286,103.881774&
 	
 <b><font size="4" color="#7daadf">Tel.</font></b>   +65 6844 1418&nbsp;
 <br>
-<b><font size="4" color="#7daadf">Fax.</font></b>   +65 6844 1417&nbsp;
-<br>
 <b><font size="4" color="#7daadf">Email.</font></b>   <a href="mailto:ccps@moe.edu.sg"> ccps@moe.edu.sg</a>&nbsp;
 <br>
 <br> 
