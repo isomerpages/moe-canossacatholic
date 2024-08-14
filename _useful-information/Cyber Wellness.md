@@ -137,11 +137,6 @@ Here are some PARENTing Tips to guide your child in this digital age.
 *   [https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
 
   
-<b>Cyber Wellness - Useful Resources</b>
-
-*   [https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources](https://www.schoolbag.edu.sg/story/cyber-wellness---useful-resources)
-
-  
 <b>Healthy Video Gaming for Children and Teenagers</b>
 
 *   [https://familiesforlife.sg/Young\_Children\_Healthy\_Video\_Gaming.aspx](https://familiesforlife.sg/parenting/Young-Children/Pages/YoungChildrenPlay_and_Learning/Screen_Time/Young_Children_Healthy_Video_Gaming.aspx)
