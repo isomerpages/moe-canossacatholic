@@ -70,17 +70,17 @@ Here are some PARENTing Tips to guide your child in this digital age.
 <b><font size="4" color="#eeac0d">Navigate the Internet with your Child</font></b>
 
 *   Surf the Internet with your child so that you know what she/he does online and whether she/he is involved in age-appropriate activities.
-*   Highlight to your child not to respond to anyone who says something inappropriate and she/he should immediately report to adults and leave any site if she/he feel uncomfortable
+*   Highlight to your child not to respond to anyone who says something inappropriate and she/he should immediately report to adults and leave any site if she/he feels uncomfortable
 
 <b><font size="4" color="#eeac0d">Talk about Internet Use</font></b>
 
 *   Communicate regularly with you child and get her/him to share with you
 
      *   Her/his favourite online websites,
-     *   Things she/he do online
+     *   Things she/he does online
      *   Her/his online experiences etc
  
-*   Let your child know that it is alright to ask you questions or talk to you if she/he run into unpleasant situations online. 
+*   Let your child know that it is alright to ask you questions or talk to you if she/he runs into unpleasant situations online. 
     *   _Adapted from&nbsp;[https://www.schoolbag.edu.sg/story/understanding-cyber-wellness](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness)_
 
  <br>
