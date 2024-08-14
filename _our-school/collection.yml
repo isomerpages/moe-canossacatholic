@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Stories/.keep
       - History.md
       - Mission | Vision | Values.md
       - Motto | Crest | Song.md
@@ -14,4 +13,5 @@ collections:
       - Financial Information.md
       - School Rules.md
       - Our Staff.md
+      - Our Stories/.keep
       - Contact Us.md
