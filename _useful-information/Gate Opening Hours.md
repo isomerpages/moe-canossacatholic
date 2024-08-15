@@ -2,6 +2,7 @@
 title: Gate Opening Hours
 permalink: /useful-information/school-gate-opening-hours/
 description: ""
+variant: markdown
 ---
 <b><font size="6">School Gate Opening Hours</font></b>
 	
@@ -38,7 +39,7 @@ Canossa Catholic Primary School, side gate beside guardroom, Walk-in<br><em>(Alo
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal">6.45 am −  6 pm<br></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal">
 - Car park strictly for staff with car labels.<br>
-- Visitors are to park at public car park at Merpati Road.</td>
+</td>
 </tr>
 </tbody>
 </table>
