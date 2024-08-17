@@ -2,8 +2,9 @@
 title: Service Providers
 permalink: /useful-information/service-providers-contact-numbers/
 description: ""
+variant: markdown
 ---
-<font size=6><b>Service Providers Contact Numbers</b></font><br>
+<font size="6"><b>Service Providers Contact Numbers</b></font><br>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: px" class="tg">
 <colgroup>
@@ -30,8 +31,9 @@ description: ""
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">School Uniform &amp; PE Attire</td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 	<u><b>In-Trend Uniform</b></u><br>
-	729 Geylang Road<br>
-	Singapore 389640<br>
+1 Kaki Bukit Road 1<br>
+#01-30/31 Enterprise One<br>
+Singapore 415934<br>
 	www.intrenduniforms.com<br><br>
 	<b>Operation Hours:</b><br>
 	Monday – Friday 10.00 a.m. – 6.00 p.m.<br>
@@ -59,13 +61,15 @@ description: ""
 <tr>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Dental Clinic<br></td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal" colspan="2">
-		For dental treatment, please contact the school’s dental clinic at <b>91054971</b> for an appointment.<br><br>
+		For&nbsp;dental treatment, please contact the school’s dental clinic at <b>91054971</b> for an appointment.<br><br>
 During closure of the school’s dental clinic, you may also contact the buddy clinics listed below for an appointment.<br><br>
 		<b>1)     Geylang Methodist Primary School:</b> 89402459<br>
 		<b>2)     Cedar Primary School:</b> 87646935<br>
-		<b>3)     Mobile Dental Clinic 28 (MDC 28):</b> 92707786<br><br>
-		In case of emergency such as trauma of tooth, gum or facial swelling and severe toothache, please contact the School Dental Centre (HPB) at <b>64353782</b>.<br><br></td>
-</tr></tbody></table>
+		<b>3)     Roving Dental Clinic:</b> 91054971<br><br>
+</td>
+</tr>
+</tbody>
+</table>
 
 <br><br><br><br><br><br>
 <sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
