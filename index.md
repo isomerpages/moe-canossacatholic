@@ -14,7 +14,7 @@ sections:
           url: https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/2024-events/
         - title: Canossa Connects
           description: ""
-          url: https://www.flipbookpdf.net/web/site/80c97b0898f45a37c8a4e16dcca4e88475a91213202407.pdf.html
+          url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
       title: Singapore Youth Festival
       subtitle: Highlights
@@ -38,9 +38,9 @@ sections:
         performances and activities.
   - infopic:
       title: Newsbites
-      description: August 2024
+      description: September 2024
       button: Click here
-      url: https://www.canossacatholicpri.moe.edu.sg/files/Newsbites/Canossa_Newsbites_August_2024.pdf
+      url: /files/Newsbites/Canossa_Newsbites_September_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
 ---
