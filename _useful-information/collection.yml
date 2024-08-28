@@ -2,8 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - School Bus/School Bus.md
-      - School Bus/.keep
       - P1 Registration.md
       - Singapore Student Learning Space (SLS).md
       - Parents Gateway.md
@@ -15,3 +13,5 @@ collections:
       - Gate Opening Hours.md
       - Service Providers.md
       - School Canteen.md
+      - School Bus/.keep
+      - School Bus/School Bus.md
