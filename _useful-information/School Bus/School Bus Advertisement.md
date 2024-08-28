@@ -1,37 +1,37 @@
 ---
-title: Contact Us
-permalink: /our-school/contact-us/
+title: School Bus Advertisement
+permalink: /useful-information/schoolbus/
 description: ""
 variant: markdown
+third_nav_title: School Bus
 ---
-<b><font size="6">Contact Us</font></b>
+<b><font size="6">School Bus Advertisement</font></b>
+<br>
 
+To apply, please refer to the Service Requirements and the Application Procedure below.
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="1000" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.749421973244!2d103.8795856152799!3d1.3262914620188453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1788266d1321%3A0x73898133b2415512!2sCanossa%20Catholic%20Primary%20School!5e0!3m2!1sen!2ssg!4v1664181438865!5m2!1sen!2ssg"></iframe>
+<b><font size="5" color="#eeac0d">Service Requirements</font></b>
+<br><br>
+<b>1.</b>&nbsp;&nbsp;&nbsp; [Call for Proposal](/files/School%20Canteen%20and%20School%20Bus/Call_for_Proposal.pdf)<br>
+<b>2.</b>&nbsp;&nbsp;&nbsp; [Terms &amp; Conditions for School Bus Operator to Provide School Bus Services](/files/School%20Canteen%20and%20School%20Bus/Terms___Conditions_for_School_Bus_Operator_to_Provide_School_Bus_Services.pdf)<br>
+<b>3.</b>&nbsp;&nbsp;&nbsp; [Request for School Bus Services](/files/School%20Canteen%20and%20School%20Bus/Request_for_School_Bus_Services.pdf)
 
+<b><font size="5" color="#eeac0d">Application Procedure</font></b>
+<br><br>
+<b>1.</b>&nbsp;&nbsp;&nbsp; Complete the [Call for Proposal - Annex A](/files/School%20Canteen%20and%20School%20Bus/Call_for_Proposal___Annex_A__Information_from_Vendor_.pdf)<br>
+<b>2.</b>&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal – Annex A by closing date, <font color="#7daadf"><b>6 September 2024, 5pm</b></font> , to the School’s General Office.
 
-<b><font color="#eeac0d" size="5">Canossa Catholic Primary School</font></b>
-<br>
-1 Sallim Road<br>
-Singapore 387621<br><a href="https://www.google.com/maps?ll=1.326286,103.881774&amp;z=16&amp;t=m&amp;hl=en&amp;gl=SG&amp;mapclient=embed&amp;cid=8325327445205013778">VIEW MAP</a>
-<br>
-<br>
-	
-<b><font size="4" color="#7daadf">Tel.</font></b>   +65 6844 1418&nbsp;
-<br>
-<b><font size="4" color="#7daadf">Email.</font></b>   <a href="mailto:ccps@moe.edu.sg"> ccps@moe.edu.sg</a>&nbsp;
-<br>
-<br> 
-<span style="font-weight:normal">
-<b><font color="#eeac0d">Directions:</font></b>
-<br>
+* <b>Address:</b>&nbsp;&nbsp;&nbsp;  1 Sallim Road, Singapore 387621
+* <b>Contact Number:</b>&nbsp;&nbsp;&nbsp;  +65 6844 1418
+* <b>Email:</b>&nbsp;&nbsp;&nbsp;  <a href="mailto:ccps@moe.edu.sg"> ccps@moe.edu.sg</a>
+* <b>Contact Person:</b>&nbsp;&nbsp;&nbsp;  Mdm Faezah
+
+<b><font size="5" color="#eeac0d">How to get there?</font></b>
+<br><br>
 <b><font size="4" color="#7daadf">1.</font></b>   Nearest MRT station: Mattar Station (7-minute walk)&nbsp;
 <br>
 <b><font size="4" color="#7daadf">2.</font></b>   Buses to take:
-</span>
 <br>
-<br>
-
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
 <thead>
 <tr>
