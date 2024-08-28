@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: School Bus
 ---
-<b><font size="6">School Bus Service</font></b>
+<b><font size="6">School Bus Vendor</font></b>
 <br>
 
 School Bus Operator and Bus Fare
