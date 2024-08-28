@@ -17,3 +17,5 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 <b><font size="5" color="#eeac0d">Application Procedure</font></b>
 <br><br>
+<b>1.</b>&nbsp;&nbsp;&nbsp; Complete the <br>
+<b>2.</b>&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal – Annex A by closing date, <font color="#7daadf"><b>6 September 2024</b></font> , to the School’s General Office.
