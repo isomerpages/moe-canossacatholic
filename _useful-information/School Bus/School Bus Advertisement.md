@@ -31,7 +31,6 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <b><font size="4" color="#7daadf">1.</font></b>   Nearest MRT station: Mattar Station (7-minute walk)&nbsp;
 <br>
 <b><font size="4" color="#7daadf">2.</font></b>   Buses to take:
-
 <br>
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
 <thead>
