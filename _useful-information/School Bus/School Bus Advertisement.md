@@ -33,8 +33,6 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <b><font size="4" color="#7daadf">2.</font></b>   Buses to take:
 
 <br>
-<br>
-
 <table class="tg" style="border-collapse:collapse;border-spacing:0">
 <thead>
 <tr>
