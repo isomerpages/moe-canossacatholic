@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: School Bus
 ---
-<b><font size="6">School Bus Service</font></b>
+<b><font size="6">School Bus Advertisement</font></b>
 <br>
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
