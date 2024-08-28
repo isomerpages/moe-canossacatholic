@@ -17,12 +17,13 @@ variant: markdown
 * [Canossa Newsbites - May](/files/Newsbites/Canossa_Newsbites_May_2024.pdf)
 * [Canossa Newsbites - July](/files/Newsbites/Canossa_Newsbites_July_2024_V2.pdf)
 * [Canossa Newsbites - August](/files/Newsbites/Canossa_Newsbites_August_2024.pdf)
+* [Canossa Newsbites - September](/files/Newsbites/Canossa_Newsbites_September_2024.pdf)
 <br>
 
 <font size="5" color="#eeac0d"><b>Canossa Connects</b></font>
 
 * [Canossa Connects - Term 1](https://www.flipbookpdf.net/web/site/c53f2b68fa530b6be5a202d8a746ef94463b43a4202403.pdf.html)<br>
-* [Canossa Connects - Term 2](https://flipbookpdf.net/web/site/80c97b0898f45a37c8a4e16dcca4e88475a91213202407.pdf.html)<br>
+* [Canossa Connects - Term 2](https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html)<br>
 
 
 <br>
