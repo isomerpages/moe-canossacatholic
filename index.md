@@ -16,16 +16,16 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
-      title: Singapore Youth Festival
+      title: Pope Francis visits Singapore
       subtitle: Highlights
       id: infopic
       button: Click Here
-      url: https://www.canossacatholicpri.moe.edu.sg/singapore-youth-festival/
-      image: /images/Homepage/GIF_SYF.gif
+      url: https://canossacatholicpri.moe.edu.sg/pope-s-visit-to-singapore/
+      image: /images/Homepage/GIF__Pope_s_Visit.gif
       alt: Image alt text
-      description: Our children in the Performing Arts CCAs participated in the SYF
-        Arts Presentation for Choir, Guitar Ensemble, Handbell Ensemble and
-        Modern Dance.
+      description: Pope Francis arrived in Singapore on 11 September and was treated
+        to a short performance by our 4 children representing the different
+        ethnicities in Singapore.
   - infopic:
       title: National Day Celebration
       id: infopic
