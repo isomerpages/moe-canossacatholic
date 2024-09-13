@@ -27,6 +27,17 @@ sections:
         to a short performance by our 4 children representing the different
         ethnicities in Singapore.
   - infopic:
+      title: Pope Francis Art Competition
+      subtitle: Highlights
+      id: infopic
+      description: As part of Pope Francis' visit to Singapore, our students took part
+        in an art competition and 4 of them emerged as winners, with 1 child the
+        overall winner.
+      button: CLICK HERE
+      url: https://www.vaticannews.va/en/church/news/2024-09/students-greets-pope-francis-singapore-art.html?fbclid=IwZXh0bgNhZW0CMTEAAR0ADBW0z4JM_QXllj3Y9Ys6lwCdS-q348NNQ4AmO2IYI0NamR6dB0qILLw_aem_Ux7xeAPuYi8JZWQWTsXu7A&ai=
+      image: /images/Homepage/GIF_POPE_FRANCIS_ART_COMPETITION.gif
+      alt: Image alt text
+  - infopic:
       title: National Day Celebration
       id: infopic
       button: Click Here
