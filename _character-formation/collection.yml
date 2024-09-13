@@ -2,6 +2,7 @@ collections:
   character-formation:
     output: true
     order:
+      - Test.md
       - Faith Formation.md
       - Student Wellbeing.md
       - Character and Citizenship Education.md
