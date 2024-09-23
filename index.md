@@ -41,7 +41,7 @@ sections:
       title: Teachers' Day Celebration
       id: infopic
       button: Click Here
-      url: https://canossacatholicpri.moe.edu.sg/national-day-celebration/
+      url: https://canossacatholicpri.moe.edu.sg/teachers-day-celebration/
       image: /images/Homepage/GIF__Teachers__Day_Celebration.gif
       alt: Image alt text
       subtitle: Highlights
