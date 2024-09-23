@@ -38,15 +38,14 @@ sections:
       image: /images/Homepage/GIF_POPE_FRANCIS_ART_COMPETITION.gif
       alt: Image alt text
   - infopic:
-      title: National Day Celebration
+      title: Teachers' Day Celebration
       id: infopic
       button: Click Here
       url: https://canossacatholicpri.moe.edu.sg/national-day-celebration/
-      image: /images/Homepage/GIF_National_Day_Celebration.gif
+      image: /images/Homepage/GIF__Teachers__Day_Celebration.gif
       alt: Image alt text
       subtitle: Highlights
-      description: CCPS celebrated Singapore's 59th birthday on 8 August with exciting
-        performances and activities.
+      description: CCPS celebrated Teachers’ Day on 29 August
   - infopic:
       title: Newsbites
       description: September 2024
