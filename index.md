@@ -35,7 +35,7 @@ sections:
         overall winner.
       button: CLICK HERE
       url: https://www.vaticannews.va/en/church/news/2024-09/students-greets-pope-francis-singapore-art.html?fbclid=IwZXh0bgNhZW0CMTEAAR0ADBW0z4JM_QXllj3Y9Ys6lwCdS-q348NNQ4AmO2IYI0NamR6dB0qILLw_aem_Ux7xeAPuYi8JZWQWTsXu7A&ai=
-      image: /images/Homepage/GIF_POPE_FRANCIS_ART_COMPETITION.gif
+      image: /images/Homepage/GIF__Pope_Francis_Art_Competition.gif
       alt: Image alt text
   - infopic:
       title: Teachers' Day Celebration
