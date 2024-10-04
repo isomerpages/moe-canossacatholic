@@ -10,8 +10,8 @@ variant: markdown
 
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Chinese Rice &amp; Noodle Stall | 30 Nov 2024 |
-| Western Stall (Non-Halal)| 30 Nov 2024 |
+|  |  |
+
 
 
 <br>
