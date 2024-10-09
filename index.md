@@ -19,7 +19,7 @@ sections:
       title: Canossa Catholic is on Straits Times' School Spotlight!
       id: infopic
       button: Click Here
-      url: /files/Canossa_Catholic_is_on_Straits_Times__School_Spotlight.pdf
+      url: https://www.canossacatholicpri.moe.edu.sg/files/Canossa_Catholic_is_on_Straits_Times__School_Spotlight.pdf
       image: /images/Homepage/GIF_Canossa_Catholic_is_on_Straits_Times__School_Spotlight_.gif
       alt: Image alt text
       subtitle: Highlights
