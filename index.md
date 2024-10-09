@@ -16,6 +16,14 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
+      title: Canossa Catholic is on Straits Times' School Spotlight!
+      id: infopic
+      button: Click Here
+      url: /files/Canossa_Catholic_is_on_Straits_Times__School_Spotlight.pdf
+      image: /images/Homepage/GIF_Canossa_Catholic_is_on_Straits_Times__School_Spotlight_.gif
+      alt: Image alt text
+      subtitle: Highlights
+  - infopic:
       title: Pope Francis visits Singapore
       subtitle: Highlights
       id: infopic
@@ -37,15 +45,6 @@ sections:
       url: https://www.vaticannews.va/en/church/news/2024-09/students-greets-pope-francis-singapore-art.html?fbclid=IwZXh0bgNhZW0CMTEAAR0ADBW0z4JM_QXllj3Y9Ys6lwCdS-q348NNQ4AmO2IYI0NamR6dB0qILLw_aem_Ux7xeAPuYi8JZWQWTsXu7A&ai=
       image: /images/Homepage/GIF__Pope_Francis_Art_Competition.gif
       alt: Image alt text
-  - infopic:
-      title: Teachers' Day Celebration
-      id: infopic
-      button: Click Here
-      url: https://canossacatholicpri.moe.edu.sg/teachers-day-celebration/
-      image: /images/Homepage/GIF__Teachers__Day_Celebration.gif
-      alt: Image alt text
-      subtitle: Highlights
-      description: CCPS celebrated Teachers’ Day on 29 August
   - infopic:
       title: Newsbites
       description: September 2024
