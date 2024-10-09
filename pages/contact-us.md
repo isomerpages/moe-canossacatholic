@@ -15,7 +15,9 @@ contacts:
   - content:
       - phone: +65 6844 1418
       - email: ccps@moe.edu.sg
-      - other: https://www.canossacatholicpri.moe.edu.sg/our-school/contact-us/
-    title: Here
+      - other: <br>Click <a
+          href="https://www.canossacatholicpri.moe.edu.sg/our-school/contact-us/">here</a>
+          for more details
+    title: General Enquiries & Feedback
 feedback: ""
 ---
