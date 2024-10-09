@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Achievements | Awards/Achievements | Awards.md
       - Achievements | Awards/.keep
       - History.md
       - Mission | Vision | Values.md
