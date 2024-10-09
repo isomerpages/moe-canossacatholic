@@ -18,6 +18,7 @@ variant: markdown
 * [Canossa Newsbites - July](/files/Newsbites/Canossa_Newsbites_July_2024_V2.pdf)
 * [Canossa Newsbites - August](/files/Newsbites/Canossa_Newsbites_August_2024.pdf)
 * [Canossa Newsbites - September](/files/Newsbites/Canossa_Newsbites_September_2024.pdf)
+* [Canossa Newsbites - October](/files/Newsbites/Canossa_Newsbites_October_2024.pdf)
 <br>
 
 <font size="5" color="#eeac0d"><b>Canossa Connects</b></font>
