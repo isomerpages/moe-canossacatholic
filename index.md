@@ -24,6 +24,16 @@ sections:
       alt: Image alt text
       subtitle: Highlights
   - infopic:
+      title: Lee Hsien Loong
+      subtitle: Highlights
+      id: infopic
+      description: Canossa Catholic Primary School attained the prestigious Lee Hsien
+        Loong Award for Innovations in Uplifting Students (LHL AIUS).
+      button: Click Here
+      url: https://www.canossacatholicpri.moe.edu.sg/lee-hsien-loong-award/
+      image: /images/Homepage/GIF_Lee_Hsien_Long_Award.gif
+      alt: Image alt text
+  - infopic:
       title: Pope Francis visits Singapore
       subtitle: Highlights
       id: infopic
