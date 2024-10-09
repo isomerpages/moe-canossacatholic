@@ -3,6 +3,7 @@ title: Achievements | Awards
 permalink: /our-school/achievements-awards/
 description: ""
 variant: markdown
+third_nav_title: Achievements | Awards
 ---
 <b><font size="6">Achievements | Awards</font></b>
 <br>

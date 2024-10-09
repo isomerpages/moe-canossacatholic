@@ -2,31 +2,22 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Canossa Catholic Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 1 Sallim Road
+      - Singapore 387621
+      - ""
+    operating_hours: []
+    maps_link: https://www.google.com/maps?ll=1.326286,103.881774&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=8325327445205013778
+    title: Canossa Catholic Primary School
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6844 1418
+      - email: ccps@moe.edu.sg
+      - other: <br>Click <a
+          href="https://www.canossacatholicpri.moe.edu.sg/our-school/contact-us/">here</a>
+          for more details
+    title: General Enquiries & Feedback
+feedback: ""
 ---
