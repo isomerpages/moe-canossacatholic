@@ -57,9 +57,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Newsbites
-      description: October 2024
+      description: November2024
       button: Click here
-      url: /files/Newsbites/Canossa_Newsbites_October_2024.pdf
+      url: /files/Newsbites/Canossa_Newsbites_November_2024.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
 ---
