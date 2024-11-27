@@ -3,6 +3,7 @@ title: heart & SOUL
 permalink: /flagship-programmes/heart-n-soul/
 description: ""
 third_nav_title: Heart & SOUL
+variant: markdown
 ---
 <b><font size="6">heART &amp; SOUL</font></b>
 
@@ -26,7 +27,7 @@ Even if they are not involved in art-related, creative fields in future, the cap
 Our Tier 1 6-years art curriculum is offered to all students as a foundation in art-making and art discussion. It promotes an inclusive culture and the holistic development of every student. Through art, students will learn about themselves and the world around them. The art modules are planned based on the “<em>Seeing, Expressing, Appreciating (SEA)</em>” approach.
 <br>
 <center>
-<img src="/images/Flagship%20Programmes/HNS%201.jpeg" style="width:55%">
+<img src="/images/Flagship%20Programmes/heART_Pic_1.jpg" style="width:40%">
 </center>
 <br>
 <br>
