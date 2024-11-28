@@ -99,7 +99,6 @@ Canossian Saints’ Week</td>
 </tbody>
 </table>
 <br>
-<br>
 <font size="5" color="#7daadf"><b>Canossian Leadership Symposium 2024 </b></font>
 <br>
 <center><img src="/images/Flagship%20Programmes/Leadership_Symposium__1___2___Combined_.jpg" style="width:100%">
