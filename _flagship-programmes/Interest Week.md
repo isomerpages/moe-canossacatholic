@@ -22,8 +22,7 @@ The 5-day programme was broken down into 3 segments - Experience, Encounter and 
 <br>
 <br>
 Recognising that every child is different and has varied interest and passion, our children were given the opportunity to explore and discover their interests in different modules such as culinary, design, soccer and game development.
-
-<br>
+<br><br>
 <b><font size="5" color="#7daadf">Experience</font></b>
 <br><br>
 During the ‘Experience’ stage, our students acquire new knowledge, skills and dispositions related to the module they have chosen. They have the opportunity to discover their strengths and interests.
