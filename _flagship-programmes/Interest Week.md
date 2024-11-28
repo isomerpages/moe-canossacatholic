@@ -14,7 +14,7 @@ variant: markdown
 Discovering the Unique Me! aims to inspire our children to aspire by providing platforms for them to explore their values, interests, personalities and skills, raise their awareness of different types of education and career pathways and equip themselves with the values, skills and dispositions of lifelong learning to make informed choices regarding their education.
 
 <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xa3qqqaPHeA?si=laKcz3Zu4SwSnUYX" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xa3qqqaPHeA?si=HO3uZ8J689Tu9a9h" height="315" width="560"></iframe>
 </center>
 
 <br>
