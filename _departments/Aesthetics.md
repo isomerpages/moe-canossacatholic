@@ -2,10 +2,11 @@
 title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Aesthetics</font></b>
+<b><font size="6">Aesthetics</font></b>
 
-The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Excursion, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence.
+The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Engagement, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence, therefore developing the artistic grace in all our students.
 <br>
 <br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
@@ -70,9 +71,9 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the school�
 </tbody></table>
 
 <br>
-<b><font size=5 color="#7daadf">Art Curriculum @ CCPS</font></b>
+<b><font size="5" color="#7daadf">Art Curriculum @ CCPS</font></b>
   
-The art curriculum in our school provides a foundation for all our students to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt & Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
+The art curriculum in our school provides a foundation for all our students to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt &amp; Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
   
 *   Our art modules are planned based on the Seeing, Expressing, Appreciating (SEA) approach.
 
@@ -129,10 +130,10 @@ The art curriculum in our school provides a foundation for all our students to u
 </center>
 
 <br>
-<b><font size=5 color="#7daadf">Music Curriculum @ CCPS</font></b>
+<b><font size="5" color="#7daadf">Music Curriculum @ CCPS</font></b>
 <br>
 <br>
-All music lessons are carefully planned based on the <b>Experience-Concept-Application-Recap (E-C-A-R) approach</b>.
+All music lessons are carefully planned based on the&nbsp;<b>Experience-Concept-Application-Recap (E-C-A-R) approach</b>.
 <br>
 <br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg">
@@ -181,7 +182,7 @@ All music lessons are carefully planned based on the <b>Experience-Concept-Appl
 
 Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
   
-Through learning journeys, such as a trip to the <b>Esplanade (P2)</b>, students will appreciate the different roles musicians play in society. Through the <b>Digital Music Programme (P3 and P4)</b>, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
+Through learning journeys, such as a trip to the&nbsp;<b>Esplanade (P2)</b>, students will appreciate the different roles musicians play in society. Through the&nbsp;<b>Digital Music Programme (P3 and P4)</b>, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
 
 	
 ![](/images/Departments/Aesthetics%202.png)
