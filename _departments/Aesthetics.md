@@ -177,11 +177,9 @@ All music lessons are carefully planned based on the&nbsp;<b>Experience-Concept-
 <span style="color:#454545;background-color:#FAFAFA">Serves as a recall and summary of the music concepts learnt during the music lesson</span>
 </td>
 </tr>
-	
 </tbody></table>
 <br>
-Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
-<br><br>  
+Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines. <br><br>
 Through learning journeys, such as a trip to the Esplanade, students will appreciate the different roles musicians play in an ensemble. Through our robust Digital Music Programmes, students will have the opportunity to explore music creation using technology. Canossa Has Talent is also another platform for our children to showcase their talents in the various arts forms and stand a chance to perform for their teachers during Teachers’ Day Celebration.
 
 <center>
