@@ -107,6 +107,9 @@ Canossian Saints’ Week</td>
 <br>
 The symposium continued with engaging activities that fostered teamwork and problem-solving skills, including the introduction of the Design Thinking protocol. On the final day, students showcased their Design Thinking projects, addressing real-life issues within their schools and communities. The event concluded with reflections on leadership growth, marking the beginning of a journey towards sustainable and impactful leadership. Over the four days, the symposium provided valuable opportunities for student leaders to enhance their skills, build networks, and work together toward positive change, leaving a lasting impact on the Canossian community and beyond.
 <br>
+<br>
+<img src="" style="width:45%">
+
 
 
 
