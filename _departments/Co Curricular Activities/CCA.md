@@ -92,7 +92,7 @@ In addition, participation in CCA also encourages social interaction and integra
 <span style="text-decoration:none;color:#454545">Handbell</span>
 </a></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<a href="" title="Floorball">
+<a href="https://canossacatholicpri.moe.edu.sg/handbell-ensemble/" title="Floorball">
 <span style="text-decoration:none;color:#454545">Floorball</span>
 </a></td>
 </tr>
