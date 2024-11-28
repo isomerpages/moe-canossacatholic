@@ -14,8 +14,8 @@ During CCA practices on Mondays and Thursdays, members read music, identify mino
 The many performance platforms – from school performances to choral learning journeys, national competitions and external performances such as charity concerts and Christmas caroling, provide opportunities for members to bond and develop greater confidence as they aspire for high standards of musicality.
 
 <center>
-
-<iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1FeglmH7lz84Jn1FLaeKKXCuJV7nqKqL2F8gnXWHIub7rzvBonGnedCilqVBznQrIy94ss-fRSf7s/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+	
+<iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS61PXIod8rMZFhUfzBcgFh3nhtAJzNB7WbqPg5X-fdqvBMGAcJ-HQYaGw4cS7QVc2N4MCm-usl1Y4j/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 </center>
 
