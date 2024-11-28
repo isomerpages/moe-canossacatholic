@@ -59,13 +59,16 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the schoolâ
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Excursion</span>
+<span style="color:#454545;background-color:#FAFAFA">Engagement</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Learning Journeys</span>
+<span style="color:#454545;background-color:#FAFAFA">Learning Journeys<br><br>Sessions with<br>special guests</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Each level goes on a learning journey to an arts venue to expose students to a variety of art forms as well as introduce iconic art venues to them.</span>
+<span style="color:#454545;background-color:#FAFAFA">Our children have the opportunity to go on learning journeys to various arts venues for authentic experience and exposure to a variety of art forms.
+<br><br>
+During Interest Week - Discovering The Unique Me!, the Primary 3 to 5 children have a chance to meet guest speakers who are involved in the various arts industries and find out more about the career paths and be inspired by their stories.<br>
+</span>
 </td>
 </tr>
 </tbody></table>
