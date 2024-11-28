@@ -127,9 +127,7 @@ The art curriculum in our school provides a foundation for all our students to u
 *   Cooperative learning structures and thinking routines are infused into the different art modules
 
 <center>
-	
-<img src="/images/Departments/Aesthetics%201.png" style="width:75%">
-
+<img src="/images/Departments/Art__1___2___Combined_.jpg" style="width:100%">
 </center>
 
 <br>
