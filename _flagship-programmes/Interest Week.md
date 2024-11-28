@@ -43,6 +43,15 @@ Our students usually look forward to this segment of Interest Week. During the â
 <img src="/images/Departments/Interest__4__5___6___Combined_.jpg" style="width:100%">
 </center>
 
+<br>
+<b><font size="5" color="#7daadf">Engage</font></b>
+<br><br>
+By the end of this 5-day programme, our students will be able to apply what they have learnt through the products they made, a tournament, a showcase or a presentation to a group of audience. They are able to articulate their interest and aspiration as they pen down their reflections in their #Canossian booklets. They are able to make connections to their career possibilities, personal interests and aspirations and make plans to follow their dreams.
+
+<center>
+<img src="/images/Departments/Interest__7___8___Combined_.jpg" style="width:100%">
+</center>
+
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
