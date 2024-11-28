@@ -9,7 +9,7 @@ variant: markdown
 
 The Infocomm Club equips students with a better understanding of a wide range of technology and media forms. Every year, students are offered opportunities to learn different skills.  
   
-Our past year CCA activities included coding programme such as Scratch, MakeyMakey and Drones. In 2021, using software and Green Screen technology, students produce their own script and create short stories. They are also trained to take quality photographs and to produce impressive video clips, stop-motion animation and music videos for school events such as Total Defence Day, Environmental Week and National Day.
+Our past year CCA activities include coding programmes such as Scratch, MakeyMakey and Drones. In 2021, using software and Green Screen technology, students produce their own script and create short stories. They are also trained to take quality photographs and to produce impressive video clips, stop-motion animation and music videos. In 2023 and 2024, our students also participated in Hackathon and clinched various awards.
 
 <center>
 
