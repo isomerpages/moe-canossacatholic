@@ -98,7 +98,8 @@ Canossian Saints’ Week</td>
 </tr>
 </tbody>
 </table>
-
+<br>
+<br>
 <font size="5" color="#7daadf"><b>Canossian Leadership Symposium 2024 </b></font>
 <br>
 <br>The Canossian Leadership Symposium, held from 13 to 16 May 2024, was a successful and inspiring event that brought together student leaders from Canossian Schools in Singapore, Malaysia, and the E5 Cluster Schools. The symposium, centered around the theme "Accendi La Vita," celebrated leadership through the life of Mother Foundress, St Magdalene. It featured an inspiring opening address by Sr Geraldine Tan, followed by the sharing of the 10 Canossian Principles and interactive activities like the "Called by His Amazing Grace" Amazing Race facilitated by the CCPS Prefects. The event aimed to inspire and empower young leaders, emphasizing the importance of unity and collaboration.
