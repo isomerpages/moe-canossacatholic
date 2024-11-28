@@ -13,7 +13,7 @@ Our past year CCA activities include coding programmes such as Scratch, MakeyMak
 
 <center>
 
-<iframe allowfullscreen="true" height="369" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnIhBAn-GgxzGa_FT7isf0r8bOs6CDUil_PcdqKfhgQ5NMIbfzulKJh5CtJ2_q75O4tTM-iIuI5Rfx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>	
+<iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnIhBAn-GgxzGa_FT7isf0r8bOs6CDUil_PcdqKfhgQ5NMIbfzulKJh5CtJ2_q75O4tTM-iIuI5Rfx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>	
 	
 </center>
 
