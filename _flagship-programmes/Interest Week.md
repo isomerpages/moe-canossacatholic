@@ -34,6 +34,14 @@ During the ‘Experience’ stage, our students acquire new knowledge, skills an
 <img src="/images/Departments/Interest__2___3___Combined_.jpg" style="width:100%">
 </center>
 
+<b><font size="5" color="#7daadf">Encounter</font></b>
+<br><br>
+Our students usually look forward to this segment of Interest Week. During the ‘Encounter’ stage, our students get to meet guest speakers who are involved in the industries they have chosen to learn more about during the Interest Week. The guest speakers inspire our students to dream and see the countless possibilities that they have. They also raise our students’ awareness on the possible career opportunities through their sharing and stories. 
+
+<center>
+<img src="/images/Departments/Interest__4__5___6___Combined_.jpg" style="width:100%">
+</center>
+
 
 <br><br><br><br><br><br>
 <sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
