@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2024 Events/PSLE Results.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events.md
       - 2024 Events/P1 Orientation.md
@@ -34,6 +33,7 @@ collections:
       - 2024 Events/Thanksgiving Mass.md
       - 2024 Events/P1 to P5 Prize Presentation.md
       - 2024 Events/Christmas at the Village.md
+      - 2024 Events/PSLE Results.md
       - 2023 Events/.keep
       - 2023 Events/2023 Events.md
       - 2023 Events/Chinese New Year Celebration.md
