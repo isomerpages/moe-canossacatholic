@@ -94,7 +94,9 @@ third_nav_title: 2024 Events
 <br><br><br><br><br><br>
 		
 	
+<p><a href="https://canossacatholicpri.moe.edu.sg/mooncake-exchange/"><img src="" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>			
 	
+	![](/images/Our%20Stories/2024/Mooncake_Exchange___Cover_Photo.jpg)
 	
 	
 <br><br><br><br><br><br>	
