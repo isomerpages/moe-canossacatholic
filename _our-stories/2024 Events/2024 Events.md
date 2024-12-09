@@ -61,7 +61,7 @@ third_nav_title: 2024 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/racial-harmony-day/"><img src="/images/Our%20Stories/2024/Racial_Harmony_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 	
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/adventure-week/"><img src="/images/Our%20Stories/2024/Adventure_Week___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>	
+<p><a href="https://canossacatholicpri.moe.edu.sg/adventure-week/"><img src="/images/Our%20Stories/2024/Adventure_Week___Cover_Photo.jpg" style="width:185px;height:210px;margin-right:10px;" align="left"></a></p>	
 	
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/singapore-youth-festival/"><img src="/images/Our%20Stories/2024/SYF___Cover_Photo.jpg" style="width:187px;height:201px;margin-right:10px;" align="left"></a></p>
