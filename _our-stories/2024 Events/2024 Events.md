@@ -94,9 +94,13 @@ third_nav_title: 2024 Events
 <br><br><br><br><br><br>
 		
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/mooncake-exchange/"><img src="" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>			
+<p><a href="https://canossacatholicpri.moe.edu.sg/mooncake-exchange/"><img src="/images/Our%20Stories/2024/Mooncake_Exchange___Cover_Photo.jpg" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>			
 	
-	![](/images/Our%20Stories/2024/Mooncake_Exchange___Cover_Photo.jpg)
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/children-s-day-paraliturgy/"><img src="/images/Our%20Stories/2024/Children_s_Day_Paraliturgy___Cover_Photo.jpg" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>			
+		
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/canossa-school-hk-visit/"><img src="/images/Our%20Stories/2024/Canossa_School_Hong_Kong_Visit___Cover_Photo.jpg" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>	
 	
 	
 <br><br><br><br><br><br>	
