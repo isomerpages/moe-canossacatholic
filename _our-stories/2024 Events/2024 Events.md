@@ -66,9 +66,6 @@ third_nav_title: 2024 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/singapore-youth-festival/"><img src="/images/Our%20Stories/2024/SYF___Cover_Photo.jpg" style="width:187px;height:201px;margin-right:10px;" align="left"></a></p>
 
-		
-
-
 	
 <br><br><br><br><br><br>
 		
