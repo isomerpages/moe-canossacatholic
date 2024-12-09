@@ -85,13 +85,16 @@ third_nav_title: 2024 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/assumption-day-mass/"><img src="/images/Our%20Stories/2024/Assumption_Day_Mass___Cover_Photo.jpg" style="width:190px;height:210px;margin-right:10px;" align="left"></a></p>		
 	
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/pope-s-visit-to-singapore/"><img src="/images/Our%20Stories/2024/Pope_s_Visit___Cover_Photo.jpg" style="width:190px;height:210px;margin-right:10px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/teachers-day-celebration/"><img src="/images/Our%20Stories/2024/17__Teachers__Day_Celebration___Cover_Photo.jpg" style="width:195px;height:212px;margin-right:10px;" align="left"></a></p>
+	
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/pope-s-visit-to-singapore/"><img src="/images/Our%20Stories/2024/Pope_s_Visit___Cover_Photo.jpg" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>		
 	
 	
 <br><br><br><br><br><br>
 		
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/teachers-day-celebration/"><img src="/images/Our%20Stories/2024/17__Teachers__Day_Celebration___Cover_Photo.jpg" style="width:205px;height:205px;margin-right:10px;" align="left"></a></p>	
+	
 	
 	
 </center>
