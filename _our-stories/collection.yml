@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2024 Events/Assumption Day Mass.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events.md
       - 2024 Events/P1 Orientation.md
@@ -23,6 +22,7 @@ collections:
       - 2024 Events/National School Games.md
       - 2024 Events/National Day Celebration.md
       - 2024 Events/Family Mass.md
+      - 2024 Events/Assumption Day Mass.md
       - 2024 Events/Pope's Visit to Singapore.md
       - 2024 Events/Teachers' Day Celebration.md
       - 2023 Events/.keep
