@@ -48,17 +48,32 @@ third_nav_title: 2024 Events
 	
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2024-events/may-devotional/"><img src="/images/Our%20Stories/2024/May_Devotional___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
 		
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/student-leadership-training-camp/"><img src="/images/Our%20Stories/2024/Student_Leadership_Training_Camp___Cover_Photo.jpg" style="width:190px;height:210px;margin-right:10px;" align="left"></a></p>	
+	
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/student-leadership-symposium/"><img src="/images/Our%20Stories/2024/Student_Leadership_Symposium___Cover_Photo.jpg" style="width:190px;height:215px;margin-right:10px;" align="left"></a></p>	
+
+	
+<br><br><br><br><br><br>	
+
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/racial-harmony-day/"><img src="/images/Our%20Stories/2024/Racial_Harmony_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+	
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/adventure-week/"><img src="/images/Our%20Stories/2024/Adventure_Week___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>	
+	
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/singapore-youth-festival/"><img src="/images/Our%20Stories/2024/SYF___Cover_Photo.jpg" style="width:187px;height:201px;margin-right:10px;" align="left"></a></p>
 
 		
-<p><a href="https://canossacatholicpri.moe.edu.sg/racial-harmony-day/"><img src="/images/Our%20Stories/2024/Racial_Harmony_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+
 
 	
 <br><br><br><br><br><br>
 		
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/student-leadership-symposium/"><img src="/images/Our%20Stories/2024/Student_Leadership_Symposium___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>
+
 	
 
 <p><a href="https://canossacatholicpri.moe.edu.sg/national-day-celebration/"><img src="/images/Our%20Stories/2024/National_Day___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>	
