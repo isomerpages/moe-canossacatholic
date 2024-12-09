@@ -118,8 +118,11 @@ third_nav_title: 2024 Events
 <br><br><br><br><br><br>	
 	
 
-<p><a href=""><img src="/images/Our%20Stories/2024/Thanksgiving_Mass___Cover_Photo.jpg)" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/p1-to-p5-prize-presentation/"><img src="/images/Our%20Stories/2024/P1_to_P5_Prize_Presentation___Cover_Photo.jpg" style="width:190px;height:212px;margin-right:10px;" align="left"></a></p>		
 
+	
+	
+	
 	
 <br><br><br><br><br><br>	
 	
