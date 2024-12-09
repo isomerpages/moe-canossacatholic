@@ -82,6 +82,9 @@ third_nav_title: 2024 Events
 <br><br><br><br><br><br>
 	
 	
+<p><a href="https://canossacatholicpri.moe.edu.sg/assumption-day-mass/"><img src="/images/Our%20Stories/2024/Assumption_Day_Mass___Cover_Photo.jpg" style="width:190px;height:210px;margin-right:10px;" align="left"></a></p>		
+	
+	
 <p><a href="https://canossacatholicpri.moe.edu.sg/pope-s-visit-to-singapore/"><img src="/images/Our%20Stories/2024/Pope_s_Visit___Cover_Photo.jpg" style="width:190px;height:210px;margin-right:10px;" align="left"></a></p>		
 	
 	
