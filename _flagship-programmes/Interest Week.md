@@ -11,7 +11,7 @@ variant: markdown
 <center>
 <b><font size="3" color="#eeac0d"><em>“…I am fearfully and wonderfully made…” - Psalm 139:14</em></font></b>
 </center>
-<i>Discovering the Unique Me!</i> aims to inspire our children to aspire by providing platforms for them to explore their values, interests, personalities and skills, raise their awareness of different types of education and career pathways and equip themselves with the values, skills and dispositions of lifelong learning to make informed choices regarding their education.
+<i>Discovering the Unique Me!</i>  aims to inspire our children to aspire by providing platforms for them to explore their values, interests, personalities and skills, raise their awareness of different types of education and career pathways and equip themselves with the values, skills and dispositions of lifelong learning to make informed choices regarding their education.
 
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xa3qqqaPHeA?si=HO3uZ8J689Tu9a9h" height="415" width="660"></iframe>
