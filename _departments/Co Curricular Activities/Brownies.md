@@ -19,7 +19,7 @@ Brownies are given opportunities to develop lifeskills such as good grooming, se
 
 Living out the Brownies’ motto, Brownies <i>Lend a Hand</i> &nbsp;to play their part in the community. They learn how to work both independently and as a team. They also acquire positive values such as compassion and loyalty. Through meaningful activities, they forge lasting friendships and emerge cheerful, compassionate, honest and responsible young ladies who have a heart to serve God, country and man.
 
-In 2024, the Brownies pack clinched the coveted ‘Gold’ Puan Noor Aishah Award. We also have our Brownies being awarded the Chief Commissioner Award and the Olave St Clair Award.
+In 2024, the Brownies pack clinched the coveted Gold Puan Noor Aishah Award. We also have our Brownies being awarded the Chief Commissioner Award and the Olave St Clair Award.
 
 <center>
 
