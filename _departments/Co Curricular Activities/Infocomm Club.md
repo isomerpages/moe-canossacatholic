@@ -7,7 +7,7 @@ variant: markdown
 ---
 <b><font size="6">Infocomm Club</font></b>
 
-The Infocomm Club equips students with a better understanding of a wide range of technology and media forms. Every year, students are offered opportunities to learn different skills.  
+The Infocomm Club equips children with a better understanding of a wide range of technology and media forms. Every year, students are offered opportunities to learn different skills.  
   
 Our past year CCA activities include coding programmes such as Scratch, MakeyMakey and Drones. In 2021, using software and Green Screen technology, students produce their own script and create short stories. They are also trained to take quality photographs and to produce impressive video clips, stop-motion animation and music videos. In 2023 and 2024, our students also participated in Hackathon and clinched various awards.
 
