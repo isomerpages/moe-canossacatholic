@@ -45,59 +45,6 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 <center><img src="/images/Flagship%20Programmes/The_A_B_C__of_Canossian_Leadership.png" style="width:55%"></center>
 <br>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-
-<thead>
-
-<tr>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px; text-align:center;vertical-align:middle;word-break:normal" width="15%" rowspan="2"><span style="color:#000">Tiered Leadership</span></th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="25%" rowspan="2"><span style="color:#000">
-Target Group</span></th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Equipping </span></th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Empowering</span></th>
-<th style="background-color:#BDD6EE;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="20%"><span style="color:#000">Enriching</span></th>
-</tr>
-<tr>
-<th style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span>Learning &amp; Mastery
-Platforms (examples)
-</th>
-<th style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span>Showcase Opportunities (examples)</th>
-<th style="background-color:#ebf3fa;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" width="15%"><span style="color:#000"></span>Outreach Focus</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tier 4<br>(Pinnacle)</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prefectorial Board<br>(Executive Committee)</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prefects Camp
-Exco Meetings
-</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Leading at Assembly Leading Prefects in projects</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="2">Opportunities to advocating for positive behavior and discipline in school and outreach beyond school </td>
-</tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tier 3</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prefects</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Prefects Camp Prefects Meetings</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teachers’ Day Celebration Design Thinking Projects 
-Canossian Saints’ Week</td>
-</tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tier 2</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Class Leaders<br>Catholic Student Leaders<br>Peer Support Leaders<br>CCA Leaders<br>House Captains<br>Green Leaders<br>Young Ambassadors</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tier 2 Leadership Training</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School-wide Presentations and Activities<br> (e.g. Earth Day, Games/Sports Day, Children’s Day, NE events)</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Opportunities to advocate for their areas of service or outreach beyond school</td>
-</tr>
-<tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tier 1<br>Mass</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Whole school population</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Starting School Right CCAs</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Service Roles<br>Performances<br>Competitions</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Values-In-Action Programmes</td>
-</tr>
-</tbody>
-</table>
 <br>
 <font size="5" color="#7daadf"><b>Canossian Leadership Symposium 2024 </b></font>
 <br>
