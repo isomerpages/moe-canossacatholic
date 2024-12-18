@@ -43,7 +43,6 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 * Being a trusted friend<br>
 
 <center><img src="/images/Flagship%20Programmes/The_A_B_C__of_Canossian_Leadership.png" style="width:55%"></center>
-
 <br>
 <font size="5" color="#7daadf"><b>Canossian Leadership Symposium 2024 </b></font>
 <br>
