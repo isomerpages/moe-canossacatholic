@@ -2,10 +2,11 @@
 title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Aesthetics</font></b>
+<b><font size="6">Aesthetics</font></b>
 
-The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Excursion, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence.
+The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Engagement, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence, therefore developing the artistic grace in all our students.
 <br>
 <br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
@@ -58,21 +59,24 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the school�
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Excursion</span>
+<span style="color:#454545;background-color:#FAFAFA">Engagement</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Learning Journeys</span>
+<span style="color:#454545;background-color:#FAFAFA">Learning Journeys<br><br>Sessions with<br>special guests</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Each level goes on a learning journey to an arts venue to expose students to a variety of art forms as well as introduce iconic art venues to them.</span>
+<span style="color:#454545;background-color:#FAFAFA">Our children have the opportunity to go on learning journeys to various arts venues for authentic experience and exposure to a variety of art forms.
+<br><br>
+During Interest Week - Discovering The Unique Me!, the Primary 3 to 5 children have a chance to meet guest speakers who are involved in the various arts industries and find out more about the career paths and be inspired by their stories.<br>
+</span>
 </td>
 </tr>
 </tbody></table>
 
 <br>
-<b><font size=5 color="#7daadf">Art Curriculum @ CCPS</font></b>
+<b><font size="5" color="#7daadf">Art Curriculum @ CCPS</font></b>
   
-The art curriculum in our school provides a foundation for all our students to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt & Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
+The art curriculum in our school provides a foundation for all our students to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt &amp; Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
   
 *   Our art modules are planned based on the Seeing, Expressing, Appreciating (SEA) approach.
 
@@ -123,16 +127,14 @@ The art curriculum in our school provides a foundation for all our students to u
 *   Cooperative learning structures and thinking routines are infused into the different art modules
 
 <center>
-	
-<img src="/images/Departments/Aesthetics%201.png" style="width:75%">
-
+<img src="/images/Departments/Art__1___2___Combined_.jpg" style="width:100%">
 </center>
 
 <br>
-<b><font size=5 color="#7daadf">Music Curriculum @ CCPS</font></b>
+<b><font size="5" color="#7daadf">Music Curriculum @ CCPS</font></b>
 <br>
 <br>
-All music lessons are carefully planned based on the <b>Experience-Concept-Application-Recap (E-C-A-R) approach</b>.
+All music lessons are carefully planned based on the&nbsp;<b>Experience-Concept-Application-Recap (E-C-A-R) approach</b>.
 <br>
 <br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 602px" class="tg">
@@ -175,26 +177,22 @@ All music lessons are carefully planned based on the <b>Experience-Concept-Appl
 <span style="color:#454545;background-color:#FAFAFA">Serves as a recall and summary of the music concepts learnt during the music lesson</span>
 </td>
 </tr>
-	
 </tbody></table>
+<br>
+Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines. <br><br>
+Through learning journeys, such as a trip to the Esplanade, students will appreciate the different roles musicians play in an ensemble. Through our robust Digital Music Programmes, students will have the opportunity to explore music creation using technology. Canossa Has Talent is also another platform for our children to showcase their talents in the various arts forms and stand a chance to perform for their teachers during Teachers’ Day Celebration.
 
-
-Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
-  
-Through learning journeys, such as a trip to the <b>Esplanade (P2)</b>, students will appreciate the different roles musicians play in society. Through the <b>Digital Music Programme (P3 and P4)</b>, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
-
-	
-![](/images/Departments/Aesthetics%202.png)
-
-
-Recognising the increasing popularity of digital media in the aesthetics, the use of ICT has been woven into the arts curriculum. For example, our P2 students learn the use of MS Paint while our P5 students learn about Stop-Motion Animation. Our students’ talents are groomed through the Arts Instructional Programme, Arts CCAs and Arts Enrichment Programme. Their confidence in their own talents is enhanced through the provision of opportunities for external performances. In addition, since 2007, all members of Arts CCAs are given opportunities to attend concerts, performances and exhibitions to extend their understanding of the Arts. 
+<center>
+<img src="/images/Departments/Music__1___2___Combined_.jpg" style="width:100%">
+</center>
+<br>
+The 6-year journey in developing the artistic grace in all our students can be seen during our annual Primary 6 Graduation Musical. All the students will be involved in this massive production, from the creation of props to the final musical showcase on their Graduation Day. All the students will have the opportunity to act, sing, dance or play an instrument in the musical, showcasing what they have learnt and developed over their six years of arts education in Canossa.
 <br>
 <br>
-The quality of our Arts Education and that of our performing Arts groups has been recognized through a number of awards, in particular the National Arts Education Award (NAEA) - Silver (2009-2012), the Glow Award (2013-2016) and the SYF Certificates of Accomplishment (2014, 2016 and 2018) in Choir and Modern Dance.
-
+The quality of our Arts Education and that of our performing Arts groups has been recognised through a number of awards, in particular the National Arts Education Award (NAEA) - Silver (2009-2012), the Glow Award (2013-2016) and the SYF Certificates of Accomplishment (2024) in Choir, Guitar Ensemble and Handbell Ensemble and SYF Certificate of Distinction (2024) in Modern Dance.
 <br>
-
-<img src="/images/Departments/Aesthetics%203.jpg" style="width:75%">
+<br>
+<img src="/images/Departments/Music_Pic_3.jpg" style="width:100%">
 
 
 <br><br><br><br><br><br>
