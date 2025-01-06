@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
+      title: Newsbites
+      description: January 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_January_2025_.pdf
+      alt: Image alt text
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Canossa Catholic is on Straits Times' School Spotlight!
       id: infopic
       button: Click Here
@@ -55,11 +62,4 @@ sections:
       url: https://www.vaticannews.va/en/church/news/2024-09/students-greets-pope-francis-singapore-art.html?fbclid=IwZXh0bgNhZW0CMTEAAR0ADBW0z4JM_QXllj3Y9Ys6lwCdS-q348NNQ4AmO2IYI0NamR6dB0qILLw_aem_Ux7xeAPuYi8JZWQWTsXu7A&ai=
       image: /images/Homepage/GIF__Pope_Francis_Art_Competition.gif
       alt: Image alt text
-  - infopic:
-      title: Newsbites
-      description: January 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_January_2025_.pdf
-      alt: Image alt text
-      image: /images/Homepage/Newsbites.jpg
 ---
