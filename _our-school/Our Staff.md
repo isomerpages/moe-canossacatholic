@@ -318,7 +318,7 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mdm Nurhuda</span><br>
+<span style="color:#454545">Mdm Huda</span><br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">1 Hope</span>
@@ -419,6 +419,19 @@ description: ""
 <br>
 </td>
 </tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mrs Jenny Zai</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">1 Piety</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">choo_choon_mui@moe.edu.sg</span>
+<br>
+</td>
+</tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Mrs Wynne Seah </span>
@@ -556,7 +569,7 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Jolene Tan</span>
+<span style="color:#454545">Mrs Jolene Quek</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
@@ -595,14 +608,14 @@ description: ""
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Belinda Han</span>
+<span style="color:#454545">Ms Lynn Lee</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">2 Piety</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">belinda_han_zhuangyi@moe.edu.sg</span>
+<span style="color:#454545">	lynn_lee_lai_ying@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -621,17 +634,17 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Navina</span>
+<span style="color:#454545">Ms Belinda Han</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">2 Piety</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">navina_thiyagarajan@moe.edu.sg</span>
+<span style="color:#454545">belinda_han_zhuangyi@moe.edu.sg</span>
 <br>
 </td>
-</tr>
+</tr>	
 <tr>
 <td style="background-color:#DEEAF6;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3">PRIMARY 3
 <br>
@@ -700,23 +713,34 @@ description: ""
 <span style="color:#454545">3 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">	norhidayati_abdol_rahim@moe.edu.sg</span>
+<span style="color:#454545">norhidayati_abdol_rahim@moe.edu.sg</span>
 <br>
 </td>
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Chia Meiyi</span>
-<br>
+<span style="color:#454545">Mrs Esther Geh</span><br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">3 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">chia_meiyi@moe.edu.sg</span>
+<span style="color:#454545">chew_boon_guat_esther@moe.edu.sg</span>
 <br>
 </td>
 </tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mrs Jessie Koh</span><br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">3 Joy</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">jessie_koh@moe.edu.sg</span>
+<br>
+</td>
+</tr>		
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Mr Isaac Tan</span>
@@ -842,27 +866,27 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mrs Eugenia Chan</span>
+<span style="color:#454545">Ms Chia Meiyi</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545">4 Piety</span>
+<span style="color:#454545">4 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">tan_poh_geok_eugenia_a@moe.edu.sg</span>
+<span style="color:#454545">chia_meiyi@moe.edu.sg</span>
 <br>
 </td>
-</tr>
+</tr>		
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mr Nicholas</span>
+<span style="color:#454545">Ms Selena Chew</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">4 Piety</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">nicholas_andrew_jonathan_kiramathypathy@moe.edu.sg</span>
+<span style="color:#454545">chew_wui_ling_selena@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -901,7 +925,7 @@ description: ""
 <span style="color:#454545">4 Piety</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">	erika_sng_zhimin@moe.edu.sg</span>
+<span style="color:#454545">erika_sng_zhimin@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -931,6 +955,19 @@ description: ""
 <br>
 </td>
 </tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mrs Daisy Koh</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">4 Justice</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">koh_daisy@moe.edu.sg</span>
+<br>
+</td>
+</tr>		
 <tr>
 <td style="background-color:#DEEAF6;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3">PRIMARY 5
 <br>
@@ -1041,7 +1078,7 @@ description: ""
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Catherine Lam</span>
+<span style="color:#454545">Mdm Catherine Lam</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
@@ -1098,13 +1135,14 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mdm Lim Sin Li</span><br>
+<span style="color:#454545">Ms Stephanie Soh</span>
+<br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">6 Hope</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">lim_sin_li@moe.edu.sg</span>
+<span style="color:#454545">soh_ai_ling@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -1130,22 +1168,22 @@ description: ""
 <span style="color:#454545">6 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">	joseph_peh_zheng_wei@moe.edu.sg</span>
+<span style="color:#454545">joseph_peh_zheng_wei@moe.edu.sg</span>
 <br>
 </td>
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mrs Esther Geh</span><br>
+<span style="color:#454545">Mdm Lim Sin Li</span><br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">6 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">chew_boon_guat_esther@moe.edu.sg</span>
+<span style="color:#454545">lim_sin_li@moe.edu.sg</span>
 <br>
 </td>
-</tr>
+</tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Ms Sylvia Lee</span>
@@ -1169,19 +1207,6 @@ description: ""
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">kek_lay_kin@moe.edu.sg</span>
-<br>
-</td>
-</tr>	
-<tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Stephanie Soh</span>
-<br>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545">6 Piety</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">soh_ai_ling@moe.edu.sg</span>
 <br>
 </td>
 </tr>	
@@ -1291,9 +1316,20 @@ description: ""
 <span style="color:#454545">Teacher (Hearing Loss)</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">	lee_siam_lee_serena_a@moe.edu.sg</span>
+<span style="color:#454545">lee_siam_lee_serena_a@moe.edu.sg</span>
 </td>
 </tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mrs Sarala Tamilsegar</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Teacher (Hearing Loss)</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">	sarala_palanasamy_krishnasamy_a@moe.edu.sg</span>
+</td>
+</tr>		
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Ms Pauline Tay</span>
@@ -1421,7 +1457,7 @@ description: ""
 <tr>
 </tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Miss Uma Devi D/O N Ayawoo</span>
+<span style="color:#454545">Mrs Uma Devi D/O N Ayawoo</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Corporate Support Officer</span>
