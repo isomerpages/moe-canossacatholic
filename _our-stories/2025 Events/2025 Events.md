@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: 2025 Events
 ---
-<font size="6"><b>School Events &amp; Programmes 2024</b></font><br>
+<font size="6"><b>School Events &amp; Programmes 2025</b></font><br>
 <font size="5" color="#7daadf"><b>Photo Gallery</b></font>
 
 
