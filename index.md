@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
+      title: Prefects' Investiture
+      id: infopic
+      button: Click Here
+      url: /our-stories/2025-events/prefects-investiture/
+      image: /images/Homepage/GIF_Prefects__Investiture_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Newsbites
       description: January 2025
       button: Click here
