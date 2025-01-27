@@ -33,12 +33,7 @@ more information on MOE Sexuality Education.
 <b><font size="5" color="#7daadf">Overview of Canossa Catholic Primary School's Sexuality Education Programme for 2024</font></b> 
 <br>
 <br>
-<b><font size="5" color="#eeac0d">4.</font></b> &nbsp; Sexuality Education is delivered in a holistic
-manner through the school curriculum. The content for Sexuality Education
-is grouped into five main themes: Human Development, Interpersonal Relationships,
-Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
-click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information on the scope of Sexuality Education in the school curriculum.
+<b><font size="5" color="#eeac0d">4.</font></b> &nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 <br>
 <br>
 <b><font size="5" color="#eeac0d">5.</font></b> &nbsp; The subjects that incorporate topics on sexuality
