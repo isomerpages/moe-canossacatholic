@@ -12,8 +12,12 @@ third_nav_title: 2025 Events
 <center>
 
 <p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2025-events/p1-orientation/"><img src="/images/Our%20Stories/2025/P1_Orientation___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/opening-school-mass/"><img src="/images/Our%20Stories/2025/Opening_School_Mass___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/prefects-investiture/"><img src="/images/Our%20Stories/2025/Prefects__Investiture___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>	
 		
-
+	
 <br><br><br><br><br><br>
 
 
