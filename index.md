@@ -16,17 +16,17 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
-      title: Prefects' Investiture
+      title: Chinese New Year Celebration
       id: infopic
       button: Click Here
-      url: /our-stories/2025-events/prefects-investiture/
-      image: /images/Homepage/GIF_Prefects__Investiture_2025.gif
+      url: /our-stories/2025-events/chinese-new-year-celebration/
+      image: /images/Homepage/GIF_Chinese_New_Year_Celebration_2025.gif
       alt: Image alt text
   - infopic:
       title: Newsbites
-      description: January 2025
+      description: February 2025
       button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_January_2025_.pdf
+      url: /files/Newsbites/2025/Canossa_Newsbites_February_2025.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
