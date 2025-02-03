@@ -24,9 +24,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Newsbites
-      description: January 2025
+      description: February 2025
       button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_January_2025_.pdf
+      url: /files/Newsbites/2025/Canossa_Newsbites_February_2025.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
