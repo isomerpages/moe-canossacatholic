@@ -498,7 +498,7 @@ description: ""
 <span style="color:#454545">2 Peace</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">chew_boon_geok_joslyn@moe.edu.sg</span>
+<span style="color:#454545">joslyn_chew_boon_geok@moe.edu.sg</span>
 <br>
 </td>
 </tr>	
