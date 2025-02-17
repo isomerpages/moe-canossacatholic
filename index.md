@@ -30,14 +30,6 @@ sections:
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
-      title: Canossa Catholic is on Straits Times' School Spotlight!
-      id: infopic
-      button: Click Here
-      url: /files/Canossa_Catholic_is_on_Straits_Times__School_Spotlight.pdf
-      image: /images/Homepage/GIF_Canossa_Catholic_is_on_Straits_Times__School_Spotlight_.gif
-      alt: Image alt text
-      subtitle: Highlights
-  - infopic:
       title: Lee Hsien Loong
       subtitle: Highlights
       id: infopic
