@@ -22,6 +22,8 @@ third_nav_title: 2025 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/chinese-new-year-celebration/"><img src="/images/Our%20Stories/2025/CNY_Celebration___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>	
 		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/girl-guides-world-thinking-day/"><img src="/images/Our%20Stories/2025/Girl_Guide_World_Thinking_Day___Cover_Photo.jpg" style="width:180px;height:205px;margin-right:10px;" align="left"></a></p>		
+	
 	
 <br><br><br><br><br><br>	
 
