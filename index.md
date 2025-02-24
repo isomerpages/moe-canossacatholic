@@ -16,11 +16,11 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
-      title: Chinese New Year Celebration
+      title: Girl Guides World Thinking Day
       id: infopic
       button: Click Here
       url: /our-stories/2025-events/chinese-new-year-celebration/
-      image: /images/Homepage/GIF_Chinese_New_Year_Celebration_2025.gif
+      image: /images/Homepage/GIF_Girl_Guides_World_Thinking_Day.gif
       alt: Image alt text
   - infopic:
       title: Newsbites
