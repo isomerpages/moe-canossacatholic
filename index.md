@@ -24,7 +24,7 @@ sections:
       alt: Image alt text
       description: Our Brownies participated in the Guides Got Talent competition,
         securing 1st place in the East Division category and finishing 2nd
-        overall
+        overall.
   - infopic:
       title: Newsbites
       description: March 2025
