@@ -19,7 +19,7 @@ sections:
       title: Girl Guides World Thinking Day
       id: infopic
       button: Click Here
-      url: /our-stories/2025-events/chinese-new-year-celebration/
+      url: /our-stories/2025-events/girl-guides-world-thinking-day/
       image: /images/Homepage/GIF_Girl_Guides_World_Thinking_Day.gif
       alt: Image alt text
       description: Our Brownies participated in the Guides Got Talent competition,
