@@ -18,7 +18,9 @@ variant: markdown
 
 <br>
 	
+![](/images/Useful%20Information/P1_Registration_2025___1.png)
 
+![](/images/Useful%20Information/P1_Registration_2025___2.png)
 
 
 <br>
