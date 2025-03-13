@@ -22,8 +22,8 @@ sections:
       url: /useful-information/p1-registration/
       image: /images/Homepage/GIF_P1_Registration.gif
       alt: Image alt text
-      description: Interested to register your child at our school? Join us for a chit
-        chat session.
+      description: Interested to register your child at our school? Join us for a Chit
+        Chat session.
   - infopic:
       title: Newsbites
       description: March 2025
