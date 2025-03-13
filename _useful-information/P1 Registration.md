@@ -18,8 +18,7 @@ variant: markdown
 
 <br>
 	
-![](/images/Useful%20Information/CCPS_P1_Registration_Infographic_2024_15_May_2024_pages_to_jpg_0001.jpg)
-![](/images/Useful%20Information/CCPS_P1_Registration_Infographic_2024_15_May_2024_pages_to_jpg_0002.jpg)
+
 
 
 <br>
