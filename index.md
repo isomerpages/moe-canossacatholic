@@ -16,15 +16,14 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
   - infopic:
-      title: Girl Guides World Thinking Day
+      title: P1 Registration
       id: infopic
       button: Click Here
-      url: /our-stories/2025-events/girl-guides-world-thinking-day/
-      image: /images/Homepage/GIF_Girl_Guides_World_Thinking_Day.gif
+      url: /useful-information/p1-registration/
+      image: /images/Homepage/GIF_P1_Registration.gif
       alt: Image alt text
-      description: Our Brownies participated in the Guides Got Talent competition,
-        securing 1st place in the East Division category and finishing 2nd
-        overall.
+      description: Interested to register your child at our school? Join us for a Chit
+        Chat session.
   - infopic:
       title: Newsbites
       description: March 2025

@@ -1,5 +1,5 @@
 ---
-title: May Devotional
+title: May Devotion
 permalink: /our-stories/2024-events/may-devotional/
 variant: markdown
 description: ""
