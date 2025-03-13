@@ -18,11 +18,12 @@ sections:
   - infopic:
       title: P1 Registration
       id: infopic
-      button: Click Here to register
+      button: Click Here
       url: /useful-information/p1-registration/
       image: /images/Homepage/GIF_P1_Registration.gif
       alt: Image alt text
-      description: Interested to register your child at our school?
+      description: Interested to register your child at our school? Join us for a chit
+        chat session.
   - infopic:
       title: Newsbites
       description: March 2025
