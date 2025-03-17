@@ -14,14 +14,13 @@ variant: markdown
 
 <iframe width="600" height="335" src="https://www.youtube.com/embed/ewpPrYXZMBA" title="A Day in the Life of a Canossian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+<br>
+Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSe07Cs4mC_sEdn4xN92TRb95t1eKN5avXPE3MV0CPr5yN9ITw/viewform?usp=sharing"><b>here</b></a> for the P1 chit chat session
 </center>
 
-<br>
-	
 ![](/images/Useful%20Information/P1_Registration_2025___1.png)
 
 ![](/images/Useful%20Information/P1_Registration_2025___2.png)
-
 
 <br>
 <center>
