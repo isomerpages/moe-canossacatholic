@@ -1,7 +1,0 @@
----
-title: Canossian Saints Day
-permalink: /canossian-saints-day/
-variant: markdown
-description: ""
-third_nav_title: 2025 Events
----
