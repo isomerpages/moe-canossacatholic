@@ -27,7 +27,12 @@ third_nav_title: 2025 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/student-leadership-camp/"><img src="/images/Our%20Stories/2025/Student_Leadership_Camp___Cover_Photo.jpg" style="width:180px;height:205px;margin-right:10px;" align="left"></a></p>	
 		
 <br><br><br><br><br><br>	
-
+		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/canossian-saints-day/"><img src="/images/Our%20Stories/2025/Canossian_Saints_Day___Cover_Photo.jpg" style="width:180px;height:205px;margin-right:10px;" align="left"></a></p>		
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/interest-week/"><img src="/images/Our%20Stories/2025/Interest_Week___Cover_Photo.jpg" style="width:180px;height:205px;margin-right:10px;" align="left"></a></p>	
+		
+<br><br><br><br><br><br>	
 
 
 </center>
