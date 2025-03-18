@@ -25,6 +25,14 @@ sections:
       description: Interested to register your child at our school? Join us for a Chit
         Chat session.
   - infopic:
+      title: Interest Week
+      subtitle: Highlights
+      id: infopic
+      button: Click Here
+      url: /our-stories/2025-events/interest-week/
+      image: /images/Homepage/GIF_Interest_Week_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Newsbites
       description: March 2025
       button: Click here
