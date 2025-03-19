@@ -18,7 +18,7 @@ variant: markdown
 Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSe07Cs4mC_sEdn4xN92TRb95t1eKN5avXPE3MV0CPr5yN9ITw/viewform?usp=sharing"><b>here</b></a> for the P1 chit chat session
 </center>
 
-![](/images/Useful%20Information/P1_Registration_2025___1.png)
+![](/images/Useful%20Information/2025_P1_Brochure__11_April_Friday_.png)
 
 ![](/images/Useful%20Information/P1_Registration_2025___2.png)
 
