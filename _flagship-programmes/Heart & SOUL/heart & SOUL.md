@@ -126,7 +126,7 @@ The art curriculum in our school provides a foundation for all our students to u
 
 <center>
 	
-<img src="/images/Departments/Aesthetics%201.png" style="width:75%">
+<img src="/images/Flagship%20Programmes/heART_Pic_1.jpg" style="width:40%">
 
 </center>
 
