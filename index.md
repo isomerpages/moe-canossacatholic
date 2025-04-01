@@ -12,9 +12,12 @@ sections:
         - title: Our Stories
           description: ""
           url: /our-stories/2025-events/2025-events/
-        - title: Canossa Connects
+        - title: Canossa Connects Term 3 2024
           description: ""
-          url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
+          url: https://flipbookpdf.net/web/site/82126765c1478229f5cffa6d357093101961518e202504.pdf.html
+        - title: Canossa Connects Term 4 2024
+          description: ""
+          url: https://flipbookpdf.net/web/site/3623741ce89cbd6e5365d3c728be5eb78f37824b202504.pdf.html
   - infopic:
       title: P1 Registration
       id: infopic
@@ -25,20 +28,26 @@ sections:
       description: Interested to register your child at our school? Join us for a Chit
         Chat session.
   - infopic:
+      title: Newsbites
+      description: April 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_April_2025.pdf
+      alt: Image alt text
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Interest Week
-      subtitle: Highlights
       id: infopic
       button: Click Here
       url: /our-stories/2025-events/interest-week/
       image: /images/Homepage/GIF_Interest_Week_2025.gif
       alt: Image alt text
   - infopic:
-      title: Newsbites
-      description: March 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_March_2025.pdf
+      title: Pui Tak Canossian Primary School Visit
+      id: infopic
+      button: Click Here
+      url: /our-stories/2025-events/pui-tak-canossian-primary-school-visit/
+      image: /images/Homepage/GIF_Pui_Tak_Canossian_Primary_School_Visit_2025.gif
       alt: Image alt text
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Lee Hsien Loong
       subtitle: Highlights
