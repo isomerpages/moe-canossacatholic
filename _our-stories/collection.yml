@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2025 Events/Pui Tak Canossian Primary School Visit.md
       - 2025 Events/.keep
       - 2025 Events/2025 Events.md
       - 2025 Events/P1 Orientation.md
