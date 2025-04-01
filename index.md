@@ -34,9 +34,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Newsbites
-      description: March 2025
+      description: April 2025
       button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_March_2025.pdf
+      url: /files/Newsbites/2025/Canossa_Newsbites_April_2025.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
   - infopic:
