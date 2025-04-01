@@ -13,6 +13,7 @@ variant: markdown
 * [Canossa Newsbites - January](/files/Newsbites/2025/Canossa_Newsbites_January_2025_.pdf)
 * [Canossa Newsbites - February](/files/Newsbites/2025/Canossa_Newsbites_February_2025.pdf)
 * [Canossa Newsbites - March](/files/Newsbites/2025/Canossa_Newsbites_March_2025.pdf)
+* [Canossa Newsbites - April](/files/Newsbites/2025/Canossa_Newsbites_April_2025.pdf)
 <br>
 <br>
 
