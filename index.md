@@ -28,20 +28,26 @@ sections:
       description: Interested to register your child at our school? Join us for a Chit
         Chat session.
   - infopic:
-      title: Interest Week
-      subtitle: Highlights
-      id: infopic
-      button: Click Here
-      url: /our-stories/2025-events/interest-week/
-      image: /images/Homepage/GIF_Interest_Week_2025.gif
-      alt: Image alt text
-  - infopic:
       title: Newsbites
       description: April 2025
       button: Click here
       url: /files/Newsbites/2025/Canossa_Newsbites_April_2025.pdf
       alt: Image alt text
       image: /images/Homepage/Newsbites.jpg
+  - infopic:
+      title: Interest Week
+      id: infopic
+      button: Click Here
+      url: /our-stories/2025-events/interest-week/
+      image: /images/Homepage/GIF_Interest_Week_2025.gif
+      alt: Image alt text
+  - infopic:
+      title: Pui Tak Canossian Primary School Visit
+      id: infopic
+      button: Click Here
+      url: /our-stories/2025-events/pui-tak-canossian-primary-school-visit/
+      image: /images/Homepage/GIF_Pui_Tak_Canossian_Primary_School_Visit_2025.gif
+      alt: Image alt text
   - infopic:
       title: Lee Hsien Loong
       subtitle: Highlights
