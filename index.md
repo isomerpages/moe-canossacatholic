@@ -12,9 +12,12 @@ sections:
         - title: Our Stories
           description: ""
           url: /our-stories/2025-events/2025-events/
-        - title: Canossa Connects
+        - title: Canossa Connects Term 3 2024
           description: ""
-          url: https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html
+          url: ""
+        - title: Canossa Connects Term 4 2024
+          description: ""
+          url: https://flipbookpdf.net/web/site/3623741ce89cbd6e5365d3c728be5eb78f37824b202504.pdf.html
   - infopic:
       title: P1 Registration
       id: infopic
