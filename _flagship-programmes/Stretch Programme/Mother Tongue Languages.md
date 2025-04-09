@@ -2,7 +2,7 @@
 title: Mother Tongue Languages
 permalink: /flagship-programmes/support-stretch-programme/mother-tongue-languages/
 description: ""
-third_nav_title: Stretch & Support Programme
+third_nav_title: Stretch Programme
 ---
 <b><font size="6">Mother Tongue Languages</font></b>
 

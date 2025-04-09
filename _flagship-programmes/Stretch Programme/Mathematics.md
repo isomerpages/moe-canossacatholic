@@ -2,7 +2,7 @@
 title: Mathematics
 permalink: /flagship-programmes/support-stretch-programme/mathematics/
 description: ""
-third_nav_title: Stretch & Support Programme
+third_nav_title: Stretch Programme
 ---
 <b><font size="6">Mathematics</font></b>
 
