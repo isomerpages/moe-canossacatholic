@@ -4,11 +4,11 @@ permalink: /flagship-programmes/abc-of-canossian-leadership/
 description: ""
 variant: markdown
 ---
-<b><font size="6">The A.B.C. of Canossian Leadership</font></b>
+<b><font size="6">Canossian Leadership Programme</font></b>
 <br>
 <center><b><font size="4" color="#eeac0d">Learning For Life (Community Service and Student Leadership) @ Canossa Catholic Primary School</font></b></center>
 <br>
-<b>The A.B.C. of Canossian Leadership</b>, CCPS Learning for Life Programme (LLP), leverages on our school’s Co-Curricula programmes, CCAs and Design Thinking platforms where our children can explore and discover their inherent potential, grow their passion and develop skills in their area of interest to develop the leader in every child. 
+<b>The Canossian Leadership Programme</b>, CCPS Learning for Life Programme (LLP), leverages on our school’s Co-Curricula programmes, CCAs and Design Thinking platforms where our children can explore and discover their inherent potential, grow their passion and develop skills in their area of interest to develop the leader in every child. 
 <br>
 <center>
 <b><font size="4" color="#7daadf">As a Leader of Hope, Sower of Change,</font></b><br>
