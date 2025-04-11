@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Achievements | Awards
 ---
+
 <b><font size="6">Achievements | Awards</font></b>
 <br>
 <br><b><font size="6" color="#7daadf">2025</font></b>
@@ -131,13 +132,16 @@ third_nav_title: Achievements | Awards
 </tr>		
 	
 <tr>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Leng Chiew Yeang Sophia</td>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">4 Peace</td>
-<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="5">World Thinking Day Celebrations</td>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal" rowspan="5">2nd place in Guides Got Talent </td>		
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Leng Chiew Yeang Sophia</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">4 Peace</td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="5">World Thinking Day Celebrations</td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal" rowspan="5">2nd place in Guides Got Talent </td>		
 </tr>
-
-
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Leng Chiew Yeang Sophia</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">4 Justice
+</td>	
+</tr>
 
 </tbody>
 </table>	
