@@ -39,10 +39,8 @@ P<b><font size="6">Achievements | Awards</font></b>
 </tr>			
 </tbody>
 </table>	
-
 <br>
 <br>
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
@@ -69,10 +67,8 @@ P<b><font size="6">Achievements | Awards</font></b>
 </tr>			
 </tbody>
 </table>	
-
 <br>
 <br>
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
@@ -104,13 +100,10 @@ P<b><font size="6">Achievements | Awards</font></b>
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">5th place in 100m dash event</td>		
 </tr>			
-
 </tbody>
 </table>	
-
 <br>
 <br>
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
@@ -156,10 +149,8 @@ P<b><font size="6">Achievements | Awards</font></b>
 
 </tbody>
 </table>	
-
 <br>
 <br>
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
