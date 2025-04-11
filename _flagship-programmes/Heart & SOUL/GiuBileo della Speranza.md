@@ -20,7 +20,7 @@ The exhibition also include art pieces from different religious organisations, C
 12 noon - 6 pm <br><br>
 <b>26 April - 27 April</b><br>
 10.30 am - 6.30 pm <br><br>
-	<b>Visual Arts Centre</b><br>
+	<font color="#eeac0d"><b>Visual Arts Centre</b></font><br>
 10 Penang Road #01-02 <br>
 Dhoby Ghaut Green <br>
 Singapore 238469 <br>
