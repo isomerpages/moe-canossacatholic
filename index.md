@@ -19,6 +19,16 @@ sections:
           description: ""
           url: https://flipbookpdf.net/web/site/3623741ce89cbd6e5365d3c728be5eb78f37824b202504.pdf.html
   - infopic:
+      title: Giubileo della Speranza
+      id: infopic
+      description: An Art Exhibition celebrating the Church’s Jubilee Year of Hope and
+        Singapore’s 60th year of independence, is a celebration of our
+        children’s gifts and talents.
+      button: Click Here
+      url: /giubileo-della-speranza/
+      image: /images/Homepage/GIF_GiuBileo_della_Speranza.gif
+      alt: Image alt text
+  - infopic:
       title: P1 Registration
       id: infopic
       button: Click Here
