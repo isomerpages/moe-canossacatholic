@@ -5,11 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Heart & SOUL
 ---
-<b><font size="6">Laudate – an Art Exhibition in Praise of God’s Blessings
+<b><font size="6">GiuBileo della Speranza
 </font></b>
 <br>
 <br>
-<img src="/images/Flagship%20Programmes/Poster.png" style="width:45%">
+<img src="" style="width:45%">
 <br>
 _Laudate_, our Art Exhibition in Praise of God’s Blessings, includes art pieces from various inter-religious communities, CCPS alumnae and our sister schools – the St Anthony’s Canossian Primary and Secondary Schools. We are thrilled at the many talented children we have here at Canossa Catholic Primary and Canossian School whose art works were showcased. 
 
