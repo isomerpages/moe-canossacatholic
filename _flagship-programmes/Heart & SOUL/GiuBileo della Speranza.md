@@ -9,14 +9,12 @@ third_nav_title: Heart & SOUL
 </font></b>
 <br>
 <br>
-<img src="" style="width:45%">
+<img src="/images/Flagship%20Programmes/GiuBleo_della_Speranza_Poster.jpg" style="width:80%">
 <br>
-_Laudate_, our Art Exhibition in Praise of God’s Blessings, includes art pieces from various inter-religious communities, CCPS alumnae and our sister schools – the St Anthony’s Canossian Primary and Secondary Schools. We are thrilled at the many talented children we have here at Canossa Catholic Primary and Canossian School whose art works were showcased. 
-
-Enjoy this 3 minute snapshot of the exhibition!
+Giubileo della Speranza, Canossa’s Art Exhibitn celebra􀆟ng the Church’s Jubilee Year of Hope and Singapore’s 60th year of independence, is a celebra􀆟on of our children’s gi􀅌s and talents.
 
 <center>
-<iframe width="600" height="355" src="https://www.youtube.com/embed/rxq53XN_DNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="600" height="355" src="https://www.youtube.com/embed/rxq53XN_DNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </center>
 
 
