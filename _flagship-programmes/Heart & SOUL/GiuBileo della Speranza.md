@@ -30,5 +30,5 @@ We look forward to you and your loved ones coming for the exhibition.<br>
 Do enjoy the 3 minute snapshot of a few of the art pieces you will see there!
 
 <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Cldsbrjv3Y8?si=jBDmDa0Q9WKoS5vc" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Cldsbrjv3Y8?si=jBDmDa0Q9WKoS5vc" height="415" width="660"></iframe>
 </center>
