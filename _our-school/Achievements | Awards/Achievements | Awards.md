@@ -7,7 +7,187 @@ third_nav_title: Achievements | Awards
 ---
 <b><font size="6">Achievements | Awards</font></b>
 <br>
+<br><b><font size="6" color="#7daadf">2025</font></b>
 <br>
+<br>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	
+<thead>
+<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Fencing</span>
+</th></tr></thead>
+	
+<tbody>
+
+<tr><td style="background-color:#DAE7F3;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:boldcenter;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><b>Under 12</b></td></tr>	
+
+<tr>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Name</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Class</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Event</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</td>	
+</tr>		
+	
+<tr>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">Lim Shan Zhi Isaac</td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">5 Joy</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">KSL Fencing Tournament</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">Bronze</td>		
+</tr>		
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">Moohun PBT Fencing Minime &amp; Veteran</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">7th Place</td>		
+</tr>			
+</tbody>
+</table>	
+<br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	
+<thead>
+<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">16th Singapore Gymnastics National Championships 2025 (Women's Artistic Gymnastics)</span>
+</th></tr></thead>
+	
+<tbody>
+
+<tr>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Name</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Class</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Event</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</td>	
+</tr>		
+	
+<tr>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">Lim Shi Qing Ariel</td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">4 Joy</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">Individual All Rounder Uneven bars &amp; Balance Beam </td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">1st place</td>		
+</tr>		
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">Vault</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">2nd Place</td>		
+</tr>			
+</tbody>
+</table>	
+<br>
+<br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	
+<thead>
+<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Track &amp; Field Events</span>
+</th></tr></thead>
+	
+<tbody>
+
+<tr>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Name</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Class</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Event</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</td>	
+</tr>		
+	
+<tr>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">Nassn Yusuf Khatiwade</td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">6 Piety</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">Erovra Relay Championships</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">1st place in 5 x 80m relay event</td>		
+</tr>		
+<tr>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">1st place in 4 x 200m relay event</td>		
+</tr>		
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">WSE Athletics Open Championship</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">2nd place in 200m dash event</td>		
+</tr>		
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:top;word-break:normal">5th place in 100m dash event</td>		
+</tr>			
+</tbody>
+</table>	
+<br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	
+<thead>
+<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3"><span style="font-weight:bold;color:#252525">Brownies</span>
+</th></tr></thead>
+	
+<tbody>
+	
+<tr>
+<td style="background-color:#DAE7F3;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3">East Division</td>
+</tr>
+<tr>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:4px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="8">World Thinking Day <br> Celebrations</td>
+</tr>	
+<tr>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:4px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal" colspan="2"><b>Guides Got Talent</b> </td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal" colspan="2"><b><u>2nd Place</u></b></td>
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal">Leng Chiew Yeang Sophia</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">4 Peace</td>
+</tr>
+
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal">Allyssa Kwan</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">4 Justice
+</td>	
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal">Eliza Lim Zhi Hui</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">5 Peace</td>	
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal">Cheow Rui Ting Amberlyn</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">5 Joy</td>	
+</tr>		
+<tr>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal">Chan Lok Shuen, Valerie</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">6 Peace</td>	
+</tr>			
+
+</tbody>
+</table>	
+<br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	
+<thead>
+<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Visual Arts</span>
+</th></tr></thead>
+	
+<tbody>
+
+<tr>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Name</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Class</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Event</td>
+<td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</td>	
+</tr>		
+	
+<tr>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">Leong Jun Yi, Travis</td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">5 Peace</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">World Wildlife Day <br>International Youth Art Contest 2025</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Certification of Participation</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Singpapore Children and Youth Art Contest</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Most Creative Award</td>		
+</tr>		
+<tr>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">The Beauty of the Earth' Art Exhibition</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Certificate of Honor / <br>Title of 'Youth Advocacy Ambassadors <br>for the Conservation of Biodiversity'.</td>		
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">World Charity Painitng Competition 2024</td>
+<td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Obtained Silver / Best composition</td>		
+</tr>			
+
+</tbody>
+</table>	
+
+<br>
+<br>
+
 <b><font size="6" color="#7daadf">2024</font></b>
 <br>
 <br>

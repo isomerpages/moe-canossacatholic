@@ -2,7 +2,7 @@
 title: Science
 permalink: /flagship-programmes/support-stretch-programme/science/
 description: ""
-third_nav_title: Stretch Programme
+third_nav_title: Stretch Academic Programme
 ---
 <b><font size="6">Science</font></b>
 

@@ -2,7 +2,7 @@
 title: Stretch & Support Programme
 permalink: /flagship-programmes/stretch-support-programme/
 description: ""
-third_nav_title: Stretch Programme
+third_nav_title: Stretch Academic Programme
 variant: markdown
 ---
 <b><font size="6">Stretch Programme</font></b>
