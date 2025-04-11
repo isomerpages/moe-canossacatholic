@@ -126,10 +126,10 @@ P<b><font size="6">Achievements | Awards</font></b>
 <td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="8">World Thinking Day <br> Celebrations</td>
 </tr>	
 <tr>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal" colspan="2"><b><u>Guides Got Talent</u></b> </td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal" colspan="2"><b>Guides Got Talent</b> </td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal" colspan="2"><b><u>2nd Place</u></b><u><u></u></u></td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal" colspan="2"><b><u>2nd Place</u></b></td>
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal">Leng Chiew Yeang Sophia</td>
