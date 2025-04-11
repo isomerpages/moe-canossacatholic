@@ -19,7 +19,7 @@ third_nav_title: Achievements | Awards
 	
 <tbody>
 
-<tr><td style="background-color:#DAE7F3;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4">Under 12</td></tr>	
+<tr><td style="background-color:#DAE7F3;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:boldcenter;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4">Under 12</td></tr>	
 
 <tr>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Name</td>
@@ -129,7 +129,7 @@ third_nav_title: Achievements | Awards
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal" colspan="2"><b><u>2nd place in Guides Got Talent</u></b> </td>
 </tr>
 <tr>
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:left;text-decoration:;vertical-align:middle;word-break:normal">Leng Chiew Yeang Sophia</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Leng Chiew Yeang Sophia</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">4 Peace</td>
 </tr>
 
