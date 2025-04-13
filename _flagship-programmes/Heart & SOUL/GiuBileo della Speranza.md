@@ -13,7 +13,7 @@ third_nav_title: Heart & SOUL
 <br>
 <i><b>Giubileo</b> della Speranza</i>,  Canossa’s Art Exhibition celebrating the Church’s Jubilee Year of Hope and Singapore’s 60th year of independence, is a celebration of our children’s gifts and talents.
 
-The exhibition also include art pieces from different religious organisations, Canossian alumni and our sister schools - St Anthony’s Canossian Primary and Secondary.
+The exhibition also includes art pieces from different religious organisations, Canossian alumni and our sister schools - St Anthony’s Canossian Primary and Secondary.
 
 <center>
 <b>23 April - 25 April</b><br>
