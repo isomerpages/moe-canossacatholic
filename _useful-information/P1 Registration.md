@@ -10,9 +10,7 @@ variant: markdown
 <b>Watch&nbsp;"<em>A Day in the Life of a Canossian Student</em>" below.</b>
 <br><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/52zGHY4PpGI?si=FU5jTdKp7_zXihQh" height="415" width="660"></iframe>
-	
 <br>
-
 <img src="/images/Useful%20Information/2025_P1_Brochure__11_April_Friday_.png"><br>
 <img src="/images/Useful%20Information/P1_Registration_2025___2.png">
 	
