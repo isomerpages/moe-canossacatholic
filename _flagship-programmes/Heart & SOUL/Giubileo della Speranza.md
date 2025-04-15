@@ -16,7 +16,7 @@ third_nav_title: Heart & SOUL
 The exhibition also includes art pieces from different religious organisations, Canossian alumni and our sister schools - St Anthony’s Canossian Primary and Secondary.
 
 <center>
-<b>23 April - 25 April</b><br>
+<b>24 April - 25 April</b><br>
 12 noon - 6 pm <br><br>
 <b>26 April - 27 April</b><br>
 10.30 am - 6.30 pm <br><br>
