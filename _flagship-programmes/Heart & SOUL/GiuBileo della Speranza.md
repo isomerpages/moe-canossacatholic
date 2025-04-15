@@ -9,7 +9,7 @@ third_nav_title: Heart & SOUL
 </font></b>
 <br>
 <br>
-<img src="/images/Flagship%20Programmes/GiuBleo_della_Speranza_Poster.jpg" style="width:80%">
+
 <br>
 <i><b>Giubileo</b> della Speranza</i>,  Canossa’s Art Exhibition celebrating the Church’s Jubilee Year of Hope and Singapore’s 60th year of independence, is a celebration of our children’s gifts and talents.
 
