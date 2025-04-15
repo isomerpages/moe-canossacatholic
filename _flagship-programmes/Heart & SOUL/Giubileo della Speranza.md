@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Heart & SOUL
 ---
-<b><font size="6">GiuBileo della Speranza
+<b><font size="6">Giubileo della Speranza
 </font></b>
 <br>
 <br>
