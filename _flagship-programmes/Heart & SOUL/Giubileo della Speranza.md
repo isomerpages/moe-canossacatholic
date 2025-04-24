@@ -31,6 +31,12 @@ Do enjoy the 3 minute snapshot of a few of the art pieces you will see there!
 
 <center>
 	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/L-CjslPAw_w?si=KmOlgWl-7CB1c7m_" height="415" width="460"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/L-CjslPAw_w?si=KmOlgWl-7CB1c7m_" height="415" width="660"></iframe>
 
+</center>
+
+<center>
+	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ruYixAYjz-A?si=ir5Qdk01YvFWWQ8Y" height="415" width="660"></iframe>
+	
 </center>
