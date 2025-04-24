@@ -38,6 +38,13 @@ sections:
       description: Interested to register your child at our school? Join us for a Chit
         Chat session.
   - infopic:
+      title: Canossa Connects
+      id: infopic
+      description: Term 1 2025
+      button: Click Here
+      url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
+      image: /images/Homepage/Canossa_Connects.png
+  - infopic:
       title: Newsbites
       description: April 2025
       button: Click here
