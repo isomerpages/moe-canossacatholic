@@ -15,6 +15,10 @@ variant: markdown
 * [Canossa Newsbites - March](/files/Newsbites/2025/Canossa_Newsbites_March_2025.pdf)
 * [Canossa Newsbites - April](/files/Newsbites/2025/Canossa_Newsbites_April_2025.pdf)
 <br>
+
+<font size="5" color="#eeac0d"><b>Canossa Connects</b></font>
+
+* [Canossa Connects - Term 1](https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html)<br>
 <br>
 
 <font size="6" color="#7daadf"><b>2024</b></font>
