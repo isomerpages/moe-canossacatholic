@@ -43,7 +43,7 @@ sections:
       description: Term 1 2025
       button: Click Here
       url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
-      image: /images/Homepage/Canossa_Connects.png
+      image: /images/Homepage/Highlights___Canossa_Connects.jpg
   - infopic:
       title: Newsbites
       description: April 2025
