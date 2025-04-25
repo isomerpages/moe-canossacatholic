@@ -12,12 +12,9 @@ sections:
         - title: Our Stories
           description: ""
           url: /our-stories/2025-events/2025-events/
-        - title: Canossa Connects Term 3 2024
+        - title: Canossa Connects
           description: ""
-          url: https://flipbookpdf.net/web/site/82126765c1478229f5cffa6d357093101961518e202504.pdf.html
-        - title: Canossa Connects Term 4 2024
-          description: ""
-          url: https://flipbookpdf.net/web/site/3623741ce89cbd6e5365d3c728be5eb78f37824b202504.pdf.html
+          url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
       title: Giubileo della Speranza
       id: infopic
