@@ -31,7 +31,7 @@ sections:
       button: Click Here
       url: /useful-information/p1-registration/
       image: /images/Homepage/GIF_P1_Registration.gif
-      alt: Image alt text
+      alt: P1 Registration
       description: Interested to register your child at our school? Join us for a Chit
         Chat session.
   - infopic:
@@ -41,12 +41,13 @@ sections:
       button: Click Here
       url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
       image: /images/Homepage/Highlights___Canossa_Connects.jpg
+      alt: Canossa Connects - Term 1 2025
   - infopic:
       title: Newsbites
       description: April 2025
       button: Click here
       url: /files/Newsbites/2025/Canossa_Newsbites_April_2025.pdf
-      alt: Image alt text
+      alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Interest Week
@@ -54,7 +55,7 @@ sections:
       button: Click Here
       url: /our-stories/2025-events/interest-week/
       image: /images/Homepage/GIF_Interest_Week_2025.gif
-      alt: Image alt text
+      alt: Interest Week
   - infopic:
       title: Pui Tak Canossian Primary School Visit
       id: infopic
