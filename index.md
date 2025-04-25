@@ -12,12 +12,9 @@ sections:
         - title: Our Stories
           description: ""
           url: /our-stories/2025-events/2025-events/
-        - title: Canossa Connects Term 3 2024
+        - title: Canossa Connects
           description: ""
-          url: https://flipbookpdf.net/web/site/82126765c1478229f5cffa6d357093101961518e202504.pdf.html
-        - title: Canossa Connects Term 4 2024
-          description: ""
-          url: https://flipbookpdf.net/web/site/3623741ce89cbd6e5365d3c728be5eb78f37824b202504.pdf.html
+          url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
       title: Giubileo della Speranza
       id: infopic
@@ -34,7 +31,7 @@ sections:
       button: Click Here
       url: /useful-information/p1-registration/
       image: /images/Homepage/GIF_P1_Registration.gif
-      alt: Image alt text
+      alt: P1 Registration
       description: Interested to register your child at our school? Join us for a Chit
         Chat session.
   - infopic:
@@ -43,13 +40,14 @@ sections:
       description: Term 1 2025
       button: Click Here
       url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
-      image: /images/Homepage/Canossa_Connects.png
+      image: /images/Homepage/Highlights___Canossa_Connects.jpg
+      alt: Canossa Connects - Term 1 2025
   - infopic:
       title: Newsbites
       description: April 2025
       button: Click here
       url: /files/Newsbites/2025/Canossa_Newsbites_April_2025.pdf
-      alt: Image alt text
+      alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Interest Week
@@ -57,7 +55,7 @@ sections:
       button: Click Here
       url: /our-stories/2025-events/interest-week/
       image: /images/Homepage/GIF_Interest_Week_2025.gif
-      alt: Image alt text
+      alt: Interest Week
   - infopic:
       title: Pui Tak Canossian Primary School Visit
       id: infopic
