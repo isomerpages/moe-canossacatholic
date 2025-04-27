@@ -44,3 +44,11 @@ Giubileo della Speranza has officially been opened!
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ruYixAYjz-A?si=ir5Qdk01YvFWWQ8Y" height="415" width="660"></iframe>
 	
 </center>
+
+<center>
+
+Giubileo della Speranza - Thank You!
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XgsqJMDSzXQ?si=UpybQKNWbgIZ_KiJ" height="415" width="660"></iframe>
+	
+</center>
