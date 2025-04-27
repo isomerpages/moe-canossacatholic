@@ -47,7 +47,7 @@ Giubileo della Speranza has officially been opened!
 
 <center>
 
-Giubileo della Speranza - Thank You!
+Thank you for all your love and support. <br>Canossa Catholic could not have done this without all of you!<br>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XgsqJMDSzXQ?si=UpybQKNWbgIZ_KiJ" height="415" width="660"></iframe>
 	
