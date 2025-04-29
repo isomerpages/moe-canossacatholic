@@ -26,6 +26,13 @@ sections:
       image: /images/Homepage/GIF_GiuBileo_della_Speranza.gif
       alt: Image alt text
   - infopic:
+      title: Giubileo della Speranza
+      id: infopic
+      button: Click Here
+      url: /our-stories/2025-events/giubileo-della-speranza/
+      image: /images/Homepage/GIF_Giubileo_della_Speranza___Stories_2025.gif
+      alt: Interest Week
+  - infopic:
       title: P1 Registration
       id: infopic
       button: Click Here
@@ -49,13 +56,6 @@ sections:
       url: /files/Newsbites/2025/Canossa_Newsbites_May_2025.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
-  - infopic:
-      title: Interest Week
-      id: infopic
-      button: Click Here
-      url: /our-stories/2025-events/interest-week/
-      image: /images/Homepage/GIF_Interest_Week_2025.gif
-      alt: Interest Week
   - infopic:
       title: Pui Tak Canossian Primary School Visit
       id: infopic
