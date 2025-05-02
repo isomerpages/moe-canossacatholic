@@ -55,6 +55,6 @@ Thank you for all your love and support. <br>Canossa Catholic could not have don
 
 <center>
 	
-<img src="/images/Flagship%20Programmes/Parent_s_Feedback.gif" style="width:70%">
+<img src="/images/Flagship%20Programmes/Parent_s_Feedback.gif" style="width:90%">
 	
 </center>
