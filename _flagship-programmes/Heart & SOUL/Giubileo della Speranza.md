@@ -52,3 +52,9 @@ Thank you for all your love and support. <br>Canossa Catholic could not have don
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/XgsqJMDSzXQ?si=UpybQKNWbgIZ_KiJ" height="415" width="660"></iframe>
 	
 </center>
+
+<center>
+	
+<img src="/images/Flagship%20Programmes/Parent_s_Feedback.gif" style="width:70%">
+	
+</center>
