@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
+      title: Kluang Malaysia Overseas Leadership Programme
+      id: infopic
+      button: CLICK HERE
+      url: /our-stories/2025-events/kluang-malaysia-overseas-leadership-programme/
+      image: /images/Homepage/GIF_Kluang_Malaysia_Overseas_Leadership_Programme_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Giubileo della Speranza
       id: infopic
       description: An Art Exhibition celebrating the Church’s Jubilee Year of Hope and
@@ -62,16 +69,6 @@ sections:
       button: Click Here
       url: /our-stories/2025-events/pui-tak-canossian-primary-school-visit/
       image: /images/Homepage/GIF_Pui_Tak_Canossian_Primary_School_Visit_2025.gif
-      alt: Image alt text
-  - infopic:
-      title: Lee Hsien Loong
-      subtitle: Highlights
-      id: infopic
-      description: Canossa Catholic Primary School attained the prestigious Lee Hsien
-        Loong Award for Innovations in Uplifting Students (LHL AIUS).
-      button: Click Here
-      url: https://www.canossacatholicpri.moe.edu.sg/lee-hsien-loong-award/
-      image: /images/Homepage/GIF_Lee_Hsien_Long_Award.gif
       alt: Image alt text
   - infopic:
       title: Pope Francis visits Singapore
