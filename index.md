@@ -19,7 +19,7 @@ sections:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
       button: CLICK HERE
-      url: https://www.youtube.com/watch?v=XWq5kBlakcQ
+      url: /our-stories/2025-events/kluang-malaysia-overseas-leadership-programme/
       image: /images/Homepage/GIF_Kluang_Malaysia_Overseas_Leadership_Programme_2025.gif
       alt: Image alt text
   - infopic:
