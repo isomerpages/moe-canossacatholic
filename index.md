@@ -23,6 +23,13 @@ sections:
       image: /images/Homepage/GIF_Kluang_Malaysia_Overseas_Leadership_Programme_2025.gif
       alt: Image alt text
   - infopic:
+      title: Penang Overseas Programme Cultural Trip
+      id: infopic
+      button: CLICK HERE
+      url: /our-stories/2025-events/penang-overseas-programme-cultural-trip/
+      image: /images/Homepage/GIF_Penang_Overseas_Programme_Cultural_Trip_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Giubileo della Speranza
       id: infopic
       description: An Art Exhibition celebrating the Church’s Jubilee Year of Hope and
