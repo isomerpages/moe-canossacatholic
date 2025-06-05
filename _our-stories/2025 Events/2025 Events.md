@@ -51,6 +51,11 @@ third_nav_title: 2025 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/aesthetics-assembly/"><img src="/images/Our%20Stories/2025/Aesthetics_Assembly_Programme___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
 	
 <br><br><br><br><br><br>	
+		
+<p><a href=""><img src="" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
+		
+	
+<br><br><br><br><br><br>	
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/kluang-malaysia-overseas-leadership-programme/"><img src="/images/Our%20Stories/2025/Kluang_Malaysia_Overseas_Leadership_Programme___Cover_Photo.png" style="width:200px;height:210px;margin-right:10px;" align="left"></a></p>		
 
