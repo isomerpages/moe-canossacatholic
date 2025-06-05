@@ -58,8 +58,10 @@ third_nav_title: 2025 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/penang-overseas-programme-cultural-trip/"><img src="/images/Our%20Stories/2025/Penang_Overseas_Programme_Cultural_Trip___Cover_Photo.png" style="width:200px;height:210px;margin-right:10px;" align="left"></a></p>		
 	
-
+<br><br><br><br><br><br>
 	
-<br><br><br><br><br><br>	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/hong-kong-stem-trip/"><img src="/images/Our%20Stories/2025/Hong_Kong_STEM_Trip___Cover_Photo.png" style="width:200px;height:210px;margin-right:10px;" align="left"></a></p>		
+	
+<br><br><br><br><br><br>		
 	
 </center>
