@@ -44,6 +44,12 @@ third_nav_title: 2025 Events
 	
 <br><br><br><br><br><br>	
 		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/earth-day-celebration/"><img src="" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
+	
+	![](/images/Our%20Stories/2025/Earth_Day_Celebrations___Cover_Photo.png)
+	
+<br><br><br><br><br><br>	
+		
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/giubileo-della-speranza/"><img src="/images/Our%20Stories/2025/Giubileo_della_Speranza___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/kluang-malaysia-overseas-leadership-programme/"><img src="/images/Our%20Stories/2025/Kluang_Malaysia_Overseas_Leadership_Programme___Cover_Photo.png" style="width:200px;height:210px;margin-right:10px;" align="left"></a></p>		
