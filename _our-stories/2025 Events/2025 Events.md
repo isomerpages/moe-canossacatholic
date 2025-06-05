@@ -33,6 +33,14 @@ third_nav_title: 2025 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/interest-week/"><img src="/images/Our%20Stories/2025/Interest_Week___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>	
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/pui-tak-canossian-primary-school-visit/"><img src="/images/Our%20Stories/2025/Pui_Tak_Canossian_Primary_School_Visit___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
+
+<br><br><br><br><br><br>	
+		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/outreach-to-villa-francis/"><img src="/images/Our%20Stories/2025/Outreach_to_Villa_Francis___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/world-water-day/"><img src="/images/Our%20Stories/2025/World_Water_Day___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/green-leaders-and-ambassadors-training/"><img src="/images/Our%20Stories/2025/Green_Leaders_and_Ambassadors_Training___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>	
 	
 <br><br><br><br><br><br>	
 		
