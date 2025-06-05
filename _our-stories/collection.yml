@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2025 Events/Aesthetics Assembly.md
       - 2025 Events/.keep
       - 2025 Events/2025 Events.md
       - 2025 Events/P1 Orientation.md
@@ -18,6 +17,7 @@ collections:
       - 2025 Events/World Water Day.md
       - 2025 Events/Green Leaders and Ambassadors Training.md
       - 2025 Events/Earth Day Celebration.md
+      - 2025 Events/Aesthetics Assembly.md
       - 2025 Events/Giubileo della Speranza.md
       - 2025 Events/Kluang Malaysia Overseas Leadership Programme.md
       - 2024 Events/.keep
