@@ -23,6 +23,13 @@ sections:
       image: /images/Homepage/GIF_Kluang_Malaysia_Overseas_Leadership_Programme_2025.gif
       alt: Image alt text
   - infopic:
+      title: Hong Kong STEM Trip
+      id: infopic
+      button: CLICK HERE
+      url: /our-stories/2025-events/hong-kong-stem-trip/
+      image: /images/Homepage/GIF_Hong_Kong_STEM_Trip_2025.gif
+      alt: Image alt text
+  - infopic:
       title: Penang Overseas Programme Cultural Trip
       id: infopic
       button: CLICK HERE
