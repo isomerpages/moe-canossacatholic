@@ -19,8 +19,22 @@ sections:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
       button: CLICK HERE
-      url: /our-stories/2025-events/kluang-malaysia-overseas-leadership-programme/
+      url: https://youtu.be/-wg_8t-o80k?si=mOzT5bdpbl5E_LvA
       image: /images/Homepage/GIF_Kluang_Malaysia_Overseas_Leadership_Programme_2025.gif
+      alt: Image alt text
+  - infopic:
+      title: Hong Kong STEM Trip
+      id: infopic
+      button: CLICK HERE
+      url: /our-stories/2025-events/hong-kong-stem-trip/
+      image: /images/Homepage/GIF_Hong_Kong_STEM_Trip_2025.gif
+      alt: Image alt text
+  - infopic:
+      title: Penang Overseas Programme Cultural Trip
+      id: infopic
+      button: CLICK HERE
+      url: /our-stories/2025-events/penang-overseas-programme-cultural-trip/
+      image: /images/Homepage/GIF_Penang_Overseas_Programme_Cultural_Trip_2025.gif
       alt: Image alt text
   - infopic:
       title: Giubileo della Speranza
