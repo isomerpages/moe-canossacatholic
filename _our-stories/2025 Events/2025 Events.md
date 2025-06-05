@@ -44,9 +44,9 @@ third_nav_title: 2025 Events
 	
 <br><br><br><br><br><br>	
 		
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/earth-day-celebration/"><img src="" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/earth-day-celebration/"><img src="/images/Our%20Stories/2025/Earth_Day_Celebrations___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
 	
-	![](/images/Our%20Stories/2025/Earth_Day_Celebrations___Cover_Photo.png)
+
 	
 <br><br><br><br><br><br>	
 		
