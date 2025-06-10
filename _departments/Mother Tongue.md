@@ -223,7 +223,8 @@ The MTL Department organizes termly internal competitions, providing students wi
 <br>
 <br>
 <font size="5" color="#7daadf"><b>Tamil Language Key Programme:</b></font>
-<br><br>
+<br>
+<br>
 <font size="4">
 <b>Tamil Reading Programme (P1-P6)</b>
 <br>Students from Primary 1 to Primary 4 were given the chance to choose books that interest them. Through book exchanges with their peers, they are exposed to various genres. This programme fosters their curiosity and enhances their creativity in writing.<br><br>
