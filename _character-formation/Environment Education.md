@@ -14,7 +14,9 @@ Taking cognizance from St Francis of Assisi, Father and Protector of the Canossi
 * Educate Canossians to be Leaders of Hope in the area of environment
 * Empower Canossians to be advocates and play an active role in saving the earth
 
-
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3QFu32_eUnc?si=SIzsFS0B9vsd-3b1" height="315" width="560"></iframe>
+</center>
   
 The programme permeates at both staff and students level where, every Canossian:  
 
