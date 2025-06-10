@@ -31,12 +31,12 @@ Students learn Science by going through the same process that scientists use to 
 
 <br>
 
-<b>P4 Vertical Garden Programme</b>
+<b>Abbott Young Scientist Award for P4</b>
 <br>
-Students at the P4 level will be introduced to the concept of a vertical garden which is a solution to address a lack of land for plants. This solution requires students to understand concepts such as the conditions necessary for plants to thrive. Learning is now more meaningful the teaching of concepts is interwoven with process skills. The vertical garden setup demonstrates how solutions are achieved through a deeper understanding of scientific concepts.
+In an attempt to inspire innovators of tomorrow, CCPS supports the Abbot Young Scientist award to recognise students who demonstrate a keen interest in the pursuit of science. Selected students will have the chance to participate in a structured programme at the Science Centre where they will receive mentoring and have the opportunity to present their work.
 
 <center>
-<img src="/images/Departments/Science%202.jpg" style="width:45%">
+<img src="/images/Departments/Science/Science_2.png" style="width:90%">
 </center>
 
 <br>
