@@ -40,7 +40,7 @@ Our Primary 1 students are introduced to coding through KUBO Robotics, which pro
 At Primary 2, our students learn how to programme an avatar using SCRATCH Jr (an introductory block-based coding programme), creating characters to move, swirl, follow lines and speak through dialogue texts. They explore environmental issues such as air pollution and their impact on the environment. Through storyboarding, they communicate to their audience how they can play their part in saving Mother Earth e.g. changing lifestyles which are sustainable.
 <br><br>
 <b><font size="4" color="#eeac0d">Conservation of Environment I</font></b>
-<br>
+<br><br>
 Our Primary 3 students learn how to use Scratch (a block-based coding programme), and work together to create a game related to the conservation of environment (e.g energy conservation). They also learn to break down problems, recognise patterns by looking for similarities in problems faced and working out the steps to solve their problems.
 <br><br>
 <b><font size="4" color="#eeac0d">Conservation of Environment II</font></b>
@@ -51,30 +51,7 @@ At Primary 4, our students apply their knowledge in Science, Mathematics and tec
 <img src="/images/Flagship%20Programmes/ALP/ALP_2.jpg" style="width:90%">	
 </center>
 <br><br>
-<b><font size="4" color="#eeac0d">Creating a Sustainable Environment</font></b>
-<br>
-Each Primary 5 class identifies and focuses on a strand of sustainability where the students apply the Design Thinking process and put themselves in the shoes of the people they are studying to understand the issues they are facing. Having identified a problem or a need related to this group of people, the students apply the appropriate programme (Micro:bit and/or Scratch) to develop a solution for the identified problem / need. Through this process, they realise that there is much value in learning how to use programming tools and applying them to create prototypes to make improvements to the lives of those around them.
+For students who are passionate in deepening their learning, we have the Tier 2 programmes:
 
-<center>
-<img src="/images/Flagship%20Programmes/ALP%204.png" style="width:75%">
-
-<br>
-
-<img src="/images/Flagship%20Programmes/ALP%205.png" style="width:100%">		
-
-<br>
-<img src="/images/Flagship%20Programmes/ALP%206.jpeg" style="width:55%">
-
-</center>
-
-On top of the above-mentioned mass programmes which were offered at the respective levels.  
-
-*   Our Multimedia Club students have the opportunities to deepen their learning on coding and develop their thinking skills further through Robotics &amp; Maker – Roboticist Jr and Robotics &amp; Maker – Maker Jr programmes.
-
-*   Our P3 to P5 students are offered an opportunity to learn SPIKE Lego during the Interest Week. This is an intuitive hands-on solution designed to develop students' confidence in STEAM concepts via learning through play. Easily adaptable to fit any learning environment, SPIKE Prime builds critical thinking, resilience and independence - essential skills for future success.
-
-In line with our school’s vision of Leaders of Hope, Sowers of Change, our school has been proactively impressing upon our students to respond to the call to fight climate change which is a global problem and to care for this earth, our home, God’s beautiful creation and preparing them to be responsible citizens to meet the complex environmental challenges we are currently facing.
-
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
+* InfoComm Club members learn advanced programming tools (e.g. Micro:bit, Python)
+* Interest Week students learn how to programme drones and game creation using AR (Augmented Reality) 
