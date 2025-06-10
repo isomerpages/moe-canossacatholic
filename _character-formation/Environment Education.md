@@ -38,14 +38,18 @@ We empower our students as advocators of sustaining Mother Earth. Student leader
 <center>
 <img src="/images/Character%20Formation/Environment%20Education/Environment_Education_1.jpg" style="width:90%">
 </center>
-<br>
+
 Various exciting programmes are planned for the year where we honour what St Francis of Assisi has initiated. These programmes include:
 
-<br>
+* Assembly talks and recess activities on special environment commemorative days such as World Water Day and Earth Day to educate and empower Canossians in the area of environment.
 
- *   Assembly talks and recess activities on special environment commemorative days such as World Water Day and Earth Day to educate and empower Canossians in the area of environment.
- *   SLS packages for empowering each and every Canossian to lead their families in sustaining Mother Earth.
- *   Community outreach to our partners to include them in our journey.
+<center>
+<img src="/images/Character%20Formation/Environment%20Education/Environment_Education_2.jpg" style="width:90%">
+</center>
 
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
+* SLS packages for empowering each and every Canossian to lead their families in sustaining Mother Earth.
+
+<center>
+<img src="/images/Character%20Formation/Environment%20Education/Environment_Education_3.jpg" style="width:80%">
+</center>
+
