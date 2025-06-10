@@ -165,8 +165,8 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 <br><br>The Malay Language Department nurtures a love for reading through our class library programme. Primary 1 and 2 students are participating in SOAR, a reading initiative by MOE. This programme encourages students to read aloud with their peers and complete a reading passport. They are also introduced to various book genres through their class library and book exchanges. By the end of the year, each student will get to take home a book of their choice.<br><br>
 For Primary 3 to 6 students, they engage with Gen-G, a biweekly Malay newspaper created for students. This not only broadens their vocabulary but also keeps them informed about global current events.
 </font>
-<br><br>
-	
+<br>
+<br>	
 <font size="4"><b>P1 to P6 School based Oracy programme</b></font>
 	
 <p></p><p style="margin-left: 40px"><font size="4" color="#eeac0d"><b><u>Reading</u></b></font>
