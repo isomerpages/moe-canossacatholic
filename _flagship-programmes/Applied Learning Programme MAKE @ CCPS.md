@@ -36,25 +36,19 @@ Our Primary 1 students are introduced to coding through KUBO Robotics, which pro
 </center>
 <br><br>
 <b><font size="4" color="#eeac0d">Saving the Environment</font></b>
-<br>
-At Primary 2, our students learn how to programme an avatar using SCRATCH Jr, creating characters to move, swirl, follow lines and speak through dialogue texts. They explore environmental issues such as air pollution and their impact on the environment. Through storyboarding, they communicate to their audience how they can play their part in saving Mother Earth e.g. changing lifestyles which are sustainable.
-<br><br><br>
+<br><br>
+At Primary 2, our students learn how to programme an avatar using SCRATCH Jr (an introductory block-based coding programme), creating characters to move, swirl, follow lines and speak through dialogue texts. They explore environmental issues such as air pollution and their impact on the environment. Through storyboarding, they communicate to their audience how they can play their part in saving Mother Earth e.g. changing lifestyles which are sustainable.
+<br><br>
 <b><font size="4" color="#eeac0d">Conservation of Environment I</font></b>
 <br>
-Our Primary 3 students learn how to use Lego Wedo 2.0 (an introductory invention kit) and Scratch (a block-based coding programme), and work together in groups to create a game related to the conservation of environment (e.g energy conservation). They also learn to break down problems, recognise patterns by looking for similarities in problems faced and working out the steps to solve their problems.
-
-<center>
-<img src="/images/Flagship%20Programmes/ALP%202.jpeg" style="width:45%">
-</center>
+Our Primary 3 students learn how to use Scratch (a block-based coding programme), and work together to create a game related to the conservation of environment (e.g energy conservation). They also learn to break down problems, recognise patterns by looking for similarities in problems faced and working out the steps to solve their problems.
 <br><br>
 <b><font size="4" color="#eeac0d">Conservation of Environment II</font></b>
-<br>
-At Primary 4, our students apply their knowledge in Science, Mathematics and technology as they use Micro:bit to design a prototype of a water pump and lighting system to address identified problems related to the conservation of the environment (e.g. water and energy conservation). Through the collaborative project, our students learn to problem solve in a team. They also learn the importance of resilience as they innovate and seek improvement.
+<br><br>
+At Primary 4, our students apply their knowledge in Science, Mathematics and technology as they use the programme, Microsoft MakeCode Arcade for creating a retro-style game so as to educate others on the environmental problem in a fun and easy to remember manner.  Through the collaborative project, our students learn to manage differences and problem solve as a team. They also learn the importance of resilience as they innovate and seek continuous improvement.
 
 <center>
-
-<img src="/images/Flagship%20Programmes/ALP%203.png" style="width:100%">	
-	
+<img src="/images/Flagship%20Programmes/ALP/ALP_2.jpg" style="width:90%">	
 </center>
 <br><br>
 <b><font size="4" color="#eeac0d">Creating a Sustainable Environment</font></b>
