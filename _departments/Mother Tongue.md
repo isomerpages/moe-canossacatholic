@@ -248,7 +248,3 @@ MTL Fortnight week is one where students eagerly look forward to the wide variet
 <font size="4" color="#eeac0d"><b><u>P1 to P6 Internal Competition</u></b></font>
 <br>The MTL Department organizes termly internal competitions, providing students with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage students to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.
 </p>
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
