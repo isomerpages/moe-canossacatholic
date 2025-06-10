@@ -128,11 +128,14 @@ The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance perf
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
-The Chinese Language Department has organized Mother Tongue Language Fortnight Activities annually. Different levels were given different opportunities to experience the Chinese culture. Various activities were put together for the students. These activities allowed them to appreciate the beauty of the culture itself.<br>
+The Chinese Language Department organizes annual Mother Tongue Language Fortnight Activities, offering students at different levels unique opportunities to experience the Chinese culture. A variety of engaging activities were planned to allow students to explore and appreciate the beauty of the culture. These hands-on experiences not only deepened their understanding but also helped them develop a greater appreciation for the rich traditions and heritage of the Chinese language.<br>
 </p>
 
 <center>
-<img src="/images/Departments/MT%202.png" style="width:100%">
+<img src=""> 
+	
+	
+	
 </center>
 
 <br>
