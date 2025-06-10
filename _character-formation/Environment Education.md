@@ -18,11 +18,12 @@ Taking cognizance from St Francis of Assisi, Father and Protector of the Canossi
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3QFu32_eUnc?si=SIzsFS0B9vsd-3b1" height="415" width="660"></iframe>
 </center>
   
-The programme permeates at both staff and students level where, every Canossian:  
+The programme permeates at both staff and students’ level where every Canossian:
 
-*   Is <b><u>Aware</u></b>&nbsp;of Man’s interaction with the environment and how it can have both positive and negative impact
-*   <b><u>Appreciates</u></b>&nbsp;the importance and necessity of preserving the environment
-*   <b><u>Applies</u></b>&nbsp;different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
+* Is &nbsp;&nbsp;<b><u>Aware</u></b>&nbsp;&nbsp;of Man’s interaction with the environment and how it can have both positive and negative impact
+* <u><b> Appreciates</b></u>&nbsp;&nbsp;  the importance and necessity of preserving the environment
+* <u><b> Applies</b></u>&nbsp;&nbsp;  different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
+
 
 <br>
 <center>
