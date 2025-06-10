@@ -10,10 +10,10 @@ variant: markdown
   
 We believe that every student in CCPS will
 
-•	Make a difference especially in sustaining the environment,<br>
-•	Apply Technology, Knowledge of Science &amp; Environment, and Mathematics,<br>
-•	Kindle their spirit of innovation through experimentation / prototyping, having the courage to try and not afraid of failing,<br>
-•	Exercise initiative in learning, making improvement and collaborating with others.<br>
+* Make a difference especially in sustaining the environment,<br>
+* Apply Technology, Knowledge of Science &amp; Environment, and Mathematics,<br>
+* Kindle their spirit of innovation through experimentation / prototyping, having the courage to try and not afraid of failing,<br>
+* Exercise initiative in learning, making improvement and collaborating with others.<br>
 
 
   
