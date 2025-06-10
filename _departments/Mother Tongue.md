@@ -241,7 +241,7 @@ Primary 5 and 6 students subscribe to Tamil Murasu, which enriches their young m
 <br>
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>Deepavali Celebration</u></b></font>
-<br>Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. The quiz segments and the hands on activities are often welcomed by the students. Yearly, staff and students receive an Indian delicacy to bring back home to share their learnings with their family members.</p> 
+<br>Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. After the assembly programme, students get to engage in recess activities such as crossword puzzles on Deepavali. They get to see a detailed display of the Indian culture ranging from ornaments, food clothing and more.  Students also receive an Indian delicacy to bring back home to share their learnings with their family members.</p> 
 <br>
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
