@@ -119,11 +119,10 @@ Students are taught how to identify the SVO during letter writing:
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Lunar New Year Celebration</font></u></b>
 <br>
-The school celebrated Chinese New Year with a Lion Dance performance and skit explaining the different traditions of Chinese. Everyone was in a celebratory mood and students  
-soaked in the festive atmosphere through the performances.
+The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance performance, as well as a skit that highlighted various Chinese traditions. Students engaged in a range of classroom activities to deepen their understanding of the cultural significance of the holiday. Teachers also introduced students to traditional Chinese New Year foods and customs, helping them explore the meaning behind the festival. The blend of performances and interactive activities allowed everyone to fully immerse themselves in the festive spirit..
 </p>
 <center>
-<img src="/images/Departments/MT%201.jpg" style="width:65%">
+<img src="/images/Departments/MTL/CNY_Celebration.jpg">	
 </center>
 <br>
 <p style="margin-left: 40px">
