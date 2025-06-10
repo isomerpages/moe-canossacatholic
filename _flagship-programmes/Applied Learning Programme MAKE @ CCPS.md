@@ -16,8 +16,7 @@ We believe that every student in CCPS will
 * Exercise initiative in learning, making improvement and collaborating with others.<br>
 
 
-  
-Our students participate in various collaborative team-based project work. Through application of Design Thinking processes, they learn to empathise with the people affected by certain issues, identify the problem and design a solution to address the problem identified. In order to enact students’ solutions in some way, block-based programming is introduced progressively across all levels through various coding modules and our students get to apply their Mathematics and Science concepts, reasoning and logical thinking in their projects which are anchored on the theme of sustainability. Having a focus on sustainability is part of the school’s response to “Laudato Si'”, the Pope’s encyclical letter, which urges the Catholics to take action against the injustice of climate change and calls for care of our common home, Earth, and to protect the poor and future generations. <br>
+Our students participate in various collaborative team-based project work. They learn to use technology to prototype and create solutions to help solve real-world environmental problems.  In order to enact students’ solutions in some way, block-based programming is introduced progressively across all levels through various coding modules and our students get to apply their Mathematics and Science concepts, reasoning and logical thinking in their projects which are anchored on the theme of sustainability. Having a focus on sustainability is part of the school’s response to Laudato Si, the Pope’s encyclical letter, which urges the Catholics to take action against the injustice of climate change and calls for care of our common home, Earth, and to protect the poor and future generations.<br>
 <br>
 <b><font size="4" color="#eeac0d">The Environment and Me</font></b>
 <br>
