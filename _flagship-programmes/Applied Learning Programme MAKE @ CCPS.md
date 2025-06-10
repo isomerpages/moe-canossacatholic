@@ -28,8 +28,8 @@ For our Tier 1 cohort-based programmes, we have:
 
 <br>
 <b><font size="4" color="#eeac0d">The Environment and Me</font></b>
-<br>
-Our Primary 1 students are introduced to coding through KUBO Robotics, which provides a screen-free concrete experience in coding. Using tagtiles, they learn to programme the movements for KUBO, a little robot, and are introduced to the concept of direction and programme&nbsp;it to solve a real-world sustainability problem identified (e.g. land pollution).
+<br><br>
+Our Primary 1 students are introduced to coding through KUBO Robotics, which provides a screen-free concrete experience in coding. Using tagtiles, they learn to programme the movements for KUBO, a little robot, and are introduced to the concept of direction and programme it to solve a real-world sustainability problem identified.
 
 <center>
 <img src="/images/Flagship%20Programmes/ALP%201.jpg" style="width:45%">
