@@ -27,10 +27,7 @@ The programme permeates at both staff and students’ level where every Canossia
 
 <br>
 <center>
-	
 <img src="/images/Character%20Formation/Environment%20Edu.png" style="width:75%">
-	
-
 </center>
 
 <br>
@@ -38,10 +35,9 @@ The programme permeates at both staff and students’ level where every Canossia
 <br><br>
 We empower our students as advocators of sustaining Mother Earth. Student leaders such as Green Leaders and Green Ambassadors are provided training so that they can take the lead in the school’s movement for environmental sustainability.
 
-
-![](/images/Character%20Formation/Environment%20Edu%202.png)
-
-
+<center>
+<img src="/images/Character%20Formation/Environment%20Education/Environment_Education_1.jpg" style="width:75%">
+</center>
 <br>
 Various exciting programmes are planned for the year where we honour what St Francis of Assisi has initiated. These programmes include:
 
