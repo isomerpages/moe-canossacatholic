@@ -59,3 +59,5 @@ For students who are passionate in deepening their learning, we have the Tier 2 
 <center>
 <img src="/images/Flagship%20Programmes/ALP/ALP_3.jpg" style="width:90%">	
 </center>
+<br>
+In line with our school’s vision of Leaders of Hope, Sowers of Change, our school has been proactively impressing upon our students to respond to the call to fight climate change which is a global problem and to care for this earth, our home, God’s beautiful creation and preparing them to be responsible citizens to meet the complex environmental challenges we are currently facing.
