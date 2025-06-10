@@ -222,7 +222,7 @@ The MTL Department organizes termly internal competitions, providing students wi
 <font size="5" color="#7daadf"><b>Tamil Language Department</b></font>
 <br>
 <br>
-<font size="4">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students&nbsp;learn to appreciate our culture and the rich history of Tamil language.</font>
+<font size="4">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.</font>
 <br>
 <br>
 <font size="5" color="#7daadf"><b>Tamil Language Key Programme:</b></font>
