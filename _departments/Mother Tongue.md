@@ -132,10 +132,7 @@ The Chinese Language Department organizes annual Mother Tongue Language Fortnigh
 </p>
 
 <center>
-<img src=""> 
-	
-	
-	
+<img src="/images/Departments/MTL/MTL_Fortnight.jpg">	
 </center>
 
 <br>
