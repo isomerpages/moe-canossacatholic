@@ -54,4 +54,8 @@ At Primary 4, our students apply their knowledge in Science, Mathematics and tec
 For students who are passionate in deepening their learning, we have the Tier 2 programmes:
 
 * InfoComm Club members learn advanced programming tools (e.g. Micro:bit, Python)
-* Interest Week students learn how to programme drones and game creation using AR (Augmented Reality) 
+* Interest Week students learn how to programme drones and game creation using AR (Augmented Reality)
+
+<center>
+<img src="/images/Flagship%20Programmes/ALP/ALP_3.jpg" style="width:90%">	
+</center>
