@@ -1,0 +1,7 @@
+---
+title: Bible Camp
+permalink: /bible-camp/
+variant: markdown
+description: ""
+third_nav_title: 2025 Events
+---
