@@ -246,11 +246,11 @@ Primary 5 and 6 students subscribe to Tamil Murasu, which enriches their young m
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
 <br>
-MTL Fortnight week is one of the most anticipated weeks of learning for the students. They thoroughly enjoy the range of activities arranged for them. The department ensures activities are appropriate and achievable for the respective levels. Activities chosen will allow students to bring back a hand made item that resembles the Indian culture. This gives them a chance to share their learning and experiences with their peers and family.
+MTL Fortnight week is one where students eagerly look forward to the wide variety of activities arranged for them. The department carefully ensures that the activities are suitable and achievable for each respective level. The chosen activities allow students to create handmade items that reflect Indian culture, providing them with a tangible keepsake to bring home. This also gives students the opportunity to share their newfound knowledge and experiences with their peers and family, further deepening their connection to the culture.
 </p>
 
 <center>
-<img src="/images/Departments/MT%205.png" style="width:100%">
+<img src="/images/Departments/MTL/TL_MTL_Fortnight.jpg" style="width:90%">
 </center>
 	
 <p style="margin-left: 40px">
