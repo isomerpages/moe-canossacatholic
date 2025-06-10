@@ -122,7 +122,7 @@ Students are taught how to identify the SVO during letter writing:
 The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance performance, as well as a skit that highlighted various Chinese traditions. Students engaged in a range of classroom activities to deepen their understanding of the cultural significance of the holiday. Teachers also introduced students to traditional Chinese New Year foods and customs, helping them explore the meaning behind the festival. The blend of performances and interactive activities allowed everyone to fully immerse themselves in the festive spirit..
 </p>
 <center>
-<img src="/images/Departments/MTL/CNY_Celebration.jpg">	
+<img src="/images/Departments/MTL/CNY_Celebration.jpg" style="width:90%">	
 </center>
 <br>
 <p style="margin-left: 40px">
@@ -132,7 +132,7 @@ The Chinese Language Department organizes annual Mother Tongue Language Fortnigh
 </p>
 
 <center>
-<img src="/images/Departments/MTL/MTL_Fortnight.jpg">	
+<img src="/images/Departments/MTL/MTL_Fortnight.jpg" style="width:90%">	
 </center>
 
 <br>
