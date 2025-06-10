@@ -34,7 +34,6 @@ Students learn Science by going through the same process that scientists use to 
 <b>Abbott Young Scientist Award for P4</b>
 <br>
 In an attempt to inspire innovators of tomorrow, CCPS supports the Abbot Young Scientist award to recognise students who demonstrate a keen interest in the pursuit of science. Selected students will have the chance to participate in a structured programme at the Science Centre where they will receive mentoring and have the opportunity to present their work.
-
 <center>
 <img src="/images/Departments/Science/Science_2.png">
 </center>
