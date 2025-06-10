@@ -151,7 +151,7 @@ Students in schools are given the opportunity to participate in various external
 <b><u><font size="4" color="#eeac0d">Mid-Autumn Festival Celebration</font></u></b>
 <br>
 All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
-
+</p>
 <br>
 <br>
 <b><font size="5" color="#7daadf">Malay Language Department</font></b>
@@ -171,7 +171,7 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 	
 <font size="4"><b>P1 to P6 School based Oracy programme</b></font>
 	
-</p><p style="margin-left: 40px"><font size="4" color="#eeac0d"><b><u>Reading</u></b></font>
+<p></p><p style="margin-left: 40px"><font size="4" color="#eeac0d"><b><u>Reading</u></b></font>
 <br>The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.</p>
 	
 <p style="margin-left: 40px">
