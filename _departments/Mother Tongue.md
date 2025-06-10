@@ -157,14 +157,13 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 <b><font size="5" color="#7daadf">Malay Language Department</font></b>
 <br>
 <br>
+<br>
 <font size="4">The Malay Language department aims to build the joy of learning the Malay Language so that our students develop the love and passion for the language and culture. The six-year Malay curriculum hones our students’ oral, listening and writing skills through ICT and differentiated learning which taps on various resources to help students read, write and communicate effectively. We also aim to inculcate knowledge and values so that our learners will be responsible citizens who are proud of their Malay heritage and culture.</font>
-
-<br><br>
-	
+<br>
+<br>
 <font size="5" color="#7daadf"><b>Malay Language Key Programme:</b></font>
 <br>
 <br>
-
 <font size="4"><b>P1 to P6 Malay Reading Programme</b>
 <br><br>The Malay Language Department promotes the love of reading through our class library programme, which gives students the opportunity to read aloud with peers and complete a book journal as personal reflection. They are exposed to various genres of books through the exchange of books with their peers.</font>
 <br><br>
