@@ -140,21 +140,17 @@ The Chinese Language Department organizes annual Mother Tongue Language Fortnigh
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
-The department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing.
+The MTL Department organizes termly internal competitions, providing students with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage students to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.
 <br>
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">External Competition</font></u></b>
 <br>
-Students in schools are given the opportunity to participate in various external competitions such as calligraphy, story-telling and writing competitions.
+Students in schools are given the opportunity to participate in various external competitions such as penmanship, story-telling and writing competitions.
 <br>
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Mid-Autumn Festival Celebration</font></u></b>
 <br>
 All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
-
-</p><center>
-<img src="/images/Departments/MT%203.jpg" style="width:85%">
-</center>
 
 <br>
 <br>
@@ -175,7 +171,7 @@ All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had
 	
 <font size="4"><b>P1 to P6 School based Oracy programme</b></font>
 	
-<p style="margin-left: 40px"><font size="4" color="#eeac0d"><b><u>Reading</u></b></font>
+</p><p style="margin-left: 40px"><font size="4" color="#eeac0d"><b><u>Reading</u></b></font>
 <br>The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.</p>
 	
 <p style="margin-left: 40px">
