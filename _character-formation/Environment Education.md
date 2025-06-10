@@ -2,21 +2,25 @@
 title: Environment Education
 permalink: /character-formation/environment-education/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Environment Education</font></b>
+<b><font size="6">Environment Education</font></b>
 
-Taking cognizance from St Francis of Assisi, Father and Protector of the Canossian Schools and who is also patron saint for Ecology, he is known for his love for all of God’s creation and his love for Mother Earth. Hence, the Canossian Environment Education Programme aims to:  
+<b><font size="5" color="#7daadf">Developing all Students to be Stewards of the Environment</font></b>
 
-*   Raise awareness about the importance of conserving Earth’s natural resources
-*   Educate Canossians to be Leaders of Hope in the area of environment
-*   Empower Canossians to be advocates and play an active role in saving the earth
+Taking cognizance from St Francis of Assisi, Father and Protector of the Canossian Schools and who is also patron saint for Ecology, he is known for his love for all of God’s creation and his love for Mother Earth. Hence, the Canossian Environment Education Programme aims to: 
+
+* Raise awareness about the importance of conserving Earth’s natural resources
+* Educate Canossians to be Leaders of Hope in the area of environment
+* Empower Canossians to be advocates and play an active role in saving the earth
+
 
   
 The programme permeates at both staff and students level where, every Canossian:  
 
-*   Is <b><u>Aware</u></b> of Man’s interaction with the environment and how it can have both positive and negative impact
-*   <b><u>Appreciates</u></b> the importance and necessity of preserving the environment
-*   <b><u>Applies</u></b> different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
+*   Is <b><u>Aware</u></b>&nbsp;of Man’s interaction with the environment and how it can have both positive and negative impact
+*   <b><u>Appreciates</u></b>&nbsp;the importance and necessity of preserving the environment
+*   <b><u>Applies</u></b>&nbsp;different conservation methods (4Rs) to manage resources responsibly both in school and in the community.
 
 <br>
 <center>
@@ -27,7 +31,7 @@ The programme permeates at both staff and students level where, every Canossian:
 </center>
 
 <br>
-<b><font size=5 color="#7daadf">Key Programmes:</font></b>
+<b><font size="5" color="#7daadf">Key Programmes:</font></b>
 <br><br>
 We empower our students as advocators of sustaining Mother Earth. Student leaders such as Green Leaders and Green Ambassadors are provided training so that they can take the lead in the school’s movement for environmental sustainability.
 
