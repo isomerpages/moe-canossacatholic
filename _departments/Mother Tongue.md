@@ -212,7 +212,7 @@ For Primary 3 to 6 students, they engage with Gen-G, a biweekly Malay newspaper 
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
-The MTL Department conducts Termly Internal Competition for students to showcase their talents in their penmanship, Story-telling, Kollam design and creative writing. </p>
+The MTL Department organizes termly internal competitions, providing students with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage students to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.</p>
   
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>External Competition</u></b></font>
