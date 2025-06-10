@@ -32,7 +32,7 @@ For our Tier 1 cohort-based programmes, we have:
 Our Primary 1 students are introduced to coding through KUBO Robotics, which provides a screen-free concrete experience in coding. Using tagtiles, they learn to programme the movements for KUBO, a little robot, and are introduced to the concept of direction and programme it to solve a real-world sustainability problem identified.
 <br>
 <center>
-<img src="/images/Flagship%20Programmes/ALP/ALP_1.jpg" style="width:90%">
+<img src="/images/Flagship%20Programmes/ALP/ALP_1.jpg" style="width:80%">
 </center>
 <br><br>
 <b><font size="4" color="#eeac0d">Saving the Environment</font></b>
