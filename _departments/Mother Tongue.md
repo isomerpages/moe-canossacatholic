@@ -22,8 +22,9 @@ The six-year Chinese curriculum aims to enhance students’ oral, listening and 
 
 <b>P1 to P6 Chinese Reading Programme and E-Zhishi Portal</b>
 <br>
- *   As part of the department’s efforts to promote reading among students, students from the lower, middle and upper primary levels subscribe to selected Chinese newspapers.
- *   The department also promotes reading through our Chinese department class library programme where teachers lead students in the reading of stories and news articles.
+ *   As part of the department's efforts to encourage reading among students, students from the lower, middle, and upper primary levels subscribe to selected Chinese newspapers. 
+ *   The department also promotes reading through our Chinese department class library programme, where teachers guide students in reading stories and news articles. 
+ *   Primary 1 and 2 students are taking part in SOAR, a reading initiative by MOE. This programme motivates students to read aloud with their peers and complete a reading passport.
  
 <b>P1 to P6 School based Oracy programme</b>
 <p style="margin-left: 40px">
