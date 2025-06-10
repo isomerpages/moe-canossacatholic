@@ -2,30 +2,32 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Science</font></b>
+<b><font size="6">Science</font></b>
 
 <center>
-<b><font size=4 color="#eeac0d"><em>"You learn at your best when you have something you care about and can get pleasure in being engaged in”
+<b><font size="4" color="#eeac0d"><em>"You learn at your best when you have something you care about and can get pleasure in being engaged in”
 <br>
 - Howard Gardner</em></font></b>
 </center>
 
-The CCPS Science departmental programmes are developed so as to ignite and nurture our students’ passion for Science. Through inquiry-based learning, students are provided with myriad opportunities to acquire knowledge and concepts based on investigations, apply science process skills so as to inquire about the world, communicate findings and develop attitudes and values that are essential to the practice of science.  
+The CCPS Science departmental programmes are developed so as to ignite and nurture our students’ passion for Science. Through inquiry-based learning, students are provided with myriad opportunities to acquire knowledge and concepts based on investigations, apply science process skills so as to inquire about the world, communicate findings and develop attitudes and values that are essential to the practice of science.
+
+We recognise that children are naturally curious and have a sense of wonderment about the things around them and we leverage on this by designing learning journeys both within and outside school.
+
   
-We recognise that children are naturally curious and have a sense of wonderment about the things around them and we leverage on this by designing learning journeys both within and outside school.  
+<b><font size="5" color="#7daadf">Department Key Programmes</font></b>
   
-<b><font size=5 color="#7daadf">Department Key Programmes</font></b>
-  
-<b>P3 to 5 Excellence 2000 (E2K) Science Programme</b>
+<b>P4 to 5 Excellence 2000 (E2K) Science Programme</b>
 <br>
-The E2K Science Programme Singapore is a Science enrichment programme for primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.  
+The E2K Science Programme Singapore is a Science enrichment programme for primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE). The programme aims to develop scientific inquiry process skills among high-ability primary students in Science, as well as nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
 
 Students learn Science by going through the same process that scientists use to generate knowledge in Science. Just as scientists make mistakes in the real world, students are allowed to make mistakes in E2K and teachers help students to learn from the mistakes. Through collaborative learning and guidance provided by the teacher, students practise scientific thinking and reasoning, develop confidence and independence in carrying out scientific inquiry as well as scientific habits, attitudes and dispositions.
 
-	
-![](/images/Departments/Science%201.png)
-
+<center>
+<img src="/images/Departments/Science/Science_1.jpg" style="width:80%">	
+</center>
 
 <br>
 
@@ -67,12 +69,12 @@ In particular, it is important to appreciate that the three components represent
 
  <br>
 
-<b><font size=5 color="#7daadf">Department Strategies</font></b>
+<b><font size="5" color="#7daadf">Department Strategies</font></b>
 
 <b>Inquiry Based Learning using the BSCS 5E instructional model</b>
 
 <p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">TCA (for MCQ)</font></u></b>
+<b><u><font size="4" color="#eeac0d">TCA (for MCQ)</font></u></b>
 <br>
 <b><u>T</u></b>opic – Which topic is this question from?
 <br>
@@ -81,7 +83,7 @@ In particular, it is important to appreciate that the three components represent
 <b><u>A</u></b> pply – Eliminate distractors which are definitely incorrect.
 <br>
 <br>
-<b><u><font size=4 color="#eeac0d">OCE (for open-ended questions)</font></u></b>
+<b><u><font size="4" color="#eeac0d">OCE (for open-ended questions)</font></u></b>
 <br>
 <b>Observation</b> – What are the clues in the question?
 <br>
@@ -100,7 +102,7 @@ Our students will have a chance to participate in learning journeys to :
 
 
 <p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">Lee Kong Chian Natural History Museum and Singapore Botanical Garden for P3</font></u></b>
+<b><u><font size="4" color="#eeac0d">Lee Kong Chian Natural History Museum and Singapore Botanical Garden for P3</font></u></b>
 <br> 
 Spread over 2500 square metres, the public gallery consists of 15 zones with different sections devoted to the origin of life and all major branches of the Tree of Life. This allows students to appreciate the wide diversity of Singapore’s historical species, understand the history of life on earth and environmental issues and associated conservation attempts.
 <br>
@@ -108,12 +110,12 @@ Spread over 2500 square metres, the public gallery consists of 15 zones with dif
 Students will also experience a taster of how it is to be a Scientist visiting the Singapore Botanical Gardens, a UNESCO World Heritage Site inscribed in 2015. The Gardens is the first and only tropical botanic garden on the UNESCO’s World Heritage List. Today, the Gardens is an important botanical institute which have a wide diversity of life which students will get to experience.
 
 
-<p style="margin-left: 40px">
-<b><u><font size=4 color="#eeac0d">Science Centre for Primary 4-5</font></u></b>
+</p><p style="margin-left: 40px">
+<b><u><font size="4" color="#eeac0d">Science Centre for Primary 4-5</font></u></b>
 <br>
 Students will attend workshops such as the:
 
-<p style="margin-left: 80px">
+</p><p style="margin-left: 80px">
 <u>Heat and Temperature workshop</u>
 <br>
 The objective is for students to better appreciate the effects of heat from the hands-on demonstrations and understand how measures of heat are determined.
@@ -125,8 +127,8 @@ The objective is for students to understand what cells are and know that there i
 <br>
 <u>Zoo / Sungei Buloh for Primary 6</u>
 <br>
-From visiting the Singapore Zoo / Sungei Buloh, students will undertake an interdisciplinary trail in an authentic learning environment to apply concepts from subjects which they have learnt. This is to help them achieve a deeper understanding of these concepts.
+From visiting the Singapore Zoo / Sungei Buloh, students will undertake an interdisciplinary trail in an authentic learning environment to apply&nbsp;concepts from subjects which they have learnt. This is to help them achieve a deeper understanding of these concepts.
 
 
 <br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
+<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup></p>
