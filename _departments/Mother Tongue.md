@@ -229,8 +229,9 @@ The MTL Department organizes termly internal competitions, providing students wi
 <br><br>
 <font size="4">
 <b>Tamil Reading Programme (P1-P6)</b>
-<br>Students from all levels take part in this reading programme. They are given the opportunity to select books that interest them. They are exposed to various genres of books through the exchange of books with their peers. This reading programme increases their curiosity and expands their creativity when writing.  
-<br>Primary 4-6 students subscribe to Chutti Mayil magazine specially catered to young readers. This magazine includes short moral stories and many other language games to arouse their interest. Students share the stories they have read in front of the class with the help of their teachers.
+<br>Students from Primary 1 to Primary 4 were given the chance to choose books that interest them. Through book exchanges with their peers, they are exposed to various genres. This programme fosters their curiosity and enhances their creativity in writing.<br><br>
+Primary 5 and 6 students subscribe to Tamil Murasu, which enriches their young minds through engagement with the news. This subscription provides students with the opportunity to read and learn about current global events. The knowledge gained from reading the newspaper can be applied in their oral assessments by relating current affairs to the given topics.
+
 <br>
 <br>
 <b>Show &amp; Tell (P1&amp;P2)</b>
