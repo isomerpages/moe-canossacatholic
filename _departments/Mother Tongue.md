@@ -234,8 +234,8 @@ Primary 5 and 6 students subscribe to Tamil Murasu, which enriches their young m
 
 <br>
 <br>
-<b>Show &amp; Tell (P1&amp;P2)</b>
-<br>Show and tell for the lower primary is a skill that the department focuses on as speaking is a fundamental skill. Students are given a topic and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience.  
+<b>Show &amp; Tell (P1 &amp; P2)</b>
+<br>Show and tell for the lower primary is a skill that the department focuses on, as speaking is a fundamental skill. Students are given a topic, and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience. 
 <br>
 <br>
 <b>Vaandu Portal (P1-P6)</b>
