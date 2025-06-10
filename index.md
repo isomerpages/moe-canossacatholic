@@ -26,7 +26,7 @@ sections:
       title: Hong Kong STEM Trip
       id: infopic
       button: CLICK HERE
-      url: /our-stories/2025-events/hong-kong-stem-trip/
+      url: https://youtu.be/H4J0RFCzd8U
       image: /images/Homepage/GIF_Hong_Kong_STEM_Trip_2025.gif
       alt: Image alt text
   - infopic:
