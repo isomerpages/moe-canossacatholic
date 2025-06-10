@@ -53,3 +53,8 @@ Various exciting programmes are planned for the year where we honour what St Fra
 <img src="/images/Character%20Formation/Environment%20Education/Environment_Education_3.jpg" style="width:80%">
 </center>
 
+* Community outreach to our partners to include them in our journey.
+
+<center>
+<img src="/images/Character%20Formation/Environment%20Education/Environment_Education_4.jpg" style="width:90%">
+</center>
