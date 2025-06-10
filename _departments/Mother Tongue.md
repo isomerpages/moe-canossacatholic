@@ -202,7 +202,7 @@ For Primary 3 to 6 students, they engage with Gen-G, a biweekly Malay newspaper 
 
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
-<br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. All levels were different opportunities to experience the Malay language and culture. Our lower primary students get to learn Malay folklore songs while our upper primary students learn about Malay crafts such as basket weaving and wedding traditions. Through the various activities, students are able to appreciate the beauty of the culture itself.</p>
+<br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. Students deepened their appreciation of Malay culture beyond the textbook while expanding their vocabulary. Each level participated in hands-on activities that brought cultural traditions to life. Primary 1 and 2 students enjoyed a 2D Kampung Colouring with Frame workshop, while Primary 3 students learned the art of basket weaving. Primary 4 students crafted their own Tanjak, a traditional Malay headdress. Primary 5 students explored clay-making, and Primary 6 students refined their artistic skills through Seni Khat (calligraphy). These engaging experiences helped students develop a deeper appreciation for Malay culture in an enjoyable and meaningful way.</p>
 
 
 <center>
