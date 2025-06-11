@@ -165,16 +165,10 @@ While explaining and understanding the problem, teachers also probe children’s
 </table>
 
 <b>The 5 “R” Approach</b><br>
-To solve spatial visualization questions E.g. Geometry or model drawings, students are encouraged to use the 5 “R” – repeat, rearrange, remove, re-orientate and replace to simplify the problem.  
+To solve spatial visualization questions E.g. Geometry or model drawings, children are encouraged to use the 5 “R” – repeat, rearrange, remove, re-orientate and replace to simplify the problem.  
   
   
 
 <b>Heuristics</b><br>
 Heuristics are problem solving methods that play a very important role in solving word problems. These include using a representation, making a guess or restating the problem. Teachers will apply appropriate heuristics to teach word problems in the classroom.
 
-
-
-
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
