@@ -59,4 +59,3 @@ Singapore 387621<br><a href="https://www.google.com/maps?ll=1.326286,103.881774&
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><b>Opp Macpherson (Station Exit A)</b><br>Bus Stop B70379</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">61, 63, 65, 66, 135, 154, 158</td></tr></tbody></table>
-
