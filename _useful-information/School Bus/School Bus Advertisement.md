@@ -59,7 +59,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><b>Opp Macpherson (Station Exit A)</b><br>Bus Stop B70379</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">61, 63, 65, 66, 135, 154, 158</td></tr></tbody></table>
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>

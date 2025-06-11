@@ -2,22 +2,23 @@
 title: Character and Citizenship Education
 permalink: /character-formation/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Character and Citizenship Education</font></b>
+<b><font size="6">Character and Citizenship Education</font></b>
 
-As part of Canossian Character Formation, the Character & Citizenship Education (CCE) Department Programmes aim to develop students who demonstrate:  
+As part of Canossian Character Formation, the Character &amp; Citizenship Education (CCE) Department Programmes aim to develop children who demonstrate:  
 
 *   The Canossian attributes, Commitment, Compassion and Cheerfulness, anchored on our school values, Charity, Humility, Forgiveness, Faith and;
 *   An affiliation for school and country
 <br>
 <br>
 
-<b><font size=5 color="#7daadf">CCE: Formal and School-based Curriculum</font></b>
+<b><font size="5" color="#7daadf">CCE: Formal and School-based Curriculum</font></b>
 <br><br>
 <b>Character and Citizenship Education (CCE) Lessons for Primary 1 to 6</b>
 
 <br> 
-CCE lesson is one of the components in Character and Citizenship Education, focusing on the teaching of values, knowledge and skills for CCE in the Mother Tongue Languages (MTL). For students who offer the non-Tamil Indian Languages (NTIL), namely Bengali, Punjabi and Urdu as their Mother Tongue and for those who are exempted from taking MTL, CCE will be taught in English. Students will learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:
+CCE lesson is one of the components in Character and Citizenship Education, focusing on the teaching of values, knowledge and skills for CCE in the Mother Tongue Languages (MTL). For children who offer the non-Tamil Indian Languages (NTIL), namely Bengali, Punjabi and Urdu as their Mother Tongue and for those who are exempted from taking MTL, CCE will be taught in English. Children will learn values through three overarching ideas, namely (Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world. The diagram below shows the Core Values, the 3 Big Ideas and the Expanding Domains in the CCE syllabus:
 <br>
 <center>
 <img src="/images/Character%20Formation/CCE%201.png" style="width:65%">
@@ -27,7 +28,7 @@ CCE lesson is one of the components in Character and Citizenship Education, focu
 <b>Form Teacher Guidance Period (FTGP) for Primary 1 to P6</b>
 
 <br> 
-FTGP is one of the components in Character and Citizenship Education, focusing on the teaching of social and emotional competencies and the building of teacher-student relationship. To provide quality interaction time between form teachers and their students, FTGP is a protected time for form teachers to engage in meaningful play with their students. Besides strengthening teacher-pupil relationships through bonding activities, delivery of Social Emotional learning (SEL) lessons during this protected time will also allow teachers to nurture SE competencies in their students. Lessons on Cyber Wellness (CW), Education and Career Guidance (ECG) and protection from abuse (Primary 1 to Primary 4) have been incorporated in FTGP lessons to address specific issues, reinforce the core values and social and emotional competencies to enable students to apply them to the specific contexts.  
+FTGP is one of the components in Character and Citizenship Education, focusing on the teaching of social and emotional competencies and the building of teacher-student relationship. To provide quality interaction time between form teachers and their children, FTGP is a protected time for form teachers to engage in meaningful play with their children. Besides strengthening teacher-pupil relationships through bonding activities, delivery of Social Emotional learning (SEL) lessons during this protected time will also allow teachers to nurture SE competencies in their children. Lessons on Cyber Wellness (CW), Education and Career Guidance (ECG) and protection from abuse (Primary 1 to Primary 4) have been incorporated in FTGP lessons to address specific issues, reinforce the core values and social and emotional competencies to enable children to apply them to the specific contexts.  
 <br>   
 <br>
 <br> 
@@ -35,10 +36,10 @@ FTGP is one of the components in Character and Citizenship Education, focusing o
 <br> 
 <br> 
 
- *   The Programme for Active Learning (PAL) is part of the curriculum and offered during time-tabled time for all Primary 1 and 2 students. It aims to
- *   Provide students with broad exposure and experiences through varied and fun learning experiences in four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts.
- *   Facilitate holistic development of students in the five domains, that is, moral, cognitive, physical, social and aesthetics
- *   Provide varied avenues for students to develop social and emotional competencies (self-management, self-awareness, social awareness, relationship management and responsible decision making)
+ *   The Programme for Active Learning (PAL) is part of the curriculum and offered during time-tabled time for all Primary 1 and 2 children. It aims to
+ *   Provide children with broad exposure and experiences through varied and fun learning experiences in four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts.
+ *   Facilitate holistic development of children in the five domains, that is, moral, cognitive, physical, social and aesthetics
+ *   Provide varied avenues for children to develop social and emotional competencies (self-management, self-awareness, social awareness, relationship management and responsible decision making)
 
 <center>
 <img src="/images/Character%20Formation/CCE%202.png" style="width:45%">
@@ -47,17 +48,17 @@ FTGP is one of the components in Character and Citizenship Education, focusing o
 <b>Sexuality Education (SEd) for Primary 5 and Primary 6</b>
 <br>
 <br>
-Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
+Sexuality Education (SEd) in schools is about enabling children to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
 <br>  
 <br>
 <br>
 <b>Social Studies for Primary 1 – 6</b>
 <br>
 <br>  
-At the heart of the Singapore Social Studies (SS) curriculum is the preparation of our students to be citizens of tomorrow by helping them to better understand the interconnectedness in Singapore and the world they live in, and appreciate the complexities of the human experience. It seeks to inculcate in students a deeper understanding of the values that define the Singaporean society and nurture dispositions to show concern for the world they live in and demonstrate empathy in their relationships with others. The curriculum therefore envisions the SS student as an informed, concerned and participative citizen who is competent in quality decision-making with an impassioned spirit to contribute responsibly in the world he/she lives in.  
+At the heart of the Singapore Social Studies (SS) curriculum is the preparation of our children to be citizens of tomorrow by helping them to better understand the interconnectedness in Singapore and the world they live in, and appreciate the complexities of the human experience. It seeks to inculcate in children a deeper understanding of the values that define the Singaporean society and nurture dispositions to show concern for the world they live in and demonstrate empathy in their relationships with others. The curriculum therefore envisions the SS children as an informed, concerned and participative citizen who is competent in quality decision-making with an impassioned spirit to contribute responsibly in the world he/she lives in.  
 <br>
 <br> 
-Inter-disciplinary performance tasks and field-based learning journeys are organised to allow students to contextualise their learning experience in an authentic real-world setting. They would learn to explore, construct new knowledge and make connections to the topic being studied through hands-on exploration and engagement in multi-sensory modes.
+Inter-disciplinary performance tasks and field-based learning journeys are organised to allow children to contextualise their learning experience in an authentic real-world setting. They would learn to explore, construct new knowledge and make connections to the topic being studied through hands-on exploration and engagement in multi-sensory modes.
 <br>
 <br>
 
@@ -127,19 +128,19 @@ Inter-disciplinary performance tasks and field-based learning journeys are organ
 <br>
 <br>
 
-<b><font size=5 color="#7daadf">CCE: School-based Curriculum</font></b>
+<b><font size="5" color="#7daadf">CCE: School-based Curriculum</font></b>
 
 <b>Values Education (VE)</b>
 
 <br>
-Values Education (VE) is a school-based character development programme in CCPS, which aims to inculcate in our students the necessary values and mindset such that they demonstrate positive moral values and attitudes and see the importance of a values-based life. Its focus is on establishing our school values (Commitment, Compassion, Cheerfulness), while the Form Teachers’ Guidance Period (FTGP) curriculum focuses on equipping students with social and emotional competencies.
+Values Education (VE) is a school-based character development programme in CCPS, which aims to inculcate in our children the necessary values and mindset such that they demonstrate positive moral values and attitudes and see the importance of a values-based life. Its focus is on establishing our school values (Commitment, Compassion, Cheerfulness), while the Form Teachers’ Guidance Period (FTGP) curriculum focuses on equipping children with social and emotional competencies.
 <br><br>
-There are 2 curriculum packages for VE: one for Catholics and the other for non-Catholics. While both packages are centred on our school values, the package for Catholics uses stories from the bible and focusses on the biblical principles in character building. Through storytelling and explicit teaching, our students learn about our school values. They can then put these values into practice and reflect on their actions based on the values taught.  
+There are 2 curriculum packages for VE: one for Catholics and the other for non-Catholics. While both packages are centred on our school values, the package for Catholics uses stories from the bible and focusses on the biblical principles in character building. Through storytelling and explicit teaching, our children learn about our school values. They can then put these values into practice and reflect on their actions based on the values taught.  
   
 <b>National Education (NE)</b>
 
 <br>
-National Education is anchored on the following citizenship dispositions, which enable the students to realise their part in the flourishing of their community and nation:  
+National Education is anchored on the following citizenship dispositions, which enable the children to realise their part in the flourishing of their community and nation:  
 <br>
 
  *   A sense of belonging: To develop a deeper understanding of who we are, and a shared understanding of the values that are important to us as a nation.
@@ -157,7 +158,7 @@ While National Education has been infused in the various subjects, SS Learning j
 *   National Day
 
 <center>
-<img src="/images/Character%20Formation/CCE%203.jpg" style="width:70%">
+<img src="/images/Character%20Formation/CCE%203.jpg" style="width:90%">
 </center>
 <br>
 <b>Festive Celebrations:</b>
@@ -171,7 +172,7 @@ While National Education has been infused in the various subjects, SS Learning j
 <img src="/images/Character%20Formation/CCE%205.jpg" style="width:80%">
 </center>
 <br>
-<b><font size=5 color="#7daadf">Student Recognition and Awards</font></b>
+<b><font size="5" color="#7daadf">Student Recognition and Awards</font></b>
 <br><br>
 <b>School-based Character Awards</b>
 <br><br>
@@ -250,8 +251,3 @@ While National Education has been infused in the various subjects, SS Learning j
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Primary 6 Student</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Annually</span></td>
 </tr></tbody></table>
-
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
