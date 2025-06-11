@@ -696,7 +696,7 @@ From 2021, the Canossa Sports Award is an annual school-based award that recogni
 
 
   
-Star Pupil Award is a school-based award given at the end of each term to recognise and affirm individual children who exhibit our school value for the term.  
+Star Pupil Award is a school-based award given at the end of each term to recognise and affirm individual students who exhibit our school value for the term.  
   
   
   
