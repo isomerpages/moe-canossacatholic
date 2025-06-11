@@ -105,7 +105,7 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 
 <font size="5" color="#eeac0d"><b>The Little Chef in Me</b></font>
 <br>
-Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our students to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, students will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
+Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our children to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, children will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
 <br>
 <br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
@@ -124,7 +124,7 @@ Focused on food preparation, basic cooking skills and dining etiquette, the modu
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 1</span><br><span style="color:#454545;background-color:#FAFAFA">Milo &amp; Butter Bread</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-Students will learn<br><br>
+Children will learn<br><br>
 • Basic hygiene in handling food and keeping cutlery and utensils clean<br><br>
 • How to boil water and make a cup of milo<br><br>
 • How to make a butter sandwich<br><br></td>
