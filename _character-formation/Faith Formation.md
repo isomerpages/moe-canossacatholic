@@ -60,16 +60,13 @@ In addition to termly Faith Formation and weekly prayer sessions, Catholic staff
 <br>In 2019, the Catholic Students’ Club was formed as part of the Catholic faith formation of the school. The objectives of the Catholic Students’ Club are to:<br><br><b>1.</b>  Deepen our children’s love for God and the Catholic faith<br><b>2.</b>  Nurture our children in their faith formation and service for others<br><b>3.</b>  Build a community among the children for support in their faith journey
 
 <br>
-The sessions are conducted once a month on a Wednesday and it is optional for P3 to P6 students in the VE Catechism Programme to participate in the club.  
+The sessions are conducted once a month on a Wednesday and it is optional for P3 to P6 children in the VE Catechism Programme to participate in the club.  
 <br><br>
-The topics of these sessions include learning about the life of Jesus and His Gospel values and virtues, the lives of saints, faith sharing, prayers and other faith formation activities. Students also experience praise and worship singing as a form of prayer and perform skits to help them understand the scriptures better. 
+The topics of these sessions include learning about the life of Jesus and His Gospel values and virtues, the lives of saints, faith sharing, prayers and other faith formation activities. Children also experience praise and worship singing as a form of prayer and perform skits to help them understand the scriptures better. 
 <br>  <br>
-Students in the Catholic Club are given opportunities to live their faith and service by leading prayers during the session and thanksgiving recess prayers after recess, and facilitate Canossian Saints’ week and Catholic faith-related activities during recess.  
+children in the Catholic Club are given opportunities to live their faith and service by leading prayers during the session and thanksgiving recess prayers after recess, and facilitate Canossian Saints’ week and Catholic faith-related activities during recess.  
 <br><br>
-In the October month of the Rosary, the students led the Catholic community of Canossian Sisters, teachers and peers in the rosary prayers via zoom since we started in 2020.  
+In the October month of the Rosary, the children led the Catholic community of Canossian Sisters, teachers and peers in the rosary prayers via zoom since we started in 2020.  
 <br><br>
-We strongly encourage the P3 to P6 VE Catechism students to participate and to be enriched so that they will grow in their faith and continue to be a living witness of their love for God and others through their thoughts, words and deeds.
+We strongly encourage the P3 to P6 VE Catechism children to participate and to be enriched so that they will grow in their faith and continue to be a living witness of their love for God and others through their thoughts, words and deeds.
 
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
