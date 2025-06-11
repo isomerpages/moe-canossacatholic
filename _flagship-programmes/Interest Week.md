@@ -22,6 +22,3 @@ This 5-day programme is broken down into 3 segments - <i>Experience, Encounter a
 <br><br>
 Recognising that every child is different and has varied interest and passion, our children are given the opportunity to explore and discover their interests in different modules that are related to different industries in Singapore such as culinary, architectural modelling, game creation and soccer.
 
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
