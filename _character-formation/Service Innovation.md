@@ -2,19 +2,20 @@
 title: Service Innovation
 permalink: /character-formation/service-innovation/
 description: ""
+variant: markdown
 ---
-<b><font size=6>Service Innovation</font></b>
+<b><font size="6">Service Innovation</font></b>
 <br>
 <br>
-<b><font size=5 color="#7daadf">Developing Compassionate Leaders</font></b>
+<b><font size="5" color="#7daadf">Developing Compassionate Leaders</font></b>
 
-<b><font size=5 color="#eeac0d">About Service Innovation through Design Thinking - Project L.O.V.E</font></b>
+<b><font size="5" color="#eeac0d">About Service Innovation through Design Thinking - Project L.O.V.E</font></b>
 
 <br>
-With the formation of the heart and service as a hallmark of Canossian schools, the school’s life-long learning programme aims to provide our students with the platform to acquire and apply skills that will develop them to become leaders of hope and sowers of change through the design thinking process, with an emphasis on inculcating empathy in our students.
+With the formation of the heart and service as a hallmark of Canossian schools, the school’s life-long learning programme aims to provide our children with the platform to acquire and apply skills that will develop them to become leaders of hope and sowers of change through the design thinking process, with an emphasis on inculcating empathy in our children.
 <br>
 <br>
-Using the spiral approach, Design Thinking is explicitly taught in a progressive manner across the levels and with age-appropriate authentic platforms through Project L.O.V.E, our Values-in-Action (VIA) projects. Students learn to communicate effectively and handle conflicts (if any), develop empathy and seek to understand the needs of others. Structures in the design thinking process, such as ‘Creating a Persona’, ‘Journey Mapping’ and the conducting of interviews, help students develop a deeper sense of empathy for others. Coupled with the experience of prototyping their ideas, students learn that they are empowered to actively make a difference in the lives of others.
+Using the spiral approach, Design Thinking is explicitly taught in a progressive manner across the levels and with age-appropriate authentic platforms through Project L.O.V.E, our Values-in-Action (VIA) projects. Children learn to communicate effectively and handle conflicts (if any), develop empathy and seek to understand the needs of others. Structures in the design thinking process, such as ‘Creating a Persona’, ‘Journey Mapping’ and the conducting of interviews, help children develop a deeper sense of empathy for others. Coupled with the experience of prototyping their ideas, children learn that they are empowered to actively make a difference in the lives of others.
 <br>
 <br>
 The whole programme is designed to instill the right attitude and skills necessary for students to take action and take charge of solving problems around them. Through experiential learning, every student will emerge concerned citizens and an active contributor to society.
@@ -23,7 +24,7 @@ The whole programme is designed to instill the right attitude and skills necessa
 CCPS develops students with a heart of compassion for others. With that heart of compassion, they will serve and make a difference in the lives of many.
 
   
-<b><font size=5 color="#eeac0d">Spiral Approach: Progression in learning</font></b>
+<b><font size="5" color="#eeac0d">Spiral Approach: Progression in learning</font></b>
 
 <br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
