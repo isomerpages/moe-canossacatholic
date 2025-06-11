@@ -28,7 +28,7 @@ For technical assistance, you may
 
 <b><font size="4" color="#eeac0d">School Operating Hours</font></b>
 
-During school operating hours, children should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.  
+During school operating hours, student should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.  
 
 <p style="margin-left: 40px">
 <b>School-based Helpline:</b>&nbsp;68441418
