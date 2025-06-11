@@ -49,7 +49,7 @@ Click &nbsp;**[here](https://www.canossacatholicpri.moe.edu.sg/flagship-programm
 
 <b><font size="5" color="#7daadf">Class Service Roles and Student Leader Roles</font></b>
 <br><br>
-Every student is called to be a Canossian Leader of Life who strives towards developing effective self-leadership skills i.e. 21st competencies taught in CCE and FTGP. Each student is given an opportunity to exercise their self-leadership skills and our school’s core values in the various class service roles like an ICT Representative and student leader roles such as Class Leader, CCA Leader.  
+Every child is called to be a Canossian Leader of Life who strives towards developing effective self-leadership skills i.e. 21st competencies taught in CCE and FTGP. Each child is given an opportunity to exercise their self-leadership skills and our school’s core values in the various class service roles like an ICT Representative and student leader roles such as Class Leader, CCA Leader.  
 <br>
 <br>
 <b><font size="5" color="#7daadf">Prefectorial Board</font></b>
