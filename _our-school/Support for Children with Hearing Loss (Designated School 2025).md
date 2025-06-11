@@ -70,6 +70,4 @@ Transfers of students diagnosed with hearing loss from other mainstream schools 
 <br><br>
 <em>“It has helped me to boost my morale and communication skills … This has made me realise that I should not let my fear hold me back from what I aim to achieve.”</em>
 <br><font size="3" color="#eeac0d">- Shermaine Tan Li Ning, former CS student</font>  
-  
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup></p>
+ </p>
