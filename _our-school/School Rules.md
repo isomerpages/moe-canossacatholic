@@ -49,14 +49,14 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <br>
 
 <b><font size="5" color="#7daadf">Punctuality</font></b>
-*   Students must be in assembly area before 7.25am. Lessons will start at 7.30am.
-*   Students must be punctual for all lessons, CCA sessions and other school programmes.
+*   Children must be in assembly area before 7.25am. Lessons will start at 7.30am.
+*   Children must be punctual for all lessons, CCA sessions and other school programmes.
 <br>
 <br>
 
 <b><font size="5" color="#7daadf">Attendance</font></b>
-*   Students must be present in school for all lessons. They must remain in school grounds once they have reported to school.
-*   Students are not to do the following without permission
+*   Children must be present in school for all lessons. They must remain in school grounds once they have reported to school.
+*   Children are not to do the following without permission
 <br>-  Leave school ground
 <br>-  Skip class / CCAs / any other enrichment classes
 <br>-  Be absent for a long period of time
@@ -66,25 +66,25 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <br>
 
 <b><font size="5" color="#7daadf">Integrity</font></b>
-*   Students must be honest. They must not be involved in stealing, plagiarism, cheating in an examination or assessment and forgery (including altering signature and school documents).
+*   Children must be honest. They must not be involved in stealing, plagiarism, cheating in an examination or assessment and forgery (including altering signature and school documents).
 <br>
 <br>
 
 <b><font size="5" color="#7daadf">Behaviour</font></b>
-*   Students must show respect to others. They must not be involved in disruptive behaviours, open defiance, showing disrespect to authorities and elders, using inappropriate language and bullying (including cyberbullying, extorting money, causing physical and mental harm). **The school adopts a zero tolerance policy on bullying**.
+*   Children must show respect to others. They must not be involved in disruptive behaviours, open defiance, showing disrespect to authorities and elders, using inappropriate language and bullying (including cyberbullying, extorting money, causing physical and mental harm). **The school adopts a zero tolerance policy on bullying**.
 <br>
 <br>
 
 <b><font size="5" color="#7daadf">Use of Handphones and Electronic Devices</font></b>
-*   Students can only bring a handphone to school when permission is granted by the school. The Permission to Bring Handphone Form issed by the HOD Student Management is only valid for one year for students who need to travel on their own to and/or from school. The use of handphone is allowed at the security guard post for calling parents only.
-*   Students are not to turn on nor use their handphones while on the school premises and during Learning Journeys.
-*   Students are not allowed to bring any electronic devices (except prescribed calculators and e-dictionaries) to school. The school will bear no responsibility for the loss of these devices.
+*   Children can only bring a handphone to school when permission is granted by the school. The Permission to Bring Handphone Form issed by the HOD Student Management is only valid for one year for children who need to travel on their own to and/or from school. The use of handphone is allowed at the security guard post for calling parents only.
+*   Children are not to turn on nor use their handphones while on the school premises and during Learning Journeys.
+*   Children are not allowed to bring any electronic devices (except prescribed calculators and e-dictionaries) to school. The school will bear no responsibility for the loss of these devices.
 <br>
 <br>
 
 <b><font size="5" color="#7daadf">National Anthem and Pledge</font></b>
-*   All students must attend the morning assembly respectfully.
-*   Students who are Singapore Citizens must sing the National Anthem and take the Pledge. The Pledge must be taken with the right fist placed over the heart.
+*   All children must attend the morning assembly respectfully.
+*   Children who are Singapore Citizens must sing the National Anthem and take the Pledge. The Pledge must be taken with the right fist placed over the heart.
 <br>
 <br>
 
@@ -94,9 +94,9 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 <br>
 
 <b><font size="5" color="#7daadf">Others</font></b>
-*   Students must take care of the environment. They must not litter and vandalise any school property.
-*   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which used or intended to be used to cause harm to others.
-*   Students must not be involved in trading of items, arson, assault, fighting, gambling, gangsterism, pornography, smoking, substance abuse and hacking into school system.
+*   Children must take care of the environment. They must not litter and vandalise any school property.
+*   All children are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which used or intended to be used to cause harm to others.
+*   Children must not be involved in trading of items, arson, assault, fighting, gambling, gangsterism, pornography, smoking, substance abuse and hacking into school system.
 
 
 <br><br><br><br><br><br>
