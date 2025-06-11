@@ -241,13 +241,13 @@ Show and tell for the lower primary is a skill that the department focuses on, a
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>Deepavali Celebration</u></b></font>
 <br>
-Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. After the assembly programme, students get to engage in recess activities such as crossword puzzles on Deepavali. They get to see a detailed display of the Indian culture ranging from ornaments, food clothing and more.  Students also receive an Indian delicacy to bring back home to share their learnings with their family members.
+Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. After the assembly programme, children get to engage in recess activities such as crossword puzzles on Deepavali. They get to see a detailed display of the Indian culture ranging from ornaments, food clothing and more.  Children also receive an Indian delicacy to bring back home to share their learnings with their family members.
 </p> 
 
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
 <br>
-MTL Fortnight week is one where students eagerly look forward to the wide variety of activities arranged for them. The department carefully ensures that the activities are suitable and achievable for each respective level. The chosen activities allow students to create handmade items that reflect Indian culture, providing them with a tangible keepsake to bring home. This also gives students the opportunity to share their newfound knowledge and experiences with their peers and family, further deepening their connection to the culture.
+MTL Fortnight week is one where children eagerly look forward to the wide variety of activities arranged for them. The department carefully ensures that the activities are suitable and achievable for each respective level. The chosen activities allow children to create handmade items that reflect Indian culture, providing them with a tangible keepsake to bring home. This also gives children the opportunity to share their newfound knowledge and experiences with their peers and family, further deepening their connection to the culture.
 </p>
 
 <center>
@@ -256,5 +256,5 @@ MTL Fortnight week is one where students eagerly look forward to the wide variet
 	
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>P1 to P6 Internal Competition</u></b></font>
-<br>The MTL Department organizes termly internal competitions, providing students with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage students to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.
+<br>The MTL Department organizes termly internal competitions, providing children with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage children to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.
 </p>
