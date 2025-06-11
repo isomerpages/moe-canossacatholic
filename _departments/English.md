@@ -2,12 +2,13 @@
 title: English
 permalink: /departments/english/
 description: ""
+variant: markdown
 ---
-<b><font size=6>English</font></b>
+<b><font size="6">English</font></b>
 
-The six-year English Language (EL) curriculum aims to develop students to be confident and effective communicators of the English Language. It is aligned with the National Syllabus and STELLAR curriculum. Language is a means of communication, guided by purpose, audience, context and culture; hence language learning is a meaningful and an engaging experience for our students in CCPS.  
+The six-year English Language (EL) curriculum aims to develop children to be confident and effective communicators of the English Language. It is aligned with the National Syllabus and STELLAR curriculum. Language is a means of communication, guided by purpose, audience, context and culture; hence language learning is a meaningful and an engaging experience for our children in CCPS.  
   
-<b><font size=5 color="#eeac0d">The EL Programme aims to:</font></b>
+<b><font size="5" color="#eeac0d">The EL Programme aims to:</font></b>
 
  *   Instil a love for lifelong reading
  *   Develop critical thinking through extensive reading and responding to texts
@@ -16,20 +17,20 @@ The six-year English Language (EL) curriculum aims to develop students to be con
  *   Emphasise differentiation of instruction to meet the special needs, abilities and interests of our students
 
 <br>
-<b><font size=5 color="#eeac0d">The foundation of EL learning will be strengthened through:</font></b>
+<b><font size="5" color="#eeac0d">The foundation of EL learning will be strengthened through:</font></b>
 <br><br>
 
-*   A greater focus on oral communication – listening & speaking
+*   A greater focus on oral communication – listening &amp; speaking
 *   Enjoyment in the learning of English through fun-filled activities
-*   The explicit teaching of grammar in context (focus on word, phrase & sentence level grammar)
- *   Phonemic awareness, phonics & early literacy skills – lay foundation for acquiring reading fluency, comprehension & viewing skills and strategies progressively
- *   Word study skills and extensive reading & viewing – building & use of vocabulary progressively
- *   Development of writing skills & learner strategies
- *   Extensive opportunities for engagement in sustained, authentic & creative writing
+*   The explicit teaching of grammar in context (focus on word, phrase &amp; sentence level grammar)
+ *   Phonemic awareness, phonics &amp; early literacy skills – lay foundation for acquiring reading fluency, comprehension &amp; viewing skills and strategies progressively
+ *   Word study skills and extensive reading &amp; viewing – building &amp; use of vocabulary progressively
+ *   Development of writing skills &amp; learner strategies
+ *   Extensive opportunities for engagement in sustained, authentic &amp; creative writing
 
 <br>
 
-<b><font size=5 color="#eeac0d">Reading Intervention:</font></b>
+<b><font size="5" color="#eeac0d">Reading Intervention:</font></b>
 <br>
 The Reading Intervention Programmes include the following:  
 
@@ -47,7 +48,7 @@ SDR is a 2-year intervention programme to support identified students with dysle
 <br>
 <b>Structured Reading Programme</b>
 <br>
-This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics & phonological awareness (sound blending) and the reading high frequency words. 
+This programme aims to provide targeted reading support for students in P1 and P2 who need help to decode independently through the acquisition of phonics &amp; phonological awareness (sound blending) and the reading high frequency words. 
 <br><br>
 <b>Extensive Reading Programme</b>
 <br>
@@ -55,23 +56,23 @@ This programme aims to help students expand and extend students’ reading beyon
 
 <br>
 
-<b><font size=5 color="#eeac0d">Effective Communication:</font></b>
+<b><font size="5" color="#eeac0d">Effective Communication:</font></b>
 
-<b>Show & Tell</b>
+<b>Show &amp; Tell</b>
 <br>
-Show & Tell is part and parcel of the Primary 1 & Primary 2 EL curriculum. It provides opportunities for students to build up their confidence level, self-esteem, social and listening skills. This helps them to become confident communicators.  
+Show &amp; Tell is part and parcel of the Primary 1 &amp; Primary 2 EL curriculum. It provides opportunities for students to build up their confidence level, self-esteem, social and listening skills. This helps them to become confident communicators.  
 <br>
 <b>Retelling</b>
 <br>
-Retelling activity has been rolled out for Primary 3 & Primary 4 students as part of their EL learning in the classroom. Retelling promotes thinking and metacognition along with Think Aloud, KWL and generating questions. It also provides opportunities for students to improve their verbal and comprehension skills as students begin to understand sequence, plot, and characterization as they build vocabulary and comprehension skills.  
+Retelling activity has been rolled out for Primary 3 &amp; Primary 4 students as part of their EL learning in the classroom. Retelling promotes thinking and metacognition along with Think Aloud, KWL and generating questions. It also provides opportunities for students to improve their verbal and comprehension skills as students begin to understand sequence, plot, and characterization as they build vocabulary and comprehension skills.  
 <br>
 <b>1-Minute Talk:</b>
 <br>
-This activity is aimed at Primary 5 & Primary 6 students to help students build up their oracy skills as well as to make them think on their feet. Students need to express their opinions and views on a given topic within a minute using appropriate vocabulary.     
+This activity is aimed at Primary 5 &amp; Primary 6 students to help students build up their oracy skills as well as to make them think on their feet. Students need to express their opinions and views on a given topic within a minute using appropriate vocabulary.     
 
 <br>
 
-<b><font size=5 color="#eeac0d">Writing</font></b>
+<b><font size="5" color="#eeac0d">Writing</font></b>
 
 <b>Canossian Writing Programme</b>
 <br>
@@ -79,7 +80,7 @@ Our Canossian Writing Programme recognises our students as writers who seek to h
 <br>
 <b>Creative Writing</b>
 <br>
-Creative Writing has been introduced in Primary 1 & Primary 2 to encourage students to exercise their creativity and use their imagination. At the same time, students are provided with opportunities to develop their ‘voice’ and communicate their thoughts and ideas freely. An annual Creative Writing Competition is also conducted for our students.  
+Creative Writing has been introduced in Primary 1 &amp; Primary 2 to encourage students to exercise their creativity and use their imagination. At the same time, students are provided with opportunities to develop their ‘voice’ and communicate their thoughts and ideas freely. An annual Creative Writing Competition is also conducted for our students.  
 <br>
 <b>Journaling</b>
 <br>
@@ -87,7 +88,7 @@ Students are encouraged to read widely and respond to what they read. Journaling
 
 <br>
 
-<b><font size=5 color="#eeac0d">I Love Literature:</font></b>  
+<b><font size="5" color="#eeac0d">I Love Literature:</font></b>  
 
 In line with the latest English Language Syllabus, "<em>I Love Literature</em>" gives every student a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our students participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
 
@@ -98,7 +99,7 @@ In line with the latest English Language Syllabus, "<em>I Love Literature</em>" 
 <br>
 
 
-<b><font size=5 color="#eeac0d">Department Strategies</font></b>
+<b><font size="5" color="#eeac0d">Department Strategies</font></b>
 
 <b>Strategies for Effective Communication:</b>
 <br>
