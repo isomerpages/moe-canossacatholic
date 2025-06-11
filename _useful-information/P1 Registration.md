@@ -19,8 +19,4 @@ variant: markdown
 <center>
 For more information&nbsp;regarding&nbsp;P1 registration, refer to <a href="https://www.moe.gov.sg/primary/p1-registration">MOE Website</a>
 </center>
-
-
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup></center>
+</center>
