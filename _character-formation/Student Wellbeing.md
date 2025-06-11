@@ -34,9 +34,9 @@ Our disciplinary approach empowers children to be reflective and responsible by 
 <b><u>Counselling</u></b>
 <br>
 <br>
-Our school counselling programme comprises both psycho-education and counselling intervention. In the developmental primary school years, some students are at-risk of academic failure/underachievement, antisocial/delinquent behaviours and mental health problems. These students require additional support to develop positive social and emotional well-being.  
+Our school counselling programme comprises both psycho-education and counselling intervention. In the developmental primary school years, some children are at-risk of academic failure/underachievement, antisocial/delinquent behaviours and mental health problems. These children require additional support to develop positive social and emotional well-being.  
 <br><br> 
-Our school counsellor organises programmes to proactively educate our students on topics addressing their developmental social-emotional needs. It aims to equip students with knowledge and skills to develop positive relationships, mental health and resilience.  
+Our school counsellor organises programmes to proactively educate our children on topics addressing their developmental social-emotional needs. It aims to equip children with knowledge and skills to develop positive relationships, mental health and resilience.  
 <br><br>  
 Our counselling referral system is as shown:
 <br><br>
@@ -46,14 +46,14 @@ Our counselling referral system is as shown:
 </center>
 
 <br>
-Parental consent is required when a student is referred to the School Counsellor for counselling. This system aims to provide timely intervention and support to address students’ social-emotional needs and help them cope and meet their academic and non-academic needs.  
+Parental consent is required when a child is referred to the School Counsellor for counselling. This system aims to provide timely intervention and support to address children’s social-emotional needs and help them cope and meet their academic and non-academic needs.  
 
 <br>
 
 <b><u>Peer Support System</u></b>
 
 <br>
-In CCPS, we raise our students to be Canossians who ‘Believe, Belong and Become’. This means that no Canossian is left behind. We believe in the importance of a positive peer culture, where we deliberately choose peer support as an approach to build a caring and inclusive school environment and nurture a sense of belonging and well-being for all our students.  
+In CCPS, we raise our children to be Canossians who ‘Believe, Belong and Become’. This means that no Canossian is left behind. We believe in the importance of a positive peer culture, where we deliberately choose peer support as an approach to build a caring and inclusive school environment and nurture a sense of belonging and well-being for all our children.  
 <br><br>  
 The following systems have been implemented:  
 <br><br> 
@@ -73,7 +73,7 @@ The following systems have been implemented:
 </b>
 <br>
 <br>
-The Rainbow Programme is a support programme for P1 to P4 students who experience a significant loss in their lives, either by death, divorce or separation of parents. Through the guidance of a trained adult facilitator and the support of peers, students sort through and understand their grief feelings and thoughts so as to come to a healthy acceptance of the painful changes in their families and be empowered to lead happy and meaningful lives.  
+The Rainbow Programme is a support programme for P1 to P4 children who experience a significant loss in their lives, either by death, divorce or separation of parents. Through the guidance of a trained adult facilitator and the support of peers, children sort through and understand their grief feelings and thoughts so as to come to a healthy acceptance of the painful changes in their families and be empowered to lead happy and meaningful lives.  
 <br>
 <br>
 <br>
