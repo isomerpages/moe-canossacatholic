@@ -18,7 +18,7 @@ With the formation of the heart and service as a hallmark of Canossian schools, 
 Using the spiral approach, Design Thinking is explicitly taught in a progressive manner across the levels and with age-appropriate authentic platforms through Project L.O.V.E, our Values-in-Action (VIA) projects. Children learn to communicate effectively and handle conflicts (if any), develop empathy and seek to understand the needs of others. Structures in the design thinking process, such as ‘Creating a Persona’, ‘Journey Mapping’ and the conducting of interviews, help children develop a deeper sense of empathy for others. Coupled with the experience of prototyping their ideas, children learn that they are empowered to actively make a difference in the lives of others.
 <br>
 <br>
-The whole programme is designed to instill the right attitude and skills necessary for students to take action and take charge of solving problems around them. Through experiential learning, every student will emerge concerned citizens and an active contributor to society.
+The whole programme is designed to instill the right attitude and skills necessary for children to take action and take charge of solving problems around them. Through experiential learning, every child will emerge concerned citizens and an active contributor to society.
 <br>
 <br>
 CCPS develops students with a heart of compassion for others. With that heart of compassion, they will serve and make a difference in the lives of many.
