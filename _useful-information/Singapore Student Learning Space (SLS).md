@@ -69,8 +69,3 @@ When contacting the SLS Helpdesk, please include your&nbsp;<b>child’s full nam
 <br>
 For device or broadband support, parents can refer to&nbsp;<a href="https://www.imda.gov.sg/programme-listing/neu-pc-plus"><b>IMDA NEU PC Plus programme</b></a>, or contact the school for advice.
 
-
-	
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
