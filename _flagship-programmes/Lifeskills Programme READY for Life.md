@@ -2,16 +2,13 @@
 title: Lifeskills Programme READY for Life
 permalink: /flagship-programmes/lifeskills-programme-ready-for-life/
 description: ""
+variant: markdown
 ---
-
-
-
-
-<font size=6><b>Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
+<font size="6"><b>Lifeskills Programme - R.E.A.D.Y. FOR LIFE</b></font>
 <br>
-<font size=5 color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
+<font size="5" color="#7daadf"><b>R.E.A.D.Y. for Life</b></font>
 <br>
-<b>R.E.A.D.Y. for Life</b> Programme is a school-based programme designed to help our students  
+<b>R.E.A.D.Y. for Life</b> Programme is a school-based programme designed to help our children
 <br>
  
 * Acquire life skills and competencies that are not explicitly taught in the formal curriculum or
@@ -19,8 +16,8 @@ description: ""
 * Hone the life skills and competencies that have been covered in some way in the formal curriculum but would require deepening of understanding, regular practice and reinforcement
 
 <br>
-These life skills will empower the students to be <br>
-<b>R</b> – Responsible in making sound decisions, especially when they are under pressure <br>
+These life skills will empower the children to be<br>
+<b>R</b> – Responsible in making sound decisions, especially when they are under pressure&nbsp;<br>
 <b>E</b> – Effective in dealing with basic day-to-day demands in life<br>
 <b>A</b> – Amicable in building relationships and handling challenges<br>
 <b>D</b> – Determined in seeing through every commitment<br>
@@ -28,9 +25,9 @@ These life skills will empower the students to be <br>
 <br>
 <b>R.E.A.D.Y. for Life</b>  consists of a series of modules that are conducted in a year and across the levels in a progressive manner.<br><br>
 
-<font size=5 color="#eeac0d"><b>Starting School Right</b></font>
+<font size="5" color="#eeac0d"><b>Starting School Right</b></font>
 
-Conducted at the beginning of the school year, the 3-day module consists of a number of activities and lessons that provide opportunities for our students to explore different themes and be equipped with competencies and skills that are explicitly taught and reinforced progressively across their 6 years of education. It instils our school values (Charity, Humility, Forgiveness, Faith) and promotes the acquisition of learning dispositions (shares ideas and thoughts with others; works well with others, open to feedback and acts on it to improve, perseveres and does not give up easily).
+Conducted at the beginning of the school year, the 3-day module consists of a number of activities and lessons that provide opportunities for our children to explore different themes and be equipped with competencies and skills that are explicitly taught and reinforced progressively across their 6 years of education. It instils our school values (Charity, Humility, Forgiveness, Faith) and promotes the acquisition of learning dispositions (shares ideas and thoughts with others; works well with others, open to feedback and acts on it to improve, perseveres and does not give up easily).
 
 <br>
 
@@ -51,7 +48,7 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:,;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Day 1 of School</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">Who Am I?</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">Students will
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">Children will
 <br>
 <br>
 • Have a positive view of themselves and others <br><br>
@@ -68,9 +65,9 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Day 2 of School</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Our Common Goals</span></td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Children will
 <br><br>
-•  Establish their common goals (class goals)<br><br>
+•&nbsp; Establish their common goals (class goals)<br><br>
 • Learn to work together as a class<br><br>
 • Learn to manage conflict<br><br></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
@@ -106,7 +103,7 @@ Conducted at the beginning of the school year, the 3-day module consists of a nu
 
 <br>
 
-<font size=5 color="#eeac0d"><b>The Little Chef in Me</b></font>
+<font size="5" color="#eeac0d"><b>The Little Chef in Me</b></font>
 <br>
 Focused on food preparation, basic cooking skills and dining etiquette, the module is designed for our students to learn progressively how to prepare a simple healthy meal for themselves and their family members, hence helping them to achieve greater independence and confidence in daily living. Through this authentic learning experience, students will also apply and reinforce the knowledge they learnt in different subjects, hence making connections and meaning in their own learning.
 <br>
@@ -189,7 +186,7 @@ Students will learn<br><br>
 • Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
 • How to use a stove or induction cooker<br><br>
 • How to prepare a healthy fried rice<br><br>
-•  Basic food plating principles<br><br></td>
+•&nbsp; Basic food plating principles<br><br></td>
 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#eeac0d"><b>Science:</b></span><br>Heat Energy<br><br>
 <span style="color:#eeac0d"><b>Math:</b></span>
@@ -203,10 +200,10 @@ Students will learn<br><br>
 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 Students will learn<br><br>
-•  Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
-•  How to prepare a simple western meal<br>
-•  Food plating principles<br><br>
-•  Dining etiquette<br><br></td>
+•&nbsp; Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
+•&nbsp; How to prepare a simple western meal<br>
+•&nbsp; Food plating principles<br><br>
+•&nbsp; Dining etiquette<br><br></td>
 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#eeac0d"><b>Art:</b></span><br>Colours, Textures, Contrast<br><br>
 <span style="color:#eeac0d"><b>Health Education:</b></span><br>
@@ -226,7 +223,7 @@ Healthy Food Pyramid<br>– Balanced Diet, Nutrition Facts</td>
 <br>
 <br>
 
-<b><font size=4 color="#eeac0d">Be An Advocate – Stand Up Speak Up</font></b>
+<b><font size="4" color="#eeac0d">Be An Advocate – Stand Up Speak Up</font></b>
 <br>
 <br>
 In this module, the students will be empowered to be an advocate for that which is good and just, and live life having
