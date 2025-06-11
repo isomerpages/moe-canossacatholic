@@ -53,14 +53,3 @@ Taking reference from Kouzes’ and Posner’s Student Leadership Challenge, Mod
 <br>
 The symposium continued with engaging activities that fostered teamwork and problem-solving skills, including the introduction of the Design Thinking protocol. On the final day, students showcased their Design Thinking projects, addressing real-life issues within their schools and communities. The event concluded with reflections on leadership growth, marking the beginning of a journey towards sustainable and impactful leadership. Over the four days, the symposium provided valuable opportunities for student leaders to enhance their skills, build networks, and work together toward positive change, leaving a lasting impact on the Canossian community and beyond.
 <br>
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
