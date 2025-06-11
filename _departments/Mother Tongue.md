@@ -9,33 +9,33 @@ variant: markdown
 <b><font size="5" color="#7daadf">Chinese Language Department</font></b>
 <br>
 <br>
-The six-year Chinese curriculum aims to enhance students’ oral, listening and writing skills. The department aims to inculcate in students a love and interest in the learning of Chinese Language through the use of Information Technology and differentiated learning in class. We also aim to nurture learners who are exemplary in character and devoted to the life-long learning of the Chinese Language and its culture.  
+The six-year Chinese curriculum aims to enhance children’s oral, listening and writing skills. The department aims to inculcate in children a love and interest in the learning of Chinese Language through the use of Information Technology and differentiated learning in class. We also aim to nurture learners who are exemplary in character and devoted to the life-long learning of the Chinese Language and its culture.  
   
 <b><font size="5" color="#7daadf">Chinese Language Key Programme:</font></b>
 <br>
 
 <b>P2-P6 Modular Approach in Teaching and Learning</b>
 <br>
- *   Parallel classes are formed for each level to better cater to the needs of the different learners. Teachers are able to customize their teaching to meet the different learning needs of the students.
- *   All Primary 3 and 4 Chinese Language Higher and Middle Progressing classes will use Higher Chinese Textbook from 2022 onwards to stretch students in their learning of Chinese language.
- *   MOE ABLE programme to support students who require additional support in the learning of Chinese Language for Primary 3 and 4 learners.
+ *   Parallel classes are formed for each level to better cater to the needs of the different learners. Teachers are able to customize their teaching to meet the different learning needs of the children.
+ *   All Primary 3 and 4 Chinese Language Higher and Middle Progressing classes will use Higher Chinese Textbook from 2022 onwards to stretch children in their learning of Chinese language.
+ *   MOE ABLE programme to support children who require additional support in the learning of Chinese Language for Primary 3 and 4 learners.
 
 <b>P1 to P6 Chinese Reading Programme and E-Zhishi Portal</b>
 <br>
- *   As part of the department's efforts to encourage reading among students, students from the lower, middle, and upper primary levels subscribe to selected Chinese newspapers. 
- *   The department also promotes reading through our Chinese department class library programme, where teachers guide students in reading stories and news articles. 
- *   Primary 1 and 2 students are taking part in SOAR, a reading initiative by MOE. This programme motivates students to read aloud with their peers and complete a reading passport.
+ *   As part of the department's efforts to encourage reading among children, children from the lower, middle, and upper primary levels subscribe to selected Chinese newspapers. 
+ *   The department also promotes reading through our Chinese department class library programme, where teachers guide children in reading stories and news articles. 
+ *   Primary 1 and 2 children are taking part in SOAR, a reading initiative by MOE. This programme motivates children to read aloud with their peers and complete a reading passport.
  
 <b>P1 to P6 School based Oracy programme</b>
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Reading:</font></u></b>
 <br>
-The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.
+The department places emphasis on training children to read aloud effectively, with the correct pronunciation and intonation.
 <br>
 <br>
 <b><u><font size="4" color="#eeac0d">Conversation:</font></u></b>
 <br>
-The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
+The department also aims to develop children to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.
 <br>
 <br>
 <b><u><font size="4" color="#eeac0d">Lower Primary: FAR Strategy</font></u></b>
@@ -63,7 +63,7 @@ The department also aims to develop students to become effective communicators t
 	
 <b>P1 to P6 Writing Programme</b>
 <br>
-The department's six years writing programme aims to develop students to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
+The department's six years writing programme aims to develop children to become effective writers through our six year spiral approach in the teaching of composition writing in the different levels.
 
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Lower Primary:</font></u></b>
@@ -109,7 +109,7 @@ The department's six years writing programme aims to develop students to become 
 	
 <b>P4 to P6 Letter Writing Programme</b>
 <br>
-Students are taught how to identify the SVO during letter writing:  
+Children are taught how to identify the SVO during letter writing:  
 <br>
 *   <b><u>S</u></b> ubject – who they are writing to<br>
 *   <b><u>V</u></b> ariable – when and where (e.g the date, time and place, etc)<br>
@@ -119,7 +119,7 @@ Students are taught how to identify the SVO during letter writing:
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Lunar New Year Celebration</font></u></b>
 <br>
-The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance performance, as well as a skit that highlighted various Chinese traditions. Students engaged in a range of classroom activities to deepen their understanding of the cultural significance of the holiday. Teachers also introduced students to traditional Chinese New Year foods and customs, helping them explore the meaning behind the festival. The blend of performances and interactive activities allowed everyone to fully immerse themselves in the festive spirit..
+The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance performance, as well as a skit that highlighted various Chinese traditions. Children engaged in a range of classroom activities to deepen their understanding of the cultural significance of the holiday. Teachers also introduced students to traditional Chinese New Year foods and customs, helping them explore the meaning behind the festival. The blend of performances and interactive activities allowed everyone to fully immerse themselves in the festive spirit..
 </p>
 <center>
 <img src="/images/Departments/MTL/CNY_Celebration.jpg" style="width:90%">	
