@@ -22,6 +22,3 @@ Reading Circles comprises a community of readers whose discussions centre on a p
 Children explore various aspects of the text, including its characters, relationships, themes and setting. For example, they may explore how individual characters transform over the course of the novel in response to the events that occur, or analyse the relationship between two character over the course of a single exchange.&nbsp;  
 
 From there, children then step beyond the world of the novel to make connections with what is going on in their own world and context. For example, following a discussion about the values and beliefs of a character in the novel, children then reflect on the values and beliefs of their own school community and society, and identify how these guide their actions and decisions.
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
