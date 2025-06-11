@@ -18,7 +18,7 @@ Taking cognizance from St Francis of Assisi, Father and Protector of the Canossi
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3QFu32_eUnc?si=SIzsFS0B9vsd-3b1" height="415" width="660"></iframe>
 </center>
   
-The programme permeates at both staff and students’ level where every Canossian:
+The programme permeates at both staff and children’s level where every Canossian:
 
 * Is &nbsp;&nbsp;<b><u>Aware</u></b>&nbsp;&nbsp;of Man’s interaction with the environment and how it can have both positive and negative impact
 * <u><b> Appreciates</b></u>&nbsp;&nbsp;  the importance and necessity of preserving the environment
@@ -33,7 +33,7 @@ The programme permeates at both staff and students’ level where every Canossia
 <br>
 <b><font size="5" color="#7daadf">Key Programmes:</font></b>
 <br><br>
-We empower our students as advocators of sustaining Mother Earth. Student leaders such as Green Leaders and Green Ambassadors are provided training so that they can take the lead in the school’s movement for environmental sustainability.
+We empower our children as advocators of sustaining Mother Earth. Student leaders such as Green Leaders and Green Ambassadors are provided training so that they can take the lead in the school’s movement for environmental sustainability.
 
 <center>
 <img src="/images/Character%20Formation/Environment%20Education/Environment_Education_1.jpg" style="width:90%">
