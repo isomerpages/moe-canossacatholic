@@ -122,4 +122,3 @@ To cater to the teaching and learning needs of our children, CCPS is equipped IC
 *   iPads Carts
 *   Teaching and Learning Lab
 *   Recording Room with Green Screen Technology
-
