@@ -139,7 +139,7 @@ Boiling point of water</td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:f;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 2</span><br><span style="color:#454545;background-color:#FAFAFA">Cake In A Cup</span></td>
 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-Students will learn<br><br>
+Children will learn<br><br>
 • Basic hygiene in handling food and keeping cutlery and utensils clean<br><br>
 • How to use a microwave<br><br>
 • How to make a cake in a cup<br><br></td>
@@ -154,7 +154,7 @@ Proper fractions, Time</td>
 <span style="color:#454545;background-color:#FAFAFA">Egg-citing Sandwich</span></td>
 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-Students will learn<br><br>
+Children will learn<br><br>
 • Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
 • How to make an egg sandwich<br><br>
 • Different ways to cook an egg e.g. boiled egg, scrambled egg and fried egg<br><br></td>
