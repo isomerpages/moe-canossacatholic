@@ -474,7 +474,7 @@ Named after Mother Foundress’ favourite Saint, whom she took as the father and
 <b><font size="5" color="#7daadf">Canossa Art Award
 </font></b>
 
-From 2021, the Canossa Art Award is an annual school-based award that recognises children who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
+From 2021, the Canossa Art Award is an annual school-based award that recognises students who have a deep passion in art and an artistic flair which drive them in their constant pursuit of excellence in their art making process and art product.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <tbody>
