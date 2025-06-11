@@ -21,7 +21,7 @@ Using the spiral approach, Design Thinking is explicitly taught in a progressive
 The whole programme is designed to instill the right attitude and skills necessary for children to take action and take charge of solving problems around them. Through experiential learning, every child will emerge concerned citizens and an active contributor to society.
 <br>
 <br>
-CCPS develops students with a heart of compassion for others. With that heart of compassion, they will serve and make a difference in the lives of many.
+CCPS develops children with a heart of compassion for others. With that heart of compassion, they will serve and make a difference in the lives of many.
 
   
 <b><font size="5" color="#eeac0d">Spiral Approach: Progression in learning</font></b>
@@ -76,7 +76,7 @@ CCPS develops students with a heart of compassion for others. With that heart of
 <span style="color:#454545;background-color:#FAFAFA">Canossian Community</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:middle;word-break:normal"><b>Love My Buddy!</b><br>
-• To improve the school experience of Primary 1 students
+• To improve the school experience of Primary 1 children
 <br>
 <br>
 <span style="font-weight:bold">Loving Hearts</span>
@@ -93,7 +93,3 @@ CCPS develops students with a heart of compassion for others. With that heart of
 • To reach out to the elderly in the community and bring hope to their lives</td></tr>
 </tbody>
 </table>
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
