@@ -21,4 +21,4 @@ Selected Primary 4 children who demonstrate interest and ability in Mathematics 
 <b><font size="5" color="#7daadf">Bakhita Mathematics Classes</font></b>
 <br>
 <br>
-Our Mathematics curriculum aims to provide differentiated pathways and choices to support every children in order to maximise their potential. Bakhita Mathematics classes allows children with the interest and ability to develop their mathematical reasoning skills and deepen their understanding. Children will have opportunities to apply mathematical problem solving and reasoning skills by solving a variety of problems, including non-routine and open-ended problems.
+Our Mathematics curriculum aims to provide differentiated pathways and choices to support every child in order to maximise their potential. Bakhita Mathematics classes allows children with the interest and ability to develop their mathematical reasoning skills and deepen their understanding. Children will have opportunities to apply mathematical problem solving and reasoning skills by solving a variety of problems, including non-routine and open-ended problems.
