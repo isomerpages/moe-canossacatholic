@@ -4,7 +4,7 @@ permalink: /our-school/supporting-students-with-hearing-loss/
 variant: markdown
 description: ""
 ---
-<b><font size="6">Support for Students with Hearing Loss (Designated School 2025)</font></b>
+<b><font size="6">Support for Children with Hearing Loss (Designated School 2025)</font></b>
 
 <b><font size="5" color="#7daadf">Overview</font></b>
 
