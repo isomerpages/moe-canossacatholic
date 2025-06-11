@@ -3,15 +3,16 @@ title: English Language
 permalink: /flagship-programmes/support-stretch-programme/english-language/
 description: ""
 third_nav_title: Stretch Academic Programme
+variant: markdown
 ---
 <b><font size="6">English Language</font></b>
 
-The CCPS English Language Stretch Programme aims to develop students into creative and critical thinkers who develop a deep appreciation of the arts.
+The CCPS English Language Stretch Programme aims to develop children into creative and critical thinkers who develop a deep appreciation of the arts.
 
   
 <b><font size="5" color="#7daadf">Exploring Genres</font></b>
 
-Students are exposed to different genres where they learn about the form and function of different types of poetry or styles of creative writing. From there,&nbsp;students&nbsp;engage in in-depth discussions of how form expresses and enhances the meaning of the message communicated, thus developing their critical thinking and opening their eyes to a wide range of creative expression.&nbsp;  
+Children are exposed to different genres where they learn about the form and function of different types of poetry or styles of creative writing. From there, children engage in in-depth discussions of how form expresses and enhances the meaning of the message communicated, thus developing their critical thinking and opening their eyes to a wide range of creative expression.&nbsp;  
 
   
 <b><font size="5" color="#7daadf">Reading Circles</font></b>
