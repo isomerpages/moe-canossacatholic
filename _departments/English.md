@@ -90,7 +90,7 @@ Children are encouraged to read widely and respond to what they read. Journaling
 
 <b><font size="5" color="#eeac0d">I Love Literature:</font></b>  
 
-In line with the latest English Language Syllabus, "<em>I Love Literature</em>" gives every student a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our students participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
+In line with the latest English Language Syllabus, "<em>I Love Literature</em>" gives every child a head-start in a literature-based approach to EL learning with an emphasis on critical thinking, life skills and vocabulary. Our children participate in lively discussions on these literary works to make meaningful connections. They are inspired by the writer’s craft, language and style and are given opportunities to respond in creative ways to what they have read.
 
 <center>
 <img src="/images/Departments/English%201.jpg" style="width:55%">
@@ -103,12 +103,12 @@ In line with the latest English Language Syllabus, "<em>I Love Literature</em>" 
 
 <b>Strategies for Effective Communication:</b>
 <br>
-These strategies help students become competent communicators who convey ideas and information successfully during a conversation.
+These strategies help children become competent communicators who convey ideas and information successfully during a conversation.
 
 <p style="margin-left: 40px">
 <b><u>P1-P4: the 3Rs Strategy</u></b>
 <br>
-From P1 to P4, students adopt the 3Rs strategy – reply-reason-relate – to develop their responses.
+From P1 to P4, children adopt the 3Rs strategy – reply-reason-relate – to develop their responses.
 <br>
 <br>
 <b><u>P5-P6: The P-E-E-L strategy</u></b>
@@ -118,23 +118,19 @@ From P5 to P6, the PEEL strategy – Point-Evidence-Explanation-Link – is taug
 <br>
 <b>Annotation</b>
 <br>
-Students are taught effective annotation - how to actively interact with the text to enhance their comprehension of, recollection of and reaction to the text.  
+Children are taught effective annotation - how to actively interact with the text to enhance their comprehension of, recollection of and reaction to the text.  
 <br>
 <br>
 <b>C-U-B (Circle-Underline-Box)</b>
 <br>
-Students are also taught to analyse comprehension questions so they know what each question requires and can respond appropriately.  
+Children are also taught to analyse comprehension questions so they know what each question requires and can respond appropriately.  
 <br>
 <br>
 <b>T-I-P-S Strategy (Tense-Information-Punctuation-Spelling)</b>
 <br>
-This strategy is used when students check their answers. It is also used for Synthesis and Transformation questions.  
+This strategy is used when children check their answers. It is also used for Synthesis and Transformation questions.  
 <br>
 <br>
 <b>T-P-T-P Strategy (Tense-Pronoun-Time-Place)</b>
 <br>
 This strategy is used to ensure accuracy when changing direct speech to reported speech and vice versa.
-
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
