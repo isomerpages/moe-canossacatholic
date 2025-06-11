@@ -167,7 +167,7 @@ Nutrition</td>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Primary 4</span><br><span style="color:#454545;background-color:#FAFAFA">Knead &amp; Bake</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-Students will learn<br><br>
+Children will learn<br><br>
 • Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
 • How to use an oven<br><br>
 • How to bake bread<br><br></td>
@@ -182,7 +182,7 @@ Physical and Chemical Changes, Yeast<br></td>
 <span style="color:#454545;background-color:#FAFAFA">Fried Rice Paradise</span></td>
 
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-Students will learn<br><br>
+Children will learn<br><br>
 • Basic hygiene in handling food and keeping cutlery, utensils and work station in the kitchen clean<br><br>
 • How to use a stove or induction cooker<br><br>
 • How to prepare a healthy fried rice<br><br>
