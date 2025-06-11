@@ -197,4 +197,3 @@ The quality of our Arts Education and that of our performing Arts groups has bee
 <br>
 
 <img src="/images/Departments/Aesthetics%203.jpg" style="width:75%">
-
