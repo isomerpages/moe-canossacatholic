@@ -97,4 +97,3 @@ Fingernails are to be kept short and clean. Painting of nails using nail polish 
 *   Children must take care of the environment. They must not litter and vandalise any school property.
 *   All children are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which used or intended to be used to cause harm to others.
 *   Children must not be involved in trading of items, arson, assault, fighting, gambling, gangsterism, pornography, smoking, substance abuse and hacking into school system.
-
