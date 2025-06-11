@@ -17,4 +17,3 @@ You can access MySkillsFuture website&nbsp;[**here**](https://www.myskillsfuture
 <br>
 	
 ![](/images/Useful%20Information/MySkillsFuture%20Photo.jpg)
-
