@@ -119,7 +119,7 @@ Children are taught how to identify the SVO during letter writing:
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Lunar New Year Celebration</font></u></b>
 <br>
-The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance performance, as well as a skit that highlighted various Chinese traditions. Children engaged in a range of classroom activities to deepen their understanding of the cultural significance of the holiday. Teachers also introduced students to traditional Chinese New Year foods and customs, helping them explore the meaning behind the festival. The blend of performances and interactive activities allowed everyone to fully immerse themselves in the festive spirit..
+The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance performance, as well as a skit that highlighted various Chinese traditions. Children engaged in a range of classroom activities to deepen their understanding of the cultural significance of the holiday. Teachers also introduced children to traditional Chinese New Year foods and customs, helping them explore the meaning behind the festival. The blend of performances and interactive activities allowed everyone to fully immerse themselves in the festive spirit..
 </p>
 <center>
 <img src="/images/Departments/MTL/CNY_Celebration.jpg" style="width:90%">	
@@ -128,7 +128,7 @@ The school celebrated Chinese New Year with a vibrant Lion and Dragon Dance perf
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">MTL Fortnight Activities</font></u></b>
 <br>
-The Chinese Language Department organizes annual Mother Tongue Language Fortnight Activities, offering students at different levels unique opportunities to experience the Chinese culture. A variety of engaging activities were planned to allow students to explore and appreciate the beauty of the culture. These hands-on experiences not only deepened their understanding but also helped them develop a greater appreciation for the rich traditions and heritage of the Chinese language.<br>
+The Chinese Language Department organizes annual Mother Tongue Language Fortnight Activities, offering children at different levels unique opportunities to experience the Chinese culture. A variety of engaging activities were planned to allow children to explore and appreciate the beauty of the culture. These hands-on experiences not only deepened their understanding but also helped them develop a greater appreciation for the rich traditions and heritage of the Chinese language.<br>
 </p>
 
 <center>
@@ -140,43 +140,43 @@ The Chinese Language Department organizes annual Mother Tongue Language Fortnigh
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
-The MTL Department organizes termly internal competitions, providing students with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage students to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.
+The MTL Department organizes termly internal competitions, providing children with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage children to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.
 <br>
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">External Competition</font></u></b>
 <br>
-Students in schools are given the opportunity to participate in various external competitions such as penmanship, story-telling and writing competitions.
+Children in schools are given the opportunity to participate in various external competitions such as penmanship, story-telling and writing competitions.
 <br>
 </p><p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Mid-Autumn Festival Celebration</font></u></b>
 <br>
-All P1 to P6 students get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
+All P1 to P6 children get to celebrate the Mid-Autumn Festival at CCPS! They had hands-on experience to create their own lantern and learn about the legend behind this festival which signifies family reunion.
 </p>
 <br>
 <br>
 <b><font size="5" color="#7daadf">Malay Language Department</font></b>
 <br>
 <br>
-The Malay Language department aims to build the joy of learning the Malay Language so that our students develop the love and passion for the language and culture. The six-year Malay curriculum hones our students’ oral, listening and writing skills through ICT and differentiated learning which taps on various resources to help students read, write and communicate effectively. We also aim to inculcate knowledge and values so that our learners will be responsible citizens who are proud of their Malay heritage and culture.
+The Malay Language department aims to build the joy of learning the Malay Language so that our children develop the love and passion for the language and culture. The six-year Malay curriculum hones our children’s oral, listening and writing skills through ICT and differentiated learning which taps on various resources to help children read, write and communicate effectively. We also aim to inculcate knowledge and values so that our learners will be responsible citizens who are proud of their Malay heritage and culture.
 
 <b><font size="5" color="#7daadf">Malay Language Key Programme:</font></b>
 <br>
 
 <b>P1 to P6 Malay Reading Programme</b>
 <br>
-The Malay Language Department nurtures a love for reading through our class library programme. Primary 1 and 2 students are participating in SOAR, a reading initiative by MOE. This programme encourages students to read aloud with their peers and complete a reading passport. They are also introduced to various book genres through their class library and book exchanges. By the end of the year, each student will get to take home a book of their choice.&lt;
+The Malay Language Department nurtures a love for reading through our class library programme. Primary 1 and 2 children are participating in SOAR, a reading initiative by MOE. This programme encourages children to read aloud with their peers and complete a reading passport. They are also introduced to various book genres through their class library and book exchanges. By the end of the year, each children will get to take home a book of their choice.&lt;
 
-For Primary 3 to 6 students, they engage with Gen-G, a biweekly Malay newspaper created for students. This not only broadens their vocabulary but also keeps them informed about global current events.
+For Primary 3 to 6 children, they engage with Gen-G, a biweekly Malay newspaper created for children. This not only broadens their vocabulary but also keeps them informed about global current events.
 <br>	
 
 <b>P1 to P6 School based Oracy programme</b>
 	
 <p style="margin-left: 40px"><font size="4" color="#eeac0d"><b><u>Reading</u></b></font>
-<br>The department places emphasis on training students to read aloud effectively, with the correct pronunciation and intonation.</p>
+<br>The department places emphasis on training children to read aloud effectively, with the correct pronunciation and intonation.</p>
 	
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>Conversation:</u></b></font>
-<br>The department also aims to develop students to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.</p>
+<br>The department also aims to develop children to become effective communicators through our six years spiral approach in the teaching of oracy conversation in the different levels.</p>
 
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">Lower and Middle Primary: 4P Strategy</font></u></b>
@@ -196,11 +196,11 @@ For Primary 3 to 6 students, they engage with Gen-G, a biweekly Malay newspaper 
 <br>
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>Hari Raya Celebration</u></b></font>
-<br>The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay students’ involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.<br></p>
+<br>The school celebrate Hari Raya Aidilfitri annually with a hearty performance explaining the different customs of the Malay community such as the traditional custom of seeking forgiveness, our Hari Raya food and outfits. Through our Malay children’s involvement in skit and sing along performances, we are able to share with others the festive spirit of celebrating Hari Raya Aidilfitri.<br></p>
 
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
-<br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. Students deepened their appreciation of Malay culture beyond the textbook while expanding their vocabulary. Each level participated in hands-on activities that brought cultural traditions to life. Primary 1 and 2 students enjoyed a 2D Kampung Colouring with Frame workshop, while Primary 3 students learned the art of basket weaving. Primary 4 students crafted their own Tanjak, a traditional Malay headdress. Primary 5 students explored clay-making, and Primary 6 students refined their artistic skills through Seni Khat (calligraphy). These engaging experiences helped students develop a deeper appreciation for Malay culture in an enjoyable and meaningful way.</p>
+<br>The Malay Language Department has organized Mother Tongue Language Fortnight Activities annually. Children deepened their appreciation of Malay culture beyond the textbook while expanding their vocabulary. Each level participated in hands-on activities that brought cultural traditions to life. Primary 1 and 2 children enjoyed a 2D Kampung Colouring with Frame workshop, while Primary 3 children learned the art of basket weaving. Primary 4 children crafted their own Tanjak, a traditional Malay headdress. Primary 5 children explored clay-making, and Primary 6 children refined their artistic skills through Seni Khat (calligraphy). These engaging experiences helped children develop a deeper appreciation for Malay culture in an enjoyable and meaningful way.</p>
 
 <center>
 <img src="/images/Departments/MTL/ML_MTL_Fortnight.jpg" style="width:90%">
@@ -210,11 +210,11 @@ For Primary 3 to 6 students, they engage with Gen-G, a biweekly Malay newspaper 
 <p style="margin-left: 40px">
 <b><u><font size="4" color="#eeac0d">P1 to P6 Internal Competition</font></u></b>
 <br>
-The MTL Department organizes termly internal competitions, providing students with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage students to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.</p>
+The MTL Department organizes termly internal competitions, providing children with a platform to showcase their talents in penmanship, storytelling, Kollam design, and creative writing. These competitions encourage children to express their creativity and skills while fostering a deeper appreciation for the mother tongue languages.</p>
   
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>External Competition</u></b></font>
-<br>P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.</p>
+<br>P3 to P6 children get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.</p>
 <br>
 	
 <b><font size="5" color="#7daadf">Tamil Language Department</font></b>
