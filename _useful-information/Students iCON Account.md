@@ -37,7 +37,6 @@ For technical assistance, you may
 *   Contact Ms Rin *(ICT Manager)* via the school-based helpline at 68441418
 
   
-Please assist to provide your child’s full name, form class, and BC number  
+Please assist to provide your child’s full name and form class. 
   
 For device or broadband support, parents can refer to&nbsp;<b>[IMDA NEU PC Plus programme](https://www.imda.gov.sg/programme-listing/neu-pc-plus)</b>, or contact the school for advice.
-
