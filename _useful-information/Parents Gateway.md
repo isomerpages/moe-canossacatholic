@@ -2,6 +2,7 @@
 title: Parents Gateway
 permalink: /useful-information/parents-gateway/
 description: ""
+variant: markdown
 ---
 <b><font size="6">Parents Gateway</font></b>
 
@@ -28,7 +29,3 @@ Click on the link below to download the Parents Gateway application from Apple A
   
   
 For frequently asked questions, please refer to&nbsp;[https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq)
-
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>
