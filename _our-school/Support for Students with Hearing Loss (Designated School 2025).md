@@ -10,11 +10,11 @@ description: ""
 
 Canossa Catholic Primary School (CCPS) will be a mainstream primary school designated to support children diagnosed with hearing loss (HL) using the Oral Approach from 2 January 2025. The restructuring of CCPS and Canossian School (CS) under 1 school banner – CCPS is a natural next step for both schools. 
 
-Since 1999, CS and CCPS have enjoyed a close school partnership, providing students from both schools meaningful opportunities to interact. CS students have been learning alongside CCPS students for most of the school days across different subjects. They experience recess together, go on learning journeys and school camps and participate in various school events together.   
+Since 1999, CS and CCPS have enjoyed a close school partnership, providing children from both schools meaningful opportunities to interact. CS children have been learning alongside CCPS children for most of the school days across different subjects. They experience recess together, go on learning journeys and school camps and participate in various school events together.   
 
-To provide a more inclusive educational experience for the students, Canossa Mission Singapore (CMS) decided to restructure CS and CCPS under a single school, CCPS. With 25 years of strong school partnership, this restructuring will deepen the existing inclusive culture and build a community where the students diagnosed with hearing loss will have more opportunities to learn and play alongside their hearing peers. 
+To provide a more inclusive educational experience for the children, Canossa Mission Singapore (CMS) decided to restructure CS and CCPS under a single school, CCPS. With 25 years of strong school partnership, this restructuring will deepen the existing inclusive culture and build a community where the children diagnosed with hearing loss will have more opportunities to learn and play alongside their hearing peers. 
 
-Students from both schools will continue to study together in the same form class and participate alongside one another in all school activities. Through interacting with differently-abled peers, the students will cherish each other’s unique gifts and talents. In journeying together, they will learn that while they may be different from one another, they will always be equal in dignity.
+children from both schools will continue to study together in the same form class and participate alongside one another in all school activities. Through interacting with differently-abled peers, the children will cherish each other’s unique gifts and talents. In journeying together, they will learn that while they may be different from one another, they will always be equal in dignity.
 
 
 
