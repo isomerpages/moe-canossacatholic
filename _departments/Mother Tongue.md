@@ -217,28 +217,33 @@ The MTL Department organizes termly internal competitions, providing students wi
 <br>P3 to P6 students get the opportunity to participate in Peraduan Karya Minda Kreatif, which is a national writing competition aimed at cultivating the love of writing creatively in Malay language.</p>
 <br>
 	
-<font size="5" color="#7daadf"><b>Tamil Language Department</b></font>
-<br>
-<font size="4">We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.</font>
+<b><font size="5" color="#7daadf">Tamil Language Department</font></b>
 <br>
 <br>
-<font size="5" color="#7daadf"><b>Tamil Language Key Programme:</b></font>
+We cultivate love for the language by using various hands-on language games and ICT tools to deepen their knowledge and to develop their interest in Tamil Language. We aim to equip our students with a strong foundation in listening, speaking, reading and writing. During the six-year curriculum, our reading programme stimulates their interest and improves their language literacy. Through stories, our students learn to appreciate our culture and the rich history of Tamil language.
+
+<b><font size="5" color="#7daadf">Tamil Language Key Programme:</font></b>
 <br>
-<font size="4">
+
 <b>Tamil Reading Programme (P1-P6)</b>
-<br>Students from Primary 1 to Primary 4 were given the chance to choose books that interest them. Through book exchanges with their peers, they are exposed to various genres. This programme fosters their curiosity and enhances their creativity in writing.<br><br>
+
+Students from Primary 1 to Primary 4 were given the chance to choose books that interest them. Through book exchanges with their peers, they are exposed to various genres. This programme fosters their curiosity and enhances their creativity in writing.<br><br>
 Primary 5 and 6 students subscribe to Tamil Murasu, which enriches their young minds through engagement with the news. This subscription provides students with the opportunity to read and learn about current global events. The knowledge gained from reading the newspaper can be applied in their oral assessments by relating current affairs to the given topics.
-<br>
-<br>
+
+
 <b>Show &amp; Tell (P1 &amp; P2)</b>
-<br>Show and tell for the lower primary is a skill that the department focuses on, as speaking is a fundamental skill. Students are given a topic, and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience. 
-<br>
-<b>Tamil Department Key Activities:</b></font>
-<br>
+
+Show and tell for the lower primary is a skill that the department focuses on, as speaking is a fundamental skill. Students are given a topic, and they work alongside their teachers and parents to come up with a short speech introducing themselves or their interests. This gives them an opportunity to practice their speaking skills in front of an audience. 
+
+
+<b>Tamil Department Key Activities:</b>
+
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>Deepavali Celebration</u></b></font>
-<br>Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. After the assembly programme, students get to engage in recess activities such as crossword puzzles on Deepavali. They get to see a detailed display of the Indian culture ranging from ornaments, food clothing and more.  Students also receive an Indian delicacy to bring back home to share their learnings with their family members.</p> 
 <br>
+Our yearly Deepavali celebration is in line with the yearly themes. Assembly programmes and performances will be part of the celebration to educate everyone about certain important aspects of Deepavali. After the assembly programme, students get to engage in recess activities such as crossword puzzles on Deepavali. They get to see a detailed display of the Indian culture ranging from ornaments, food clothing and more.  Students also receive an Indian delicacy to bring back home to share their learnings with their family members.
+</p> 
+
 <p style="margin-left: 40px">
 <font size="4" color="#eeac0d"><b><u>MTL Fortnight Activities</u></b></font>
 <br>
