@@ -234,8 +234,3 @@ In this module, the children will be empowered to be an advocate for that which 
 * Faith in God and becoming trustworthy persons so that others can have faith in them.<br>
 <br>
 As Leaders of Hope and Sowers of Change, they have the power within them to choose and stand up for that which is good and just for themselves and others, and play their part to make a difference, bring positive change and bring hope to themselves and others.
-
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
