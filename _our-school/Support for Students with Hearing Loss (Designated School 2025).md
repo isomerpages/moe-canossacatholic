@@ -8,7 +8,7 @@ description: ""
 
 <b><font size="5" color="#7daadf">Overview</font></b>
 
-Canossa Catholic Primary School (CCPS) will be a mainstream primary school designated to support students diagnosed with hearing loss (HL) using the Oral Approach from 2 January 2025. The restructuring of CCPS and Canossian School (CS) under 1 school banner – CCPS is a natural next step for both schools. 
+Canossa Catholic Primary School (CCPS) will be a mainstream primary school designated to support children diagnosed with hearing loss (HL) using the Oral Approach from 2 January 2025. The restructuring of CCPS and Canossian School (CS) under 1 school banner – CCPS is a natural next step for both schools. 
 
 Since 1999, CS and CCPS have enjoyed a close school partnership, providing students from both schools meaningful opportunities to interact. CS students have been learning alongside CCPS students for most of the school days across different subjects. They experience recess together, go on learning journeys and school camps and participate in various school events together.   
 
