@@ -183,13 +183,13 @@ All music lessons are carefully planned based on the&nbsp;<b>Experience-Concept-
 
 Children are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
   
-Through learning journeys, such as a trip to the&nbsp;<b>Esplanade (P2)</b>, students will appreciate the different roles musicians play in society. Through the&nbsp;<b>Digital Music Programme (P3 and P4)</b>, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
+Through learning journeys, such as a trip to the&nbsp;<b>Esplanade (P2)</b>, children will appreciate the different roles musicians play in society. Through the&nbsp;<b>Digital Music Programme (P3 and P4)</b>, children will have the opportunity to explore music creation using technology. All children will apply their learning by performing on stage during the Teachers’ Day Celebrations.
 
 	
 ![](/images/Departments/Aesthetics%202.png)
 
 
-Recognising the increasing popularity of digital media in the aesthetics, the use of ICT has been woven into the arts curriculum. For example, our P2 students learn the use of MS Paint while our P5 students learn about Stop-Motion Animation. Our students’ talents are groomed through the Arts Instructional Programme, Arts CCAs and Arts Enrichment Programme. Their confidence in their own talents is enhanced through the provision of opportunities for external performances. In addition, since 2007, all members of Arts CCAs are given opportunities to attend concerts, performances and exhibitions to extend their understanding of the Arts. 
+Recognising the increasing popularity of digital media in the aesthetics, the use of ICT has been woven into the arts curriculum. For example, our P2 children learn the use of MS Paint while our P5 children learn about Stop-Motion Animation. Our childrens’ talents are groomed through the Arts Instructional Programme, Arts CCAs and Arts Enrichment Programme. Their confidence in their own talents is enhanced through the provision of opportunities for external performances. In addition, since 2007, all members of Arts CCAs are given opportunities to attend concerts, performances and exhibitions to extend their understanding of the Arts. 
 <br>
 <br>
 The quality of our Arts Education and that of our performing Arts groups has been recognized through a number of awards, in particular the National Arts Education Award (NAEA) - Silver (2009-2012), the Glow Award (2013-2016) and the SYF Certificates of Accomplishment (2014, 2016 and 2018) in Choir and Modern Dance.
