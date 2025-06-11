@@ -54,7 +54,7 @@ Every child is called to be a Canossian Leader of Life who strives towards devel
 <br>
 <b><font size="5" color="#7daadf">Prefectorial Board</font></b>
 <br><br>
-The Prefectorial Board is the pinnacle of our Student Leadership system. Students who personify our school’s core values of Charity, Humility, Forgiveness and Faith and show strong self-leadership qualities are nominated and interviewed for selection. Those who are selected to be prefects get to hone their leadership skills through various opportunities and programmes detailed below.
+The Prefectorial Board is the pinnacle of our Student Leadership system. Children who personify our school’s core values of Charity, Humility, Forgiveness and Faith and show strong self-leadership qualities are nominated and interviewed for selection. Those who are selected to be prefects get to hone their leadership skills through various opportunities and programmes detailed below.
 <br>
 <br>
 <center>
