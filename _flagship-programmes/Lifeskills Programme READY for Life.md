@@ -226,7 +226,7 @@ Healthy Food Pyramid<br>– Balanced Diet, Nutrition Facts</td>
 <b><font size="4" color="#eeac0d">Be An Advocate – Stand Up Speak Up</font></b>
 <br>
 <br>
-In this module, the students will be empowered to be an advocate for that which is good and just, and live life having
+In this module, the children will be empowered to be an advocate for that which is good and just, and live life having
 <br>
 * Charity to love others as God loves them<br>
 * Humility to admit to their mistakes<br>
