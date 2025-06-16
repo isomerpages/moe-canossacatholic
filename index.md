@@ -33,7 +33,7 @@ sections:
       title: Penang Overseas Programme Cultural Trip
       id: infopic
       button: CLICK HERE
-      url: /our-stories/2025-events/penang-overseas-programme-cultural-trip/
+      url: https://youtu.be/XNN3jX8JVv8
       image: /images/Homepage/GIF_Penang_Overseas_Programme_Cultural_Trip_2025.gif
       alt: Image alt text
   - infopic:
