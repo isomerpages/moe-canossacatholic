@@ -7,12 +7,12 @@ variant: markdown
 ---
 <b><font size="6">Co Curricular Activities</font></b>
 
-CCA is a key component of our students’ holistic education. It provides a platform for students to discover their interests and talents, and develop character, values, social emotional competencies and skills to prepare them for the future.  
+CCA is a key component of our children’s holistic education. It provides a platform for children to discover their interests and talents, and develop character, values, social emotional competencies and skills to prepare them for the future.  
   
-In addition, participation in CCA also encourages social interaction and integration amongst students across levels and diverse backgrounds. By learning alongside others, our students develop friendships and deepen their sense of belonging to the school and the community.  
+In addition, participation in CCA also encourages social interaction and integration amongst children across levels and diverse backgrounds. By learning alongside others, our children develop friendships and deepen their sense of belonging to the school and the community.  
   
 
-<b><font size="5" color="#7daadf">The Co Curricular Activities offered to the Primary 3 to 6 students are as follows:</font></b>
+<b><font size="5" color="#7daadf">The Co Curricular Activities offered to the Primary 3 to 6 children are as follows:</font></b>
 
 <br>
 
@@ -99,8 +99,3 @@ In addition, participation in CCA also encourages social interaction and integra
 </tbody>
 </table>
 
-
-
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>

@@ -26,6 +26,3 @@ In 2024, the Brownies pack clinched the coveted Gold Puan Noor Aishah Award. We 
 <iframe allowfullscreen="true" height="400" width="660" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6AVdK0BpVkru0uY5Oqf5gC5BS-8aa4bCN7bd1471AwqkyUMqTnr8LZ64sDHsqaDitAg8C9M35rzum/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 	
 </center>
-
-<br><br><br><br><br><br>
-<sup>_Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures._</sup>

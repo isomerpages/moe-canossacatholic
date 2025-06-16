@@ -7,7 +7,7 @@ variant: markdown
 ---
 <b><font size="6">HeART &amp; Soul</font></b>
 
-The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Excursion, the Aesthetics Department strives to provide depth and breadth in our students’ experience of the arts as well as inculcate graciousness, resilience and confidence.
+The HeARTS (Holistic Education through the ARTs) programme refers to the school’s aesthetics curriculum. Adopting the E-Cube approach of Exposure, Experience and Excursion, the Aesthetics Department strives to provide depth and breadth in our children’s experience of the arts as well as inculcate graciousness, resilience and confidence.
 <br>
 <br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width:" class="tg">
@@ -37,7 +37,7 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the school�
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">Assembly Programmes</span></td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">To provide an arts programme for our students that develops their appreciation of the various art forms (theatre, dance, music, visual arts, literary arts, film and multimedia).</span>
+<span style="color:#454545;background-color:#FAFAFA">To provide an arts programme for our children that develops their appreciation of the various art forms (theatre, dance, music, visual arts, literary arts, film and multimedia).</span>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the school�
 <span style="color:#454545;background-color:#FAFAFA">Art and Music Curriculum,<br> Talent development,<br> Aesthetics CCAs<br>and platform</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">To give our students opportunities to develop their talents through modular approaches in:</span>
+<span style="color:#454545;background-color:#FAFAFA">To give our children opportunities to develop their talents through modular approaches in:</span>
 <br>
 
 	
@@ -66,7 +66,7 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the school�
 <span style="color:#454545;background-color:#FAFAFA">Learning Journeys</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Each level goes on a learning journey to an arts venue to expose students to a variety of art forms as well as introduce iconic art venues to them.</span>
+<span style="color:#454545;background-color:#FAFAFA">Each level goes on a learning journey to an arts venue to expose children to a variety of art forms as well as introduce iconic art venues to them.</span>
 </td>
 </tr>
 </tbody></table>
@@ -74,7 +74,7 @@ The HeARTS (Holistic Education through the ARTs) programme refers to the school�
 <br>
 <b><font size="5" color="#7daadf">Art Curriculum @ CCPS</font></b>
   
-The art curriculum in our school provides a foundation for all our students to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt &amp; Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
+The art curriculum in our school provides a foundation for all our children to understand art as a way of learning about themselves and the world around them. Through our 6-year HeArt &amp; Soul Art curriculum and programme, we hope to promote a holistic and inclusive culture of growth.  
   
 *   Our art modules are planned based on the Seeing, Expressing, Appreciating (SEA) approach.
 
@@ -99,7 +99,7 @@ The art curriculum in our school provides a foundation for all our students to u
 <span style="color:#454545;background-color:#FAFAFA">Seeing</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Students engage their senses to observe the surroundings, view and discuss artworks to develop their sensory skills, encourage imagination and promote ideas generation.</span>
+<span style="color:#454545;background-color:#FAFAFA">Children engage their senses to observe the surroundings, view and discuss artworks to develop their sensory skills, encourage imagination and promote ideas generation.</span>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ The art curriculum in our school provides a foundation for all our students to u
 <span style="color:#454545;background-color:#FAFAFA">Expressing</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Students generate ideas, experiment and explore different ways to create artworks to communicate their ideas, feelings and experiences.</span>
+<span style="color:#454545;background-color:#FAFAFA">Children generate ideas, experiment and explore different ways to create artworks to communicate their ideas, feelings and experiences.</span>
 </td>
 </tr>
 <tr>
@@ -115,13 +115,13 @@ The art curriculum in our school provides a foundation for all our students to u
 <span style="color:#454545;background-color:#FAFAFA">Appreciating</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Students acquire appropriate art vocabulary to interpret and share about their artworks. They also learn to draw connections and see the relevance of art in their daily lives and the community.</span>
+<span style="color:#454545;background-color:#FAFAFA">Children acquire appropriate art vocabulary to interpret and share about their artworks. They also learn to draw connections and see the relevance of art in their daily lives and the community.</span>
 </td>
 </tr>
 </tbody>
 </table>
 
-*   Students are exposed to different local and global artists and a wide variety of art forms such as 2D, 3D, Design and Digital Media.
+*   Children are exposed to different local and global artists and a wide variety of art forms such as 2D, 3D, Design and Digital Media.
 *   Cooperative learning structures and thinking routines are infused into the different art modules
 
 <center>
@@ -147,7 +147,7 @@ All music lessons are carefully planned based on the&nbsp;<b>Experience-Concept-
 <span style="font-weight:bold;color:#252525">Experience</span>
 </th>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Students experience and perceive the new concept through singing and accompanying kinesthetic, aural and visual activities</span>
+<span style="color:#454545;background-color:#FAFAFA">Children experience and perceive the new concept through singing and accompanying kinesthetic, aural and visual activities</span>
 </td>
 </tr>
 </thead>
@@ -157,7 +157,7 @@ All music lessons are carefully planned based on the&nbsp;<b>Experience-Concept-
 <span style="font-weight:bold;color:#252525">Concept</span>
 </th>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">Teachers will help their students relate the activities in the Experience phase to formal learning</span>
+<span style="color:#454545;background-color:#FAFAFA">Teachers will help their children relate the activities in the Experience phase to formal learning</span>
 </td>
 </tr>
 <tr>
@@ -181,15 +181,15 @@ All music lessons are carefully planned based on the&nbsp;<b>Experience-Concept-
 </tbody></table>
 
 
-Students are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
+Children are exposed to a wide variety of composers and music genres through ‘Genre Studies’ which infuses thinking routines.  
   
-Through learning journeys, such as a trip to the&nbsp;<b>Esplanade (P2)</b>, students will appreciate the different roles musicians play in society. Through the&nbsp;<b>Digital Music Programme (P3 and P4)</b>, students will have the opportunity to explore music creation using technology. All students will apply their learning by performing on stage during the Teachers’ Day Celebrations.
+Through learning journeys, such as a trip to the&nbsp;<b>Esplanade (P2)</b>, children will appreciate the different roles musicians play in society. Through the&nbsp;<b>Digital Music Programme (P3 and P4)</b>, children will have the opportunity to explore music creation using technology. All children will apply their learning by performing on stage during the Teachers’ Day Celebrations.
 
 	
 ![](/images/Departments/Aesthetics%202.png)
 
 
-Recognising the increasing popularity of digital media in the aesthetics, the use of ICT has been woven into the arts curriculum. For example, our P2 students learn the use of MS Paint while our P5 students learn about Stop-Motion Animation. Our students’ talents are groomed through the Arts Instructional Programme, Arts CCAs and Arts Enrichment Programme. Their confidence in their own talents is enhanced through the provision of opportunities for external performances. In addition, since 2007, all members of Arts CCAs are given opportunities to attend concerts, performances and exhibitions to extend their understanding of the Arts. 
+Recognising the increasing popularity of digital media in the aesthetics, the use of ICT has been woven into the arts curriculum. For example, our P2 children learn the use of MS Paint while our P5 children learn about Stop-Motion Animation. Our children’s talents are groomed through the Arts Instructional Programme, Arts CCAs and Arts Enrichment Programme. Their confidence in their own talents is enhanced through the provision of opportunities for external performances. In addition, since 2007, all members of Arts CCAs are given opportunities to attend concerts, performances and exhibitions to extend their understanding of the Arts. 
 <br>
 <br>
 The quality of our Arts Education and that of our performing Arts groups has been recognized through a number of awards, in particular the National Arts Education Award (NAEA) - Silver (2009-2012), the Glow Award (2013-2016) and the SYF Certificates of Accomplishment (2014, 2016 and 2018) in Choir and Modern Dance.
@@ -197,7 +197,3 @@ The quality of our Arts Education and that of our performing Arts groups has bee
 <br>
 
 <img src="/images/Departments/Aesthetics%203.jpg" style="width:75%">
-
-
-<br><br><br><br><br><br>
-<sup><em>Disclaimer: All photos and videos were taken either pre-Covid, or with adherence and compliance to prevailing government regulations and COVID-19 safe management measures.</em></sup>
