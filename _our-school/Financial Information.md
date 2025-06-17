@@ -35,7 +35,7 @@ variant: markdown
 <br>
 <b><span style="color:#454545">Web-site Address: &nbsp; &nbsp;</span></b>
 <a href="https://www.canossacatholicpri.moe.edu.sg/" target="_blank" rel="noopener noreferrer">
-<span style="text-decoration:underline;color:blue">Canossa Catholic Primary School</span>
+<span style="text-decoration:underline;color:blue">https://canossacatholicpri.moe.edu.sg/</span>
 <br>
 <br>
 </a>
@@ -218,4 +218,3 @@ NA
 <b><font size="5" color="#7daadf">2. Financial Information</font></b>
 
 Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest information.
-
