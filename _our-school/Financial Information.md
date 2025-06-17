@@ -179,6 +179,9 @@ All students
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>	
 <span style="font-weight:bold">Key Employees</span>
 <br>
 <br>
@@ -193,15 +196,15 @@ All students
 NA
 <br>
 <br>
-Dr Gerard Ee Hock Kim (Chairman) until 31 May 2025
-Mr Fan Yue Soon Charles (Chairman) with effect from 1 June 2025                                         
-Sr Seow Lee Huang Theresa (Supervisor)                                       
-Mr Chia Heng Chian Dominic (Treasurer)
-Sr Wang Janet (Chaplain)
-Dr Lim Luck Siew (Member)                                         
-Prof Hsu Pon Poh (Member)
-Sr Tan Gek Wah Anne (Member)
-Ms Cheang Chin Neo Frances (Member) until 31 May 2025
+Dr Gerard Ee Hock Kim (Chairman) until 31 May 2025<br>
+Mr Fan Yue Soon Charles (Chairman) with effect from 1 June 2025<br>                                         
+Sr Seow Lee Huang Theresa (Supervisor)<br>                                       
+Mr Chia Heng Chian Dominic (Treasurer)<br>
+Sr Wang Janet (Chaplain)<br>
+Dr Lim Luck Siew (Member)<br>                                       
+Prof Hsu Pon Poh (Member)<br>
+Sr Tan Gek Wah Anne (Member)<br>
+Ms Cheang Chin Neo Frances (Member) until 31 May 2025<br>
 Ms Yee May Kuen Peggy Sarah (Member)
 <br>
 <br>
