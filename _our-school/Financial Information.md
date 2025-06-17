@@ -168,7 +168,7 @@ All students
 <td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Patrons</span>
 <br>
-<br><br>
+<br>
 <span style="font-weight:bold">Trustees/Board Members</span>
 <br>
 <br>
@@ -192,15 +192,17 @@ All students
 NA
 <br>
 <br>
-<br>Dr Gerard Ee Hock Kim (Chairman)                                         
-<br>Sr Seow Lee Huang Theresa (Supervisor)                                       
-<br>Mr Chia Heng Chian Dominic (Treasurer)
-<br>Dr Lim Luck Siew (Member)                                         
-<br>Prof Hsu Pon Poh (Member)
-<br>Mr Fan Yue Soon Charles (Member)
-<br>Sr Tan Gek Wah Anne (Member)
-<br>Ms Cheang Chin Neo (Member)
-<br>Ms Yee May Kuen Peggy Sarah (Member)
+Dr Gerard Ee Hock Kim (Chairman) until 31 May 2025
+Mr Fan Yue Soon Charles (Chairman) with effect from 1 June 2025                                         
+Sr Seow Lee Huang Theresa (Supervisor)                                       
+Mr Chia Heng Chian Dominic (Treasurer)
+Sr Wang Janet (Chaplain)
+Dr Lim Luck Siew (Member)                                         
+Prof Hsu Pon Poh (Member)
+Sr Tan Gek Wah Anne (Member)
+Ms Cheang Chin Neo Frances (Member) until 31 May 2025
+Ms Yee May Kuen Peggy Sarah (Member)
+<br>
 <br>
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
