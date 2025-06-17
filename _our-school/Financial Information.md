@@ -210,7 +210,7 @@ Ms Yee May Kuen Peggy Sarah (Member)
 <br>
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
-<br>Ms Penny Ng (Vice-Principal (Administration))
+<br>Mr Eric Lim (Vice-Principal (Administration))   
 <br>
 <br>
 <br>Assurance Partners LLP
