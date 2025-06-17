@@ -35,7 +35,7 @@ variant: markdown
 <br>
 <b><span style="color:#454545">Web-site Address: &nbsp; &nbsp;</span></b>
 <a href="https://www.canossacatholicpri.moe.edu.sg/" target="_blank" rel="noopener noreferrer">
-<span style="text-decoration:underline;color:blue">Canossa Catholic Primary School</span>
+<span style="text-decoration:underline;color:blue">https://canossacatholicpri.moe.edu.sg/</span>
 <br>
 <br>
 </a>
@@ -94,7 +94,7 @@ The mission of the Education Service is to mould the future of the nation, by mo
 <br>
 <b><font color="#eeac0d">Mission:</font></b>
 <br>
-<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life​.
+<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life.
 
 <br>
 <br>
@@ -120,7 +120,7 @@ All students
 <b><font color="#eeac0d">Programmes/Activities:</font></b>
 <br>
 <br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2023)</span>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2024): </span>
 <br>
 <br>
 <b>1.</b>  Character Development Programme
@@ -130,22 +130,6 @@ All students
 <b>3.</b>  Flagship Programmes
 <br>
 <em>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Sports -</b> PACE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>STEM -</b> MAKE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills -</b> R.E.A.D.Y. For Life<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Art -</b> heART &amp; Soul<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week -</b> Discovering the Unique Me!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
-</em>
-<br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2024)</span>
-<br>
-<b>1.</b>  Character Development Programme
-<br>
-<b>2.</b>  Integrated Programme
-<br>
-<b>3.</b>  Flagship Programmes
-<br>
 <em>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Applied Learning Programme
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</b> MAKE@CCPS<br>
@@ -153,13 +137,30 @@ All students
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>The A.B.C. of Canossian Leadership<br>	
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills Programme
 <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>R.E.A.D.Y. For Life<br>	
-	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>HeARTs Programme</b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - heART &amp; Soul<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week</b> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Discovering the Unique Me!<br>
-</em><b>
+</em>
+<br>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2025): </span>
+<br>
+<b>1.</b>  Character Development Programme
+<br>
+<b>2.</b>  Flagship Programmes
+<br>
+<em>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Applied Learning Programme
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</b> MAKE@CCPS<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Canossian Leadership Programme</b><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills Programme
+<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>R.E.A.D.Y. For Life<br>		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Stretch Academic Programme</b><br>	
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>heART &amp; SOUL</b><br>		
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week</b><br>			
+</em>
 <br>
 <br>
-</b></th>
+</em></th>
 </tr>
 </thead>
 <tbody>
@@ -167,7 +168,7 @@ All students
 <td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Patrons</span>
 <br>
-<br><br>
+<br>
 <span style="font-weight:bold">Trustees/Board Members</span>
 <br>
 <br>
@@ -179,31 +180,38 @@ All students
 <br>
 <br>
 <br>
+<br>
+<br>	
 <span style="font-weight:bold">Key Employees</span>
+<br>
 <br>
 <br>
 <br>
 <br>
 <span style="font-weight:bold">Auditor</span>
 <br>
+<br>	
 </td>
 <td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 NA
 <br>
 <br>
-<br>Dr Gerard Ee Hock Kim (Chairman)                                         
-<br>Sr Seow Lee Huang Theresa (Supervisor)                                       
-<br>Mr Chia Heng Chian Dominic (Treasurer)
-<br>Dr Lim Luck Siew (Member)                                         
-<br>Prof Hsu Pon Poh (Member)
-<br>Mr Fan Yue Soon Charles (Member)
-<br>Sr Tan Gek Wah Anne (Member)
-<br>Ms Cheang Chin Neo (Member)
-<br>Ms Yee May Kuen Peggy Sarah (Member)
+Dr Gerard Ee Hock Kim (Chairman) until 31 May 2025<br>
+Mr Fan Yue Soon Charles (Chairman) with effect from 1 June 2025<br>                                         
+Sr Seow Lee Huang Theresa (Supervisor)<br>                                       
+Mr Chia Heng Chian Dominic (Treasurer)<br>
+Sr Wang Janet (Chaplain)<br>
+Dr Lim Luck Siew (Member)<br>                                       
+Prof Hsu Pon Poh (Member)<br>
+Sr Tan Gek Wah Anne (Member)<br>
+Ms Cheang Chin Neo Frances (Member) until 31 May 2025<br>
+Ms Yee May Kuen Peggy Sarah (Member)
+<br>
 <br>
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
 <br>Ms Penny Ng (Vice-Principal (Administration))
+<br>
 <br>
 <br>Assurance Partners LLP
 <br>
@@ -218,4 +226,3 @@ NA
 <b><font size="5" color="#7daadf">2. Financial Information</font></b>
 
 Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest information.
-
