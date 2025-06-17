@@ -179,14 +179,15 @@ All students
 <br>
 <br>
 <br>
-<br>
 <span style="font-weight:bold">Key Employees</span>
+<br>
 <br>
 <br>
 <br>
 <br>
 <span style="font-weight:bold">Auditor</span>
 <br>
+<br>	
 </td>
 <td style="background-color:#F8F8F8;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 NA
@@ -207,6 +208,7 @@ Ms Yee May Kuen Peggy Sarah (Member)
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
 <br>Ms Penny Ng (Vice-Principal (Administration))
+<br>
 <br>
 <br>Assurance Partners LLP
 <br>
