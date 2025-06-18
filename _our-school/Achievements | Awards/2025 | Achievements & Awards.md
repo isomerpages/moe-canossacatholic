@@ -82,7 +82,11 @@ third_nav_title: Achievements | Awards
 	
 <tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Elizabeth Kong</span></td>
 
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">4 Joy</span></td></tr>				
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">4 Joy</span></td></tr>			
+	
+<tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">Diyamika Harini Kumaran</span></td>
+
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:4px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#454545;background-color:#FAFAFA">4 Peace</span></td></tr>					
 
 </tbody></table><table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
