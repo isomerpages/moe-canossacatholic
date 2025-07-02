@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
+      title: Newsbites
+      description: July 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_July_2025.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
       button: CLICK HERE
@@ -70,13 +77,6 @@ sections:
       url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
       image: /images/Homepage/Highlights___Canossa_Connects.jpg
       alt: Canossa Connects - Term 1 2025
-  - infopic:
-      title: Newsbites
-      description: July 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_July_2025.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Pui Tak Canossian Primary School Visit
       id: infopic
