@@ -72,9 +72,9 @@ sections:
       alt: Canossa Connects - Term 1 2025
   - infopic:
       title: Newsbites
-      description: May 2025
+      description: July 2025
       button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_May_2025.pdf
+      url: /files/Newsbites/2025/Canossa_Newsbites_July_2025.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
