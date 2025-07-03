@@ -16,6 +16,15 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
+      title: P1 Registration
+      id: infopic
+      button: Click Here
+      url: /useful-information/p1-registration/
+      image: /images/Homepage/GIF_P1_Registration.gif
+      alt: P1 Registration
+      description: Interested to register your child at our school? Join us for a Chit
+        Chat session.
+  - infopic:
       title: Newsbites
       description: July 2025
       button: Click here
@@ -60,15 +69,6 @@ sections:
       url: /our-stories/2025-events/giubileo-della-speranza/
       image: /images/Homepage/GIF_Giubileo_della_Speranza___Stories_2025.gif
       alt: Interest Week
-  - infopic:
-      title: P1 Registration
-      id: infopic
-      button: Click Here
-      url: /useful-information/p1-registration/
-      image: /images/Homepage/GIF_P1_Registration.gif
-      alt: P1 Registration
-      description: Interested to register your child at our school? Join us for a Chit
-        Chat session.
   - infopic:
       title: Canossa Connects
       id: infopic
