@@ -179,8 +179,6 @@ All students
 <br>
 <br>
 <br>
-<br>
-<br>
 <br>	
 <span style="font-weight:bold">Key Employees</span>
 <br>
