@@ -224,3 +224,4 @@ Ms Yee May Kuen Peggy Sarah (Member)
 <b><font size="5" color="#7daadf">2. Financial Information</font></b>
 
 Please click&nbsp;[here](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)&nbsp;to view the latest information.
+<br>
