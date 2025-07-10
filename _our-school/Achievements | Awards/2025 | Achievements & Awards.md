@@ -568,6 +568,7 @@ third_nav_title: Achievements | Awards
 </table>	
 
 <br>
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
@@ -702,21 +703,23 @@ third_nav_title: Achievements | Awards
 </table>	
 
 <br>
-<br><table style="border-collapse:collapse;border-spacing:0" class="tg">
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
 <thead>
-<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Visual Arts</span>
-</th></tr></thead>
+<tr>
+<th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Visual Arts</span>
+</th>
+</tr>
+</thead>
 	
 <tbody>
-
 <tr>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Name</td>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Class</td>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Event</td>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</td>	
 </tr>		
-	
 <tr>
 <td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">Leong Jun Yi, Travis</td>
 <td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">5 Peace</td>
@@ -734,22 +737,27 @@ third_nav_title: Achievements | Awards
 <tr>
 <td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">World Charity Painitng Competition 2024</td>
 <td style="background-color:#FAFAFA;border-color:#00000;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal">Obtained Silver / Best composition</td>	
+</tr>
+</tbody>
+</table>
 
+<br>
 
-</tr></tbody></table><table style="border-collapse:collapse;border-spacing:0" class="tg">
-	
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
-<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Infocomm Club</span>
-</th></tr></thead>
+<tr>
+<th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Infocomm Club</span>
+</th>
+</tr>
+</thead>
 
-<tbody><tr>
+<tbody>
+<tr>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Name</td>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Class</td>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Event</td>
 <td style="background-color:#ebf3fa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:2px 5px;text-align:center;vertical-align:top;word-break:normal">Achievement</td>	
 </tr>		
-
-
 <tr>
 <td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">Adona Guadalin Muthuraj</td>
 <td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="4">6 Hope</td>
