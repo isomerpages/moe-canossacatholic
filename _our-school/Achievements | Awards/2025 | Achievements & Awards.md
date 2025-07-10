@@ -711,7 +711,7 @@ third_nav_title: Achievements | Awards
 <th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525">Visual Arts</span>
 </th>
 </tr>
-	</thead>
+</thead>
 	
 <tbody>
 <tr>
