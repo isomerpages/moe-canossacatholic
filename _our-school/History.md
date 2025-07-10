@@ -2,8 +2,9 @@
 title: History
 permalink: /our-school/history/
 description: ""
+variant: markdown
 ---
-<b><font size=6>History</font></b>
+<b><font size="6">History</font></b>
 
   
 Canossa Catholic Primary School (CCPS) is a co-educational Catholic school that centres its entire curriculum on the Canossian Education, which emphasizes on the Formation of the Heart. Previously known as Canossa Convent Primary School, it was established in 1941 by the Canossian Daughters of Charity in Singapore.  
@@ -72,12 +73,12 @@ Rather it was for the greater glory of God.
 </b>
 </center>
 	
-In its emphasis on the Formation of the Heart, children are encouraged and affirmed in their personal growth as a child of God. The school strives to cultivate a personal relationship with God in everyone and a community spirit of love and acceptance. Mother Foundress, St Magdalene of Canossa, spread her love of Jesus through works of great service and belief in <b>“the conduct of one’s whole life depends on education”</b>.
+In its emphasis on the Formation of the Heart, children are encouraged and affirmed in their personal growth as a child of God. The school strives to cultivate a personal relationship with God in everyone and a community spirit of love and acceptance. Mother Foundress, St Magdalene of Canossa, spread her love of Jesus through works of great service and belief in&nbsp;<b>“the conduct of one’s whole life depends on education”</b>.
 
 Anchoring on that, Canossian educators recognise the need to develop the child’s attitudes, behaviours and respect, for the dignity of others. The school’s culture of love and care enables each Canossian daughter and son to become the best versions of themselves for God and others.
 
 <br>
-<font size=5 color="#7daadf"><b>SCHOOL INFOGRAPH AND MILESTONE
+<font size="5" color="#7daadf"><b>SCHOOL INFOGRAPH AND MILESTONE
 </b>
 </font>
 <br>
@@ -160,7 +161,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">1981</span>
 </td>
@@ -169,7 +170,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">1996</span>
 </td>
@@ -178,7 +179,7 @@ Classes were conducted by the Canossian Sisters.</span>
 
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:center;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">1999</span>
 </td>
@@ -187,7 +188,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2001</span>
 </td>
@@ -196,7 +197,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:middle;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2009</span>
 </td>
@@ -208,7 +209,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2011</span>
 </td>
@@ -217,7 +218,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <br>
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2012</span>
 </td>
@@ -225,7 +226,7 @@ Classes were conducted by the Canossian Sisters.</span>
 <span style="color:#454545;background-color:#FAFAFA">CCPS started MOE PRIME (Programme for Improving Existing Schools) to become single-session. The school was relocated to a holding site.
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2014 </span>
 </td>
@@ -235,7 +236,7 @@ Classes were conducted by the Canossian Sisters.</span>
 
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2016</span>
 </td>
@@ -252,7 +253,7 @@ Sister Theresa Seow, then Provincial Leader of the Canossian Daughters of Charit
 <br>
 <br>
 
-<tr>
+</td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2018</span>
 </td>
@@ -264,7 +265,7 @@ Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Si
 <img src="/images/History/Milestone%207.jpg" style="width:75%">
 <br>
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:middle;vertical-align:middle;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2019</span>
 </td>
@@ -272,9 +273,9 @@ Sister Theresa, then Provincial Leader of the Canossian Daughters of Charity (Si
 <span style="color:#454545;background-color:#FAFAFA">Canossa Convent Primary School was renamed Canossa Catholic Primary School as it prepares to take in boys at the Primary 1 level as a co-educational school.
 
 
-<tr>
+</span></td></tr><tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
 <span style="color:#454545;background-color:#FAFAFA">2021</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:, sans-serif;font-size:14px;overflow:hidden;padding:20px 15px;text-align:left;vertical-align:top;word-break:normal">
-<span style="color:#454545;background-color:#FAFAFA">CCPS celebrates its <a href="/our-school/history/celebrating-canossas-80th-birthday/celebration-15-august-2021/">80th anniversary.</a>
+<span style="color:#454545;background-color:#FAFAFA">CCPS celebrates its <a href="/our-school/history/celebrating-canossas-80th-birthday/celebration-15-august-2021/">80th anniversary.</a></span></td></tr></tbody></table><br>
