@@ -24,19 +24,19 @@ sections:
       alt: P1 Registration
       description: Interested to register your child at our school?
   - infopic:
-      title: Newsbites
-      description: July 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_July_2025.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
-  - infopic:
       title: P5 NE Show
       id: infopic
       button: Click Here
       url: /our-stories/2025-events/p5-ne-show/
       alt: Image alt text
       image: /images/Homepage/GIF_P5_NE_Show_2025.gif
+  - infopic:
+      title: Newsbites
+      description: July 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_July_2025.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
