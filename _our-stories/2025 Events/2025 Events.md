@@ -36,7 +36,13 @@ third_nav_title: 2025 Events
 
 <br><br><br><br><br><br>	
 		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/hari-raya-celebration/"><img src="/images/Our%20Stories/2025/Hari_Raya_Celebration___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>				
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/easter-paraliturgy/"><img src="/images/Our%20Stories/2025/Easter_Paraliturgy___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
+		
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/outreach-to-villa-francis/"><img src="/images/Our%20Stories/2025/Outreach_to_Villa_Francis___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
+	
+<br><br><br><br><br><br>		
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/world-water-day/"><img src="/images/Our%20Stories/2025/World_Water_Day___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
 	
