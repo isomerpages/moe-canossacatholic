@@ -64,6 +64,8 @@ third_nav_title: 2025 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/bible-camp/"><img src="/images/Our%20Stories/2025/Bible_Camp___Cover_Photo.png" style="width:200px;height:210px;margin-right:10px;" align="left"></a></p>			
 	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/p5-ne-show/"><img src="/images/Our%20Stories/2025/P5_NE_Show___Cover_Photo.png" style="width:190px;height:210px;margin-right:10px;" align="left"></a></p>		
+	
 <br><br><br><br><br><br>		
 	
 </center>
