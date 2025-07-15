@@ -20,7 +20,7 @@ sections:
       id: infopic
       button: Click Here
       url: /useful-information/p1-registration/
-      image: /images/Homepage/Highlights_P1_Registration.gif
+      image: /images/Homepage/GIF_P1_Registration_2.gif
       alt: P1 Registration
       description: Interested to register your child at our school?
   - infopic:
