@@ -36,17 +36,25 @@ third_nav_title: 2025 Events
 
 <br><br><br><br><br><br>	
 		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/hari-raya-celebration/"><img src="/images/Our%20Stories/2025/Hari_Raya_Celebration___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>				
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/easter-paraliturgy/"><img src="/images/Our%20Stories/2025/Easter_Paraliturgy___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
+		
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/outreach-to-villa-francis/"><img src="/images/Our%20Stories/2025/Outreach_to_Villa_Francis___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
+	
+<br><br><br><br><br><br>		
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/world-water-day/"><img src="/images/Our%20Stories/2025/World_Water_Day___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/green-leaders-and-ambassadors-training/"><img src="/images/Our%20Stories/2025/Green_Leaders_and_Ambassadors_Training___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>	
 	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/earth-day-celebration/"><img src="/images/Our%20Stories/2025/Earth_Day_Celebrations___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
+	
 <br><br><br><br><br><br>	
 		
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/earth-day-celebration/"><img src="/images/Our%20Stories/2025/Earth_Day_Celebrations___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
-	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/giubileo-della-speranza/"><img src="/images/Our%20Stories/2025/Giubileo_della_Speranza___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>		
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/may-devotion-paraliturgy/"><img src="/images/Our%20Stories/2025/May_Devotion_Paraliturgy___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>	
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/aesthetics-assembly/"><img src="/images/Our%20Stories/2025/Aesthetics_Assembly_Programme___Cover_Photo.png" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>			
 	
@@ -58,7 +66,7 @@ third_nav_title: 2025 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/penang-overseas-programme-cultural-trip/"><img src="/images/Our%20Stories/2025/Penang_Overseas_Programme_Cultural_Trip___Cover_Photo.png" style="width:200px;height:210px;margin-right:10px;" align="left"></a></p>		
 	
-<br><br><br><br><br><br>
+<br><br><br><br><br><br>		
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/hong-kong-stem-trip/"><img src="/images/Our%20Stories/2025/Hong_Kong_STEM_Trip___Cover_Photo.png" style="width:200px;height:210px;margin-right:10px;" align="left"></a></p>	
 	
