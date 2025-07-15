@@ -31,6 +31,12 @@ sections:
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
+      title: P5 NE Show
+      id: infopic
+      button: Click Here
+      url: /our-stories/2025-events/p5-ne-show/
+      alt: Image alt text
+  - infopic:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
       button: CLICK HERE
