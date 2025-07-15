@@ -36,6 +36,7 @@ sections:
       button: Click Here
       url: /our-stories/2025-events/p5-ne-show/
       alt: Image alt text
+      image: /images/Homepage/GIF_P5_NE_Show_2025.gif
   - infopic:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
