@@ -24,12 +24,12 @@ sections:
       alt: P1 Registration
       description: Interested to register your child at our school?
   - infopic:
-      title: P5 NE Show
+      title: Jubilee of Children
       id: infopic
       button: Click Here
-      url: /our-stories/2025-events/p5-ne-show/
+      url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/jubilee-of-children/
       alt: Image alt text
-      image: /images/Homepage/GIF_P5_NE_Show_2025.gif
+      image: /images/Homepage/GIF_Jubilee_of_Children_2025.gif
   - infopic:
       title: Newsbites
       description: July 2025
