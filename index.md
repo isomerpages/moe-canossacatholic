@@ -32,9 +32,9 @@ sections:
       image: /images/Homepage/GIF_Jubilee_of_Children_2025.gif
   - infopic:
       title: Newsbites
-      description: July 2025
+      description: August 2025
       button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_July_2025.pdf
+      url: /files/Newsbites/2025/Canossa_Newsbites_August_2025.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
