@@ -858,7 +858,7 @@ description: ""
 <span style="color:#454545">4 Hope</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">	zhou_qian_1@moe.edu.sg</span>
+<span style="color:#454545">zhou_qian_1@moe.edu.sg</span>
 <br>
 </td>
 </tr>		
