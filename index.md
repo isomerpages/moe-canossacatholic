@@ -24,12 +24,12 @@ sections:
       alt: P1 Registration
       description: Interested to register your child at our school?
   - infopic:
-      title: Jubilee of Children
+      title: National Day Celebrations
       id: infopic
       button: Click Here
-      url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/jubilee-of-children/
+      url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/national-day-celebrations/
       alt: Image alt text
-      image: /images/Homepage/GIF_Jubilee_of_Children_2025.gif
+      image: /images/Homepage/GIF_National_Day_2025.gif
   - infopic:
       title: Newsbites
       description: August 2025
@@ -37,6 +37,14 @@ sections:
       url: /files/Newsbites/2025/Canossa_Newsbites_August_2025.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
+  - infopic:
+      title: Canossa Connects
+      id: infopic
+      description: Term 1 2025
+      button: Click Here
+      url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
+      image: /images/Homepage/Highlights___Canossa_Connects.jpg
+      alt: Canossa Connects - Term 1 2025
   - infopic:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
@@ -75,14 +83,6 @@ sections:
       url: /our-stories/2025-events/giubileo-della-speranza/
       image: /images/Homepage/GIF_Giubileo_della_Speranza___Stories_2025.gif
       alt: Interest Week
-  - infopic:
-      title: Canossa Connects
-      id: infopic
-      description: Term 1 2025
-      button: Click Here
-      url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
-      image: /images/Homepage/Highlights___Canossa_Connects.jpg
-      alt: Canossa Connects - Term 1 2025
   - infopic:
       title: Pui Tak Canossian Primary School Visit
       id: infopic
