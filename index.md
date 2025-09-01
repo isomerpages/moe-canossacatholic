@@ -16,13 +16,21 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
-      title: P1 Registration
+      title: Catholic Education Sunday
       id: infopic
       button: Click Here
-      url: /useful-information/p1-registration/
-      image: /images/Homepage/GIF_P1_Registration_2.gif
-      alt: P1 Registration
-      description: Interested to register your child at our school?
+      url: /our-stories/2025-events/catholic-education-sunday/
+      image: /images/Homepage/GIF_Catholic_Education_Sunday_2025.gif
+      description: On 24 August, our Catholic students and staff served at the Church
+        of St Stephen and Church of Queen of Peace.
+      alt: Catholic Education Sunday
+  - infopic:
+      title: Newsbites
+      description: September 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_September_2025.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: National Day Celebrations
       id: infopic
@@ -30,13 +38,6 @@ sections:
       url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/national-day-celebrations/
       alt: Image alt text
       image: /images/Homepage/GIF_National_Day_2025.gif
-  - infopic:
-      title: Newsbites
-      description: August 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_August_2025.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossa Connects
       id: infopic
