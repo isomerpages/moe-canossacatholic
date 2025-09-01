@@ -23,6 +23,7 @@ sections:
       image: /images/Homepage/GIF_Catholic_Education_Sunday_2025.gif
       description: On 24 August, our Catholic students and staff served at the Church
         of St Stephen and Church of Queen of Peace.
+      alt: Catholic Education Sunday
   - infopic:
       title: Newsbites
       description: September 2025
