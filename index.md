@@ -16,13 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
-      title: P1 Registration
+      title: Catholic Education Sunday
       id: infopic
       button: Click Here
-      url: /useful-information/p1-registration/
-      image: /images/Homepage/GIF_P1_Registration_2.gif
-      alt: P1 Registration
-      description: Interested to register your child at our school?
+      url: /our-stories/2025-events/catholic-education-sunday/
+      image: /images/Homepage/GIF_Catholic_Education_Sunday_2025.gif
+      description: On 24 August, our Catholic students and staff served at the Church
+        of St Stephen and Church of Queen of Peace.
   - infopic:
       title: National Day Celebrations
       id: infopic
