@@ -24,19 +24,19 @@ sections:
       description: On 24 August, our Catholic students and staff served at the Church
         of St Stephen and Church of Queen of Peace.
   - infopic:
+      title: Newsbites
+      description: September 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_September_2025.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: National Day Celebrations
       id: infopic
       button: Click Here
       url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/national-day-celebrations/
       alt: Image alt text
       image: /images/Homepage/GIF_National_Day_2025.gif
-  - infopic:
-      title: Newsbites
-      description: August 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_August_2025.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossa Connects
       id: infopic
