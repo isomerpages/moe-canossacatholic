@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - 2025 Events/Catholic Education Sunday.md
       - 2025 Events/.keep
       - 2025 Events/2025 Events.md
       - 2025 Events/P1 Orientation.md
@@ -34,6 +33,7 @@ collections:
       - 2025 Events/Family Mass (In Celebration of Grandparents' Day).md
       - 2025 Events/Jubilee of Children.md
       - 2025 Events/National Day Celebrations.md
+      - 2025 Events/Catholic Education Sunday.md
       - 2024 Events/.keep
       - 2024 Events/2024 Events.md
       - 2024 Events/P1 Orientation.md
