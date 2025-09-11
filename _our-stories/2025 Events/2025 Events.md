@@ -89,8 +89,10 @@ third_nav_title: 2025 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/national-day-celebrations/"><img src="/images/Our%20Stories/2025/National_Day_Celebration___Cover_Photo.png" style="width:195px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>	
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/catholic-education-sunday/"><img src="/images/Our%20Stories/2025/Catholic_Education_Sunday___Cover_Photo.jpg" style="width:200px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>		
+		
+<br><br><br><br><br><br>		
 	
-
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/teachers-day-celebration/"><img src="/images/Our%20Stories/2025/Teachers__Day_Celebration___Cover_Photo.jpg" style="width:190px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>		
 	
 <br><br><br><br><br><br>			
 	
