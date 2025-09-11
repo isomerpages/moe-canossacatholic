@@ -32,12 +32,12 @@ sections:
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
-      title: National Day Celebrations
+      title: Teachers' Day Celebration
       id: infopic
       button: Click Here
-      url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/national-day-celebrations/
+      url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/teachers-day-celebration/
       alt: Image alt text
-      image: /images/Homepage/GIF_National_Day_2025.gif
+      image: /images/Homepage/GIF_Teachers__Day_Celebration_2025.gif
   - infopic:
       title: Canossa Connects
       id: infopic
