@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
+      title: Teachers' Day Celebration
+      id: infopic
+      button: Click Here
+      url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/teachers-day-celebration/
+      alt: Image alt text
+      image: /images/Homepage/GIF_Teachers__Day_Celebration_2025.gif
+  - infopic:
       title: Catholic Education Sunday
       id: infopic
       button: Click Here
@@ -31,13 +38,6 @@ sections:
       url: /files/Newsbites/2025/Canossa_Newsbites_September_2025.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
-  - infopic:
-      title: Teachers' Day Celebration
-      id: infopic
-      button: Click Here
-      url: https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/teachers-day-celebration/
-      alt: Image alt text
-      image: /images/Homepage/GIF_Teachers__Day_Celebration_2025.gif
   - infopic:
       title: Canossa Connects
       id: infopic
