@@ -16,6 +16,14 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
   - infopic:
+      title: Canossa Connects
+      id: infopic
+      description: Term 2 2025
+      button: Click Here
+      url: https://www.flipbookpdf.net/web/site/ee5dccebcf9870babc07779ed1a55962afa26ba9202509.pdf.html
+      image: /images/Homepage/Highlights___Canossa_Connects.jpg
+      alt: Canossa Connects - Term 1 2025
+  - infopic:
       title: Teachers' Day Celebration
       id: infopic
       button: Click Here
@@ -38,14 +46,6 @@ sections:
       url: /files/Newsbites/2025/Canossa_Newsbites_September_2025.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
-  - infopic:
-      title: Canossa Connects
-      id: infopic
-      description: Term 1 2025
-      button: Click Here
-      url: https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html
-      image: /images/Homepage/Highlights___Canossa_Connects.jpg
-      alt: Canossa Connects - Term 1 2025
   - infopic:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
