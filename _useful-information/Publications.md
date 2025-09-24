@@ -23,6 +23,7 @@ variant: markdown
 <font size="5" color="#eeac0d"><b>Canossa Connects</b></font>
 
 * [Canossa Connects - Term 1](https://www.flipbookpdf.net/web/site/36015b910c93f65f1b71731fe979206e79f92af6202504.pdf.html)<br>
+* [Canossa Connects - Term 2](https://www.flipbookpdf.net/web/site/ee5dccebcf9870babc07779ed1a55962afa26ba9202509.pdf.html)<br>
 <br>
 
 <font size="6" color="#7daadf"><b>2024</b></font>
