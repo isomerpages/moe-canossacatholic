@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/ee5dccebcf9870babc07779ed1a55962afa26ba9202509.pdf.html
   - infopic:
+      title: Newsbites
+      description: October 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_October_2025.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Canossa Connects
       id: infopic
       description: Term 2 2025
@@ -39,13 +46,6 @@ sections:
       description: On 24 August, our Catholic students and staff served at the Church
         of St Stephen and Church of Queen of Peace.
       alt: Catholic Education Sunday
-  - infopic:
-      title: Newsbites
-      description: September 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_September_2025.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Kluang Malaysia Overseas Leadership Programme
       id: infopic
