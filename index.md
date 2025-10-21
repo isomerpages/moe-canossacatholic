@@ -14,7 +14,7 @@ sections:
           url: /our-stories/2025-events/2025-events/
         - title: Canossa Connects
           description: ""
-          url: https://www.flipbookpdf.net/web/site/ee5dccebcf9870babc07779ed1a55962afa26ba9202509.pdf.html
+          url: https://www.flipbookpdf.net/web/site/74bb981017aec051e8ebc9413ae7168e80d1c4f2202510.pdf.html#page/1
   - infopic:
       title: Canossa Connects
       id: infopic
