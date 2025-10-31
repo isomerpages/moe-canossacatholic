@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/74bb981017aec051e8ebc9413ae7168e80d1c4f2202510.pdf.html#page/1
   - infopic:
+      title: Newsbites
+      description: November 2025
+      button: Click here
+      url: /files/Newsbites/2025/Canossa_Newsbites_November_2025.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Canossa Connects
       id: infopic
       description: Term 3 2025
@@ -30,13 +37,6 @@ sections:
       url: /our-stories/2025-events/childrens-day-celebration/
       alt: Image alt text
       image: /images/Homepage/GIF_Children_s_Day_Celebration_2025.gif
-  - infopic:
-      title: Newsbites
-      description: October 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_October_2025.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Catholic Education Sunday
       id: infopic
