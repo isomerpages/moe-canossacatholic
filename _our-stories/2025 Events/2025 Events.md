@@ -104,7 +104,7 @@ third_nav_title: 2025 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/thanksgiving-mass/"><img src="/images/Our%20Stories/2025/Thanksgiving_Mass___Cover_Photo.jpg" style="width:195px;height:215px;margin-left:11px;margin-right:10px;" align="left"></a></p>	
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/p6-graduation-ceremony/"><img src="/images/Our%20Stories/2025/P6_Graduation_Day___Cover_Photo.jpg" style="width:195px;height:215px;margin-left:11px;margin-right:10px;" align="left"></a></p>			
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/p6-graduation-ceremony/"><img src="/images/Our%20Stories/2025/P6_Graduation_Day___Cover_Photo.jpg" style="width:200px;height:215px;margin-left:11px;margin-right:10px;" align="left"></a></p>			
 	
 <br><br><br><br><br><br>		
 	
