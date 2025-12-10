@@ -84,11 +84,11 @@ third_nav_title: 2025 Events
 
 <br><br><br><br><br><br>			
 
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/jubilee-of-children/"><img src="/images/Our%20Stories/2025/Jubilee_of_Children___Cover_Photo.jpg" style="width:190px;height:210;margin-left:3px;margin-right:10px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/jubilee-of-children/"><img src="/images/Our%20Stories/2025/Jubilee_of_Children___Cover_Photo.jpg" style="width:190px;height:210px;margin-left:3px;margin-right:10px;" align="left"></a></p>		
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/national-day-celebrations/"><img src="/images/Our%20Stories/2025/National_Day_Celebration___Cover_Photo.png" style="width:195px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>	
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/catholic-education-sunday/"><img src="/images/Our%20Stories/2025/Catholic_Education_Sunday___Cover_Photo.jpg" style="width:200px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/catholic-education-sunday/"><img src="/images/Our%20Stories/2025/Catholic_Education_Sunday___Cover_Photo.jpg" style="width:200px;height:210px;margin-left:11px;margin-right:10px;" align="left"></a></p>		
 		
 <br><br><br><br><br><br>		
 	
@@ -100,11 +100,11 @@ third_nav_title: 2025 Events
 	
 <br><br><br><br><br><br>			
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/all-saints-day-family-mass/"><img src="/images/Our%20Stories/2025/All_Saints_Day_Family_Mass___Cover_Photo.jpg" style="width:195px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/all-saints-day-family-mass/"><img src="/images/Our%20Stories/2025/All_Saints_Day_Family_Mass___Cover_Photo.jpg" style="width:195px;height:210px;margin-left:11px;margin-right:10px;" align="left"></a></p>	
 	
-<p><a href=""><img src="" style="width:195px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/thanksgiving-mass/"><img src="/images/Our%20Stories/2025/Thanksgiving_Mass___Cover_Photo.jpg" style="width:195px;height:215px;margin-left:11px;margin-right:10px;" align="left"></a></p>	
 	
-<p><a href=""><img src="" style="width:195px;height:210;margin-left:11px;margin-right:10px;" align="left"></a></p>		
+<p><a href=""><img src="" style="width:195px;height:215px;margin-left:11px;margin-right:10px;" align="left"></a></p>		
 	
 <br><br><br><br><br><br>		
 	
