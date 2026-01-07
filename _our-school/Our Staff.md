@@ -779,7 +779,7 @@ description: ""
 <span style="color:#454545">4 Peace</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">jeraldine_rachel_goh@moe.gov.sg</span>
+<span style="color:#454545">goh_ei_hua@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -824,7 +824,7 @@ description: ""
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mr Jospeh Peh</span>
+<span style="color:#454545">Mr Joseph Peh</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
