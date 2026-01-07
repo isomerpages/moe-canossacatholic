@@ -199,7 +199,7 @@ description: ""
 <span style="color:#454545">Mrs Pearlyn Mary-Anne Tan</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">SH Student Leadership &amp; Discipline</span>
+<span style="color:#454545">Subject Head Student Leadership &amp; Discipline</span>
 </td>
 </tr>	
 <tr>
@@ -207,7 +207,7 @@ description: ""
 <span style="color:#454545">Mdm Jeraldine Goh</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">SH High Ability</span>
+<span style="color:#454545">Subject Head High Ability</span>
 </td>
 </tr>	
 	<tr>
