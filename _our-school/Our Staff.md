@@ -104,7 +104,7 @@ description: ""
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">HOD Special Educational Needs (SEN)</span>
+<span style="color:#454545">Head of Department Special Educational Needs (SEN)</span>
 <br>
 </td>
 </tr>
@@ -199,7 +199,7 @@ description: ""
 <span style="color:#454545">Mrs Pearlyn Mary-Anne Tan</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">SH Student Leadership &amp; Discipline</span>
+<span style="color:#454545">Subject Head Student Leadership &amp; Discipline</span>
 </td>
 </tr>	
 <tr>
@@ -207,7 +207,7 @@ description: ""
 <span style="color:#454545">Mdm Jeraldine Goh</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">SH High Ability</span>
+<span style="color:#454545">Subject Head High Ability</span>
 </td>
 </tr>	
 	<tr>
@@ -779,7 +779,7 @@ description: ""
 <span style="color:#454545">4 Peace</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">jeraldine_rachel_goh@moe.gov.sg</span>
+<span style="color:#454545">goh_ei_hua@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -824,7 +824,7 @@ description: ""
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mr Jospeh Peh</span>
+<span style="color:#454545">Mr Joseph Peh</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
