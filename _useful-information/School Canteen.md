@@ -10,7 +10,7 @@ variant: markdown
 
 | Type of Stall | Closing Date |
 | -------- | -------- |
-| Noodle Stall (Non-Halal) | 31 Dec 2025 |
+| Noodle Stall (Non-Halal) | 31 March 2026 |
 
 
 
