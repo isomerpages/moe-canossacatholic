@@ -6,6 +6,14 @@ variant: markdown
 ---
 <font size="6"><b>Publications</b></font><br>
 
+<font size="6" color="#7daadf"><b>2026</b></font>
+<br>
+<font size="5" color="#eeac0d"><b>Canossa Newsbites</b></font>
+
+* [Canossa Newsbites - January](/files/Newsbites/2026/Canossa_Newsbites__January_2026_.pdf)
+<br>
+<br>
+
 <font size="6" color="#7daadf"><b>2025</b></font>
 <br>
 <font size="5" color="#eeac0d"><b>Canossa Newsbites</b></font>
