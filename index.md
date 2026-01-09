@@ -16,19 +16,19 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/74bb981017aec051e8ebc9413ae7168e80d1c4f2202510.pdf.html#page/1
   - infopic:
+      title: Newsbites
+      description: January 2026
+      button: Click here
+      url: /files/Newsbites/2026/Canossa_Newsbites__January_2026_.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Awards Presentation Day
       id: infopic
       button: Click Here
       url: /our-stories/2025-events/awards-presentation-day/
       alt: Image alt text
       image: /images/Homepage/GIF_Awards_Presentation_Day_2025.gif
-  - infopic:
-      title: Newsbites
-      description: November 2025
-      button: Click here
-      url: /files/Newsbites/2025/Canossa_Newsbites_November_2025.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossa Connects
       id: infopic
