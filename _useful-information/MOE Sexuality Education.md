@@ -17,13 +17,13 @@ variant: markdown
 <br>
 <b>(b)</b>&nbsp; &nbsp;&nbsp; Guide students to make wise, informed and responsible decisions on sexuality matters. 
 <br>
-<b>(c)</b>&nbsp; &nbsp;&nbsp;Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
+<b>(c)</b>&nbsp; &nbsp;&nbsp; Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
 <br><br>
 <b><font size="5" color="#eeac0d">3.</font></b> &nbsp; The <b>Key Messages</b> of Sexuality Education are:
-<p><strong>(a)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;
-<br><strong>(b)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
-<br><strong>(c)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and
-<br><strong>(c)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<p><strong>(a)</strong>&nbsp; &nbsp;&nbsp; Love and respect yourself as you love and respect others;
+<br><strong>(b)</strong>&nbsp; &nbsp;&nbsp; Build positive relationships based on love and respect (which are the foundation for strong families);
+<br><strong>(c)</strong>&nbsp; &nbsp;&nbsp; Make responsible decisions for yourself, your family and society; and
+<br><strong>(c)</strong>&nbsp; &nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.
