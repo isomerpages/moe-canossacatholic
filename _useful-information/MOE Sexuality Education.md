@@ -23,7 +23,7 @@ variant: markdown
 <p><strong>(a)</strong>&nbsp; &nbsp;&nbsp; Love and respect yourself as you love and respect others;
 <br><strong>(b)</strong>&nbsp; &nbsp;&nbsp; Build positive relationships based on love and respect (which are the foundation for strong families);
 <br><strong>(c)</strong>&nbsp; &nbsp;&nbsp; Make responsible decisions for yourself, your family and society; and
-<br><strong>(c)</strong>&nbsp; &nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<br><strong>(d)</strong>&nbsp; &nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 <br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.
