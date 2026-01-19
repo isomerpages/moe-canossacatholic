@@ -89,8 +89,7 @@ include:
 <tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Keeping Myself Safe<br>(60 min)</td>
 
 
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br> <i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
  <br><br></td>
 
 
