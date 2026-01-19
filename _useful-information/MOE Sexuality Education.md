@@ -53,7 +53,7 @@ include:
 <br>
 <br>
 <br>
-<b><font size="5" color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2025:</font></b> 
+<b><font size="5" color="#7daadf">At Canossa Catholic Primary School, the following Sexuality Education lessons will be taught in 2026:</font></b> 
 <br>
 <br>
 </p>
