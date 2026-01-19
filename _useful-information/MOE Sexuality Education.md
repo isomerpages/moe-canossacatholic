@@ -93,7 +93,7 @@ include:
  <br><br></td>
 
 
-<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 8</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;font-weight:;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 2 Week 8</td>
 </tr>
 </tbody>
 </table>
