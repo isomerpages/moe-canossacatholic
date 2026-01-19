@@ -135,7 +135,7 @@ include:
 <br><br>
 <b><font size="5" color="#eeac0d">9.</font></b> &nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available <a href="https://www.canossacatholicpri.moe.edu.sg/files/Forms%20and%20Guides/Annex_A___Parent_Opt_out_Form_2025.pdf">here</a>. The completed opt-out form is to be submitted by <b>22 January 2026.</b>
 <br><br>
-<b><font size="5" color="#eeac0d">10.</font></b> &nbsp; Parents can contact the school at 6844 1418 for discussion or to seek clarification about the school’s Sexuality Education programme.
+<b><font size="5" color="#eeac0d">10.</font></b> &nbsp; Parents can contact the school at 68441418 for discussion or to seek clarification about the school’s Sexuality Education programme.
 <br>
 <br>
 </p>
