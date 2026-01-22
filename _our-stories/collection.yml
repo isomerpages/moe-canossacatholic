@@ -2,11 +2,11 @@ collections:
   our-stories:
     output: true
     order:
-      - 2026 Events/Opening School Mass.md
       - 2026 Events/.keep
       - 2026 Events/2026 Events.md
       - 2026 Events/P1 Orientation.md
       - 2026 Events/Primary 5 Camp.md
+      - 2026 Events/Opening School Mass.md
       - 2025 Events/.keep
       - 2025 Events/2025 Events.md
       - 2025 Events/P1 Orientation.md
