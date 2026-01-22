@@ -11,10 +11,17 @@ sections:
       key_highlights:
         - title: Our Stories
           description: ""
-          url: /our-stories/2025-events/2025-events/
+          url: https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/2026-events/
         - title: Canossa Connects
           description: ""
           url: https://www.flipbookpdf.net/web/site/74bb981017aec051e8ebc9413ae7168e80d1c4f2202510.pdf.html#page/1
+  - infopic:
+      title: Opening School Mass
+      id: infopic
+      button: Click Here
+      url: /our-stories/2026-events/p1-orientation/
+      alt: Image alt text
+      image: /images/Homepage/2026/GIF_Opening_School_Mass_2026.gif
   - infopic:
       title: Newsbites
       description: January 2026
@@ -22,13 +29,6 @@ sections:
       url: /files/Newsbites/2026/Canossa_Newsbites__January_2026_.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
-  - infopic:
-      title: Awards Presentation Day
-      id: infopic
-      button: Click Here
-      url: /our-stories/2025-events/awards-presentation-day/
-      alt: Image alt text
-      image: /images/Homepage/GIF_Awards_Presentation_Day_2025.gif
   - infopic:
       title: Canossa Connects
       id: infopic
