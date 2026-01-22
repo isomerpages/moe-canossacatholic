@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our Stories
           description: ""
-          url: /our-stories/2025-events/2025-events/
+          url: https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/2026-events/
         - title: Canossa Connects
           description: ""
           url: https://www.flipbookpdf.net/web/site/74bb981017aec051e8ebc9413ae7168e80d1c4f2202510.pdf.html#page/1
