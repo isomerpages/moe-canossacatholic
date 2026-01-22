@@ -11,11 +11,11 @@ third_nav_title: 2026 Events
 
 <center>
 
-<p><a href="https://www.canossacatholicpri.moe.edu.sg/our-stories/2025-events/p1-orientation/"><img src="/images/Our%20Stories/2025/P1_Orientation___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/p1-orientation/"><img src="/images/Our%20Stories/2026/P1_Orientation___Cover_Photo.jpg" style="width:185px;height:205px;margin-right:10px;" align="left"></a></p>
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/opening-school-mass/"><img src="/images/Our%20Stories/2025/Opening_School_Mass___Cover_Photo.jpg" style="width:175px;height:205px;margin-right:10px;" align="left"></a></p>
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/primary-5-camp/"><img src="/images/Our%20Stories/2026/P5_Camp___Cover_Photo.jpg" style="width:185px;height:215px;margin-right:10px;" align="left"></a></p>
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2025-events/prefects-investiture/"><img src="/images/Our%20Stories/2025/Prefects__Investiture___Cover_Photo.jpg" style="width:175px;height:207px;margin-right:10px;" align="left"></a></p>	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/opening-school-mass/"><img src="/images/Our%20Stories/2026/Opening_School_Mass___Cover_Photo.jpg" style="width:190px;height:215px;margin-right:10px;" align="left"></a></p>	
 		
 	
 <br><br><br><br><br><br></center>
