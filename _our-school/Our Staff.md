@@ -1338,20 +1338,9 @@ description: ""
 <span style="color:#454545">Teacher (Hearing Loss)</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">	sarala_palanasamy_krishnasamy_a@moe.edu.sg</span>
+<span style="color:#454545">sarala_palanasamy_krishnasamy_a@moe.edu.sg</span>
 </td>
-</tr>		<tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Ms Doris Ang</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Child and Family Coordinator</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">ang_lian_choo_doris@moe.edu.sg</span>
-</td>
-</tr>		
-
+</tr>
 </tbody>
 </table>
 <br>
