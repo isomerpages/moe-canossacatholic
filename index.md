@@ -32,11 +32,11 @@ sections:
   - infopic:
       title: Canossa Connects
       id: infopic
-      description: Term 3 2025
+      description: Term 4 2025
       button: Click Here
-      url: https://www.flipbookpdf.net/web/site/74bb981017aec051e8ebc9413ae7168e80d1c4f2202510.pdf.html#page/1
+      url: https://www.flipbookpdf.net/web/site/8247c310ba571665dfbef5218162be3fffcd5204202601.pdf.html
       image: /images/Homepage/Highlights___Canossa_Connects.jpg
-      alt: Canossa Connects - Term 3 2025
+      alt: Canossa Connects - Term 4 2025
   - infopic:
       title: Catholic Education Sunday
       id: infopic
