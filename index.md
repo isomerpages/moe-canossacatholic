@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
   - infopic:
+      title: Prefects' Investiture
+      id: infopic
+      button: Click here
+      url: /our-stories/2026-events/prefects-investiture/
+      image: /images/Homepage/2026/GIF_Prefects__Investiture_2026.gif
+      alt: Image alt text
+  - infopic:
       title: Opening School Mass
       id: infopic
       button: Click Here
@@ -38,36 +45,6 @@ sections:
       image: /images/Homepage/Highlights___Canossa_Connects.jpg
       alt: Canossa Connects - Term 4 2025
   - infopic:
-      title: Catholic Education Sunday
-      id: infopic
-      button: Click Here
-      url: /our-stories/2025-events/catholic-education-sunday/
-      image: /images/Homepage/GIF_Catholic_Education_Sunday_2025.gif
-      description: On 24 August, our Catholic students and staff served at the Church
-        of St Stephen and Church of Queen of Peace.
-      alt: Catholic Education Sunday
-  - infopic:
-      title: Kluang Malaysia Overseas Leadership Programme
-      id: infopic
-      button: CLICK HERE
-      url: https://youtu.be/-wg_8t-o80k?si=mOzT5bdpbl5E_LvA
-      image: /images/Homepage/GIF_Kluang_Malaysia_Overseas_Leadership_Programme_2025.gif
-      alt: Image alt text
-  - infopic:
-      title: Hong Kong STEM Trip
-      id: infopic
-      button: CLICK HERE
-      url: https://youtu.be/H4J0RFCzd8U
-      image: /images/Homepage/GIF_Hong_Kong_STEM_Trip_2025.gif
-      alt: Image alt text
-  - infopic:
-      title: Penang Overseas Programme Cultural Trip
-      id: infopic
-      button: CLICK HERE
-      url: https://youtu.be/XNN3jX8JVv8
-      image: /images/Homepage/GIF_Penang_Overseas_Programme_Cultural_Trip_2025.gif
-      alt: Image alt text
-  - infopic:
       title: Giubileo della Speranza
       id: infopic
       description: An Art Exhibition celebrating the Church’s Jubilee Year of Hope and
@@ -84,13 +61,6 @@ sections:
       url: /our-stories/2025-events/giubileo-della-speranza/
       image: /images/Homepage/GIF_Giubileo_della_Speranza___Stories_2025.gif
       alt: Interest Week
-  - infopic:
-      title: Pui Tak Canossian Primary School Visit
-      id: infopic
-      button: Click Here
-      url: /our-stories/2025-events/pui-tak-canossian-primary-school-visit/
-      image: /images/Homepage/GIF_Pui_Tak_Canossian_Primary_School_Visit_2025.gif
-      alt: Image alt text
   - infopic:
       title: Pope Francis visits Singapore
       subtitle: Highlights
