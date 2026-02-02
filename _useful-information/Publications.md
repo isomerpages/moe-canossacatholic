@@ -11,6 +11,7 @@ variant: markdown
 <font size="5" color="#eeac0d"><b>Canossa Newsbites</b></font>
 
 * [Canossa Newsbites - January](/files/Newsbites/2026/Canossa_Newsbites__January_2026_.pdf)
+* [Canossa Newsbites - February](/files/Newsbites/2026/Canossa_Newsbites__February_2026_.pdf)
 <br>
 <br>
 
