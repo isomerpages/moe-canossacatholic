@@ -180,6 +180,9 @@ All students
 <br>
 <br>
 <br>	
+<br>
+<br>
+<br>	
 <span style="font-weight:bold">Key Employees</span>
 <br>
 <br>
@@ -201,7 +204,9 @@ Sr Wang Janet (Chaplain)<br>
 Dr Lim Luck Siew (Member)<br>                                       
 Prof Hsu Pon Poh (Member)<br>
 Sr Tan Gek Wah Anne (Member)<br>
-Ms Yee May Kuen Peggy Sarah (Member)
+Ms Yee May Kuen Peggy Sarah (Member)<br>
+Mr Paul Beh Jit Han (Member)<br>
+Ms Angela Ng Siew Ming (Member)<br>
 <br>
 <br>
 <br>Mrs Eugenie Tan (Principal)
