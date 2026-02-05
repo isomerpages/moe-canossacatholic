@@ -197,6 +197,7 @@ All students
 NA
 <br>
 <br>
+<br>
 Mr Fan Yue Soon Charles (Chairman) <br>                                         
 Sr Seow Lee Huang Theresa (Supervisor)<br>                                       
 Mr Chia Heng Chian Dominic (Treasurer)<br>
@@ -207,7 +208,6 @@ Sr Tan Gek Wah Anne (Member)<br>
 Ms Yee May Kuen Peggy Sarah (Member)<br>
 Mr Paul Beh Jit Han (Member)<br>
 Ms Angela Ng Siew Ming (Member)<br>
-<br>
 <br>
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
