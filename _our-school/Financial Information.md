@@ -169,6 +169,7 @@ All students
 <span style="font-weight:bold">Patrons</span>
 <br>
 <br>
+<br>	
 <span style="font-weight:bold">Trustees/Board Members</span>
 <br>
 <br>
@@ -178,6 +179,8 @@ All students
 <br>
 <br>
 <br>
+<br>
+<br>	
 <br>
 <br>	
 <span style="font-weight:bold">Key Employees</span>
@@ -194,6 +197,7 @@ All students
 NA
 <br>
 <br>
+<br>
 Mr Fan Yue Soon Charles (Chairman) <br>                                         
 Sr Seow Lee Huang Theresa (Supervisor)<br>                                       
 Mr Chia Heng Chian Dominic (Treasurer)<br>
@@ -201,8 +205,9 @@ Sr Wang Janet (Chaplain)<br>
 Dr Lim Luck Siew (Member)<br>                                       
 Prof Hsu Pon Poh (Member)<br>
 Sr Tan Gek Wah Anne (Member)<br>
-Ms Yee May Kuen Peggy Sarah (Member)
-<br>
+Ms Yee May Kuen Peggy Sarah (Member)<br>
+Mr Paul Beh Jit Han (Member)<br>
+Ms Angela Ng Siew Ming (Member)<br>
 <br>
 <br>Mrs Eugenie Tan (Principal)
 <br>Mr Clement Lee (Vice-Principal)
