@@ -24,7 +24,9 @@ third_nav_title: 2026 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/special-assembly-programme-legend-hangzhou/"><img src="/images/Our%20Stories/2026/Legend_Hangzhou___Cover_Photo.jpg" style="width:195px;height:220px;margin-right:10px;" align="left"></a></p>
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/prefects-investiture/"><img src="/images/Our%20Stories/2026/Prefects__Investiture___Cover_Photo.jpg" style="width:190px;height:215px;margin-right:10px;" align="left"></a></p>	
-		
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/total-defence-day/"><img src="/images/Our%20Stories/2026/Total_Defence_Day___Cover_Photo.jpg" style="width:190px;height:215px;margin-right:10px;" align="left"></a></p>			
+
 	
 <br><br><br><br><br><br>	
 	
