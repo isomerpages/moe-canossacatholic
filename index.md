@@ -16,26 +16,26 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
   - infopic:
+      title: Canossian Saints Day Mass
+      id: infopic
+      button: Click Here
+      url: /our-stories/2026-events/canossian-saints-day-mass/
+      alt: Image alt text
+      image: /images/Homepage/2026/GIF_Canossian_Saints_Day_Mass_2026.gif
+  - infopic:
+      title: Chinese New Year Celebration
+      id: infopic
+      button: Click here
+      url: /our-stories/2026-events/chinese-new-year-celebration/
+      image: /images/Homepage/2026/GIF_Chinese_New_Year_Celebration_2026.gif
+      alt: Image alt text
+  - infopic:
       title: Newsbites
       description: February 2026
       button: Click here
       url: /files/Newsbites/2026/Canossa_Newsbites__February_2026_.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
-  - infopic:
-      title: Prefects' Investiture
-      id: infopic
-      button: Click here
-      url: /our-stories/2026-events/prefects-investiture/
-      image: /images/Homepage/2026/GIF_Prefects__Investiture_2026.gif
-      alt: Image alt text
-  - infopic:
-      title: Opening School Mass
-      id: infopic
-      button: Click Here
-      url: /our-stories/2026-events/p1-orientation/
-      alt: Image alt text
-      image: /images/Homepage/2026/GIF_Opening_School_Mass_2026.gif
   - infopic:
       title: Canossa Connects
       id: infopic
