@@ -16,19 +16,19 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
   - infopic:
+      title: Interest Week
+      id: infopic
+      button: Click here
+      url: /flagship-programmes/interest-week/
+      image: /images/Homepage/2026/GIF_Interest_Week.gif
+      alt: Image alt text
+  - infopic:
       title: Canossian Saints Day Mass
       id: infopic
       button: Click Here
       url: /our-stories/2026-events/canossian-saints-day-mass/
       alt: Image alt text
       image: /images/Homepage/2026/GIF_Canossian_Saints_Day_Mass_2026.gif
-  - infopic:
-      title: Chinese New Year Celebration
-      id: infopic
-      button: Click here
-      url: /our-stories/2026-events/chinese-new-year-celebration/
-      image: /images/Homepage/2026/GIF_Chinese_New_Year_Celebration_2026.gif
-      alt: Image alt text
   - infopic:
       title: Newsbites
       description: February 2026
