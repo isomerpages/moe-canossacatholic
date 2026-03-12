@@ -30,6 +30,13 @@ sections:
       alt: Image alt text
       image: /images/Homepage/2026/GIF_Canossian_Saints_Day_Mass_2026.gif
   - infopic:
+      title: Chinese New Year Celebrations
+      id: infopic
+      button: Click Here
+      url: /our-stories/2026-events/chinese-new-year-celebration/
+      image: /images/Homepage/2026/GIF_Chinese_New_Year_Celebration_2026.gif
+      alt: Image alt text
+  - infopic:
       title: Newsbites
       description: February 2026
       button: Click here
