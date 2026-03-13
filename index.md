@@ -21,6 +21,7 @@ sections:
       button: Click here
       url: https://youtu.be/b6FL8enKFg8?si=ZsKIrrn76Oth7U_U
       alt: Image alt text
+      image: /images/Homepage/2026/GIF_Student_Leadership_Overseas_Programme.gif
   - infopic:
       title: P1 Registration
       id: infopic
