@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
   - infopic:
+      title: P1 Registration
+      id: infopic
+      button: Click here
+      url: /useful-information/p1-registration/
+      image: /images/Homepage/2026/GIF_P1_Registration.gif
+      alt: Image alt text
+  - infopic:
       title: Interest Week
       id: infopic
       button: Click here
