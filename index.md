@@ -37,6 +37,13 @@ sections:
       image: /images/Homepage/2026/GIF_Interest_Week.gif
       alt: Image alt text
   - infopic:
+      title: Newsbites
+      description: March 2026
+      button: Click here
+      url: /files/Newsbites/2026/Canossa_Newsbites__March_2026_.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Canossian Saints Day Mass
       id: infopic
       button: Click Here
@@ -50,13 +57,6 @@ sections:
       url: /our-stories/2026-events/chinese-new-year-celebration/
       image: /images/Homepage/2026/GIF_Chinese_New_Year_Celebration_2026.gif
       alt: Image alt text
-  - infopic:
-      title: Newsbites
-      description: February 2026
-      button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__February_2026_.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossa Connects
       id: infopic
