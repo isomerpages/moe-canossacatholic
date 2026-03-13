@@ -23,8 +23,9 @@ For more information&nbsp;regarding&nbsp;P1 registration, refer to <a href="http
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/52zGHY4PpGI?si=FU5jTdKp7_zXihQh" height="415" width="660"></iframe>
 <br>
 	
-![](/images/Useful%20Information/2026/2026_P1_Brochure_Page_1.jpg)	
-![](/images/Useful%20Information/2026/2026_P1_Brochure_Page_2.jpg)	
+<img src="/images/Useful%20Information/2026/2026_P1_Brochure_Page_1.jpg">
+<br>	
+<img src="/images/Useful%20Information/2026/2026_P1_Brochure_Page_2.jpg">
 	
 
 </center></center>
