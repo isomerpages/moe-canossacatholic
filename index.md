@@ -16,6 +16,12 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
   - infopic:
+      title: Student Leadership Overseas Programme
+      id: infopic
+      button: Click here
+      url: https://youtu.be/b6FL8enKFg8?si=ZsKIrrn76Oth7U_U
+      alt: Image alt text
+  - infopic:
       title: P1 Registration
       id: infopic
       button: Click here
