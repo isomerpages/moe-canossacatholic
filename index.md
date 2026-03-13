@@ -16,12 +16,33 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
   - infopic:
+      title: Student Leadership Overseas Programme
+      id: infopic
+      button: Click here
+      url: https://youtu.be/b6FL8enKFg8?si=ZsKIrrn76Oth7U_U
+      alt: Image alt text
+      image: /images/Homepage/2026/GIF_Student_Leadership_Overseas_Programme.gif
+  - infopic:
+      title: P1 Registration
+      id: infopic
+      button: Click here
+      url: /useful-information/p1-registration/
+      image: /images/Homepage/2026/GIF_P1_Registration.gif
+      alt: Image alt text
+  - infopic:
       title: Interest Week
       id: infopic
       button: Click here
       url: /flagship-programmes/interest-week/
       image: /images/Homepage/2026/GIF_Interest_Week.gif
       alt: Image alt text
+  - infopic:
+      title: Newsbites
+      description: March 2026
+      button: Click here
+      url: /files/Newsbites/2026/Canossa_Newsbites__March_2026_.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossian Saints Day Mass
       id: infopic
@@ -36,13 +57,6 @@ sections:
       url: /our-stories/2026-events/chinese-new-year-celebration/
       image: /images/Homepage/2026/GIF_Chinese_New_Year_Celebration_2026.gif
       alt: Image alt text
-  - infopic:
-      title: Newsbites
-      description: February 2026
-      button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__February_2026_.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossa Connects
       id: infopic
