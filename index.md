@@ -38,9 +38,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Newsbites
-      description: March 2026
+      description: April 2026
       button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__March_2026_.pdf
+      url: /files/Newsbites/2026/Canossa_Newsbites__April_2026_.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
