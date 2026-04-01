@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
   - infopic:
+      title: Newsbites
+      description: April 2026
+      button: Click here
+      url: /files/Newsbites/2026/Canossa_Newsbites__April_2026_.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Student Leadership Overseas Programme
       id: infopic
       button: Click here
@@ -36,13 +43,6 @@ sections:
       url: /flagship-programmes/interest-week/
       image: /images/Homepage/2026/GIF_Interest_Week.gif
       alt: Image alt text
-  - infopic:
-      title: Newsbites
-      description: March 2026
-      button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__March_2026_.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Canossian Saints Day Mass
       id: infopic
