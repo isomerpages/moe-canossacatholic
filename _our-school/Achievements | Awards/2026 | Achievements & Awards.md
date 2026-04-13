@@ -100,13 +100,13 @@ third_nav_title: Achievements | Awards
 <tr>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">Teng Yi Feng Daren</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">6 Piety</td>	
+	
 <td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="3"><b>Outstanding Effort and Achievement In:</b><br>Team Community Problem Solving Competition<br>(Junior Division)</td>		
-<td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="3">Honourable Mention</td>	
 </tr>
 <tr>
-<td rowspan="1 style="></td>
-<td rowspan="1 style="></td>
+<td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="3">Honourable Mention</td>	
 </tr>
+
 
 	
 
