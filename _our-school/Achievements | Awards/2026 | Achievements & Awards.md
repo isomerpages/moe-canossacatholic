@@ -104,9 +104,10 @@ third_nav_title: Achievements | Awards
 <td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="2">Honourable Mention</td>	
 </tr>
 <tr>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1"></td>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:0.5px 0.5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1"></td>
-</tr>	
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan=""></td>
+<td rowspan="0 style="></td>
+</tr>
+
 	
 
 	
