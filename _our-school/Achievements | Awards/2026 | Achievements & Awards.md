@@ -130,7 +130,6 @@ third_nav_title: Achievements | Awards
 </table>
 
 <br>
-<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	
