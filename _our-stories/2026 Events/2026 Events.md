@@ -34,6 +34,8 @@ third_nav_title: 2026 Events
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/chinese-new-year-celebration/"><img src="/images/Our%20Stories/2026/Chinese_New_Year_Celebration___Cover_Photo.jpg" style="width:200px;height:215px;margin-right:10px;" align="left"></a></p>			
 
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/canossian-saints-day-mass/"><img src="/images/Our%20Stories/2026/Canossian_Saints_Day_Mass___Cover_Photo.jpg" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>				
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/interest-week/"><img src="/images/Our%20Stories/2026/Interest_Week___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
 
 	
 <br><br><br><br><br><br>		
