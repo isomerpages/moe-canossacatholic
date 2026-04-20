@@ -60,6 +60,8 @@ third_nav_title: 2026 Events
 
 <br><br><br><br><br><br>	
 	
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/international-friendship-day/"><img src="/images/Our%20Stories/2026/International_Friendship_Day___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>		
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/holy-family-canossian-school-hong-kong-visit/"><img src="/images/Our%20Stories/2026/Holy_Family_Canossian_School_Hong_Kong_Visit___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>	
 	
