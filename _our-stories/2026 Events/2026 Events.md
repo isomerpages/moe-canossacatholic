@@ -41,13 +41,18 @@ third_nav_title: 2026 Events
 <br><br><br><br><br><br>		
 	
 
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/canossian-saints-day/"><img src="/images/Our%20Stories/2026/Canossian_Saints_Day___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
+	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/interest-week/"><img src="/images/Our%20Stories/2026/Interest_Week___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/family-lenten-retreat/"><img src="/images/Our%20Stories/2026/Family_Lenten_Retreat___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/easter-paraliturgy/"><img src="/images/Our%20Stories/2026/Easter_Paraliturgy___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>		
+
 
 <br><br><br><br><br><br>		
+	
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/easter-paraliturgy/"><img src="/images/Our%20Stories/2026/Easter_Paraliturgy___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/holy-family-canossian-school-hong-kong-visit/"><img src="/images/Our%20Stories/2026/Holy_Family_Canossian_School_Hong_Kong_Visit___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>	
 	
