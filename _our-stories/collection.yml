@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - 2026 Events/Student Leadership Overseas Trip.md
       - 2026 Events/Canossian Saints Day.md
       - 2026 Events/World Hearing Day.md
       - 2026 Events/.keep
