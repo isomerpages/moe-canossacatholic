@@ -35,21 +35,38 @@ third_nav_title: 2026 Events
 
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/canossian-saints-day-mass/"><img src="/images/Our%20Stories/2026/Canossian_Saints_Day_Mass___Cover_Photo.jpg" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>				
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/interest-week/"><img src="/images/Our%20Stories/2026/Interest_Week___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
-
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/world-hearing-day/"><img src="/images/Our%20Stories/2026/World_Hearing_Day___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>		
 	
+
 <br><br><br><br><br><br>		
 	
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/canossian-saints-day/"><img src="/images/Our%20Stories/2026/Canossian_Saints_Day___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
 	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/interest-week/"><img src="/images/Our%20Stories/2026/Interest_Week___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/student-leadership-overseas-trip/"><img src="/images/Our%20Stories/2026/Student_Leadership_Overseas_Trip___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>	
+	
+
+<br><br><br><br><br><br>		
+	
+
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/family-lenten-retreat/"><img src="/images/Our%20Stories/2026/Family_Lenten_Retreat___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
 	
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/easter-paraliturgy/"><img src="/images/Our%20Stories/2026/Easter_Paraliturgy___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/hari-raya-celebration/"><img src="/images/Our%20Stories/2026/Hari_Raya_Celebration___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>				
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/easter-paraliturgy/"><img src="/images/Our%20Stories/2026/Easter_Paraliturgy___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>			
+		
 
-<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/holy-family-canossian-school-hong-kong-visit/"><img src="/images/Our%20Stories/2026/Holy_Family_Canossian_School_Hong_Kong_Visit___Cover_Photo.png" style="width:200px;height:215px;margin-right:5px;" align="left"></a></p>	
+<br><br><br><br><br><br>	
+	
+
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/international-friendship-day/"><img src="/images/Our%20Stories/2026/International_Friendship_Day___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/holy-family-canossian-school-hong-kong-visit/"><img src="/images/Our%20Stories/2026/Holy_Family_Canossian_School_Hong_Kong_Visit___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>	
 	
 
 <br><br><br><br><br><br>	
-
 	
 	
 </center>
