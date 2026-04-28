@@ -71,4 +71,10 @@ third_nav_title: 2026 Events
 <br><br><br><br><br><br>	
 	
 	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/sacred-heart-canossian-school-visit/"><img src="/images/Our%20Stories/2026/Sacred_Heart_Canossian_School_Visit___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
+	
+	
+<br><br><br><br><br><br>		
+	
+	
 </center>
