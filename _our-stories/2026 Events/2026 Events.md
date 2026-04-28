@@ -65,8 +65,16 @@ third_nav_title: 2026 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/holy-family-canossian-school-hong-kong-visit/"><img src="/images/Our%20Stories/2026/Holy_Family_Canossian_School_Hong_Kong_Visit___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>	
 	
-
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/sacred-heart-canossian-school-visit/"><img src="/images/Our%20Stories/2026/Sacred_Heart_Canossian_School_Visit___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
+	
+	
 <br><br><br><br><br><br>	
+	
+	
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/singapore-youth-festival-arts-presentation/"><img src="/images/Our%20Stories/2026/Singapore_Youth_Festival_Arts_Presentation___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
+	
+	
+<br><br><br><br><br><br>		
 	
 	
 </center>
