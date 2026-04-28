@@ -20,7 +20,7 @@ sections:
       id: infopic
       button: Click Here
       url: /our-school/2026-achievements-awards/
-      image: /images/Homepage/2026/GIF_Chinese_New_Year_Celebration_2026.gif
+      image: /images/Homepage/2026/GIF_Singapore_Youth_Festival_Arts_Presentation.gif
       alt: Image alt text
   - infopic:
       title: Newsbites
