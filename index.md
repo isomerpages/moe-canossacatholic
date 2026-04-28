@@ -14,7 +14,7 @@ sections:
           url: https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/2026-events/
         - title: Canossa Connects
           description: ""
-          url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
+          url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
   - infopic:
       title: Singapore Youth Festival Arts Presentation
       id: infopic
@@ -22,6 +22,14 @@ sections:
       url: /our-school/2026-achievements-awards/
       image: /images/Homepage/2026/GIF_Singapore_Youth_Festival_Arts_Presentation.gif
       alt: Image alt text
+  - infopic:
+      title: Canossa Connects
+      id: infopic
+      description: Term 1 2026
+      button: Click Here
+      url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
+      image: /images/Homepage/Highlights___Canossa_Connects.jpg
+      alt: Canossa Connects - Term 4 2025
   - infopic:
       title: Newsbites
       description: April 2026
@@ -57,14 +65,6 @@ sections:
       url: /our-stories/2026-events/canossian-saints-day-mass/
       alt: Image alt text
       image: /images/Homepage/2026/GIF_Canossian_Saints_Day_Mass_2026.gif
-  - infopic:
-      title: Canossa Connects
-      id: infopic
-      description: Term 4 2025
-      button: Click Here
-      url: https://www.flipbookpdf.net/web/site/e25d9dc3e46770a093e69846226d8035603c3c30202601.pdf.html
-      image: /images/Homepage/Highlights___Canossa_Connects.jpg
-      alt: Canossa Connects - Term 4 2025
   - infopic:
       title: Giubileo della Speranza
       id: infopic

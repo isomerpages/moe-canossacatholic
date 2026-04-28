@@ -15,6 +15,10 @@ variant: markdown
 * [Canossa Newsbites - March](/files/Newsbites/2026/Canossa_Newsbites__March_2026_.pdf)
 * [Canossa Newsbites - April](/files/Newsbites/2026/Canossa_Newsbites__April_2026_.pdf)
 <br>
+
+<font size="5" color="#eeac0d"><b>Canossa Connects</b></font>
+
+* [Canossa Connects - Term 1](https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html)<br>
 <br>
 
 <font size="6" color="#7daadf"><b>2025</b></font>
@@ -63,8 +67,6 @@ variant: markdown
 * [Canossa Connects - Term 2](https://flipbookpdf.net/web/site/d9e5d7abd66d23b3a333d124f5ccf502636c7bba202408.pdf.html)
 * [Canossa Connects - Term 3](https://flipbookpdf.net/web/site/82126765c1478229f5cffa6d357093101961518e202504.pdf.html)
 * [Canossa Connects - Term 4](https://flipbookpdf.net/web/site/3623741ce89cbd6e5365d3c728be5eb78f37824b202504.pdf.html)<br>
-
-
 <br>
 
 <font size="6" color="#7daadf"><b>2023</b></font><br>
