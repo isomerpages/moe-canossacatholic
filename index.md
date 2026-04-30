@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
   - infopic:
+      title: Newsbites
+      description: May 2026
+      button: Click here
+      url: /files/Newsbites/2026/Canossa_Newsbites__May_2026_.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Singapore Youth Festival Arts Presentation
       id: infopic
       button: Click Here
@@ -30,13 +37,6 @@ sections:
       url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
       image: /images/Homepage/Highlights___Canossa_Connects.jpg
       alt: Canossa Connects - Term 4 2025
-  - infopic:
-      title: Newsbites
-      description: April 2026
-      button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__April_2026_.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Student Leadership Overseas Programme
       id: infopic
