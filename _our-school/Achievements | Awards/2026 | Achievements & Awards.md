@@ -537,6 +537,19 @@ third_nav_title: Achievements | Awards
   <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Nur Robbiyatul Almira Binte Muhammad Farhan</td>
   <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">6 Piety</td>
 </tr>
+
+<tr>
+	<th style="background-color:#ebf3fa; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525"> </span>
+	</th>
+</tr>	
+	
+<tr>
+<td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="15"><b>Guitar Ensemble</b></td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="15"><b>Accomplishment</b></td>	
+<td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">Amanda Imani Binte Zulkifli</td>
+<td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">3 Piety</td>		
+</tr>				
+	
 	
 </tbody>
 </table>
