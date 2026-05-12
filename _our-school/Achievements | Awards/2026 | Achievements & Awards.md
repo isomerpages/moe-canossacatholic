@@ -546,13 +546,10 @@ third_nav_title: Achievements | Awards
 <tr>
 <td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="15"><b>Guitar Ensemble</b></td>
 <td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="15"><b>Commendation</b></td>	
-<td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">Amanda Imani Binte Zulkifli</td>
-<td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">3 Piety</td>		
-</tr>				
-<tr>
-  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Aurelle Berger</td>
+<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Aurelle Berger</td>
   <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">3 Peace</td>
-</tr>
+</tr>	
+	
 <tr>
   <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Chen Cheng Jessie</td>
   <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">4 Peace</td>
