@@ -26,8 +26,8 @@ third_nav_title: Achievements | Awards
 </tr>		
 	
 <tr>
-<td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="55"><b>Choir</b></td>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="55"><b>Distinction</b></td>	
+<td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="55"><b>Choir</b></td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="55"><b>Distinction</b></td>	
 <td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">Hammarback Lovisa Ruth</td>
 <td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">3 Hope</td>		
 </tr>	
@@ -247,7 +247,7 @@ third_nav_title: Achievements | Awards
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Samantha Soesanto</td>
 <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">6 Piety</td>
 </tr>		
-<tr><th style="background-color:#BDD6EE; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525"> </span>
+<tr><th style="background-color:#f2f2f2; width: 250px;border-color:white;border-style:solid;border-width:1px;color:#252525;font-family:sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:5px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="4"><span style="font-weight:bold;color:#252525"> </span>
 </th></tr>
 	
 </tbody>
