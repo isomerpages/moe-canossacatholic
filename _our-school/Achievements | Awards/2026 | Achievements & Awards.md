@@ -545,17 +545,71 @@ third_nav_title: Achievements | Awards
 	
 <tr>
 <td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="15"><b>Guitar Ensemble</b></td>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="15"><b>Accomplishment</b></td>	
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="15"><b>Commendation</b></td>	
 <td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">Amanda Imani Binte Zulkifli</td>
 <td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">3 Piety</td>		
 </tr>				
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Aurelle Berger</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">3 Peace</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Chen Cheng Jessie</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">4 Peace</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Hayley Koh Wei Ru</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">4 Peace</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Kee Yong Feng</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">4 Peace</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Liong Xuan Rong Declan</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">4 Peace</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Joan Ong Mu'en</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">4 Piety</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Wan Zhi Yang Obi</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">5 Hope</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">So Oscar Hayden</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">5 Justice</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Hong Cha</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">5 Piety</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Su Jiaying</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">6 Hope</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Dharshini D/O Prabhakaran</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">6 Joy</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Li Yu Xin</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">6 Justice</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Neo Shi Rei</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">6 Justice</td>
+</tr>
+<tr>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">Rishika Ravi Kumar</td>
+  <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;vertical-align:middle;word-break:normal" rowspan="1">6 Peace</td>
+</tr>
 	
 	
 </tbody>
 </table>
 	
-	
------------------------------------	
 	
 <br>
 
