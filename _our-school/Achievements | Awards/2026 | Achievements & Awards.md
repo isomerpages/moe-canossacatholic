@@ -26,8 +26,8 @@ third_nav_title: Achievements | Awards
 </tr>		
 	
 <tr>
-<td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="16">Choir</td>
-<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="16">Distinction</td>	
+<td style="background-color:#ededed;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="55">Choir</td>
+<td style="background-color:#f2f2f2;border-color:#ffffff;border-style:solid;border-width:5px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="55">Distinction</td>	
 <td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">Hammarback Lovisa Ruth</td>
 <td style="background-color:#fafafa;border-color:#ffffff;border-style:solid;border-width:1px;color:#454545;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:6px 5px;text-align:center;text-decoration:;vertical-align:middle;word-break:normal" rowspan="1">3 Hope</td>		
 </tr>	
