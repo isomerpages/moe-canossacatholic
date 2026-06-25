@@ -73,15 +73,17 @@ third_nav_title: 2026 Events
 	
 <p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/singapore-youth-festival-arts-presentation/"><img src="/images/Our%20Stories/2026/Singapore_Youth_Festival_Arts_Presentation___Cover_Photo.png" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
 	
-<p><a href=""><img src="" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>			
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/leadership-symposium/"><img src="" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>			
 	
-<p><a href=""><img src="" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/may-devotion/"><img src="" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
 	
 	
 <br><br><br><br><br><br>		
 
 
-<p><a href=""><img src="" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
+<p><a href="https://canossacatholicpri.moe.edu.sg/our-stories/2026-events/adventure-week/"><img src="" style="width:205px;height:220px;margin-right:5px;" align="left"></a></p>		
+	
+	
 	
 	
 <br><br><br><br><br><br>	
