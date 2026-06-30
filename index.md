@@ -28,6 +28,7 @@ sections:
       button: Click Here
       url: https://youtu.be/7uFLEUqpIlg
       alt: Image alt text
+      image: /images/Homepage/2026/GIF_Overseas_Programme_Cultural_Trip.gif
   - infopic:
       title: STEM HMT Overseas Programme
       id: infopic
