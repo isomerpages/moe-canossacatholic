@@ -22,6 +22,13 @@ sections:
       url: https://youtu.be/7uFLEUqpIlg
       alt: Image alt text
   - infopic:
+      title: STEM HMT Overseas Programme
+      id: infopic
+      button: Click Here
+      url: https://youtu.be/IvihAqdpWv4
+      image: /images/Homepage/2026/GIF_STEM_HMT_Overseas_Programme.gif
+      alt: Image alt text
+  - infopic:
       title: Newsbites
       description: July 2026
       button: Click here
