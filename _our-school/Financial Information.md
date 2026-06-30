@@ -94,7 +94,7 @@ The mission of the Education Service is to mould the future of the nation, by mo
 <br>
 <b><font color="#eeac0d">Mission:</font></b>
 <br>
-<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life.
+<br>Nurturing each in her/his own way by forming hearts, enlightening minds and empowering spirits to live in The Way, The Truth and The Life
 
 <br>
 <br>
@@ -120,27 +120,22 @@ All students
 <b><font color="#eeac0d">Programmes/Activities:</font></b>
 <br>
 <br>
-<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2024): </span>
+<span style="text-decoration:underline">Activities/programmes to be carried out in the year (2025): </span>
 <br>
 <br>
-<b>1.</b>  Character Development Programme
+<b>1.</b>  Character Formation 
 <br>
-<b>2.</b>  Integrated Programme
-<br>
-<b>3.</b>  Flagship Programmes
+<b>2.</b>  Flagship Programmes
 <br>
 <em>
 <em>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Applied Learning Programme
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -</b> MAKE@CCPS<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Learning for Life Programme
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>The A.B.C. of Canossian Leadership<br>	
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Lifeskills Programme
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - </b>R.E.A.D.Y. For Life<br>	
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Support Stretch Programme</b><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>HeARTs Programme</b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - heART &amp; Soul<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Interest Week</b> <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Discovering the Unique Me!<br>
-</em>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Applied Learning Programme:</b> MAKE@CCPS<br>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Canossian Leadership Programme<br>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Lifeskills Programme R.E.A.D.Y. For Life<br>	
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Stretch Academic Programme</b><br>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>HeARTs Programme</b><br>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Interest Week</b><br>
+</b></b></em><b><b>
 <br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2025): </span>
 <br>
@@ -160,7 +155,7 @@ All students
 </em>
 <br>
 <br>
-</em></th>
+</b></b></em></th>
 </tr>
 </thead>
 <tbody>
