@@ -16,6 +16,13 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
   - infopic:
+      title: Newsbites
+      description: July 2026
+      button: Click here
+      url: /files/Newsbites/2026/Canossa_Newsbites__July_2026_.pdf
+      alt: Newbites
+      image: /images/Homepage/Newsbites.jpg
+  - infopic:
       title: Overseas Programme Cultural Trip
       id: infopic
       button: Click Here
@@ -28,13 +35,6 @@ sections:
       url: https://youtu.be/IvihAqdpWv4
       image: /images/Homepage/2026/GIF_STEM_HMT_Overseas_Programme.gif
       alt: Image alt text
-  - infopic:
-      title: Newsbites
-      description: July 2026
-      button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__July_2026_.pdf
-      alt: Newbites
-      image: /images/Homepage/Newsbites.jpg
   - infopic:
       title: Adventure Week
       id: infopic
