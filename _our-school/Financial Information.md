@@ -128,14 +128,13 @@ All students
 <b>2.</b>  Flagship Programmes
 <br>
 <em>
-<em>
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Applied Learning Programme:</b> MAKE@CCPS<br>
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Canossian Leadership Programme<br>
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Lifeskills Programme R.E.A.D.Y. For Life<br>	
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Canossian Leadership Programme</b><br>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Lifeskills Programme R.E.A.D.Y. For Life</b><br>	
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Stretch Academic Programme</b><br>
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>HeARTs Programme</b><br>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>heARTs &amp; SOUL</b><br>
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Interest Week</b><br>
-</b></b></em><b><b>
+</em>
 <br>
 <span style="text-decoration:underline">Activities/programmes to be carried out in the year (2026): </span>
 <br>
@@ -145,15 +144,14 @@ All students
 <br>
 <em>
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Applied Learning Programme:</b> MAKE@CCPS<br>
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Canossian Leadership Programme<br>
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Lifeskills Programme READY For Life<br>	
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Stretch Academic Programme<br>		
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>heART &amp; SOUL<br>			
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Interest Week<br>				
-</b></b></b></b></b></em><b><b><b>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Canossian Leadership Programme</b><br>
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Lifeskills Programme READY For Life</b><br>	
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Stretch Academic Programme</b><br>		
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>heART &amp; SOUL</b><br>			
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Interest Week</b><br>				
 <br>
 <br>
-</b></b></b></b></b></em></th>
+</em></th>
 </tr>
 </thead>
 <tbody>
