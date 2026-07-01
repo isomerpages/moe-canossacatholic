@@ -130,7 +130,7 @@ All students
 <em>
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Applied Learning Programme:</b> MAKE@CCPS<br>
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Canossian Leadership Programme</b><br>
-&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Lifeskills Programme R.E.A.D.Y. For Life</b><br>	
+&nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Lifeskills Programme READY For Life</b><br>	
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Stretch Academic Programme</b><br>
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>heARTs &amp; SOUL</b><br>
 &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; <b>Interest Week</b><br>
