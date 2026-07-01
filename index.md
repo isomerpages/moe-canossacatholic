@@ -33,7 +33,7 @@ sections:
       title: STEM HMT Overseas Programme
       id: infopic
       button: Click Here
-      url: https://youtu.be/E5B_AySxEqc
+      url: https://www.youtube.com/watch?v=E5B_AySxEqc
       image: /images/Homepage/2026/GIF_STEM_HMT_Overseas_Programme.gif
       alt: Image alt text
   - infopic:
