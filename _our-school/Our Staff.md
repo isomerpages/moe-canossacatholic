@@ -244,6 +244,14 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mrs Audrey Tan</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Lead Teacher (Character and Citizenship Education)</span>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Mdm Lim Bee Leng</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
@@ -276,7 +284,7 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mdm Amy Kok</span>
+<span style="color:#454545">Mdm Amy Koh</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Senior Teacher (Art)</span>
@@ -308,14 +316,15 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mrs Navina Kesaven</span>
+<span style="color:#454545">Mrs Mandy Tan</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">1 Peace</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">navina_thiyagarajan@moe.edu.sg</span>
+<span style="color:#454545">wong_jia_wen_mandy_a@moe.edu.sg
+</span>
 <br>
 </td>
 </tr>
@@ -531,14 +540,14 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mdm Yati</span>
+<span style="color:#454545">Ms Theresa Tan</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">2 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">norhidayati_abdol_rahim@moe.edu.sg</span>
+<span style="color:#454545">tan_lee_lee_theresa@moe.edu.sg</span>
 <br>
 </td>
 </tr>
@@ -655,14 +664,14 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mrs Yolinda Yeo</span>
+<span style="color:#454545">Mdm Liew Yann Shan</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">3 Peace</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">yeo-chong_kiao_yuh@moe.edu.sg</span>
+<span style="color:#454545">liew_yann_shan@moe.edu.sg</span>
 <br>
 </td>
 </tr>	
@@ -720,30 +729,30 @@ description: ""
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mrs Wong Libing</span><br>
+<span style="color:#454545">Ms Cheng Voon Yen</span><br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
 <span style="color:#454545">3 Joy</span>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">ng_libing@moe.edu.sg</span>
+<span style="color:#454545">cheng_voon_yen_a@moe.edu.sg</span>
+<br>
+</td>
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mdm Madeline Chan</span><br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">3 Joy</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">
+chan_mun_yee_madeline@moe.edu.sg</span>
 <br>
 </td>
 </tr>	
 
-<tr>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mr Isaac Tan</span>
-<br>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
-<span style="color:#454545">3 Piety</span>
-</td>
-<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">tan_shi_han_isaac@moe.edu.sg</span>
-<br>
-</td>
-</tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Mdm Lim Sin Li</span>
@@ -767,6 +776,19 @@ description: ""
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">evelyn_wong_peck_yin@moe.edu.sg</span>
+<br>
+</td>
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">   Mrs Wong Libing</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">3 Piety</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">ng_libing@moe.edu.sg</span>
 <br>
 </td>
 </tr>	
@@ -843,6 +865,19 @@ description: ""
 </tr>	
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Ms Luo Yi</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">4 Hope</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">luo_yi_d@moe.edu.sg</span>
+<br>
+</td>
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">Mr Joseph Peh</span>
 <br>
 </td>
@@ -864,6 +899,20 @@ description: ""
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
 <span style="color:#454545">sameera_banu@moe.edu.sg</span>
+<br>
+</td>
+</tr>	
+<tr>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">Mdm Yati</span>
+<br>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
+<span style="color:#454545">4 Joy</span>
+</td>
+<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+<span style="color:#454545">norhidayati_abdol_rahim@moe.edu.sg
+</span>
 <br>
 </td>
 </tr>	
@@ -1139,7 +1188,7 @@ description: ""
 </tr>
 <tr>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
-<span style="color:#454545">Mdm Amy Kok</span>
+<span style="color:#454545">Mdm Amy Koh</span>
 <br>
 </td>
 <td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:3px;color:#454545;font-family:;font-size:px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">
