@@ -16,7 +16,7 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
   - infopic:
-      title: School Wait List
+      title: School Waitlist
       id: infopic
       button: Click here
       url: /files/waitlist%20application%20form%20-%20canossa%20catholic%20primary%20school.pdf
