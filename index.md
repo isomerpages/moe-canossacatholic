@@ -16,12 +16,15 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
   - infopic:
-      title: P1 Registration
+      title: School Wait List
       id: infopic
       button: Click here
-      url: /useful-information/p1-registration/
-      image: /images/Homepage/2026/GIF_P1_Registration.gif
+      url: /files/waitlist%20application%20form%20-%20canossa%20catholic%20primary%20school.pdf
+      image: /images/Homepage/2026/Highlights_School_Wait_List.png
       alt: Image alt text
+      description: Should you want to apply for a waitlist place for your child to our
+        school, please complete the attached form with the supporting documents
+        to ccps@moe.edu.sg
   - infopic:
       title: Newsbites
       description: July 2026
