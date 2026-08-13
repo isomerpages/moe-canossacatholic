@@ -27,9 +27,9 @@ sections:
         to ccps@moe.edu.sg
   - infopic:
       title: Newsbites
-      description: July 2026
+      description: August 2026
       button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__July_2026_.pdf
+      url: /files/Newsbites/2026/Canossa_Newsbites__August_2026_.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
