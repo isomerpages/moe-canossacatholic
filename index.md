@@ -16,10 +16,20 @@ sections:
           description: ""
           url: https://www.flipbookpdf.net/web/site/25cce38e63f54635198144e4d370228f277c9de5202604.pdf.html
   - infopic:
-      title: Newsbites
-      description: July 2026
+      title: School Waitlist
+      id: infopic
       button: Click here
-      url: /files/Newsbites/2026/Canossa_Newsbites__July_2026_.pdf
+      url: /files/waitlist%20application%20form%20-%20canossa%20catholic%20primary%20school.pdf
+      image: /images/Homepage/2026/Highlights_School_Wait_List.png
+      alt: Image alt text
+      description: Should you want to apply for a waitlist place for your child to our
+        school, please complete the attached form with the supporting documents
+        to ccps@moe.edu.sg
+  - infopic:
+      title: Newsbites
+      description: August 2026
+      button: Click here
+      url: /files/Newsbites/2026/Canossa_Newsbites__August_2026_.pdf
       alt: Newbites
       image: /images/Homepage/Newsbites.jpg
   - infopic:
@@ -58,13 +68,6 @@ sections:
       url: https://youtu.be/b6FL8enKFg8?si=ZsKIrrn76Oth7U_U
       alt: Image alt text
       image: /images/Homepage/2026/GIF_Student_Leadership_Overseas_Programme.gif
-  - infopic:
-      title: P1 Registration
-      id: infopic
-      button: Click here
-      url: /useful-information/p1-registration/
-      image: /images/Homepage/2026/GIF_P1_Registration.gif
-      alt: Image alt text
   - infopic:
       title: Interest Week
       id: infopic
