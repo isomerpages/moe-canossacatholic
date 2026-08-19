@@ -31,10 +31,10 @@ variant: markdown
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:center;vertical-align:top;word-break:normal">School Uniform &amp; PE Attire</td>
 	<td style="background-color:#FAFAFA;border-color:white;border-style:solid;border-width:5px;color:#454545;font-family:;font-size:px;font-weight:normal;overflow:hidden;padding:10px 15px;text-align:left;vertical-align:top;word-break:normal">
 	<u><b>In-Trend Uniform</b></u><br>
-1 Kaki Bukit Road 1<br>
-#01-30/31 Enterprise One<br>
-Singapore 415934<br>
-	www.intrenduniforms.com<br><br>
+7 Kaki Bukit Road 1<br>
+#01-05 Eunos Technolink<br>
+Singapore 415937<br>
+<a href="www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a><br><br>
 	<b>Operation Hours:</b><br>
 	Monday – Friday 10.00 a.m. – 6.00 p.m.<br>
 	Saturday: 10.00 a.m. – 3.00 p.m.<br>
@@ -70,4 +70,3 @@ During closure of the school’s dental clinic, you may also contact the buddy c
 </tr>
 </tbody>
 </table>
-
